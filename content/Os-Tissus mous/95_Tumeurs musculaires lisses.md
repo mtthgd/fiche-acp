@@ -19,11 +19,11 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Cytoplasme **éosinophile, fibrillaire**
 - Possible **vacuole claire périnucléaire**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564 Tumeurs musculaires lisses/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564%20Tumeurs%20musculaires%20lisses/p04_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564 Tumeurs musculaires lisses/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564%20Tumeurs%20musculaires%20lisses/p06_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564 Tumeurs musculaires lisses/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564%20Tumeurs%20musculaires%20lisses/p06_01.jpeg)
 
 ### IHC — phénotype musculaire lisse
 
@@ -49,7 +49,7 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 | **Léiomyome type gynécologique** | CML | **Rétropéritoine, pelvis** |
 | **Léiomyome somatique** | CML | Tissus mous profonds extrémités/tronc — **extrêmement rare** |
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564 Tumeurs musculaires lisses/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564%20Tumeurs%20musculaires%20lisses/p09_01.jpeg)
 
 ## Léiomyome pilaire cutané
 - Papulo-nodule à surface lisse
@@ -57,10 +57,10 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Cellularité modérée, **noyaux réguliers sans atypie, sans mitose**
 - **IHC non nécessaire** si typique
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564 Tumeurs musculaires lisses/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564%20Tumeurs%20musculaires%20lisses/p10_01.jpeg)
 
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564 Tumeurs musculaires lisses/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564%20Tumeurs%20musculaires%20lisses/p11_02.jpeg)
 
 ## Léiomyome somatique
 - **Très rare**
@@ -74,13 +74,13 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **IHC indispensable** : h-caldesmon suffisant si morphologie bonne ; ± desmine/transgéline
 - **Vérifier négativité** : myogénine, MyoD1 (muscle strié), RE, RP (léiomyome gynécologique)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564 Tumeurs musculaires lisses/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564%20Tumeurs%20musculaires%20lisses/p12_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564 Tumeurs musculaires lisses/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564%20Tumeurs%20musculaires%20lisses/p13_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564 Tumeurs musculaires lisses/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564%20Tumeurs%20musculaires%20lisses/p14_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564 Tumeurs musculaires lisses/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564%20Tumeurs%20musculaires%20lisses/p15_00.jpeg)
 
 ## Léiomyome type gynécologique (rétropéritoine / abdomen)
 - Touche **les femmes**
@@ -91,9 +91,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Tolérance** : jusqu'à **5 mitoses / 10 CFG**
 - **RE+, RP+** diffus ★ clé phénotypique
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564 Tumeurs musculaires lisses/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564%20Tumeurs%20musculaires%20lisses/p17_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564 Tumeurs musculaires lisses/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564%20Tumeurs%20musculaires%20lisses/p17_01.jpeg)
 
 ---
 
@@ -122,15 +122,15 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Léiomyosarcome pléomorphe** : cellules très atypiques, peu différenciées
 
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564 Tumeurs musculaires lisses/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564%20Tumeurs%20musculaires%20lisses/p19_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564 Tumeurs musculaires lisses/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564%20Tumeurs%20musculaires%20lisses/p20_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564 Tumeurs musculaires lisses/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564%20Tumeurs%20musculaires%20lisses/p21_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564 Tumeurs musculaires lisses/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564%20Tumeurs%20musculaires%20lisses/p22_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564 Tumeurs musculaires lisses/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-564%20Tumeurs%20musculaires%20lisses/p23_00.jpeg)
 
 ## Grade FNCLCC
 - **Différenciation = 2** par convention le plus souvent (léiomyosarcomes conventionnels)

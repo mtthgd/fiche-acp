@@ -61,7 +61,7 @@ L'**imagerie** (TDM TAP ± TEP-FDG) complète le bilan pré-thérapeutique : mé
 | **pT4b** | Invasion **paroi pelvienne** (rare, patients généralement inopérables) |
 
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-232 Facteurs pronostiques des TVIM/p07_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-232%20Facteurs%20pronostiques%20des%20TVIM/p07_00.png)
 
 ## Stratification pronostique par pTN
 
@@ -72,9 +72,9 @@ L'**imagerie** (TDM TAP ± TEP-FDG) complète le bilan pré-thérapeutique : mé
 | pT4a N0 | **~ 30 %** |
 | Tous N+ (N1-N3) | **~ 14 %** (très mauvais) |
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-232 Facteurs pronostiques des TVIM/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-232%20Facteurs%20pronostiques%20des%20TVIM/p08_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-232 Facteurs pronostiques des TVIM/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-232%20Facteurs%20pronostiques%20des%20TVIM/p09_00.jpeg)
 
 ---
 
@@ -89,11 +89,11 @@ L'**imagerie** (TDM TAP ± TEP-FDG) complète le bilan pré-thérapeutique : mé
 - **Tissus péri-vésicaux** (marges R0/R1/R2)
 - Ne pas confondre : **péritoine sur le dôme vésical** (mauvais pronostic MAIS **pas considéré comme R1** par la plupart des urologues)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-232 Facteurs pronostiques des TVIM/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-232%20Facteurs%20pronostiques%20des%20TVIM/p10_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-232 Facteurs pronostiques des TVIM/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-232%20Facteurs%20pronostiques%20des%20TVIM/p11_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-232 Facteurs pronostiques des TVIM/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-232%20Facteurs%20pronostiques%20des%20TVIM/p12_00.jpeg)
 
 > **Marges péri-vésicales R1** → risque très important de **récidive pelvienne**, survie **≈ 6 mois** (équivalent métastase viscérale).
 
@@ -109,7 +109,7 @@ L'**imagerie** (TDM TAP ± TEP-FDG) complète le bilan pré-thérapeutique : mé
 > **Recommandation** : réserver **pT4a** aux invasions **transmurales** ; les extensions à partir de l'urètre sont cotées selon le **TNM de l'urètre** (TNM vessie **+** TNM urètre séparé dans le CR).
 
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-232 Facteurs pronostiques des TVIM/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-232%20Facteurs%20pronostiques%20des%20TVIM/p15_00.jpeg)
 
 ---
 
@@ -126,7 +126,7 @@ L'**imagerie** (TDM TAP ± TEP-FDG) complète le bilan pré-thérapeutique : mé
 
 > **Obligatoire dans le CR** : mentionner la variante **ET son pourcentage** par rapport au carcinome urothélial classique.
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-232 Facteurs pronostiques des TVIM/p16_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-232%20Facteurs%20pronostiques%20des%20TVIM/p16_00.png)
 
 ---
 

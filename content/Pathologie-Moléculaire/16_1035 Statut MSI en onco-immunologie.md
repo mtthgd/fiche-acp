@@ -34,7 +34,7 @@ Le **statut MSI** (microsatellite instability) reflète le **dysfonctionnement d
 - **Thérapeutique** : facteur prédictif majeur de **réponse à l’immunothérapie** (anti-PD-1)
 
 
-![[assets/pathologie-moleculaire/onco-immunologie/Cours MSI DES F.Bibeau MSI/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/Cours%20MSI%20DES%20F.Bibeau%20MSI/p02_00.jpeg)
 
 ## Contexte épidémiologique — cancer colorectal
 
@@ -53,7 +53,7 @@ Trois groupes moléculaires (non mutuellement exclusifs) :
 
 ⚠️ **CIMP et MSI peuvent se superposer** (méthylation MLH1 → MSI sporadique).
 
-![[assets/pathologie-moleculaire/onco-immunologie/Cours MSI DES F.Bibeau MSI/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/Cours%20MSI%20DES%20F.Bibeau%20MSI/p03_00.jpeg)
 
 
 ## Aspects morphologiques évocateurs (CCR-MSI)
@@ -109,7 +109,7 @@ En l’absence de protéine fonctionnelle → réparation inefficace → mutatio
 
 ⚠️ Pour la PCR : **macrodissection** indispensable pour enrichir le matériel tumoral.
 
-![[assets/pathologie-moleculaire/onco-immunologie/Cours MSI DES F.Bibeau MSI/p14_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/Cours%20MSI%20DES%20F.Bibeau%20MSI/p14_00.png)
 
 
 
@@ -130,15 +130,15 @@ En l’absence de protéine fonctionnelle → réparation inefficace → mutatio
 
 
 
-![[assets/pathologie-moleculaire/onco-immunologie/Cours MSI DES F.Bibeau MSI/p20_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/Cours%20MSI%20DES%20F.Bibeau%20MSI/p20_00.png)
 
-![[assets/pathologie-moleculaire/onco-immunologie/Cours MSI DES F.Bibeau MSI/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/Cours%20MSI%20DES%20F.Bibeau%20MSI/p21_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/Cours MSI DES F.Bibeau MSI/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/Cours%20MSI%20DES%20F.Bibeau%20MSI/p22_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/Cours MSI DES F.Bibeau MSI/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/Cours%20MSI%20DES%20F.Bibeau%20MSI/p23_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/Cours MSI DES F.Bibeau MSI/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/Cours%20MSI%20DES%20F.Bibeau%20MSI/p23_01.jpeg)
 
 ### Stratégies de criblage IHC
 
@@ -148,11 +148,11 @@ En l’absence de protéine fonctionnelle → réparation inefficace → mutatio
 - Lien avec plate-forme d’oncogénétique
 - Inscription dans une politique d’**assurance qualité (AFAQAP)**
 
-![[assets/pathologie-moleculaire/onco-immunologie/Cours MSI DES F.Bibeau MSI/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/Cours%20MSI%20DES%20F.Bibeau%20MSI/p24_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/Cours MSI DES F.Bibeau MSI/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/Cours%20MSI%20DES%20F.Bibeau%20MSI/p24_01.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/Cours MSI DES F.Bibeau MSI/p25_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/Cours%20MSI%20DES%20F.Bibeau%20MSI/p25_00.png)
 
 ## Sporadique vs syndrome de Lynch
 
@@ -171,7 +171,7 @@ L’IHC oriente vers le gène muté :
 | **Mutation BRAF V600E** | **50 %** | Absente |
 | Âge | Plus âgé | Plus jeune |
 
-![[assets/pathologie-moleculaire/onco-immunologie/Cours MSI DES F.Bibeau MSI/p27_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/Cours%20MSI%20DES%20F.Bibeau%20MSI/p27_00.png)
 
 
 
@@ -187,7 +187,7 @@ L’instabilité MSI sert de **méthode de criblage** efficace et économique av
 
 → Si MSI + contexte clinique évocateur → **consultation d’oncogénétique** + recherche mutation germinale + **enquête familiale**.
 
-![[assets/pathologie-moleculaire/onco-immunologie/Cours MSI DES F.Bibeau MSI/p30_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/Cours%20MSI%20DES%20F.Bibeau%20MSI/p30_00.png)
 
 
 
@@ -223,12 +223,12 @@ L’instabilité MSI sert de **méthode de criblage** efficace et économique av
 → **Recommandation** : rechercher MSI dans les **CCR de stade II** ; si MSI → bon pronostic, **pas de chimiothérapie adjuvante** (5-FU). Inutile de rechercher MSI en stade III (chimio FOLFOX dans tous les cas).
 
 
-![[assets/pathologie-moleculaire/onco-immunologie/Cours MSI DES F.Bibeau MSI/p39_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/Cours%20MSI%20DES%20F.Bibeau%20MSI/p39_00.png)
 
 
-![[assets/pathologie-moleculaire/onco-immunologie/Cours MSI DES F.Bibeau MSI/p41_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/Cours%20MSI%20DES%20F.Bibeau%20MSI/p41_00.png)
 
-![[assets/pathologie-moleculaire/onco-immunologie/Cours MSI DES F.Bibeau MSI/p42_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/Cours%20MSI%20DES%20F.Bibeau%20MSI/p42_00.png)
 
 ## Intérêt thérapeutique — immunothérapie (anti-PD-1)
 
@@ -257,9 +257,9 @@ L’instabilité MSI sert de **méthode de criblage** efficace et économique av
 
 
 
-![[assets/pathologie-moleculaire/onco-immunologie/Cours MSI DES F.Bibeau MSI/p55_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/Cours%20MSI%20DES%20F.Bibeau%20MSI/p55_00.png)
 
-![[assets/pathologie-moleculaire/onco-immunologie/Cours MSI DES F.Bibeau MSI/p57_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/Cours%20MSI%20DES%20F.Bibeau%20MSI/p57_00.jpeg)
 
 
 ## Pièges / Limites

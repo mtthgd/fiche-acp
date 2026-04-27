@@ -37,14 +37,14 @@ source: DES ACP - Pathologie moléculaire
 - **Double membrane** (interne / externe), 2 compartiments (espace intermembranaire, matrice)
 - La **membrane interne** émet des **crêtes mitochondriales** où s’ancrent les complexes de la **chaîne respiratoire** (synthèse d’ATP)
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-760 ADN mitochondrial NON SONORISE/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-760%20ADN%20mitochondrial%20NON%20SONORISE/p02_00.jpeg)
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-760 ADN mitochondrial NON SONORISE/p02_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-760%20ADN%20mitochondrial%20NON%20SONORISE/p02_03.jpeg)
 
 Chaque mitochondrie contient **plusieurs molécules** d’un petit ADN circulaire double-brin = l’**ADN mitochondrial (ADNmt)**.
 
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-760 ADN mitochondrial NON SONORISE/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-760%20ADN%20mitochondrial%20NON%20SONORISE/p03_01.jpeg)
 
 ## Caractéristiques de l’ADN mitochondrial
 
@@ -89,7 +89,7 @@ Lors de la **fécondation**, **seules les mitochondries maternelles** (de l’ov
 Arbre généalogique typique : association **diabète + surdité**.
 
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-760 ADN mitochondrial NON SONORISE/p06_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-760%20ADN%20mitochondrial%20NON%20SONORISE/p06_02.jpeg)
 
 ### 2. Théorie du goulot d’étranglement (« bottleneck »)
 
@@ -134,7 +134,7 @@ Lors des **mitoses**, répartition **aléatoire** des mitochondries → taux d�
 
 Le seuil **varie** selon : type de mutation, organe, individu.
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-760 ADN mitochondrial NON SONORISE/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-760%20ADN%20mitochondrial%20NON%20SONORISE/p09_00.jpeg)
 
 ## Cytopathies mitochondriales (maladies mitochondriales)
 
@@ -183,17 +183,17 @@ Le **(neuro)pathologiste** est essentiellement impliqué via l’**examen d’un
 | **Noir Soudan / huile rouge** | Surcharge en **lipides** |
 | **Cytochrome oxydase (COX)** | **Fibres déficitaires en COX** |
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-760 ADN mitochondrial NON SONORISE/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-760%20ADN%20mitochondrial%20NON%20SONORISE/p10_00.jpeg)
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-760 ADN mitochondrial NON SONORISE/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-760%20ADN%20mitochondrial%20NON%20SONORISE/p10_01.jpeg)
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-760 ADN mitochondrial NON SONORISE/p10_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-760%20ADN%20mitochondrial%20NON%20SONORISE/p10_02.jpeg)
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-760 ADN mitochondrial NON SONORISE/p10_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-760%20ADN%20mitochondrial%20NON%20SONORISE/p10_03.jpeg)
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-760 ADN mitochondrial NON SONORISE/p10_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-760%20ADN%20mitochondrial%20NON%20SONORISE/p10_04.jpeg)
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-760 ADN mitochondrial NON SONORISE/p10_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-760%20ADN%20mitochondrial%20NON%20SONORISE/p10_05.jpeg)
 
 ### Limites
 - Signes **inconstants**, plus fréquents dans les **mutations d’ARNt** (ex : **mélas**) que dans les mutations des sous-unités de la chaîne respiratoire
@@ -205,7 +205,7 @@ Le **(neuro)pathologiste** est essentiellement impliqué via l’**examen d’un
 - **Anomalies des crêtes** mitochondriales
 - **Inclusions paracristallines** dans la matrice
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-760 ADN mitochondrial NON SONORISE/p11_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-760%20ADN%20mitochondrial%20NON%20SONORISE/p11_00.png)
 
 ## Choix de l’échantillon pour l’analyse moléculaire
 

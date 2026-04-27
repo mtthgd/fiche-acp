@@ -51,7 +51,7 @@ Tumeurs hépatiques bénignes **non hépatocytaires** :
 - Lumières contenant des **hématies**
 - **Modifications post-thrombotiques** : fibrose extensive, calcifications → modifient l'aspect histologique et radiologique
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.4 Autres tumeurs bénignes primitives du foie/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.4%20Autres%20tumeurs%20b%C3%A9nignes%20primitives%20du%20foie/p08_00.jpeg)
 
 > **Piège biopsique** : devant des **plages de fibrose comportant quelques vaisseaux**, penser à **hémangiome thrombosé** (cause fréquente de biopsie atypique).
 
@@ -74,16 +74,16 @@ Tumeurs hépatiques bénignes **non hépatocytaires** :
 - **Centre fibreux/hyalin**, périphérie cellulaire infiltrante
 - Rétraction capsulaire en regard des nodules
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.4 Autres tumeurs bénignes primitives du foie/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.4%20Autres%20tumeurs%20b%C3%A9nignes%20primitives%20du%20foie/p09_00.jpeg)
 
 ### Histologie
 - **Centre du nodule** : stroma fibro-hyalin, peu cellulaire, cellules tumorales **dispersées**
 - **Cellules tumorales** : grande taille, **cytoplasme abondant éosinophile**, noyau nucléolé, **différenciation vasculaire** avec **lumière intracytoplasmique** (parfois contenant une **hématie** = critère diagnostic)
 - **Marge d'invasion** : infiltration des **sinusoïdes hépatiques** par les cellules tumorales (piège biopsique)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.4 Autres tumeurs bénignes primitives du foie/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.4%20Autres%20tumeurs%20b%C3%A9nignes%20primitives%20du%20foie/p10_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.4 Autres tumeurs bénignes primitives du foie/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.4%20Autres%20tumeurs%20b%C3%A9nignes%20primitives%20du%20foie/p11_00.jpeg)
 
 ### Immunohistochimie
 
@@ -125,7 +125,7 @@ Tumeurs hépatiques bénignes **non hépatocytaires** :
 ### Macroscopie
 - Tumeur **bien limitée**, **jaunâtre** (composante adipeuse)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.4 Autres tumeurs bénignes primitives du foie/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.4%20Autres%20tumeurs%20b%C3%A9nignes%20primitives%20du%20foie/p14_00.jpeg)
 
 ### Histologie
 3 composantes (de proportions variables) :
@@ -135,11 +135,11 @@ Tumeurs hépatiques bénignes **non hépatocytaires** :
 
 > **Piège majeur** : **AML épithélioïde monomorphe** peut **mimer un adénome ou un CHC** !
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.4 Autres tumeurs bénignes primitives du foie/p15_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.4%20Autres%20tumeurs%20b%C3%A9nignes%20primitives%20du%20foie/p15_00.png)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.4 Autres tumeurs bénignes primitives du foie/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.4%20Autres%20tumeurs%20b%C3%A9nignes%20primitives%20du%20foie/p16_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.4 Autres tumeurs bénignes primitives du foie/p17_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.4%20Autres%20tumeurs%20b%C3%A9nignes%20primitives%20du%20foie/p17_00.png)
 
 ### Immunohistochimie
 
@@ -152,7 +152,7 @@ Tumeurs hépatiques bénignes **non hépatocytaires** :
 | **PAX8, HepPar1, arginase-1** | − (élimine hépatocyte) |
 | **Cytokératines** | − |
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.4 Autres tumeurs bénignes primitives du foie/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.4%20Autres%20tumeurs%20b%C3%A9nignes%20primitives%20du%20foie/p18_00.jpeg)
 
 ### Diagnostics différentiels
 
@@ -179,16 +179,16 @@ Tumeurs hépatiques bénignes **non hépatocytaires** :
 ### Macroscopie
 - Aspect **blanc-jaunâtre**, multinodulaire **coalescent**, foyers de **nécrose**
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.4 Autres tumeurs bénignes primitives du foie/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.4%20Autres%20tumeurs%20b%C3%A9nignes%20primitives%20du%20foie/p20_00.jpeg)
 
 ### Histologie
 - **Stroma fibreux cicatriciel**
 - **Infiltrat inflammatoire polymorphe** (lymphocytes, plasmocytes, polynucléaires)
 - Zones **abcédées** possibles
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.4 Autres tumeurs bénignes primitives du foie/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.4%20Autres%20tumeurs%20b%C3%A9nignes%20primitives%20du%20foie/p21_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.4 Autres tumeurs bénignes primitives du foie/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.4%20Autres%20tumeurs%20b%C3%A9nignes%20primitives%20du%20foie/p21_01.jpeg)
 
 ### Diagnostics différentiels
 

@@ -78,9 +78,9 @@ HUMORAL   BORDERLINE   CELLULAIRE       HUMORAL              CELLULAIRE
 - **Capillarite péritubulaire** : cellules inflammatoires dans la lumière des capillaires péritubulaires (≥ 10 % des capillaires).
 - **Artérite intimale ou transmurale** : décollement des cellules endothéliales par des éléments lymphocytaires ; non spécifique (rejet cellulaire ou humoral).
 
-![[assets/nephropathologie/greffon/314-14 Rejet transplantation rénale/p07_01.jpeg]]
-![[assets/nephropathologie/greffon/314-14 Rejet transplantation rénale/p07_02.jpeg]]
-![[assets/nephropathologie/greffon/314-14 Rejet transplantation rénale/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/314-14%20Rejet%20transplantation%20r%C3%A9nale/p07_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/314-14%20Rejet%20transplantation%20r%C3%A9nale/p07_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/314-14%20Rejet%20transplantation%20r%C3%A9nale/p08_01.jpeg)
 
 #### Le marqueur C4d
 
@@ -100,7 +100,7 @@ HUMORAL   BORDERLINE   CELLULAIRE       HUMORAL              CELLULAIRE
 
 > Le **C4d n'est pas obligatoire** au diagnostic d'ABMR : peut être remplacé par l'inflammation de la microcirculation (**g + ptc ≥ 2**) ou par les transcrits.
 
-![[assets/nephropathologie/greffon/314-14 Rejet transplantation rénale/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/314-14%20Rejet%20transplantation%20r%C3%A9nale/p09_01.jpeg)
 
 ### 2. Rejet humoral chronique actif (chronic active ABMR)
 
@@ -113,7 +113,7 @@ HUMORAL   BORDERLINE   CELLULAIRE       HUMORAL              CELLULAIRE
 - Score Banff **cg1a** (microscopie électronique seule) à **cg3** (> 50 % des anses).
 - Reflète des cycles répétés d'agression endothéliale par les DSA.
 
-![[assets/nephropathologie/greffon/314-14 Rejet transplantation rénale/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/314-14%20Rejet%20transplantation%20r%C3%A9nale/p11_01.jpeg)
 
 Autres lésions chroniques compatibles : épaississement multilamellé des membranes basales des capillaires péritubulaires (en MET), fibrose interstitielle.
 
@@ -133,8 +133,8 @@ Autres lésions chroniques compatibles : épaississement multilamellé des membr
 
 > Les **formes graves** (II–III) sont caractérisées par des **lésions d'artérite intimale, voire transmurale**.
 
-![[assets/nephropathologie/greffon/314-14 Rejet transplantation rénale/p14_01.jpeg]]
-![[assets/nephropathologie/greffon/314-14 Rejet transplantation rénale/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/314-14%20Rejet%20transplantation%20r%C3%A9nale/p14_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/314-14%20Rejet%20transplantation%20r%C3%A9nale/p14_02.jpeg)
 
 ### 4. Lésions borderline / suspicion de rejet cellulaire aigu
 
@@ -145,7 +145,7 @@ Autres lésions chroniques compatibles : épaississement multilamellé des membr
 
 > Dans cette catégorie, **PAS d'artérite (v0)** — la présence d'une artérite fait basculer en TCMR.
 
-![[assets/nephropathologie/greffon/314-14 Rejet transplantation rénale/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/314-14%20Rejet%20transplantation%20r%C3%A9nale/p15_01.jpeg)
 
 ### 5. Rejet chronique actif cellulaire (chronic active TCMR)
 
@@ -218,8 +218,8 @@ Autres lésions chroniques compatibles : épaississement multilamellé des membr
 - **ABMR** : pronostic **plus réservé**, survie du greffon diminuée, **glomérulopathie d'allogreffe** à 5–10 ans est un signe de chronicité défavorable.
 - Le **C4d obligatoire** en routine permet le dépistage précoce.
 
-![[assets/nephropathologie/greffon/314-14 Rejet transplantation rénale/p17_01.jpeg]]
-![[assets/nephropathologie/greffon/314-14 Rejet transplantation rénale/p17_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/314-14%20Rejet%20transplantation%20r%C3%A9nale/p17_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/314-14%20Rejet%20transplantation%20r%C3%A9nale/p17_02.jpeg)
 
 ### Probabilité de survenue selon le délai post-greffe
 
@@ -229,7 +229,7 @@ Autres lésions chroniques compatibles : épaississement multilamellé des membr
 - **TCMR chronique / ABMR chronique** : > 1 an
 - **IF/TA** : tardive
 
-![[assets/nephropathologie/greffon/314-14 Rejet transplantation rénale/p19_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/314-14%20Rejet%20transplantation%20r%C3%A9nale/p19_01.png)
 
 ---
 

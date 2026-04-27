@@ -59,7 +59,7 @@ L’ADN est constitué de **nucléotides** = désoxyribose + phosphate + base az
 | **Cassures double brin** | Irradiations, agents pontants | **HR** (Recombinaison Homologue) ou **NHEJ** (Non-Homologous End Joining) |
 | **Adduits inter-brins** | Agents pontants (cisplatine, mitomycine) | HR + NER + Fanconi |
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-260  Réparation des lésions de lADN/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-260%20%20R%C3%A9paration%20des%20l%C3%A9sions%20de%20lADN/p05_00.jpeg)
 
 
 ## 1. Réparation par excision de base (BER)
@@ -74,9 +74,9 @@ Cible : **bases oxydées** ou anormales (ex. cytosine désaminée → uracile, q
 4. **ADN polymérase β** → synthèse du nucléotide manquant
 5. **ADN ligase** → relie les brins
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-260  Réparation des lésions de lADN/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-260%20%20R%C3%A9paration%20des%20l%C3%A9sions%20de%20lADN/p07_00.jpeg)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-260  Réparation des lésions de lADN/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-260%20%20R%C3%A9paration%20des%20l%C3%A9sions%20de%20lADN/p08_00.jpeg)
 
 ## 2. Réparation par excision de nucléotides (NER)
 
@@ -91,7 +91,7 @@ Cible : **adduits volumineux** (dimères de thymines induits par les UV → dist
 
 > Déficit = **Xeroderma pigmentosum**, **syndrome de Cockayne**, trichothiodystrophie.
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-260  Réparation des lésions de lADN/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-260%20%20R%C3%A9paration%20des%20l%C3%A9sions%20de%20lADN/p09_00.jpeg)
 
 
 ## 3. Réparation des mésappariements (Mismatch Repair, MMR)
@@ -147,7 +147,7 @@ Lésions **les plus létales** pour la cellule. Causes : **irradiations**, agent
 6. Synthèse d’un nouveau brin par polymérase
 7. Résolution → conversion génique ± **crossing-over**
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-260  Réparation des lésions de lADN/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-260%20%20R%C3%A9paration%20des%20l%C3%A9sions%20de%20lADN/p13_00.jpeg)
 
 
 ## Coordination réparation / cycle cellulaire — DDR
@@ -198,7 +198,7 @@ Les inhibiteurs de PARP (**olaparib, niraparib, rucaparib**) sont actifs dans le
 - **Cancer de la prostate** métastatique castro-résistant
 - **Adénocarcinome pancréatique** BRCA muté
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-260  Réparation des lésions de lADN/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-260%20%20R%C3%A9paration%20des%20l%C3%A9sions%20de%20lADN/p16_00.jpeg)
 
 ## Syndromes héréditaires liés à des défauts de réparation
 

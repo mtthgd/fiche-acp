@@ -26,7 +26,7 @@ source: DES ACP - Cours de Dermatopathologie
 - Inclusions parfois présentes : **corps conchoïdes de Schaumann**, **corps astéroïdes** (NON spécifiques d'étiologie)
 
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412 Granulomes épithélioïdes/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412%20Granulomes%20%C3%A9pith%C3%A9lio%C3%AFdes/p04_00.jpeg)
 
 
 ### Sarcoïdose cutanée
@@ -40,9 +40,9 @@ source: DES ACP - Cours de Dermatopathologie
   - Phases d'extension des membres
   - **Cicatrices** ++
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412 Granulomes épithélioïdes/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412%20Granulomes%20%C3%A9pith%C3%A9lio%C3%AFdes/p06_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412 Granulomes épithélioïdes/p06_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412%20Granulomes%20%C3%A9pith%C3%A9lio%C3%AFdes/p06_02.jpeg)
 
 #### Histologie typique
 - Granulomes **nus**
@@ -50,7 +50,7 @@ source: DES ACP - Cours de Dermatopathologie
 - **Pas de nécrose**
 - **Pas de tropisme annexiel particulier**
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412 Granulomes épithélioïdes/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412%20Granulomes%20%C3%A9pith%C3%A9lio%C3%AFdes/p07_00.jpeg)
 
 ### Autres étiologies de granulomes sarcoïdosiques
 
@@ -60,7 +60,7 @@ source: DES ACP - Cours de Dermatopathologie
 | **Granulomatose oro-faciale** | 2 entités (cf ci-dessous) |
 | **Maladie de Crohn métastatique** | Lésions cutanées non contiguës à la lésion intestinale |
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412 Granulomes épithélioïdes/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412%20Granulomes%20%C3%A9pith%C3%A9lio%C3%AFdes/p09_00.jpeg)
 
 
 ### Granulomatose oro-faciale
@@ -79,7 +79,7 @@ source: DES ACP - Cours de Dermatopathologie
 > ⚠️ Le diagnostic de granulomatose oro-faciale ne sera retenu **qu'après avoir éliminé une maladie de Crohn** (interrogatoire, lésions endo-buccales érosives, voire endoscopie).
 
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412 Granulomes épithélioïdes/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412%20Granulomes%20%C3%A9pith%C3%A9lio%C3%AFdes/p11_01.jpeg)
 
 ## Granulomes tuberculoïdes
 
@@ -91,7 +91,7 @@ source: DES ACP - Cours de Dermatopathologie
 - ± **nécrose centrale** (caséeuse selon étiologie)
 - **Importante couronne lymphoplasmocytaire** (≠ sarcoïdose)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412 Granulomes épithélioïdes/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412%20Granulomes%20%C3%A9pith%C3%A9lio%C3%AFdes/p12_02.jpeg)
 
 
 ### Étiologies infectieuses (les plus fréquentes)
@@ -108,9 +108,9 @@ source: DES ACP - Cours de Dermatopathologie
 - Évoquer devant **hyperplasie pseudo-épithéliomateuse** de l'épiderme
 - **Ziehl** souvent peu sensible (peu de bacilles)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412 Granulomes épithélioïdes/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412%20Granulomes%20%C3%A9pith%C3%A9lio%C3%AFdes/p14_02.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412 Granulomes épithélioïdes/p14_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412%20Granulomes%20%C3%A9pith%C3%A9lio%C3%AFdes/p14_03.jpeg)
 
 #### Lèpre (formes tuberculoïde / borderline)
 - Granulomes en situation **péri-nerveuse** ++ (signe d'alerte)
@@ -119,9 +119,9 @@ source: DES ACP - Cours de Dermatopathologie
 - **Mycobactéries souvent invisibles** au Ziehl dans ces formes (paucibacillaires)
 - Coloration de **Fite-Faraco** plus sensible
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412 Granulomes épithélioïdes/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412%20Granulomes%20%C3%A9pith%C3%A9lio%C3%AFdes/p15_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412 Granulomes épithélioïdes/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412%20Granulomes%20%C3%A9pith%C3%A9lio%C3%AFdes/p15_01.jpeg)
 
 #### Leishmaniose
 - Parasitose inoculée par **phlébotomes** → lésion en **zone découverte**
@@ -129,11 +129,11 @@ source: DES ACP - Cours de Dermatopathologie
 - **Corps amastigotes** intra-histiocytaires : petites formations basophiles de **2-4 µm**, intra- ou extra-cellulaires
 - Visibles sur **HES** + **MGG / Giemsa**
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412 Granulomes épithélioïdes/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412%20Granulomes%20%C3%A9pith%C3%A9lio%C3%AFdes/p16_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412 Granulomes épithélioïdes/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412%20Granulomes%20%C3%A9pith%C3%A9lio%C3%AFdes/p16_01.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412 Granulomes épithélioïdes/p16_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412%20Granulomes%20%C3%A9pith%C3%A9lio%C3%AFdes/p16_02.jpeg)
 
 ### Étiologies non infectieuses
 
@@ -144,9 +144,9 @@ source: DES ACP - Cours de Dermatopathologie
 - **Espace kystique vide central** entouré de PNN/histiocytes (parfois **Demodex** sur coupes sériées)
 - Granulomes typiquement **péri-pilaires**
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412 Granulomes épithélioïdes/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412%20Granulomes%20%C3%A9pith%C3%A9lio%C3%AFdes/p17_01.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412 Granulomes épithélioïdes/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-412%20Granulomes%20%C3%A9pith%C3%A9lio%C3%AFdes/p18_01.jpeg)
 
 #### Acnitis (lupus miliaire disséminé de la face)
 - Anciennement « tuberculide papulo-nodulaire »

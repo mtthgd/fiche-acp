@@ -26,7 +26,7 @@ source: DES ACP - Cours de digestif
   - **Veine porte = 70-80 %** du débit (sang non oxygéné, riche en nutriments)
   - **Artère hépatique = 20-30 %** (sang oxygéné, vascularise les voies biliaires)
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.2 Généralités sur la pathologie hépatique/p01_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.2%20G%C3%A9n%C3%A9ralit%C3%A9s%20sur%20la%20pathologie%20h%C3%A9patique/p01_00.jpeg)
 
 ### Segmentation fonctionnelle (Couinaud)
 
@@ -46,7 +46,7 @@ Différente de la segmentation anatomique. Basée sur la **distribution du sang 
 - **Hépatectomie droite élargie au IV** = 4-5-6-7-8
 
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.2 Généralités sur la pathologie hépatique/p04_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.2%20G%C3%A9n%C3%A9ralit%C3%A9s%20sur%20la%20pathologie%20h%C3%A9patique/p04_00.png)
 
 ## Histologie hépatique
 
@@ -61,7 +61,7 @@ Différente de la segmentation anatomique. Basée sur la **distribution du sang 
 - Zones 1, 2, 3 autour de la veine septale
 - La veine de sortie est appelée **vénule hépatique**
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.2 Généralités sur la pathologie hépatique/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.2%20G%C3%A9n%C3%A9ralit%C3%A9s%20sur%20la%20pathologie%20h%C3%A9patique/p06_01.jpeg)
 
 ### Espace porte
 Contient :
@@ -81,7 +81,7 @@ Contient :
 ### Lame bordante hépatocytaire
 Hépatocytes bordant un EP ou une travée fibreuse → repère pour évaluer l'**hépatite d'interface**.
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.2 Généralités sur la pathologie hépatique/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.2%20G%C3%A9n%C3%A9ralit%C3%A9s%20sur%20la%20pathologie%20h%C3%A9patique/p07_00.jpeg)
 
 ### Hépatocytes
 - **80 %** des cellules hépatiques
@@ -93,9 +93,9 @@ Hépatocytes bordant un EP ou une travée fibreuse → repère pour évaluer l'*
 - **Cellules de Kupffer** = histiocytes tissulaires intraluminaux
 - **Cellules étoilées (Ito)** dans l'**espace de Disse** : stockent la vitamine A (visibles seulement en cas de surcharge)
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.2 Généralités sur la pathologie hépatique/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.2%20G%C3%A9n%C3%A9ralit%C3%A9s%20sur%20la%20pathologie%20h%C3%A9patique/p08_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.2 Généralités sur la pathologie hépatique/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.2%20G%C3%A9n%C3%A9ralit%C3%A9s%20sur%20la%20pathologie%20h%C3%A9patique/p09_00.jpeg)
 
 ### Voies biliaires intrahépatiques
 
@@ -106,9 +106,9 @@ Hépatocytes bordant un EP ou une travée fibreuse → repère pour évaluer l'*
 | **Canal de Hering** | — | Tapissé hépatocytes + cellules biliaires (zone de transition) |
 | **Canalicule biliaire** | Espace virtuel | Pas de paroi propre = membrane cytoplasmique de 2 hépatocytes ; visible en **CD10**+ |
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.2 Généralités sur la pathologie hépatique/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.2%20G%C3%A9n%C3%A9ralit%C3%A9s%20sur%20la%20pathologie%20h%C3%A9patique/p11_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.2 Généralités sur la pathologie hépatique/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.2%20G%C3%A9n%C3%A9ralit%C3%A9s%20sur%20la%20pathologie%20h%C3%A9patique/p11_01.jpeg)
 
 ## Variations physiologiques
 
@@ -166,9 +166,9 @@ Hépatocytes bordant un EP ou une travée fibreuse → repère pour évaluer l'*
 - Plus la biopsie est petite → plus on **sous-évalue** les lésions
 - Pour une lésion très spécifique (cirrhose, malignité), un petit fragment peut suffire
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.2 Généralités sur la pathologie hépatique/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.2%20G%C3%A9n%C3%A9ralit%C3%A9s%20sur%20la%20pathologie%20h%C3%A9patique/p14_01.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.2 Généralités sur la pathologie hépatique/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.2%20G%C3%A9n%C3%A9ralit%C3%A9s%20sur%20la%20pathologie%20h%C3%A9patique/p14_02.jpeg)
 
 ## Techniques
 
@@ -184,7 +184,7 @@ Hépatocytes bordant un EP ou une travée fibreuse → repère pour évaluer l'*
 - Espaces clairs liés à l'**électrocoagulation** (chirurgie)
 - Espaces "en coin" liés à l'**écrasement** par les mousses des cassettes biopsiques
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.2 Généralités sur la pathologie hépatique/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.2%20G%C3%A9n%C3%A9ralit%C3%A9s%20sur%20la%20pathologie%20h%C3%A9patique/p18_00.jpeg)
 
 ## Démarche d'interprétation et compte rendu
 
@@ -228,7 +228,7 @@ Examiner **tous les compartiments** du lobule :
 5. Refaire préciser les éléments **clinico-biologiques**
 
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.2 Généralités sur la pathologie hépatique/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.2%20G%C3%A9n%C3%A9ralit%C3%A9s%20sur%20la%20pathologie%20h%C3%A9patique/p20_01.jpeg)
 
 ---
 

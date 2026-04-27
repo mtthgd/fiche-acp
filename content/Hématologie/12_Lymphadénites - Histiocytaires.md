@@ -37,15 +37,15 @@ Quatre grandes entités :
 - À la place des lymphocytes : hématies ou PNN possibles
 - Follicules souvent atrophiques + plasmocytose interfolliculaire
 
-![[assets/hematologie/lymphadenites/Diaporama 07-223_Lymphadénites histiocytaires VF  PP/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-223_Lymphad%C3%A9nites%20histiocytaires%20VF%20%20PP/p04_00.jpeg)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-223_Lymphadénites histiocytaires VF  PP/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-223_Lymphad%C3%A9nites%20histiocytaires%20VF%20%20PP/p04_01.jpeg)
 
 ### Phénotype IHC
 - **S100+**, CD68+, Lysozyme+, CD163+
 - **CD1a−**, **Langérine−** (différencie de l'histiocytose langerhansienne)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-223_Lymphadénites histiocytaires VF  PP/p05_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-223_Lymphad%C3%A9nites%20histiocytaires%20VF%20%20PP/p05_02.jpeg)
 
 ### Diagnostics différentiels
 - Histiocytose sinusale non spécifique
@@ -71,11 +71,11 @@ Quatre grandes entités :
 - **Nécrose apoptotique** (débris apoptotiques) **sans PNN** ni éosinophiles ni plasmocytes
 - Mélange cellulaire : histiocytes + cellules immunoblastiques de grande taille
 
-![[assets/hematologie/lymphadenites/Diaporama 07-223_Lymphadénites histiocytaires VF  PP/p09_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-223_Lymphad%C3%A9nites%20histiocytaires%20VF%20%20PP/p09_03.jpeg)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-223_Lymphadénites histiocytaires VF  PP/p09_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-223_Lymphad%C3%A9nites%20histiocytaires%20VF%20%20PP/p09_04.jpeg)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-223_Lymphadénites histiocytaires VF  PP/p09_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-223_Lymphad%C3%A9nites%20histiocytaires%20VF%20%20PP/p09_05.jpeg)
 
 ### Phénotype IHC
 - Histiocytes : **CD68+ CD163+ S100− CD1a−** (différent de Rosai-Dorfman !)
@@ -83,9 +83,9 @@ Quatre grandes entités :
 - Cellules dendritiques plasmocytoïdes (**CD123+**) fréquentes
 - **Absence de PNN** et éosinophiles = critère important
 
-![[assets/hematologie/lymphadenites/Diaporama 07-223_Lymphadénites histiocytaires VF  PP/p10_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-223_Lymphad%C3%A9nites%20histiocytaires%20VF%20%20PP/p10_06.jpeg)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-223_Lymphadénites histiocytaires VF  PP/p10_07.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-223_Lymphad%C3%A9nites%20histiocytaires%20VF%20%20PP/p10_07.jpeg)
 
 ### Diagnostics différentiels
 - **Infections** : bactériennes (mycobactéries, maladie des griffes du chat), virales (MNI → hybridation EBER systématique)
@@ -126,7 +126,7 @@ Chez l'adulte : **HScore**
 - Phénotype : **CD163+ S100+/−**
 - Formes secondaires : rechercher les lésions de la pathologie causale (lymphome ++)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-223_Lymphadénites histiocytaires VF  PP/p15_10.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-223_Lymphad%C3%A9nites%20histiocytaires%20VF%20%20PP/p15_10.jpeg)
 
 ### Pronostic et traitement
 - **Souvent mortel**
@@ -142,9 +142,9 @@ Chez l'adulte : **HScore**
 - **Coloration de Ziehl : très nombreux BAAR** intracytoplasmiques (bâtonnets roses)
 - Également colorés par Grocott, PAS, Giemsa (bleu)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-223_Lymphadénites histiocytaires VF  PP/p16_11.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-223_Lymphad%C3%A9nites%20histiocytaires%20VF%20%20PP/p16_11.jpeg)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-223_Lymphadénites histiocytaires VF  PP/p16_12.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-223_Lymphad%C3%A9nites%20histiocytaires%20VF%20%20PP/p16_12.jpeg)
 
 ---
 

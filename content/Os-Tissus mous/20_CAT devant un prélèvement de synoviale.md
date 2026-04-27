@@ -54,13 +54,13 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Franges**, vaisseaux congestifs (congestion = quasi systématique en cas d'hyperplasie)
 - Corps étrangers
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-162 Prise en charge dun prélèvement de synoviale/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-162%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20synoviale/p13_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-162 Prise en charge dun prélèvement de synoviale/p13_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-162%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20synoviale/p13_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-162 Prise en charge dun prélèvement de synoviale/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-162%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20synoviale/p14_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-162 Prise en charge dun prélèvement de synoviale/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-162%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20synoviale/p14_01.jpeg)
 
 ## Fixation — règle capitale
 
@@ -74,9 +74,9 @@ Lorsqu'un prélèvement contient tissu mou + os (ex. tête fémorale + synoviale
 - Tissus mous → circuit habituel
 - Tissus osseux/minéralisés → **décalcification** (uniquement sur fragment bien fixé, cycles fixation-décalcification sous surveillance)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-162 Prise en charge dun prélèvement de synoviale/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-162%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20synoviale/p15_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-162 Prise en charge dun prélèvement de synoviale/p15_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-162%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20synoviale/p15_02.jpeg)
 
 ## Échantillonnage et techniques
 
@@ -89,9 +89,9 @@ Lorsqu'un prélèvement contient tissu mou + os (ex. tête fémorale + synoviale
 - **Immunohistochimie rarement nécessaire**
 - **Microscope à lumière polarisée indispensable** : microcristaux, corps étrangers, débris prothétiques
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-162 Prise en charge dun prélèvement de synoviale/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-162%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20synoviale/p16_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-162 Prise en charge dun prélèvement de synoviale/p16_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-162%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20synoviale/p16_03.jpeg)
 
 ## Correspondances macroscopiques — synthèse
 

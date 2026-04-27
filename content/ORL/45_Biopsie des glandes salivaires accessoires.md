@@ -72,13 +72,13 @@ La **sialadénite lymphocytaire focale** (SLF) est l'entité anatomopathologique
 - Possibles **lésions lymphoépithéliales** (infiltration marquée de l'épithélium canalaire)
 - Possibles **follicules lymphoïdes à centre germinatif**
 
-![[assets/ORL/glandes_salivaires/pathologie_non_tumorale/BGSA_Buob/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/pathologie_non_tumorale/BGSA_Buob/p07_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/pathologie_non_tumorale/BGSA_Buob/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/pathologie_non_tumorale/BGSA_Buob/p08_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/pathologie_non_tumorale/BGSA_Buob/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/pathologie_non_tumorale/BGSA_Buob/p09_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/pathologie_non_tumorale/BGSA_Buob/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/pathologie_non_tumorale/BGSA_Buob/p10_00.jpeg)
 
 ## Focus score — interprétation (Sjögren)
 
@@ -106,7 +106,7 @@ Le diagnostic de syndrome de Sjögren repose sur un **score composite ≥ 4 poin
 | Test de Schirmer ≤ 5 mm/5 min | 1 |
 | Flux salivaire non stimulé ≤ 0,1 mL/min | 1 |
 
-![[assets/ORL/glandes_salivaires/pathologie_non_tumorale/BGSA_Buob/p12_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/pathologie_non_tumorale/BGSA_Buob/p12_00.png)
 
 ### Note sur la classification de Chisholm et Mason
 
@@ -131,7 +131,7 @@ Mentionner :
 | **Sialadénite chronique non spécifique** | Atrophie glandulaire, **dilatation canalaire**, **fibrose interstitielle**, inflammation possible mais dans tissu **fibreux** (ce qui exclut la SLF) |
 | **Lymphome B** (zone marginale / MALT) | Complication du Sjögren ; population **monoclonale** (B clonal, réarrangement IgH), prolifération nodale/extranodale ; la SLF est par définition **polyclonale** (B polyclonaux + T) |
 
-![[assets/ORL/glandes_salivaires/pathologie_non_tumorale/BGSA_Buob/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/pathologie_non_tumorale/BGSA_Buob/p14_00.jpeg)
 
 ---
 
@@ -168,13 +168,13 @@ Mentionner :
 | **AA** (amyloïde A) | **Diffuse** (membranes basales acineuses) |
 | **ATTR** (transthyrétine) | **Nodulaire péricanalaire** (volumineux nodules refoulant l'épithélium canalaire) |
 
-![[assets/ORL/glandes_salivaires/pathologie_non_tumorale/BGSA_Buob/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/pathologie_non_tumorale/BGSA_Buob/p18_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/pathologie_non_tumorale/BGSA_Buob/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/pathologie_non_tumorale/BGSA_Buob/p21_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/pathologie_non_tumorale/BGSA_Buob/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/pathologie_non_tumorale/BGSA_Buob/p22_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/pathologie_non_tumorale/BGSA_Buob/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/pathologie_non_tumorale/BGSA_Buob/p23_00.jpeg)
 
 ## Immunohistochimie / confirmation
 

@@ -31,7 +31,7 @@ Deux mécanismes :
 - **Altération de la différenciation müllérienne** (cellules de réserve glandulaires) → souvent **intra-glandulaire**.
 - **Modifications régénératives** post-agression (DIU, biopsies, curages, inflammation) → souvent **extra-glandulaire** (revêtement de surface).
 
-![[assets/gyneco-sein/corps_uterin/04_41_03 Métaplasie endométriale MDS/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_41_03%20M%C3%A9taplasie%20endom%C3%A9triale%20MDS/p02_00.jpeg)
 
 ## Clinique / Épidémio
 
@@ -45,8 +45,8 @@ Deux mécanismes :
 
 ### 1. Métaplasie ciliée (= tubaire) — la plus fréquente
 
-![[assets/gyneco-sein/corps_uterin/04_41_03 Métaplasie endométriale MDS/p09_01.jpeg]]
-![[assets/gyneco-sein/corps_uterin/04_41_03 Métaplasie endométriale MDS/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_41_03%20M%C3%A9taplasie%20endom%C3%A9triale%20MDS/p09_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_41_03%20M%C3%A9taplasie%20endom%C3%A9triale%20MDS/p11_00.jpeg)
 
 - Cellules ciliées dans les glandes (jusqu’à **20 %** physiologiques en surface en phase proliférative).
 - Aspect tubaire : ciliées + sécrétoires + intercalaires.
@@ -60,24 +60,24 @@ Deux mécanismes :
 | **Ichthyose** (mature, non atypique) | revêtement de surface | régénération sur endométrite chronique / DIU |
 | **Morules** (immature) | intra-glandulaire | lésions organiques (polypes, hyperplasies) |
 
-![[assets/gyneco-sein/corps_uterin/04_41_03 Métaplasie endométriale MDS/p13_00.jpeg]]
-![[assets/gyneco-sein/corps_uterin/04_41_03 Métaplasie endométriale MDS/p14_00.jpeg]]
-![[assets/gyneco-sein/corps_uterin/04_41_03 Métaplasie endométriale MDS/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_41_03%20M%C3%A9taplasie%20endom%C3%A9triale%20MDS/p13_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_41_03%20M%C3%A9taplasie%20endom%C3%A9triale%20MDS/p14_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_41_03%20M%C3%A9taplasie%20endom%C3%A9triale%20MDS/p15_00.jpeg)
 
 - **Morules** : amas intra-glandulaires immatures, **nécrose centrale possible**, fréquentes dans **EIN** (jusqu’à **18 %**) et dans **25 %** des carcinomes endométrioïdes.
 - **Ichthyose** : recouvre la surface, mature, sans atypie.
 
 ### 3. Métaplasie éosinophile
 
-![[assets/gyneco-sein/corps_uterin/04_41_03 Métaplasie endométriale MDS/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_41_03%20M%C3%A9taplasie%20endom%C3%A9triale%20MDS/p16_00.jpeg)
 
 - Cellules à cytoplasme **finement granulaire**, noyau arrondi, petit nucléole.
 - **Pas de mitose**, pas d’atypie, pas d’architecture de carcinome.
 
 ### 4. Métaplasie syncytiale éosinophile de surface
 
-![[assets/gyneco-sein/corps_uterin/04_41_03 Métaplasie endométriale MDS/p18_00.jpeg]]
-![[assets/gyneco-sein/corps_uterin/04_41_03 Métaplasie endométriale MDS/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_41_03%20M%C3%A9taplasie%20endom%C3%A9triale%20MDS/p18_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_41_03%20M%C3%A9taplasie%20endom%C3%A9triale%20MDS/p19_00.jpeg)
 
 - Phénomènes régénératifs au cours d’**hémorragies utérines**.
 - Stratification, **pseudo-papilles**, mais pas d’atypie ni de mitose.
@@ -87,8 +87,8 @@ Deux mécanismes :
 
 ### 5. Métaplasie mucineuse
 
-![[assets/gyneco-sein/corps_uterin/04_41_03 Métaplasie endométriale MDS/p20_00.jpeg]]
-![[assets/gyneco-sein/corps_uterin/04_41_03 Métaplasie endométriale MDS/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_41_03%20M%C3%A9taplasie%20endom%C3%A9triale%20MDS/p20_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_41_03%20M%C3%A9taplasie%20endom%C3%A9triale%20MDS/p21_00.jpeg)
 
 - Remplacement par muqueuse **endocervicale** (ou rarement intestinale, cellules à gobelets).
 - ⚠️ S’assurer qu’il ne s’agit pas d’un fragment d’endocol/isthme.
@@ -101,12 +101,12 @@ Deux mécanismes :
 - Revêtement **cubo-cylindrique unistratifié sans atypie**.
 - ⚠️ **DD : carcinome séreux de haut grade** = pseudo-papilles, atypies sévères, nombreuses mitoses.
 
-![[assets/gyneco-sein/corps_uterin/04_41_03 Métaplasie endométriale MDS/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_41_03%20M%C3%A9taplasie%20endom%C3%A9triale%20MDS/p23_00.jpeg)
 
 ### 7. Métaplasie à cellules claires (« clous de tapissier »)
 
-![[assets/gyneco-sein/corps_uterin/04_41_03 Métaplasie endométriale MDS/p25_00.jpeg]]
-![[assets/gyneco-sein/corps_uterin/04_41_03 Métaplasie endométriale MDS/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_41_03%20M%C3%A9taplasie%20endom%C3%A9triale%20MDS/p25_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_41_03%20M%C3%A9taplasie%20endom%C3%A9triale%20MDS/p26_00.jpeg)
 
 - **Pseudo-Arias-Stella**, après **traitement progestatif** ou **radiothérapie**.
 - Cellules volumineuses, noyau irrégulier, cytoplasme clarifié, **pas de mitose**.

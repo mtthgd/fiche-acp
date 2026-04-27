@@ -92,9 +92,9 @@ source: DES ACP - Cours de digestif (F. Renaud)
 - **Multiples foyers de carcinome à cellules peu cohésives intramuqueux (pT1a)**, surtout fundiques
 - Cellules en bague à chaton intra-muqueuses respectant la membrane basale au collet, extension **pagétoïde**
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.12 Adénocarcinome de lestomac/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.12%20Ad%C3%A9nocarcinome%20de%20lestomac/p14_01.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.12 Adénocarcinome de lestomac/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.12%20Ad%C3%A9nocarcinome%20de%20lestomac/p14_02.jpeg)
 
 ## Macroscopie
 
@@ -104,7 +104,7 @@ source: DES ACP - Cours de digestif (F. Renaud)
 - Trancher la pièce après fixation formolée pour repérer infiltration maximale et ganglions
 - Repérer **nodules de séreuse**
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.12 Adénocarcinome de lestomac/p15_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.12%20Ad%C3%A9nocarcinome%20de%20lestomac/p15_03.jpeg)
 
 ### Classifications macroscopiques
 
@@ -119,7 +119,7 @@ source: DES ACP - Cours de digestif (F. Renaud)
 - Plis hypertrophiques avec induration diffuse
 - Aspect mêle/déplissé
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.12 Adénocarcinome de lestomac/p17_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.12%20Ad%C3%A9nocarcinome%20de%20lestomac/p17_00.png)
 
 ### Linite gastrique
 - **Aspect épaissi rigide** de la paroi gastrique (sans définition unique)
@@ -127,7 +127,7 @@ source: DES ACP - Cours de digestif (F. Renaud)
 - Surface : muqueuse déplissée, polypoïde, mamelonnée
 - ⚠️ **Vraies linites SANS carcinome à cellules peu cohésives existent** → terme à réserver à l'**aspect macroscopique**
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.12 Adénocarcinome de lestomac/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.12%20Ad%C3%A9nocarcinome%20de%20lestomac/p18_00.jpeg)
 
 ## Classifications microscopiques
 
@@ -167,26 +167,26 @@ source: DES ACP - Cours de digestif (F. Renaud)
 - Cellules **cohésives**
 - Forme peu différenciée : architecture solide avec quelques lumières glandulaires
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.12 Adénocarcinome de lestomac/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.12%20Ad%C3%A9nocarcinome%20de%20lestomac/p23_01.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.12 Adénocarcinome de lestomac/p23_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.12%20Ad%C3%A9nocarcinome%20de%20lestomac/p23_02.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.12 Adénocarcinome de lestomac/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.12%20Ad%C3%A9nocarcinome%20de%20lestomac/p24_01.jpeg)
 
 ### Adénocarcinome papillaire
 - Axe conjonctivo-vasculaire revêtu d'épithélium atypique
 - Rares formes micropapillaires
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.12 Adénocarcinome de lestomac/p25_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.12%20Ad%C3%A9nocarcinome%20de%20lestomac/p25_01.jpeg)
 
 ### Adénocarcinome mucineux
 - **> 50 % de mucus extracellulaire**
 - Flaques de mucus avec cellules tumorales flottantes
 - Peut contenir des cellules en bague à chaton (mais pas spécifique)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.12 Adénocarcinome de lestomac/p26_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.12%20Ad%C3%A9nocarcinome%20de%20lestomac/p26_01.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.12 Adénocarcinome de lestomac/p26_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.12%20Ad%C3%A9nocarcinome%20de%20lestomac/p26_02.jpeg)
 
 ### Carcinome à cellules peu cohésives (CCPC) — entité à part entière
 
@@ -215,13 +215,13 @@ source: DES ACP - Cours de digestif (F. Renaud)
   - **Plasmocytoïdes** ou **histiocytoïdes** (mimant l'inflammation) → IHC nécessaire
   - Formes à **cellules bizarres**
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.12 Adénocarcinome de lestomac/p31_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.12%20Ad%C3%A9nocarcinome%20de%20lestomac/p31_03.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.12 Adénocarcinome de lestomac/p31_05.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.12%20Ad%C3%A9nocarcinome%20de%20lestomac/p31_05.png)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.12 Adénocarcinome de lestomac/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.12%20Ad%C3%A9nocarcinome%20de%20lestomac/p32_00.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.12 Adénocarcinome de lestomac/p32_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.12%20Ad%C3%A9nocarcinome%20de%20lestomac/p32_02.jpeg)
 
 #### Définition consensuelle européenne (3 sous-types)
 
@@ -231,11 +231,11 @@ source: DES ACP - Cours de digestif (F. Renaud)
 | **CCPC intermédiaire** | **10-90 %** |
 | **CCPC NOS** | **< 10 %** |
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.12 Adénocarcinome de lestomac/p36_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.12%20Ad%C3%A9nocarcinome%20de%20lestomac/p36_00.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.12 Adénocarcinome de lestomac/p36_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.12%20Ad%C3%A9nocarcinome%20de%20lestomac/p36_01.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.12 Adénocarcinome de lestomac/p37_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.12%20Ad%C3%A9nocarcinome%20de%20lestomac/p37_00.jpeg)
 
 #### Pièges diagnostiques
 - Sous-type difficile à placer entre **ADK tubulé peu différencié, indifférencié, lympho-épithélial**
@@ -258,10 +258,10 @@ source: DES ACP - Cours de digestif (F. Renaud)
 - **Meilleur pronostic** que les autres ADK
 - **Excellente réponse aux immunothérapies** (essais phase II : 100 % de réponse pour EBV+)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.12 Adénocarcinome de lestomac/p40_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.12%20Ad%C3%A9nocarcinome%20de%20lestomac/p40_03.jpeg)
 
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.12 Adénocarcinome de lestomac/p41_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.12%20Ad%C3%A9nocarcinome%20de%20lestomac/p41_00.jpeg)
 
 ### Variants rares
 - Adénosquameux
@@ -270,7 +270,7 @@ source: DES ACP - Cours de digestif (F. Renaud)
 - Indifférencié
 - **À différenciation entéroblastique** (Japon, prochaine OMS) : cellules cylindriques claires, **SALL4+, glypican+, AFP+**
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.12 Adénocarcinome de lestomac/p43_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.12%20Ad%C3%A9nocarcinome%20de%20lestomac/p43_00.jpeg)
 
 ## Stroma tumoral
 
@@ -281,9 +281,9 @@ source: DES ACP - Cours de digestif (F. Renaud)
 | **Desmoplastique** (fibreux dense) | CCPC notamment |
 | **Granulomateux** | Variant OMS |
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.12 Adénocarcinome de lestomac/p44_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.12%20Ad%C3%A9nocarcinome%20de%20lestomac/p44_01.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.12 Adénocarcinome de lestomac/p44_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.12%20Ad%C3%A9nocarcinome%20de%20lestomac/p44_02.jpeg)
 
 ## Éléments pronostiques
 
@@ -292,11 +292,11 @@ source: DES ACP - Cours de digestif (F. Renaud)
 - Stade **pTNM** (8e édition) ou **ypTNM** post-traitement
 - **Régression tumorale** : grade de **Becker** (% de tumeur résiduelle, pièce + ganglions)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.12 Adénocarcinome de lestomac/p49_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.12%20Ad%C3%A9nocarcinome%20de%20lestomac/p49_01.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.12 Adénocarcinome de lestomac/p49_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.12%20Ad%C3%A9nocarcinome%20de%20lestomac/p49_02.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.12 Adénocarcinome de lestomac/p49_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.12%20Ad%C3%A9nocarcinome%20de%20lestomac/p49_04.jpeg)
 
 ## Diagnostics différentiels
 

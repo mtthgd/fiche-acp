@@ -81,7 +81,7 @@ Tumeurs développées à partir du **mésenchyme/cordons** de la **gonade indiff
 - **12 cm** en moyenne
 - Couleur blanche, jaune, orange ou marron
 
-![[assets/gyneco-sein/ovaire/Ovaire cordons sexuels stroma cordons purs/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/Ovaire%20cordons%20sexuels%20stroma%20cordons%20purs/p06_01.jpeg)
 
 ### Histologie
 
@@ -104,13 +104,13 @@ Tumeurs développées à partir du **mésenchyme/cordons** de la **gonade indiff
 | Solide | DD avec fibrome |
 | Cordonale | DD avec carcinome |
 
-![[assets/gyneco-sein/ovaire/Ovaire cordons sexuels stroma cordons purs/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/Ovaire%20cordons%20sexuels%20stroma%20cordons%20purs/p07_01.jpeg)
 
-![[assets/gyneco-sein/ovaire/Ovaire cordons sexuels stroma cordons purs/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/Ovaire%20cordons%20sexuels%20stroma%20cordons%20purs/p08_01.jpeg)
 
-![[assets/gyneco-sein/ovaire/Ovaire cordons sexuels stroma cordons purs/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/Ovaire%20cordons%20sexuels%20stroma%20cordons%20purs/p09_01.jpeg)
 
-![[assets/gyneco-sein/ovaire/Ovaire cordons sexuels stroma cordons purs/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/Ovaire%20cordons%20sexuels%20stroma%20cordons%20purs/p10_01.jpeg)
 
 ### Réflexe diagnostique : **réticuline**
 - Granulosa : **groupes cellulaires** entourés (≠ fibrome où chaque cellule est entourée)
@@ -235,9 +235,9 @@ Tumeurs développées à partir du **mésenchyme/cordons** de la **gonade indiff
 - Aspect **rétiforme** possible (rete testis-like)
 - Stroma fibro-hyalin abondant
 
-![[assets/gyneco-sein/ovaire/Ovaire cordons sexuels stroma cordons purs/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/Ovaire%20cordons%20sexuels%20stroma%20cordons%20purs/p18_01.jpeg)
 
-![[assets/gyneco-sein/ovaire/Ovaire cordons sexuels stroma cordons purs/p18_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/Ovaire%20cordons%20sexuels%20stroma%20cordons%20purs/p18_02.jpeg)
 
 ### IHC
 
@@ -279,9 +279,9 @@ Tumeurs développées à partir du **mésenchyme/cordons** de la **gonade indiff
 - **Simples** : cylindres hyalins **cernés de noyaux**
 - **Complexes** : cylindres hyalins cernés de noyaux + **couronne périphérique de noyaux** avec tubes simples à l’intérieur
 
-![[assets/gyneco-sein/ovaire/Ovaire cordons sexuels stroma cordons purs/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/Ovaire%20cordons%20sexuels%20stroma%20cordons%20purs/p21_01.jpeg)
 
-![[assets/gyneco-sein/ovaire/Ovaire cordons sexuels stroma cordons purs/p21_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/Ovaire%20cordons%20sexuels%20stroma%20cordons%20purs/p21_02.jpeg)
 
 ### **2 formes cliniques**
 

@@ -34,7 +34,7 @@ Caractéristiques :
 - Permet d’**économiser** du séquençage en filtrant les ADN normaux
 
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-315  Principes de lHRM/p01_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-315%20%20Principes%20de%20lHRM/p01_03.png)
 
 ## Indications / Applications
 
@@ -60,11 +60,11 @@ Caractéristiques :
 - Détermination du **TM** des produits d’amplification
 - Amplicon recommandé : **< 150 pb** (garantie de bonne efficacité)
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-315  Principes de lHRM/p04_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-315%20%20Principes%20de%20lHRM/p04_00.png)
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-315  Principes de lHRM/p05_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-315%20%20Principes%20de%20lHRM/p05_00.png)
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-315  Principes de lHRM/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-315%20%20Principes%20de%20lHRM/p06_00.jpeg)
 
 ### 3. Dénaturation – renaturation
 - **Dénaturation** finale du produit PCR à **95 °C**
@@ -76,11 +76,11 @@ Caractéristiques :
 - **Relargage du LC480** au fur et à mesure que l’ADN devient simple brin
 - Diminution progressive de la fluorescence jusqu’à 0 (ADN 100 % simple brin)
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-315  Principes de lHRM/p07_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-315%20%20Principes%20de%20lHRM/p07_00.png)
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-315  Principes de lHRM/p08_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-315%20%20Principes%20de%20lHRM/p08_00.png)
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-315  Principes de lHRM/p09_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-315%20%20Principes%20de%20lHRM/p09_00.png)
 
 ## Paramètres analysés
 
@@ -91,10 +91,10 @@ Caractéristiques :
 | **Différents spots** | Position des courbes par rapport à l’axe des abscisses (témoins normaux) |
 | **Seuil** | À définir pour discriminer les profils intermédiaires |
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-315  Principes de lHRM/p10_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-315%20%20Principes%20de%20lHRM/p10_00.png)
 
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-315  Principes de lHRM/p11_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-315%20%20Principes%20de%20lHRM/p11_03.png)
 
 ## Profils de courbes
 
@@ -127,13 +127,13 @@ Très bonne **concordance HRM ↔ séquençage** :
 - Profils mutés → séquençage trouve la mutation
 - Profils **intermédiaires** : **mutation rare** dans une minorité des cas, sauvages dans la majorité
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-315  Principes de lHRM/p12_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-315%20%20Principes%20de%20lHRM/p12_00.png)
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-315  Principes de lHRM/p12_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-315%20%20Principes%20de%20lHRM/p12_03.png)
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-315  Principes de lHRM/p14_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-315%20%20Principes%20de%20lHRM/p14_00.png)
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-315  Principes de lHRM/p14_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-315%20%20Principes%20de%20lHRM/p14_03.png)
 
 ## Pièges / Contrôles qualité
 

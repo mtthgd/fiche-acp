@@ -26,7 +26,7 @@ source: DES ACP - Cours de gynéco-pathologie (ovaire)
 - Femme en **période péri-ménopausique**
 - Localisations extra-ovariennes possibles : ligament large, **testicule chez l’homme**
 
-![[assets/gyneco-sein/ovaire/04_54_05 Tumeur de Brenner des 2018 H Roussel def/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_05%20Tumeur%20de%20Brenner%20des%202018%20H%20Roussel%20def/p03_00.jpeg)
 
 ## Classification OMS 2014 — 3 catégories
 
@@ -62,7 +62,7 @@ source: DES ACP - Cours de gynéco-pathologie (ovaire)
 - Couleur **jaunâtre ou blanc-grisâtre**, parfois kystique
 - **25 % associée à une autre lésion** : cystadénome mucineux ++, cystadénome séreux, kyste dermoïde
 
-![[assets/gyneco-sein/ovaire/04_54_05 Tumeur de Brenner des 2018 H Roussel def/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_05%20Tumeur%20de%20Brenner%20des%202018%20H%20Roussel%20def/p07_00.jpeg)
 
 ### Histologie
 
@@ -74,13 +74,13 @@ source: DES ACP - Cours de gynéco-pathologie (ovaire)
 - **Métaplasie malpighienne** centrale possible
 - Stroma **abondant fibromateux** souvent **hyalinisé ou calcifié**
 
-![[assets/gyneco-sein/ovaire/04_54_05 Tumeur de Brenner des 2018 H Roussel def/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_05%20Tumeur%20de%20Brenner%20des%202018%20H%20Roussel%20def/p08_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_05 Tumeur de Brenner des 2018 H Roussel def/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_05%20Tumeur%20de%20Brenner%20des%202018%20H%20Roussel%20def/p09_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_05 Tumeur de Brenner des 2018 H Roussel def/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_05%20Tumeur%20de%20Brenner%20des%202018%20H%20Roussel%20def/p10_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_05 Tumeur de Brenner des 2018 H Roussel def/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_05%20Tumeur%20de%20Brenner%20des%202018%20H%20Roussel%20def/p11_00.jpeg)
 
 ### Immunohistochimie (phénotype urothélial)
 
@@ -93,7 +93,7 @@ source: DES ACP - Cours de gynéco-pathologie (ovaire)
 | Thrombomoduline | + |
 | **CK20** | + (focal apical) |
 
-![[assets/gyneco-sein/ovaire/04_54_05 Tumeur de Brenner des 2018 H Roussel def/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_05%20Tumeur%20de%20Brenner%20des%202018%20H%20Roussel%20def/p13_00.jpeg)
 
 ---
 
@@ -110,7 +110,7 @@ Tumeur composée d’un **épithélium transitionnel proliférant** ressemblant 
 - **Grande taille** (moyenne 18 cm)
 - Lésion **prédominamment kystique** : projections **papillaires friables** (contingent borderline) + secteurs solides minoritaires (Brenner bénin associé)
 
-![[assets/gyneco-sein/ovaire/04_54_05 Tumeur de Brenner des 2018 H Roussel def/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_05%20Tumeur%20de%20Brenner%20des%202018%20H%20Roussel%20def/p16_00.jpeg)
 
 ### Histologie
 
@@ -125,7 +125,7 @@ Tumeur composée d’un **épithélium transitionnel proliférant** ressemblant 
 
 
 
-![[assets/gyneco-sein/ovaire/04_54_05 Tumeur de Brenner des 2018 H Roussel def/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_05%20Tumeur%20de%20Brenner%20des%202018%20H%20Roussel%20def/p19_00.jpeg)
 
 ### IHC
 - **CK7+**, **p63+**, **GATA3+**
@@ -153,7 +153,7 @@ Tumeur composée d’un **épithélium transitionnel proliférant** ressemblant 
 - Secteurs fibromateux calcifiés (= Brenner bénin sous-jacent à rechercher)
 - **Limitée à l’ovaire** le plus souvent, rarement bilatérale
 
-![[assets/gyneco-sein/ovaire/04_54_05 Tumeur de Brenner des 2018 H Roussel def/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_05%20Tumeur%20de%20Brenner%20des%202018%20H%20Roussel%20def/p21_00.jpeg)
 
 ### Histologie
 
@@ -165,7 +165,7 @@ Tumeur composée d’un **épithélium transitionnel proliférant** ressemblant 
 - **Contingent Brenner bénin/borderline obligatoire** au diagnostic
 
 
-![[assets/gyneco-sein/ovaire/04_54_05 Tumeur de Brenner des 2018 H Roussel def/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_05%20Tumeur%20de%20Brenner%20des%202018%20H%20Roussel%20def/p23_00.jpeg)
 
 ### IHC
 - **Perte des marqueurs urothéliaux**
@@ -193,9 +193,9 @@ Tumeur composée d’un **épithélium transitionnel proliférant** ressemblant 
 
 10-15 % des carcinomes ovariens HG comportent un contingent transitionnel ; 22 % ont un pattern transitionnel prédominant.
 
-![[assets/gyneco-sein/ovaire/04_54_05 Tumeur de Brenner des 2018 H Roussel def/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_05%20Tumeur%20de%20Brenner%20des%202018%20H%20Roussel%20def/p24_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_05 Tumeur de Brenner des 2018 H Roussel def/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_05%20Tumeur%20de%20Brenner%20des%202018%20H%20Roussel%20def/p25_00.jpeg)
 
 ## Autres DD
 

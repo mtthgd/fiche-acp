@@ -36,7 +36,7 @@ Le **squelette organophosphoré** de l’ADN/ARN est **chargé négativement** �
 
 > *« Vive le phosphate ! »* — il permet l’électrophorèse.
 
-![[assets/pathologie-moleculaire/rappels-adn/16-160 Electrophorèse - Partie 2 pdf/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-160%20Electrophor%C3%A8se%20-%20Partie%202%20pdf/p02_00.jpeg)
 
 ## Pouvoir discriminant — types de gel
 
@@ -73,9 +73,9 @@ Concentrations variables possibles dans les deux types.
 6. Retirer scotchs et peigne, positionner dans la cuve
 
 
-![[assets/pathologie-moleculaire/rappels-adn/16-160 Electrophorèse - Partie 2 pdf/p04_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-160%20Electrophor%C3%A8se%20-%20Partie%202%20pdf/p04_02.png)
 
-![[assets/pathologie-moleculaire/rappels-adn/16-160 Electrophorèse - Partie 2 pdf/p04_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-160%20Electrophor%C3%A8se%20-%20Partie%202%20pdf/p04_03.png)
 
 ### Préparation des échantillons
 | Additif | Rôle |
@@ -129,7 +129,7 @@ Lecture sous **UV** : bandes d’ADN apparentes ; photo Polaroid → image **noi
 ⚠ **Limite intrinsèque** des gels d’agarose : ne permet pas de distinguer **des variations de quelques paires de bases**, même à concentration élevée.
 
 
-![[assets/pathologie-moleculaire/rappels-adn/16-160 Electrophorèse - Partie 2 pdf/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-160%20Electrophor%C3%A8se%20-%20Partie%202%20pdf/p09_00.jpeg)
 
 ## Gel de polyacrylamide
 
@@ -151,9 +151,9 @@ Pour résolution **haute** (mailles **fines, denses**) :
 - Électrodes en haut (–) et en bas (+)
 
 
-![[assets/pathologie-moleculaire/rappels-adn/16-160 Electrophorèse - Partie 2 pdf/p09_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-160%20Electrophor%C3%A8se%20-%20Partie%202%20pdf/p09_02.png)
 
-![[assets/pathologie-moleculaire/rappels-adn/16-160 Electrophorèse - Partie 2 pdf/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-160%20Electrophor%C3%A8se%20-%20Partie%202%20pdf/p10_00.jpeg)
 
 ## Synthèse — choix du gel selon la résolution
 
@@ -165,7 +165,7 @@ Pour résolution **haute** (mailles **fines, denses**) :
 
 La **longueur de migration** est cruciale : plus on fait migrer, **plus on discrimine**. Possibilité de gels de **30 cm**, mais **fragiles** et difficiles à manipuler → solution = électrophorèse capillaire (cf [[16_160 Électrophorèse - Partie 2]]).
 
-![[assets/pathologie-moleculaire/rappels-adn/16-160 Electrophorèse - Partie 2 pdf/p11_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-160%20Electrophor%C3%A8se%20-%20Partie%202%20pdf/p11_00.png)
 
 ---
 

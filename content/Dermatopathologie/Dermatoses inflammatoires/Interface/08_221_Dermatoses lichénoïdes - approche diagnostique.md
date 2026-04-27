@@ -29,13 +29,13 @@ source: DES ACP - Cours de Dermatopathologie
 3. **Incontinence pigmentaire** (mélanophages dermiques) secondaire à la mort des kératinocytes basaux
 4. **Infiltrat inflammatoire** du derme superficiel, abondance et composition variables
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221 - Dermatoses lichénoïdes - approche diagnostique/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221%20-%20Dermatoses%20lich%C3%A9no%C3%AFdes%20-%20approche%20diagnostique/p04_00.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221 - Dermatoses lichénoïdes - approche diagnostique/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221%20-%20Dermatoses%20lich%C3%A9no%C3%AFdes%20-%20approche%20diagnostique/p04_01.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221 - Dermatoses lichénoïdes - approche diagnostique/p04_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221%20-%20Dermatoses%20lich%C3%A9no%C3%AFdes%20-%20approche%20diagnostique/p04_03.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221 - Dermatoses lichénoïdes - approche diagnostique/p04_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221%20-%20Dermatoses%20lich%C3%A9no%C3%AFdes%20-%20approche%20diagnostique/p04_04.jpeg)
 
 ## Classification en 3 types
 
@@ -45,9 +45,9 @@ source: DES ACP - Cours de Dermatopathologie
 | **Vacuolaire** | Vacuolisation basale + infiltrat lymphocytaire **discret** | **Lupus érythémateux** |
 | **Avec apoptose étagée** | Apoptoses nombreuses étagées ± confluentes | **Érythème polymorphe** |
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221 - Dermatoses lichénoïdes - approche diagnostique/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221%20-%20Dermatoses%20lich%C3%A9no%C3%AFdes%20-%20approche%20diagnostique/p05_01.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221 - Dermatoses lichénoïdes - approche diagnostique/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221%20-%20Dermatoses%20lich%C3%A9no%C3%AFdes%20-%20approche%20diagnostique/p06_01.jpeg)
 
 ## Démarche diagnostique
 
@@ -78,7 +78,7 @@ source: DES ACP - Cours de Dermatopathologie
 
 > ⚠️ **Pas de PNE dans le lupus érythémateux** (utile en DD).
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221 - Dermatoses lichénoïdes - approche diagnostique/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221%20-%20Dermatoses%20lich%C3%A9no%C3%AFdes%20-%20approche%20diagnostique/p07_01.jpeg)
 
 ### Étape 3 — Pour les dermatoses lichénoïdes vacuolaires
 
@@ -89,11 +89,11 @@ source: DES ACP - Cours de Dermatopathologie
 | **Lamelle cornoïde** | **Porokératose** |
 | Allogreffe (forme aiguë) | **GVH aiguë** |
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221 - Dermatoses lichénoïdes - approche diagnostique/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221%20-%20Dermatoses%20lich%C3%A9no%C3%AFdes%20-%20approche%20diagnostique/p09_00.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221 - Dermatoses lichénoïdes - approche diagnostique/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221%20-%20Dermatoses%20lich%C3%A9no%C3%AFdes%20-%20approche%20diagnostique/p09_02.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221 - Dermatoses lichénoïdes - approche diagnostique/p09_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221%20-%20Dermatoses%20lich%C3%A9no%C3%AFdes%20-%20approche%20diagnostique/p09_03.jpeg)
 
 ### Étape 4 — Pour les dermatoses lichénoïdes avec apoptose étagée
 
@@ -105,9 +105,9 @@ Affections nombreuses, dominées par les **toxidermies** et les **maladies bulle
 - **Érythème polymorphe**
 - **Pityriasis lichénoïde aigu** (varioliforme, PLEVA, maladie de Mucha-Habermann)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221 - Dermatoses lichénoïdes - approche diagnostique/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221%20-%20Dermatoses%20lich%C3%A9no%C3%AFdes%20-%20approche%20diagnostique/p10_01.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221 - Dermatoses lichénoïdes - approche diagnostique/p10_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221%20-%20Dermatoses%20lich%C3%A9no%C3%AFdes%20-%20approche%20diagnostique/p10_03.jpeg)
 
 ## Entités spécifiques détaillées
 
@@ -123,9 +123,9 @@ Affections nombreuses, dominées par les **toxidermies** et les **maladies bulle
   - Inflammation lymphocytaire prédominant **autour des vaisseaux** (vasculite lymphocytaire pour certains)
 - **Phénotype CD4 > CD8** → DD avec **mycosis fongoïde** parfois difficile
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221 - Dermatoses lichénoïdes - approche diagnostique/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221%20-%20Dermatoses%20lich%C3%A9no%C3%AFdes%20-%20approche%20diagnostique/p11_01.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221 - Dermatoses lichénoïdes - approche diagnostique/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221%20-%20Dermatoses%20lich%C3%A9no%C3%AFdes%20-%20approche%20diagnostique/p11_02.jpeg)
 
 ### Pityriasis lichénoïde aigu (PLEVA, maladie de Mucha-Habermann)
 
@@ -143,9 +143,9 @@ Affections nombreuses, dominées par les **toxidermies** et les **maladies bulle
 - Histologie : dermatose vacuolaire **avec apoptose étagée**, peut aboutir à un décollement bulleux par **nécrose épidermique** quand l'apoptose devient confluente
 - DD principal : toxidermies type **SJS/Lyell** et **érythème pigmenté fixe**
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221 - Dermatoses lichénoïdes - approche diagnostique/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221%20-%20Dermatoses%20lich%C3%A9no%C3%AFdes%20-%20approche%20diagnostique/p13_00.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221 - Dermatoses lichénoïdes - approche diagnostique/p13_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221%20-%20Dermatoses%20lich%C3%A9no%C3%AFdes%20-%20approche%20diagnostique/p13_02.jpeg)
 
 ### Réaction du greffon contre l'hôte (GVH)
 
@@ -164,9 +164,9 @@ Affections nombreuses, dominées par les **toxidermies** et les **maladies bulle
 - Phase initiale : aspect de **lichen plan**
 - Phase d'état : aspect **sclérodermiforme**
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221 - Dermatoses lichénoïdes - approche diagnostique/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221%20-%20Dermatoses%20lich%C3%A9no%C3%AFdes%20-%20approche%20diagnostique/p14_01.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221 - Dermatoses lichénoïdes - approche diagnostique/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221%20-%20Dermatoses%20lich%C3%A9no%C3%AFdes%20-%20approche%20diagnostique/p14_02.jpeg)
 
 ## Tableau récapitulatif des principales étiologies
 
@@ -177,11 +177,11 @@ Affections nombreuses, dominées par les **toxidermies** et les **maladies bulle
 | **Vacuolaire** | Lupus aigu/subaigu, dermatomyosite, lichen nitidus, porokératose, GVH aiguë initiale |
 | **Apoptose étagée** | Toxidermies (SJS/Lyell, EPF, DRESS), érythème polymorphe, GVH aiguë grade 4, lupus bulleux, PLEVA |
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221 - Dermatoses lichénoïdes - approche diagnostique/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221%20-%20Dermatoses%20lich%C3%A9no%C3%AFdes%20-%20approche%20diagnostique/p15_01.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221 - Dermatoses lichénoïdes - approche diagnostique/p15_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221%20-%20Dermatoses%20lich%C3%A9no%C3%AFdes%20-%20approche%20diagnostique/p15_02.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221 - Dermatoses lichénoïdes - approche diagnostique/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221%20-%20Dermatoses%20lich%C3%A9no%C3%AFdes%20-%20approche%20diagnostique/p16_01.jpeg)
 
 ## Diagnostics différentiels (résumé)
 

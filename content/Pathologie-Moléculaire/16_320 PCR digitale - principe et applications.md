@@ -32,11 +32,11 @@ Différence avec la **qPCR conventionnelle** :
 
 C’est une technique à la fois **qualitative** et **quantitative** (quantification **absolue**).
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320 PCR Digitale Principe et applications/p01_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320%20PCR%20Digitale%20Principe%20et%20applications/p01_06.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320 PCR Digitale Principe et applications/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320%20PCR%20Digitale%20Principe%20et%20applications/p02_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320 PCR Digitale Principe et applications/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320%20PCR%20Digitale%20Principe%20et%20applications/p03_00.jpeg)
 
 ## Indications / Applications
 
@@ -66,11 +66,11 @@ C’est une technique à la fois **qualitative** et **quantitative** (quantifica
 - **Huile de génération de gouttelettes** spécifique
 - **Cartouches microfluidiques** (jusqu’à 8 échantillons par cartouche)
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320 PCR Digitale Principe et applications/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320%20PCR%20Digitale%20Principe%20et%20applications/p04_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320 PCR Digitale Principe et applications/p05_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320%20PCR%20Digitale%20Principe%20et%20applications/p05_00.png)
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320 PCR Digitale Principe et applications/p06_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320%20PCR%20Digitale%20Principe%20et%20applications/p06_00.png)
 
 ## Étapes techniques (workflow ddPCR)
 
@@ -86,9 +86,9 @@ C’est une technique à la fois **qualitative** et **quantitative** (quantifica
 - Amplification dans **chaque** micro-réacteur
 - **Gradient de température** lors des mises au point pour optimiser séparation négatif/positif
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320 PCR Digitale Principe et applications/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320%20PCR%20Digitale%20Principe%20et%20applications/p07_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320 PCR Digitale Principe et applications/p08_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320%20PCR%20Digitale%20Principe%20et%20applications/p08_00.png)
 
 
 ### 3. Détection (lecture des gouttelettes)
@@ -102,7 +102,7 @@ C’est une technique à la fois **qualitative** et **quantitative** (quantifica
 - **Minimum 10 000 gouttelettes** par échantillon pour interprétation valide
 - Calcul du nombre de copies par **loi de Poisson**
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320 PCR Digitale Principe et applications/p10_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320%20PCR%20Digitale%20Principe%20et%20applications/p10_00.png)
 
 
 
@@ -127,11 +127,11 @@ C’est une technique à la fois **qualitative** et **quantitative** (quantifica
   - **Doubles positives** (orange) — ADN muté + sauvage
   - **Vides / négatives** (noir)
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320 PCR Digitale Principe et applications/p14_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320%20PCR%20Digitale%20Principe%20et%20applications/p14_00.png)
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320 PCR Digitale Principe et applications/p15_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320%20PCR%20Digitale%20Principe%20et%20applications/p15_00.png)
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320 PCR Digitale Principe et applications/p16_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320%20PCR%20Digitale%20Principe%20et%20applications/p16_00.png)
 
 ## Données rendues par échantillon
 
@@ -154,11 +154,11 @@ C’est une technique à la fois **qualitative** et **quantitative** (quantifica
 | **L858R / Del19** | **82–86 %** | **3–4 %** |
 | **T790M** | **70 %** | **3 %** |
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320 PCR Digitale Principe et applications/p18_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320%20PCR%20Digitale%20Principe%20et%20applications/p18_00.png)
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320 PCR Digitale Principe et applications/p19_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320%20PCR%20Digitale%20Principe%20et%20applications/p19_00.png)
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320 PCR Digitale Principe et applications/p20_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320%20PCR%20Digitale%20Principe%20et%20applications/p20_00.png)
 
 ## Gamme dynamique — quantité d’ADN critique
 
@@ -188,19 +188,19 @@ C’est une technique à la fois **qualitative** et **quantitative** (quantifica
 
 ⚠️ Position **cis** vs **trans** de **C797S** par rapport à T790M = conséquence thérapeutique (combinaison d’anti-EGFR de 2e + 3e génération possible ou non).
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320 PCR Digitale Principe et applications/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320%20PCR%20Digitale%20Principe%20et%20applications/p25_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320 PCR Digitale Principe et applications/p26_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320%20PCR%20Digitale%20Principe%20et%20applications/p26_00.png)
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320 PCR Digitale Principe et applications/p27_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320%20PCR%20Digitale%20Principe%20et%20applications/p27_00.png)
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320 PCR Digitale Principe et applications/p28_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320%20PCR%20Digitale%20Principe%20et%20applications/p28_00.png)
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320 PCR Digitale Principe et applications/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320%20PCR%20Digitale%20Principe%20et%20applications/p29_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320 PCR Digitale Principe et applications/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320%20PCR%20Digitale%20Principe%20et%20applications/p31_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320 PCR Digitale Principe et applications/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-320%20PCR%20Digitale%20Principe%20et%20applications/p32_00.jpeg)
 
 ## Avantages / Limites
 

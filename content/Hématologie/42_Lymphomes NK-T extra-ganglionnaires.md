@@ -31,7 +31,7 @@ date: 2024
 - **Nécrose, apoptose**
 - **Angiocentrisme et angio-destruction** marqués
 
-![[assets/hematologie/lymphome_t:nk/DES-PTCLNOS-ATLL-2019/p01_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_t%3Ank/DES-PTCLNOS-ATLL-2019/p01_00.jpeg)
 
 ### Phénotype
 

@@ -65,7 +65,7 @@ source: DES ACP - Cours de gynéco-pathologie
 
 → Levée du double verrou → **carcinogenèse**
 
-![[assets/gyneco-sein/cours_transversaux/04_11_05 gyneco molec DES FPL/p05_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_05%20gyneco%20molec%20DES%20FPL/p05_00.png)
 
 
 ## Conséquences thérapeutiques
@@ -115,9 +115,9 @@ source: DES ACP - Cours de gynéco-pathologie
 | **MSS / Copy Number Low (groupe 3)** | Majoritaire | Endométrioïde grade 1-2, **P53 wt**, **MSS** | Intermédiaire (~52 %) |
 | **Copy Number High / serous-like (type II)** | ~ 24 % | **P53 muté > 90 %**, séreux, cellules claires, endométrioïde haut grade | **Mauvais (~42 %)** |
 
-![[assets/gyneco-sein/cours_transversaux/04_11_05 gyneco molec DES FPL/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_05%20gyneco%20molec%20DES%20FPL/p10_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_05 gyneco molec DES FPL/p11_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_05%20gyneco%20molec%20DES%20FPL/p11_00.png)
 
 ## Algorithme de phénotypage en pratique
 
@@ -175,7 +175,7 @@ ADK endomètre
 
 
 
-![[assets/gyneco-sein/cours_transversaux/04_11_05 gyneco molec DES FPL/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_05%20gyneco%20molec%20DES%20FPL/p19_00.jpeg)
 
 ## Théorie tubaire (Crum)
 
@@ -226,7 +226,7 @@ ADK endomètre
 - Témoins indispensables car on attend une **négativité** (artefact possible)
 
 
-![[assets/gyneco-sein/cours_transversaux/04_11_05 gyneco molec DES FPL/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_05%20gyneco%20molec%20DES%20FPL/p26_00.jpeg)
 
 ---
 

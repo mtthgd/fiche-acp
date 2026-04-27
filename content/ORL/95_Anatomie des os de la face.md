@@ -38,11 +38,11 @@ Os **impair**, formant la partie **inférieure** du visage, articulé avec le te
 - **Partie inférieure du corps** : os **très compact**
 - **Partie alvéolaire** (supérieure, contient les dents) : os **moins compact**, plus spongieux
 
-![[assets/ORL/os_de_la_face-dent/introduction/10-611 Anatomie des os de la face/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/introduction/10-611%20Anatomie%20des%20os%20de%20la%20face/p03_00.jpeg)
 
-![[assets/ORL/os_de_la_face-dent/introduction/10-611 Anatomie des os de la face/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/introduction/10-611%20Anatomie%20des%20os%20de%20la%20face/p04_00.jpeg)
 
-![[assets/ORL/os_de_la_face-dent/introduction/10-611 Anatomie des os de la face/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/introduction/10-611%20Anatomie%20des%20os%20de%20la%20face/p04_01.jpeg)
 
 ## 2. Maxillaire
 
@@ -66,9 +66,9 @@ Os **pair**, constituant l'**arcade dentaire supérieure** et participant à plu
 - **Paroi latérale des fosses nasales** (en dedans)
 - **Palais dur** (en bas et en arrière, partie antérieure)
 
-![[assets/ORL/os_de_la_face-dent/introduction/10-611 Anatomie des os de la face/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/introduction/10-611%20Anatomie%20des%20os%20de%20la%20face/p06_00.jpeg)
 
-![[assets/ORL/os_de_la_face-dent/introduction/10-611 Anatomie des os de la face/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/introduction/10-611%20Anatomie%20des%20os%20de%20la%20face/p07_00.jpeg)
 
 ## 3. Sinus maxillaire
 
@@ -91,9 +91,9 @@ Os **impair médian** comportant trois éléments :
   - Insertion du **cornet moyen** et du **cornet supérieur**
 - **Lame perpendiculaire** : verticale, forme la partie osseuse de la **cloison nasale**
 
-![[assets/ORL/os_de_la_face-dent/introduction/10-611 Anatomie des os de la face/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/introduction/10-611%20Anatomie%20des%20os%20de%20la%20face/p11_00.jpeg)
 
-![[assets/ORL/os_de_la_face-dent/introduction/10-611 Anatomie des os de la face/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/introduction/10-611%20Anatomie%20des%20os%20de%20la%20face/p11_00.jpeg)
 
 ## 6. Vomer
 
@@ -108,7 +108,7 @@ Os **impair médian** comportant trois éléments :
 | En bas et en arrière | Lame horizontale du palatin |
 | En arrière | Corps du sphénoïde |
 
-![[assets/ORL/os_de_la_face-dent/introduction/10-611 Anatomie des os de la face/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/introduction/10-611%20Anatomie%20des%20os%20de%20la%20face/p13_00.jpeg)
 
 ## 7. Os palatin
 
@@ -123,9 +123,9 @@ Os **impair médian** comportant trois éléments :
 - Vomer
 - Os palatin controlatéral
 
-![[assets/ORL/os_de_la_face-dent/introduction/10-611 Anatomie des os de la face/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/introduction/10-611%20Anatomie%20des%20os%20de%20la%20face/p15_00.jpeg)
 
-![[assets/ORL/os_de_la_face-dent/introduction/10-611 Anatomie des os de la face/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/introduction/10-611%20Anatomie%20des%20os%20de%20la%20face/p16_00.jpeg)
 
 ## 8. Sphénoïde
 
@@ -135,7 +135,7 @@ Os **impair médian** comportant trois éléments :
   - **Petite aile** + **grande aile**
   - **Processus ptérygoïdes** (« trains d'atterrissage ») → partie postérieure des fosses nasales
 
-![[assets/ORL/os_de_la_face-dent/introduction/10-611 Anatomie des os de la face/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/introduction/10-611%20Anatomie%20des%20os%20de%20la%20face/p17_00.jpeg)
 
 ## 9. Vue d'ensemble : palais dur et fosses nasales
 
@@ -157,11 +157,11 @@ Os **impair médian** comportant trois éléments :
 - Sinus sphénoïdal en arrière
 - Processus ptérygoïde + lame perpendiculaire du palatin (en arrière)
 
-![[assets/ORL/os_de_la_face-dent/introduction/10-611 Anatomie des os de la face/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/introduction/10-611%20Anatomie%20des%20os%20de%20la%20face/p18_00.jpeg)
 
-![[assets/ORL/os_de_la_face-dent/introduction/10-611 Anatomie des os de la face/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/introduction/10-611%20Anatomie%20des%20os%20de%20la%20face/p19_00.jpeg)
 
-![[assets/ORL/os_de_la_face-dent/introduction/10-611 Anatomie des os de la face/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/introduction/10-611%20Anatomie%20des%20os%20de%20la%20face/p20_00.jpeg)
 
 # II. ANATOMIE ET DÉVELOPPEMENT DENTAIRE
 
@@ -174,7 +174,7 @@ Os **impair médian** comportant trois éléments :
 | **Centre** | Pulpe (tissu conjonctif vascularisé et innervé) |
 | **Périphérie de la racine** | Périodonte : **cément**, **ligament alvéolo-dentaire**, **os alvéolaire** |
 
-![[assets/ORL/os_de_la_face-dent/introduction/10-611 Anatomie des os de la face/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/introduction/10-611%20Anatomie%20des%20os%20de%20la%20face/p22_00.jpeg)
 
 ## Développement dentaire (embryologie)
 
@@ -198,9 +198,9 @@ Os **impair médian** comportant trois éléments :
 | **Réticulum stellaire** | Au centre de l'organe de l'émail (cellules fusiformes) |
 | **Couche interne** | **Améloblastes** : cellules épithéliales **cylindriques hautes**, à **palissades nucléaires**, **polarité inversée** |
 
-![[assets/ORL/os_de_la_face-dent/introduction/10-611 Anatomie des os de la face/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/introduction/10-611%20Anatomie%20des%20os%20de%20la%20face/p23_00.jpeg)
 
-![[assets/ORL/os_de_la_face-dent/introduction/10-611 Anatomie des os de la face/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/introduction/10-611%20Anatomie%20des%20os%20de%20la%20face/p23_01.jpeg)
 
 ### Étape 4 : Synthèse des tissus durs
 
@@ -217,9 +217,9 @@ Le sac folliculaire donne **trois éléments** :
 - **Ligament alvéolo-dentaire (desmodonte)**
 - **Os alvéolaire**
 
-![[assets/ORL/os_de_la_face-dent/introduction/10-611 Anatomie des os de la face/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/introduction/10-611%20Anatomie%20des%20os%20de%20la%20face/p24_00.jpeg)
 
-![[assets/ORL/os_de_la_face-dent/introduction/10-611 Anatomie des os de la face/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/introduction/10-611%20Anatomie%20des%20os%20de%20la%20face/p24_01.jpeg)
 
 ## Histologie de la dent mature
 
@@ -235,11 +235,11 @@ Le sac folliculaire donne **trois éléments** :
 - **Pas d'émail**
 - Dentine entourée de **cément** → **ligament alvéolo-dentaire** → **os alvéolaire** (provenant tous trois du sac folliculaire)
 
-![[assets/ORL/os_de_la_face-dent/introduction/10-611 Anatomie des os de la face/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/introduction/10-611%20Anatomie%20des%20os%20de%20la%20face/p25_00.jpeg)
 
-![[assets/ORL/os_de_la_face-dent/introduction/10-611 Anatomie des os de la face/p25_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/introduction/10-611%20Anatomie%20des%20os%20de%20la%20face/p25_01.jpeg)
 
-![[assets/ORL/os_de_la_face-dent/introduction/10-611 Anatomie des os de la face/p25_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/introduction/10-611%20Anatomie%20des%20os%20de%20la%20face/p25_02.jpeg)
 
 ## Restes embryonnaires odontogéniques
 

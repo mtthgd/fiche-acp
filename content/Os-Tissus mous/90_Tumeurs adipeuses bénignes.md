@@ -63,15 +63,15 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Pas d'atypies**, pas de mitoses
 - **HMGA2+** dans 80 % (≠ tissu adipeux normal)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p05_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p05_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p05_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p05_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p05_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p05_03.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p06_00.jpeg)
 
 ### Variantes et pièges
 
@@ -87,17 +87,17 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Traitement : abstention ou **énucléation monobloc**
 - Récidive **5 %** (un peu plus si intramusculaire)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p08_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p08_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p09_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p09_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p10_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p10_01.jpeg)
 
 ---
 
@@ -114,7 +114,7 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 ### Macro
 - Bien limitée, jaune-grisâtre-blanchâtre selon contingents
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p11_00.jpeg)
 
 ### Histologie
 
@@ -129,17 +129,17 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Mêmes éléments + **cellules géantes pléomorphes** à **noyaux polylobés en "fleur/floret"**
 - Pas de mitoses — à **ne pas confondre** avec liposarcome bien différencié
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p12_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p13_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p14_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p15_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p16_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p17_00.jpeg)
 
 ### IHC
 
@@ -155,9 +155,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Tumeur lipomateuse atypique / liposarcome bien diff** (MDM2+, HMGA2+, amplification MDM2)
 - Liposarcome myxoïde (écarté aisément)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p20_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p20_00.png)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p21_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p21_00.png)
 
 ---
 
@@ -176,17 +176,17 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Thrombi fibrinoïdes** caractéristiques (inconstants)
 - Pas d'atypies, pas de mitoses
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p22_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p22_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p22_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p22_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p23_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p24_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p25_00.jpeg)
 
 ### DD
 - **Angiosarcome, sarcome de Kaposi** (aisément éliminés)
@@ -215,21 +215,21 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Pas d'atypies, pas de mitoses
 - **Ne pas confondre avec un lipoblaste** (qui n'est pas un critère diagnostique)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p26_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p27_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p28_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p29_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p30_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p30_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p30_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p33_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p34_00.jpeg)
 
 ### IHC
 - **UCP1+** (spécifique graisse brune)
@@ -239,11 +239,11 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Tumeur lipomateuse atypique / liposarcome bien différencié
 - Tumeur à cellules granuleuses, rhabdomyome adulte (IHC si doute)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p35_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p36_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p36_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p37_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p37_00.jpeg)
 
 ---
 
@@ -258,25 +258,25 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 | **Hibernome** (UCP1+) | − | − | − | − |
 | **Tumeur lipomateuse atypique / liposarcome bien diff** | + | **+** | ± | **+** |
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p39_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p39_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p39_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p39_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p40_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p40_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p40_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p40_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p41_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p41_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p42_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p42_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p43_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p43_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p43_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p43_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p46_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p46_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552 Tumeurs adipeuses bénignes/p46_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-552%20Tumeurs%20adipeuses%20b%C3%A9nignes/p46_01.jpeg)
 
 ---
 

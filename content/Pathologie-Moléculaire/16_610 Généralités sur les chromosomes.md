@@ -25,7 +25,7 @@ La cytogénétique a deux versants :
 1. **Versant dynamique** : compaction progressive de la fibre nucléosomique, transformant l’ADN double brin (2 m) en chromosome compacté lors de la mitose. Le chromosome est la **forme de transport de l’information génétique**.
 2. **Versant technique** : ensemble des méthodes d’analyse globale du génome — **caryotype**, **FISH** (métaphasique / interphasique), **CGH-array**, **SNP-array**.
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites sur les chromosomes-Dr Bilhou Nabera-VF 2/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites%20sur%20les%20chromosomes-Dr%20Bilhou%20Nabera-VF%202/p02_00.jpeg)
 
 ## Cycle cellulaire et contenu en ADN
 
@@ -40,9 +40,9 @@ La cytogénétique a deux versants :
 
 > En FISH interphasique sur cellule en G2, un gène donné peut donner **deux spots très proches** (laine du pic = duplication post-S).
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites sur les chromosomes-Dr Bilhou Nabera-VF 2/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites%20sur%20les%20chromosomes-Dr%20Bilhou%20Nabera-VF%202/p03_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites sur les chromosomes-Dr Bilhou Nabera-VF 2/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites%20sur%20les%20chromosomes-Dr%20Bilhou%20Nabera-VF%202/p03_01.jpeg)
 
 ## Étapes de la mitose
 
@@ -55,11 +55,11 @@ La cytogénétique a deux versants :
 | **Télophase** | Reformation enveloppe nucléaire, anneau d’actine/myosine, étranglement |
 | **Cytodiérèse** | Séparation cytoplasmique, répartition aléatoire des organites |
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites sur les chromosomes-Dr Bilhou Nabera-VF 2/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites%20sur%20les%20chromosomes-Dr%20Bilhou%20Nabera-VF%202/p04_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites sur les chromosomes-Dr Bilhou Nabera-VF 2/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites%20sur%20les%20chromosomes-Dr%20Bilhou%20Nabera-VF%202/p04_01.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites sur les chromosomes-Dr Bilhou Nabera-VF 2/p04_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites%20sur%20les%20chromosomes-Dr%20Bilhou%20Nabera-VF%202/p04_02.jpeg)
 
 ## Compaction chromatinienne — niveaux successifs
 
@@ -74,13 +74,13 @@ D’une molécule d’ADN double brin de 2 m vers un chromosome contenu dans un 
 | Boucles 150-200 kb | 300 nm | HMG, facteurs de remodelage (**SWI/SNF** ATP-dépendants) |
 | Chromosome métaphasique | **700 nm** | Compaction maximale |
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites sur les chromosomes-Dr Bilhou Nabera-VF 2/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites%20sur%20les%20chromosomes-Dr%20Bilhou%20Nabera-VF%202/p06_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites sur les chromosomes-Dr Bilhou Nabera-VF 2/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites%20sur%20les%20chromosomes-Dr%20Bilhou%20Nabera-VF%202/p07_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites sur les chromosomes-Dr Bilhou Nabera-VF 2/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites%20sur%20les%20chromosomes-Dr%20Bilhou%20Nabera-VF%202/p07_01.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites sur les chromosomes-Dr Bilhou Nabera-VF 2/p08_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites%20sur%20les%20chromosomes-Dr%20Bilhou%20Nabera-VF%202/p08_00.png)
 
 ## Organisation 3D du noyau
 
@@ -89,9 +89,9 @@ Chaque chromosome occupe un **territoire chromosomique** spécifique. Sous-organ
 - **TADs** (Topologically Associating Domains)
 - Sous-TADs et boucles de chromatine
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites sur les chromosomes-Dr Bilhou Nabera-VF 2/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites%20sur%20les%20chromosomes-Dr%20Bilhou%20Nabera-VF%202/p09_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites sur les chromosomes-Dr Bilhou Nabera-VF 2/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites%20sur%20les%20chromosomes-Dr%20Bilhou%20Nabera-VF%202/p09_01.jpeg)
 
 ## Acteurs protéiques de la condensation chromosomique
 
@@ -118,17 +118,17 @@ Complexes multiprotéiques en forme de « V » :
 - Enlace les **chromatides sœurs** dès la phase S
 - **Clivage par la séparase** au début de l’anaphase → ségrégation chromatidienne
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites sur les chromosomes-Dr Bilhou Nabera-VF 2/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites%20sur%20les%20chromosomes-Dr%20Bilhou%20Nabera-VF%202/p11_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites sur les chromosomes-Dr Bilhou Nabera-VF 2/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites%20sur%20les%20chromosomes-Dr%20Bilhou%20Nabera-VF%202/p12_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites sur les chromosomes-Dr Bilhou Nabera-VF 2/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites%20sur%20les%20chromosomes-Dr%20Bilhou%20Nabera-VF%202/p13_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites sur les chromosomes-Dr Bilhou Nabera-VF 2/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites%20sur%20les%20chromosomes-Dr%20Bilhou%20Nabera-VF%202/p14_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites sur les chromosomes-Dr Bilhou Nabera-VF 2/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites%20sur%20les%20chromosomes-Dr%20Bilhou%20Nabera-VF%202/p15_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites sur les chromosomes-Dr Bilhou Nabera-VF 2/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites%20sur%20les%20chromosomes-Dr%20Bilhou%20Nabera-VF%202/p16_00.jpeg)
 
 ## Structure du chromosome métaphasique
 
@@ -153,16 +153,16 @@ Structure macromoléculaire au centromère lors de la mitose :
 - **Boucle T** + complexe **shelterin** : protège de la dégradation par exonucléases et de la recombinaison
 - Empêche la fusion intercromosomique
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites sur les chromosomes-Dr Bilhou Nabera-VF 2/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites%20sur%20les%20chromosomes-Dr%20Bilhou%20Nabera-VF%202/p18_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites sur les chromosomes-Dr Bilhou Nabera-VF 2/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites%20sur%20les%20chromosomes-Dr%20Bilhou%20Nabera-VF%202/p18_01.jpeg)
 
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites sur les chromosomes-Dr Bilhou Nabera-VF 2/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites%20sur%20les%20chromosomes-Dr%20Bilhou%20Nabera-VF%202/p20_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites sur les chromosomes-Dr Bilhou Nabera-VF 2/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites%20sur%20les%20chromosomes-Dr%20Bilhou%20Nabera-VF%202/p21_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites sur les chromosomes-Dr Bilhou Nabera-VF 2/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites%20sur%20les%20chromosomes-Dr%20Bilhou%20Nabera-VF%202/p22_00.jpeg)
 
 ## Échelles de résolution des techniques cytogénétiques
 
@@ -173,7 +173,7 @@ Structure macromoléculaire au centromère lors de la mitose :
 | **Caryotype** | **≥ 10 Mb** |
 | **CGH/SNP-array** | Pangénomique haute résolution |
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites sur les chromosomes-Dr Bilhou Nabera-VF 2/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites%20sur%20les%20chromosomes-Dr%20Bilhou%20Nabera-VF%202/p24_00.jpeg)
 
 
 ## Caryotype : principes et règles d’interprétation
@@ -190,9 +190,9 @@ Identification + dénombrement de tous les chromosomes d’une cellule **bloqué
 
 Reflet d’une compartimentation du génome (composition AT/GC, richesse en gènes, cinétique de réplication, condensation).
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites sur les chromosomes-Dr Bilhou Nabera-VF 2/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites%20sur%20les%20chromosomes-Dr%20Bilhou%20Nabera-VF%202/p28_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites sur les chromosomes-Dr Bilhou Nabera-VF 2/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites%20sur%20les%20chromosomes-Dr%20Bilhou%20Nabera-VF%202/p29_00.jpeg)
 
 ### Critères de clonalité (convention cytogénétique conventionnelle)
 
@@ -222,9 +222,9 @@ Reflet d’une compartimentation du génome (composition AT/GC, richesse en gèn
 | Lésions non recherchées | Oui | **Non** | **Oui** |
 | Anomalies équilibrées | Oui | Oui | **Non** |
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites sur les chromosomes-Dr Bilhou Nabera-VF 2/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites%20sur%20les%20chromosomes-Dr%20Bilhou%20Nabera-VF%202/p32_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites sur les chromosomes-Dr Bilhou Nabera-VF 2/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-610-Generalites%20sur%20les%20chromosomes-Dr%20Bilhou%20Nabera-VF%202/p33_00.jpeg)
 
 ---
 

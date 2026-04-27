@@ -50,11 +50,11 @@ L’**aspect macroscopique ne préjuge pas** du caractère bénin / borderline /
 
 → Diagnostic : **kyste séreux bénin**.
 
-![[assets/gyneco-sein/ovaire/04_54_01_01 Tumeurs ovariennes +á la limite de la malignit+®/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_01_01%20Tumeurs%20ovariennes%20%2B%C3%A1%20la%20limite%20de%20la%20malignit%2B%C2%AE/p05_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_01_01 Tumeurs ovariennes +á la limite de la malignit+®/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_01_01%20Tumeurs%20ovariennes%20%2B%C3%A1%20la%20limite%20de%20la%20malignit%2B%C2%AE/p06_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_01_01 Tumeurs ovariennes +á la limite de la malignit+®/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_01_01%20Tumeurs%20ovariennes%20%2B%C3%A1%20la%20limite%20de%20la%20malignit%2B%C2%AE/p07_00.jpeg)
 
 ## Tumeur séreuse à la limite de la malignité (TML / borderline)
 
@@ -70,11 +70,11 @@ L’**aspect macroscopique ne préjuge pas** du caractère bénin / borderline /
 - Végétations **intrakystiques et/ou externes**, blanchâtres et friables
 - Atteinte fréquemment **bilatérale**
 
-![[assets/gyneco-sein/ovaire/04_54_01_01 Tumeurs ovariennes +á la limite de la malignit+®/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_01_01%20Tumeurs%20ovariennes%20%2B%C3%A1%20la%20limite%20de%20la%20malignit%2B%C2%AE/p08_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_01_01 Tumeurs ovariennes +á la limite de la malignit+®/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_01_01%20Tumeurs%20ovariennes%20%2B%C3%A1%20la%20limite%20de%20la%20malignit%2B%C2%AE/p09_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_01_01 Tumeurs ovariennes +á la limite de la malignit+®/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_01_01%20Tumeurs%20ovariennes%20%2B%C3%A1%20la%20limite%20de%20la%20malignit%2B%C2%AE/p09_01.jpeg)
 
 ### Histologie
 
@@ -85,9 +85,9 @@ L’**aspect macroscopique ne préjuge pas** du caractère bénin / borderline /
 - **Atypies discrètes**, **mitoses rares**
 - **Pas d’infiltration massive** de l’axe des papilles ou de la paroi
 
-![[assets/gyneco-sein/ovaire/04_54_01_01 Tumeurs ovariennes +á la limite de la malignit+®/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_01_01%20Tumeurs%20ovariennes%20%2B%C3%A1%20la%20limite%20de%20la%20malignit%2B%C2%AE/p11_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_01_01 Tumeurs ovariennes +á la limite de la malignit+®/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_01_01%20Tumeurs%20ovariennes%20%2B%C3%A1%20la%20limite%20de%20la%20malignit%2B%C2%AE/p11_01.jpeg)
 
 
 ### Foyers de micro-invasion
@@ -98,11 +98,11 @@ L’**aspect macroscopique ne préjuge pas** du caractère bénin / borderline /
 - Cellules de **même morphologie** que la TML, sans atypie franche
 - **Aucune signification pronostique** : ne modifie pas la prise en charge
 
-![[assets/gyneco-sein/ovaire/04_54_01_01 Tumeurs ovariennes +á la limite de la malignit+®/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_01_01%20Tumeurs%20ovariennes%20%2B%C3%A1%20la%20limite%20de%20la%20malignit%2B%C2%AE/p13_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_01_01 Tumeurs ovariennes +á la limite de la malignit+®/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_01_01%20Tumeurs%20ovariennes%20%2B%C3%A1%20la%20limite%20de%20la%20malignit%2B%C2%AE/p13_01.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_01_01 Tumeurs ovariennes +á la limite de la malignit+®/p13_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_01_01%20Tumeurs%20ovariennes%20%2B%C3%A1%20la%20limite%20de%20la%20malignit%2B%C2%AE/p13_02.jpeg)
 
 ### Composante micropapillaire
 
@@ -114,10 +114,10 @@ L’**aspect macroscopique ne préjuge pas** du caractère bénin / borderline /
 - **Pronostic identique** à une TML séreuse classique
 - Mais **prélèvements multiples** indispensables : risque accru d’**implants invasifs** ou de carcinome de bas grade infiltrant associé
 
-![[assets/gyneco-sein/ovaire/04_54_01_01 Tumeurs ovariennes +á la limite de la malignit+®/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_01_01%20Tumeurs%20ovariennes%20%2B%C3%A1%20la%20limite%20de%20la%20malignit%2B%C2%AE/p15_00.jpeg)
 
 
-![[assets/gyneco-sein/ovaire/04_54_01_01 Tumeurs ovariennes +á la limite de la malignit+®/p16_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_01_01%20Tumeurs%20ovariennes%20%2B%C3%A1%20la%20limite%20de%20la%20malignit%2B%C2%AE/p16_02.jpeg)
 
 ## Atteinte extra-ovarienne
 
@@ -138,17 +138,17 @@ Présents dans **20-46 %** des TML séreuses, surtout en cas de tumeurs **bilat�
 | **Non invasif desmoplastique** | fréquent | Stroma fibreux abondant, œdémateux, hémorragique, sans destruction tissulaire | Bon |
 | **Invasif** (= carcinome séreux de bas grade infiltrant, OMS 2014) | **12 %** | **Infiltration évidente** des structures sous-jacentes (lobules adipeux, myomètre…) à faible grossissement | **Facteur pronostique majeur**, indication de chimiothérapie |
 
-![[assets/gyneco-sein/ovaire/04_54_01_01 Tumeurs ovariennes +á la limite de la malignit+®/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_01_01%20Tumeurs%20ovariennes%20%2B%C3%A1%20la%20limite%20de%20la%20malignit%2B%C2%AE/p18_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_01_01 Tumeurs ovariennes +á la limite de la malignit+®/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_01_01%20Tumeurs%20ovariennes%20%2B%C3%A1%20la%20limite%20de%20la%20malignit%2B%C2%AE/p18_01.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_01_01 Tumeurs ovariennes +á la limite de la malignit+®/p18_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_01_01%20Tumeurs%20ovariennes%20%2B%C3%A1%20la%20limite%20de%20la%20malignit%2B%C2%AE/p18_02.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_01_01 Tumeurs ovariennes +á la limite de la malignit+®/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_01_01%20Tumeurs%20ovariennes%20%2B%C3%A1%20la%20limite%20de%20la%20malignit%2B%C2%AE/p21_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_01_01 Tumeurs ovariennes +á la limite de la malignit+®/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_01_01%20Tumeurs%20ovariennes%20%2B%C3%A1%20la%20limite%20de%20la%20malignit%2B%C2%AE/p21_01.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_01_01 Tumeurs ovariennes +á la limite de la malignit+®/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_01_01%20Tumeurs%20ovariennes%20%2B%C3%A1%20la%20limite%20de%20la%20malignit%2B%C2%AE/p23_00.jpeg)
 
 ### Conduite macroscopique
 

@@ -45,29 +45,29 @@ source: DES ACP - Cours de gynéco-pathologie (sein tumoral)
 
 #### Phase précoce (inflammatoire)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/Sein homme_Buob/p04_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/Sein homme_Buob/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/Sein%20homme_Buob/p04_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/Sein%20homme_Buob/p06_00.jpeg)
 
 - **Structures canalaires** sans formation de **lobule**.
 - **Tissu conjonctif lâche, œdémateux**, parfois infiltré par cellules inflammatoires mononucléées.
 - **Hyperplasie canalaire non atypique** : courtes projections épithéliales dans la lumière.
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/Sein homme_Buob/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/Sein%20homme_Buob/p07_00.jpeg)
 
 #### Phase chronique (fibreuse)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/Sein homme_Buob/p08_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/Sein homme_Buob/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/Sein%20homme_Buob/p08_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/Sein%20homme_Buob/p10_00.jpeg)
 
 - **Fibrose dense, parfois hyalinisée**.
 - **Épithélium canalaire atrophique** (régression de l’hyperplasie).
 - Pas d’œdème ni d’inflammation périductale.
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/Sein homme_Buob/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/Sein%20homme_Buob/p11_00.jpeg)
 
 ### Lésions associées
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/Sein homme_Buob/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/Sein%20homme_Buob/p12_00.jpeg)
 
 - **Hyperplasie stromale pseudo-angiomateuse (PASH)** : pseudo-fentes vasculaires entre faisceaux de collagène.
 - **Métaplasie apocrine**.
@@ -110,7 +110,7 @@ Identiques à celles de la femme :
 | **Récepteurs aux androgènes (AR)** | Souvent positifs |
 | **HER2** | Surexprimé **moins fréquemment** que chez la femme |
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/Sein homme_Buob/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/Sein%20homme_Buob/p14_00.jpeg)
 
 ## Diagnostics différentiels (gynécomastie)
 

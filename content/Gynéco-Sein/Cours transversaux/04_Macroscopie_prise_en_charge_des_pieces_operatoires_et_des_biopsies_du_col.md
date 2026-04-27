@@ -62,9 +62,9 @@ source: DES ACP - Cours de gynéco-pathologie
 - **Endocol** : épithélium **cylindrique mucosécrétant**
 - **Zone de jonction (ZJ)** : zone d’affrontement, fragile → **site préférentiel d’infection HPV**
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04_01Macroscopie prise en charge des pièces opératoires et des biopsies du col. fev2019 son/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04_01Macroscopie%20prise%20en%20charge%20des%20pi%C3%A8ces%20op%C3%A9ratoires%20et%20des%20biopsies%20du%20col.%20fev2019%20son/p03_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04_01Macroscopie prise en charge des pièces opératoires et des biopsies du col. fev2019 son/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04_01Macroscopie%20prise%20en%20charge%20des%20pi%C3%A8ces%20op%C3%A9ratoires%20et%20des%20biopsies%20du%20col.%20fev2019%20son/p03_01.jpeg)
 
 ## Histoire clinique des cancers du col
 
@@ -73,7 +73,7 @@ source: DES ACP - Cours de gynéco-pathologie
 - Plus rarement non HPV-induits
 - Autres tumeurs : **sarcomes**, mélanomes, lymphomes, métastases
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04_01Macroscopie prise en charge des pièces opératoires et des biopsies du col. fev2019 son/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04_01Macroscopie%20prise%20en%20charge%20des%20pi%C3%A8ces%20op%C3%A9ratoires%20et%20des%20biopsies%20du%20col.%20fev2019%20son/p05_00.jpeg)
 
 ---
 
@@ -141,12 +141,12 @@ Autres terminologies cytologiques :
 5. **Inclure en totalité** : sections **sagittales de 2-3 mm** de **3h vers 9h**
 6. **Bords droit et gauche** (= limite de résection) → bord **placé contre le fond de la cassette**
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04_01Macroscopie prise en charge des pièces opératoires et des biopsies du col. fev2019 son/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04_01Macroscopie%20prise%20en%20charge%20des%20pi%C3%A8ces%20op%C3%A9ratoires%20et%20des%20biopsies%20du%20col.%20fev2019%20son/p11_00.jpeg)
 
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04_01Macroscopie prise en charge des pièces opératoires et des biopsies du col. fev2019 son/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04_01Macroscopie%20prise%20en%20charge%20des%20pi%C3%A8ces%20op%C3%A9ratoires%20et%20des%20biopsies%20du%20col.%20fev2019%20son/p13_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04_01Macroscopie prise en charge des pièces opératoires et des biopsies du col. fev2019 son/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04_01Macroscopie%20prise%20en%20charge%20des%20pi%C3%A8ces%20op%C3%A9ratoires%20et%20des%20biopsies%20du%20col.%20fev2019%20son/p13_01.jpeg)
 
 ### Méthode alternative (rayon de roue)
 - Incision à midi sur pièce fraîche ou après 3h de fixation
@@ -158,9 +158,9 @@ Autres terminologies cytologiques :
 
 Une mauvaise inclusion fait **disparaître la collerette exocervicale** et fait répondre à tort que la limite est atteinte. **Inclure toujours bien à plat**.
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04_01Macroscopie prise en charge des pièces opératoires et des biopsies du col. fev2019 son/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04_01Macroscopie%20prise%20en%20charge%20des%20pi%C3%A8ces%20op%C3%A9ratoires%20et%20des%20biopsies%20du%20col.%20fev2019%20son/p15_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04_01Macroscopie prise en charge des pièces opératoires et des biopsies du col. fev2019 son/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04_01Macroscopie%20prise%20en%20charge%20des%20pi%C3%A8ces%20op%C3%A9ratoires%20et%20des%20biopsies%20du%20col.%20fev2019%20son/p16_00.jpeg)
 
 ## Items du compte-rendu
 
@@ -213,9 +213,9 @@ Une mauvaise inclusion fait **disparaître la collerette exocervicale** et fait 
 - **Idem à droite**
 - **Milieu** : tranches sagittales
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04_01Macroscopie prise en charge des pièces opératoires et des biopsies du col. fev2019 son/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04_01Macroscopie%20prise%20en%20charge%20des%20pi%C3%A8ces%20op%C3%A9ratoires%20et%20des%20biopsies%20du%20col.%20fev2019%20son/p19_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04_01Macroscopie prise en charge des pièces opératoires et des biopsies du col. fev2019 son/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04_01Macroscopie%20prise%20en%20charge%20des%20pi%C3%A8ces%20op%C3%A9ratoires%20et%20des%20biopsies%20du%20col.%20fev2019%20son/p20_00.jpeg)
 
 ---
 
@@ -247,7 +247,7 @@ Une mauvaise inclusion fait **disparaître la collerette exocervicale** et fait 
 
 > Pas besoin de nombreux prélèvements sur le corps utérin (ne change pas la classification).
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04_01Macroscopie prise en charge des pièces opératoires et des biopsies du col. fev2019 son/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04_01Macroscopie%20prise%20en%20charge%20des%20pi%C3%A8ces%20op%C3%A9ratoires%20et%20des%20biopsies%20du%20col.%20fev2019%20son/p21_00.jpeg)
 
 ---
 
@@ -288,7 +288,7 @@ Une mauvaise inclusion fait **disparaître la collerette exocervicale** et fait 
 
 
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04_01Macroscopie prise en charge des pièces opératoires et des biopsies du col. fev2019 son/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04_01Macroscopie%20prise%20en%20charge%20des%20pi%C3%A8ces%20op%C3%A9ratoires%20et%20des%20biopsies%20du%20col.%20fev2019%20son/p12_01.jpeg)
 
 ## Items du compte-rendu (Wertheim)
 

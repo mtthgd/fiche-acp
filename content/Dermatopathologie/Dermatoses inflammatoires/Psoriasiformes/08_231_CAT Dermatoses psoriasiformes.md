@@ -20,7 +20,7 @@ source: DES ACP - Cours de Dermatopathologie
 - Limites des crêtes épidermiques nettes
 - À distinguer de la **lichénification** : crêtes irrégulières, **pas d'amincissement** du toit
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT Dermatoses psoriasiformes/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT%20Dermatoses%20psoriasiformes/p03_01.jpeg)
 
 
 ## Causes des hyperplasies psoriasiformes
@@ -42,7 +42,7 @@ source: DES ACP - Cours de Dermatopathologie
 - **Mycosis fongoïde / syndrome de Sézary**
 - **Prurigo** (lichen simplex chronique)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT Dermatoses psoriasiformes/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT%20Dermatoses%20psoriasiformes/p04_01.jpeg)
 
 ## Méthodologie diagnostique en 2 étapes
 
@@ -63,11 +63,11 @@ source: DES ACP - Cours de Dermatopathologie
 | **Plusieurs patterns associés** sur la même biopsie | **Toxidermie** (souvent anti-TNF) |
 | **Lésions de grattage + collagène verticalisé** | **Prurigo** (lichen simplex chronique) |
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT Dermatoses psoriasiformes/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT%20Dermatoses%20psoriasiformes/p05_00.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT Dermatoses psoriasiformes/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT%20Dermatoses%20psoriasiformes/p06_00.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT Dermatoses psoriasiformes/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT%20Dermatoses%20psoriasiformes/p06_01.jpeg)
 
 ## Algorithme diagnostique
 
@@ -116,7 +116,7 @@ Cf. [[08_232_Psoriasis]] pour les détails.
 - **Vaisseaux dilatés** dans les papilles dermiques
 - Mitoses suprabasales, exocytose lymphocytaire
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT Dermatoses psoriasiformes/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT%20Dermatoses%20psoriasiformes/p07_00.jpeg)
 
 ### Dermatose psoriasiforme du sujet VIH
 
@@ -127,7 +127,7 @@ Cf. [[08_232_Psoriasis]] pour les détails.
   - Pattern **lichénoïde** possible
   - Infiltrat dermique **polymorphe** (PNN + PNE + plasmocytes + lymphocytes)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT Dermatoses psoriasiformes/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT%20Dermatoses%20psoriasiformes/p08_00.jpeg)
 
 ### Pityriasis rubra pilaire (PRP)
 
@@ -143,7 +143,7 @@ Cf. [[08_232_Psoriasis]] pour les détails.
 - **Bouchons cornés folliculaires** : hyperkératose feuilletée + **parakératose péri-folliculaire** (signe spécifique +++)
 
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT Dermatoses psoriasiformes/p09_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT%20Dermatoses%20psoriasiformes/p09_06.jpeg)
 
 ### Dermatoses chroniques avec spongiose
 
@@ -154,7 +154,7 @@ Cf. [[08_232_Psoriasis]] pour les détails.
   - Acanthose irrégulière
   - **PAS systématique** pour éliminer candidose/dermatophytie
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT Dermatoses psoriasiformes/p10_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT%20Dermatoses%20psoriasiformes/p10_03.jpeg)
 
 ### Toxidermies (anti-TNF α en particulier)
 
@@ -165,9 +165,9 @@ Cf. [[08_232_Psoriasis]] pour les détails.
   - Pattern de **nécrose kératinocytaire**
 - L'**association de patterns** est un **argument fort** pour une toxidermie
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT Dermatoses psoriasiformes/p11_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT%20Dermatoses%20psoriasiformes/p11_03.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT Dermatoses psoriasiformes/p12_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT%20Dermatoses%20psoriasiformes/p12_03.jpeg)
 
 ### Prurigo / Lichen simplex chronique
 
@@ -179,9 +179,9 @@ Cf. [[08_232_Psoriasis]] pour les détails.
   - Acanthose souvent **irrégulière**
   - **Collagène verticalisé** dermique +++ (signe quasi-spécifique)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT Dermatoses psoriasiformes/p13_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT%20Dermatoses%20psoriasiformes/p13_03.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT Dermatoses psoriasiformes/p15_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT%20Dermatoses%20psoriasiformes/p15_03.jpeg)
 
 ### Mycosis fongoïde / syndrome de Sézary avec aspect psoriasiforme
 
@@ -194,9 +194,9 @@ Cf. [[08_232_Psoriasis]] pour les détails.
   - **Halos clairs** péri-lymphocytaires
 - IHC/biologie moléculaire : perte de CD7, **clonalité TCR**
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT Dermatoses psoriasiformes/p16_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT%20Dermatoses%20psoriasiformes/p16_03.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT Dermatoses psoriasiformes/p17_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT%20Dermatoses%20psoriasiformes/p17_03.jpeg)
 
 ## Tableau de synthèse comparatif
 
@@ -211,9 +211,9 @@ Cf. [[08_232_Psoriasis]] pour les détails.
 | **Mycosis fongoïde** | Variable | Para | **Lymphocytes atypiques** épidermotropes |
 
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT Dermatoses psoriasiformes/p18_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT%20Dermatoses%20psoriasiformes/p18_02.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT Dermatoses psoriasiformes/p18_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT%20Dermatoses%20psoriasiformes/p18_03.jpeg)
 
 ---
 

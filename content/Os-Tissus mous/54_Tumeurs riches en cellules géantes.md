@@ -37,7 +37,7 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Soufflante, excentrée, possiblement agressive (disparition corticale, **sans réaction de Codman**)
 - N'envahit pas réellement les tissus mous
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p06_00.jpeg)
 
 ## Histologie — aspect classique
 
@@ -45,9 +45,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Fond de **cellules mononucléées** non atypiques (pré-ostéoblastiques)
 - **Phrase clé** (diagnostic) : *« nombreuses cellules géantes de type ostéoclastique harmonieusement réparties sur un fond de cellules mononucléées non atypiques »*
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p07_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p09_00.jpeg)
 
 ## Remaniements fréquents (pièges diagnostiques)
 
@@ -61,21 +61,21 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 | **Embols vasculaires** | ~1/3 des cas, côté tissus mous — **non malin** |
 | **Greffe pulmonaire** | Dépôts pulmonaires — **non considérée comme métastase** |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p10_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p11_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p12_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p14_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p15_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p16_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p17_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p18_00.jpeg)
 
 ## Génétique — mutation du gène *H3F3A*
 
@@ -86,11 +86,11 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Détection : **IHC anti-H3.3 G34W** (marquage **nucléaire intense** des cellules tumorales ; cellules géantes négatives)
 - Séquençage *H3F3A* si IHC négative dans les cas difficiles
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p20_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p21_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p22_00.jpeg)
 
 > IHC permet un diagnostic sur **microbiopsie** mais **ne différencie pas bénin/malin** (les deux formes sont H3.3 G34W+)
 
@@ -105,13 +105,13 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Traitement **suspensif** : reprise évolutive à l'arrêt
 - En imagerie : ossification périphérique à partir du périoste
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p23_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p24_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p25_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p26_00.jpeg)
 
 ## TCG maligne (primitive des os)
 
@@ -123,33 +123,33 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Localisation sous-chondrale = indice majeur (sarcomes indifférenciés dans cette localisation sont rares)
 - IHC **H3.3 G34W+** confirme l'origine TCG
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p30_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p30_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p30_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p30_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p30_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p31_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p31_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p31_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p33_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p33_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p33_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p33_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p33_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p34_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p35_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p36_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p36_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p37_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p37_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p38_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p38_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262 Tumeurs riches en cellules géantes/p39_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-262%20Tumeurs%20riches%20en%20cellules%20g%C3%A9antes/p39_01.jpeg)
 
 ## Diagnostics différentiels
 

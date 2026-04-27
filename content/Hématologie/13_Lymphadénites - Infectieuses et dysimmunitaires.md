@@ -33,11 +33,11 @@ Le virus infecte : **lymphocytes CD4+**, macrophages, cellules folliculaires den
 
 **Pathologies associées** : infections opportunistes, lymphomes (DLBCL, Burkitt, primaire cavités), **sarcome de Kaposi**, Castelman HHV8+.
 
-![[assets/hematologie/lymphadenites/Diaporama 07-225_lymphadenite infectieuses, dysimmunitaires/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-225_lymphadenite%20infectieuses%2C%20dysimmunitaires/p05_00.jpeg)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-225_lymphadenite infectieuses, dysimmunitaires/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-225_lymphadenite%20infectieuses%2C%20dysimmunitaires/p05_01.jpeg)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-225_lymphadenite infectieuses, dysimmunitaires/p05_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-225_lymphadenite%20infectieuses%2C%20dysimmunitaires/p05_02.jpeg)
 
 ### 2. Mononucléose infectieuse (primo-infection EBV)
 
@@ -53,9 +53,9 @@ Le virus infecte : **lymphocytes CD4+**, macrophages, cellules folliculaires den
 
 **DD** : lymphome de Hodgkin, lymphomes non hodgkiniens.
 
-![[assets/hematologie/lymphadenites/Diaporama 07-225_lymphadenite infectieuses, dysimmunitaires/p07_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-225_lymphadenite%20infectieuses%2C%20dysimmunitaires/p07_04.jpeg)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-225_lymphadenite infectieuses, dysimmunitaires/p08_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-225_lymphadenite%20infectieuses%2C%20dysimmunitaires/p08_05.jpeg)
 
 ### 3. Lymphadénite herpétique (HSV)
 
@@ -69,9 +69,9 @@ Le virus infecte : **lymphocytes CD4+**, macrophages, cellules folliculaires den
   - Ou éosinophiles entourées d'un halo clair
 - Mise en évidence par IHC anti-HSV
 
-![[assets/hematologie/lymphadenites/Diaporama 07-225_lymphadenite infectieuses, dysimmunitaires/p09_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-225_lymphadenite%20infectieuses%2C%20dysimmunitaires/p09_06.jpeg)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-225_lymphadenite infectieuses, dysimmunitaires/p09_07.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-225_lymphadenite%20infectieuses%2C%20dysimmunitaires/p09_07.jpeg)
 
 ### 4. Lymphadénite à CMV
 
@@ -85,9 +85,9 @@ Le virus infecte : **lymphocytes CD4+**, macrophages, cellules folliculaires den
   - Présentes surtout dans les **cellules endothéliales**
 - Confirmation par IHC anti-CMV
 
-![[assets/hematologie/lymphadenites/Diaporama 07-225_lymphadenite infectieuses, dysimmunitaires/p11_09.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-225_lymphadenite%20infectieuses%2C%20dysimmunitaires/p11_09.jpeg)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-225_lymphadenite infectieuses, dysimmunitaires/p11_10.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-225_lymphadenite%20infectieuses%2C%20dysimmunitaires/p11_10.jpeg)
 
 **DD principal** : lymphome de Hodgkin (cellules Reed-Sternberg-like).
 
@@ -130,7 +130,7 @@ Le virus infecte : **lymphocytes CD4+**, macrophages, cellules folliculaires den
 
 **DD** : maladie de Kimura, lymphadénite parasitaire, Hodgkin, lymphome T type AITL.
 
-![[assets/hematologie/lymphadenites/Diaporama 07-225_lymphadenite infectieuses, dysimmunitaires/p13_12.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-225_lymphadenite%20infectieuses%2C%20dysimmunitaires/p13_12.jpeg)
 
 ### 2. Déficits immunitaires congénitaux
 
@@ -154,7 +154,7 @@ Le virus infecte : **lymphocytes CD4+**, macrophages, cellules folliculaires den
 
 **Diagnostic** : lymphocytes DN dans le sang + auto-anticorps
 
-![[assets/hematologie/lymphadenites/Diaporama 07-225_lymphadenite infectieuses, dysimmunitaires/p15_14.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-225_lymphadenite%20infectieuses%2C%20dysimmunitaires/p15_14.png)
 
 ### 4. Maladie à IgG4
 
@@ -175,7 +175,7 @@ Le virus infecte : **lymphocytes CD4+**, macrophages, cellules folliculaires den
 
 **DD** : lymphome, maladie de Castelman.
 
-![[assets/hematologie/lymphadenites/Diaporama 07-225_lymphadenite infectieuses, dysimmunitaires/p20_16.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-225_lymphadenite%20infectieuses%2C%20dysimmunitaires/p20_16.jpeg)
 
 ---
 

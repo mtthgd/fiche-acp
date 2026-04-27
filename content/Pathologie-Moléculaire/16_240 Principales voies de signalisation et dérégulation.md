@@ -80,7 +80,7 @@ Croissance, division, migration
 ```
 
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-240 Principales voies de signalisation et dérégulation v2/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-240%20Principales%20voies%20de%20signalisation%20et%20d%C3%A9r%C3%A9gulation%20v2/p07_00.jpeg)
 
 
 
@@ -205,7 +205,7 @@ PDK1 → AKT (phosphorylé)
 - Inhibiteurs de tankyrase
 
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-240 Principales voies de signalisation et dérégulation v2/p33_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-240%20Principales%20voies%20de%20signalisation%20et%20d%C3%A9r%C3%A9gulation%20v2/p33_00.png)
 
 
 

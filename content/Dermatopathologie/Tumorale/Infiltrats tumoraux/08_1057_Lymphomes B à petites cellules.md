@@ -45,11 +45,11 @@ Follicule lymphoïde secondaire :
 - Zone du **manteau** (lymphocytes matures, petits)
 - Zone marginale (virtuelle en MO)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p04_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p05_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p05_01.jpeg)
 
 ### Phénotype d'un follicule normal
 
@@ -61,15 +61,15 @@ Follicule lymphoïde secondaire :
 | CD21/CD23 (réseau FDC) | + en maillage régulier |
 | Ki67 | très élevé (> 90-100 %) |
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p06_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p06_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p06_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p06_02.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p06_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p06_03.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p06_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p06_04.jpeg)
 
 ---
 
@@ -87,9 +87,9 @@ Follicule lymphoïde secondaire :
 - Membres inférieurs et zones distales = **rares**
 - **Lésion souvent unique**, polymorphe : papulo-nodulaire, plaque, ou tumorale
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p09_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p09_01.jpeg)
 
 ## Architectures (4)
 
@@ -99,38 +99,38 @@ Follicule lymphoïde secondaire :
 - Centres germinatifs anormaux : **pas de macrophages à corps tingibles**, **mitoses rares**, prédominance de centrocytes ou centroblastes
 - Aspect parfois **coalescent**
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p10_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p10_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p11_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p11_01.jpeg)
 
 ### 2. Diffuse
 
 - Nappes de cellules clivées et/ou de cellules régulières
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p12_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p12_01.jpeg)
 
 ### 3. Mixte (folliculaire + diffuse)
 
 - Territoires folliculaires (souvent profonds) + nappes diffuses (souvent superficielles)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p13_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p13_01.jpeg)
 
 ### 4. Interstitielle
 
 - Infiltrat **peu cellulaire**, dispersé entre fibres de collagène
 - Présence d'**artéfacts d'écrasement** caractéristiques
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p14_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p14_01.jpeg)
 
 ## Cytologie (3 aspects)
 
@@ -138,26 +138,26 @@ Follicule lymphoïde secondaire :
 
 - Cellules **petites, clivées**, contours **anguleux/incisurés**, aspect « cassé » comme un puzzle
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p15_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p15_01.jpeg)
 
 ### Petits centrocytes + centroblastes
 
 - Mélange de cellules clivées (centrocytes) et de **centroblastes** (volumineuses, nucléoles péri-membranaires)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p16_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p16_01.jpeg)
 
 ### Grands centrocytes
 
 - Centrocytes **volumineux** mais clivés, **fusiformes**, **étirés**, parfois **pseudo-sarcomateux** à très fort grossissement
 - Ne pas confondre avec un lymphome à grandes cellules
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p17_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p17_01.jpeg)
 
 ## Immunophénotype
 
@@ -173,15 +173,15 @@ Follicule lymphoïde secondaire :
 
 ⚠️ La **co-expression centro-germinatif + BCL2** classique du LF ganglionnaire **n'est PAS la règle dans le PCFCL** → l'**examen morphologique reste capital**.
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p18_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p18_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p18_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p18_02.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p18_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p18_03.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p18_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p18_04.jpeg)
 
 > Astuce **BCL6** : antigène très **sensible à la fixation**. En cas de négativité, vérifier le **témoin interne kératinocytaire** (toujours BCL6+) avant d'affirmer la négativité.
 
@@ -190,7 +190,7 @@ Follicule lymphoïde secondaire :
 - **Monoclonalité B** mise en évidence par PCR dans la quasi-totalité des cas
 - **t(14;18) IGH-BCL2** retrouvée dans seulement **10-40 %** des PCFCL (vs > 85 % des LF ganglionnaires) → présence évoque plutôt une **localisation secondaire**
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p19_00.jpeg)
 
 ## Pronostic / Traitement
 
@@ -235,27 +235,27 @@ Follicule lymphoïde secondaire :
 - **Pas de centre germinatif central** au premier coup d'œil
 - Coulées verticales dans le derme moyen-profond
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p29_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p29_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p29_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p29_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p29_02.jpeg)
 
 ### 2. Mixte
 
 - Nodules + nappes diffuses, coalescentes
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p30_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p30_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p30_01.jpeg)
 
 ### 3. Péricapillaire / interstitielle
 
 - Infiltrat **discret, peu intense**, à ne pas prendre pour une lésion banale
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p31_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p31_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p31_01.jpeg)
 
 ## Histologie
 
@@ -266,15 +266,15 @@ Follicule lymphoïde secondaire :
 - **Différenciation plasmocytaire** très fréquente (++ en périphérie des nodules / sous-épidermique)
 - **Inflammation** abondante constante (éosinophiles, immunoblastes, polynucléaires, vaisseaux hyalinisés)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p32_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p33_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p34_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p34_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p34_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p35_00.jpeg)
 
 ## Immunophénotype
 
@@ -289,13 +289,13 @@ Follicule lymphoïde secondaire :
 | CD138 | + sur composante plasmocytaire |
 | **Kappa / lambda** (IHC ou HIS) | **monotypie ⭐** |
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p38_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p38_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p39_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p39_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p40_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p40_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p40_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p40_01.jpeg)
 
 > **Monotypie plasmocytaire** : ratio physiologique κ/λ = 2/1. Inversion ou prédominance kappa+++ en faveur de la malignité. **Mais** : monotypie ≠ PCMZL spécifique (toute LP B peut en présenter), et **polyclonalité ≠ bénin**.
 
@@ -367,17 +367,17 @@ Hypothèses : **hyperplasie réactionnelle** vs **PCMZL** colonisant des CG
 - **Monotypie** (κ ou λ) → **PCMZL**
 - **Polytypie** → demander **étude de clonalité B complète** (IgH **+ chaînes légères**)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p41_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p41_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p41_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p41_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p41_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p41_02.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p41_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p41_03.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p42_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p42_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p42_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p42_01.jpeg)
 
 ---
 

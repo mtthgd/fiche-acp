@@ -62,9 +62,9 @@ Sont également intégrés au groupe :
 | **Lymphome de la zone marginale cutané primitif** | Indolent |
 | **Lymphome B à grande cellule de type jambe** (« leg type ») | **Agressif** |
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1053 Lymphomes cutanés, généralités/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1053%20Lymphomes%20cutan%C3%A9s%2C%20g%C3%A9n%C3%A9ralit%C3%A9s/p04_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1053 Lymphomes cutanés, généralités/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1053%20Lymphomes%20cutan%C3%A9s%2C%20g%C3%A9n%C3%A9ralit%C3%A9s/p05_01.jpeg)
 
 ## Classification OMS-EORTC 2005 → OMS 2017
 
@@ -120,10 +120,10 @@ Connaissance requise des étapes de différenciation B et T.
 - Phénotypes : **cytotoxique, auxiliaire (TH)**, auxiliaire folliculaire (TFH), régulateur (Treg)
 - Étapes pré-thymiques/thymiques → leucémies/lymphomes lymphoblastiques T
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1053 Lymphomes cutanés, généralités/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1053%20Lymphomes%20cutan%C3%A9s%2C%20g%C3%A9n%C3%A9ralit%C3%A9s/p10_01.jpeg)
 
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1053 Lymphomes cutanés, généralités/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1053%20Lymphomes%20cutan%C3%A9s%2C%20g%C3%A9n%C3%A9ralit%C3%A9s/p13_01.jpeg)
 
 ## Histologie standard — porte d'entrée diagnostique
 
@@ -137,7 +137,7 @@ Connaissance requise des étapes de différenciation B et T.
 
 > ⚠️ Inversement : certaines réactions inflammatoires (notamment **infectieuses**) peuvent produire des lymphocytes atypiques très activés, **CD30+**, posant un problème de DD avec un lymphome.
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1053 Lymphomes cutanés, généralités/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1053%20Lymphomes%20cutan%C3%A9s%2C%20g%C3%A9n%C3%A9ralit%C3%A9s/p15_00.jpeg)
 
 ## Pathologies inflammatoires simulant un lymphome cutané
 
@@ -154,9 +154,9 @@ Connaissance requise des étapes de différenciation B et T.
 - Infiltrat dense de lymphocytes parfois atypiques de grande taille, noyau irrégulier
 - Diagnostic = **immunomarquage spécifique des tréponèmes** identifiant des bacilles dispersés entre les kératinocytes et dans le derme
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1053 Lymphomes cutanés, généralités/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1053%20Lymphomes%20cutan%C3%A9s%2C%20g%C3%A9n%C3%A9ralit%C3%A9s/p16_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1053 Lymphomes cutanés, généralités/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1053%20Lymphomes%20cutan%C3%A9s%2C%20g%C3%A9n%C3%A9ralit%C3%A9s/p16_01.jpeg)
 
 ## Lymphomes indolents vs agressifs
 
@@ -191,7 +191,7 @@ Le bilan d'extension peut être un **élément clé** pour classer correctement 
 - Anticorps couplés à des **fluorochromes**, lasers, restitution en histogramme
 - Exemple : **Sézary = CD4+ CD26−** (vs T CD4 normal CD26+)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1053 Lymphomes cutanés, généralités/p21_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1053%20Lymphomes%20cutan%C3%A9s%2C%20g%C3%A9n%C3%A9ralit%C3%A9s/p21_00.png)
 
 
 ### Étude de clonalité (TCR / IGH)
@@ -203,7 +203,7 @@ Le bilan d'extension peut être un **élément clé** pour classer correctement 
 
 > ⚠️ Monoclonalité ≠ malignité (cf. [[03_Ganglion - Ontogénie lymphocytaire et réarrangement de gènes]]).
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1053 Lymphomes cutanés, généralités/p22_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1053%20Lymphomes%20cutan%C3%A9s%2C%20g%C3%A9n%C3%A9ralit%C3%A9s/p22_00.png)
 
 
 ## Diagnostics différentiels (vue d'ensemble)

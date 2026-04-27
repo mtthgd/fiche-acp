@@ -83,11 +83,11 @@ source: DES ACP - Cours de cardio-vasculaire
 
 > **Tufted angioma + hémangioendothéliome kaposiforme = un seul spectre lésionnel** : tufted plus superficiel et rarement Kasabach-Merritt, kaposiforme typiquement profond/infiltrant et souvent Kasabach-Merritt.
 
-![[assets/cardio-vasculaire/vaisseaux/Tumeurs vasculaires intermédiaires et malignes/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/Tumeurs%20vasculaires%20interm%C3%A9diaires%20et%20malignes/p07_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/Tumeurs vasculaires intermédiaires et malignes/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/Tumeurs%20vasculaires%20interm%C3%A9diaires%20et%20malignes/p09_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/Tumeurs vasculaires intermédiaires et malignes/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/Tumeurs%20vasculaires%20interm%C3%A9diaires%20et%20malignes/p10_00.jpeg)
 
 ## II — Hémangioendothéliome papillaire intra-lymphatique (Dabska / PILA)
 
@@ -104,7 +104,7 @@ source: DES ACP - Cours de cardio-vasculaire
 - Pas d'atypies franches, pas de mitoses
 - **Infiltrat lymphocytaire** fréquent
 
-![[assets/cardio-vasculaire/vaisseaux/Tumeurs vasculaires intermédiaires et malignes/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/Tumeurs%20vasculaires%20interm%C3%A9diaires%20et%20malignes/p11_00.jpeg)
 
 ## III — Hémangioendothéliome rétiforme
 
@@ -156,9 +156,9 @@ source: DES ACP - Cours de cardio-vasculaire
 - CD31, CD34, ERG +
 - D2-40 + (origine lymphatique présumée)
 
-![[assets/cardio-vasculaire/vaisseaux/Tumeurs vasculaires intermédiaires et malignes/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/Tumeurs%20vasculaires%20interm%C3%A9diaires%20et%20malignes/p18_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/Tumeurs vasculaires intermédiaires et malignes/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/Tumeurs%20vasculaires%20interm%C3%A9diaires%20et%20malignes/p19_00.jpeg)
 
 
 ## VI — Hémangioendothéliome pseudomyogénique
@@ -190,7 +190,7 @@ source: DES ACP - Cours de cardio-vasculaire
 - **Réarrangement du gène *FOSB*** (caractéristique)
 - Diagnostic confirmé en **IHC FOSB nucléaire**
 
-![[assets/cardio-vasculaire/vaisseaux/Tumeurs vasculaires intermédiaires et malignes/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/Tumeurs%20vasculaires%20interm%C3%A9diaires%20et%20malignes/p24_00.jpeg)
 
 ## VII — Hémangioendothéliome épithélioïde (HEE)
 
@@ -223,7 +223,7 @@ source: DES ACP - Cours de cardio-vasculaire
 - Variant rare : **fusion *YAP1-TFE3***
 - Détection par **FISH** (split *CAMTA1*) ou **IHC anti-CAMTA1 nucléaire**
 
-![[assets/cardio-vasculaire/vaisseaux/Tumeurs vasculaires intermédiaires et malignes/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/Tumeurs%20vasculaires%20interm%C3%A9diaires%20et%20malignes/p25_00.jpeg)
 
 ## VIII — Angiosarcome
 
@@ -266,11 +266,11 @@ source: DES ACP - Cours de cardio-vasculaire
 - Mutations *KDR* (VEGFR2) dans angiosarcomes cutanés primaires
 - Mutations *PTPRB*, *PLCG1* dans certains angiosarcomes secondaires
 
-![[assets/cardio-vasculaire/vaisseaux/Tumeurs vasculaires intermédiaires et malignes/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/Tumeurs%20vasculaires%20interm%C3%A9diaires%20et%20malignes/p31_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/Tumeurs vasculaires intermédiaires et malignes/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/Tumeurs%20vasculaires%20interm%C3%A9diaires%20et%20malignes/p33_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/Tumeurs vasculaires intermédiaires et malignes/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/Tumeurs%20vasculaires%20interm%C3%A9diaires%20et%20malignes/p34_00.jpeg)
 
 ## Récapitulatif immunohistochimie / génétique
 

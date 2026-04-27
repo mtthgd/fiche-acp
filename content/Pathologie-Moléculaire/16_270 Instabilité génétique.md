@@ -50,9 +50,9 @@ Déséquilibre entre :
 - ou **les deux**
 
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-270 Instabilité génétique/p04_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-270%20Instabilit%C3%A9%20g%C3%A9n%C3%A9tique/p04_00.png)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-270 Instabilité génétique/p05_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-270%20Instabilit%C3%A9%20g%C3%A9n%C3%A9tique/p05_00.png)
 
 ## Catégories d’instabilité génétique
 
@@ -62,9 +62,9 @@ Déséquilibre entre :
 | **Instabilité génique** | Amplifications, délétions, mutations ponctuelles, **instabilité microsatellitaire (MSI)** | — |
 | **Instabilité épigénétique** | Modifications **non structurelles** : méthylation, acétylation | — |
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-270 Instabilité génétique/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-270%20Instabilit%C3%A9%20g%C3%A9n%C3%A9tique/p09_00.jpeg)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-270 Instabilité génétique/p10_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-270%20Instabilit%C3%A9%20g%C3%A9n%C3%A9tique/p10_00.png)
 
 ## Outils d’analyse — instabilité chromosomique
 
@@ -92,7 +92,7 @@ Déséquilibre entre :
 
 
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-270 Instabilité génétique/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-270%20Instabilit%C3%A9%20g%C3%A9n%C3%A9tique/p13_00.jpeg)
 
 ## Outils d’analyse — instabilité génique
 
@@ -148,15 +148,15 @@ Dans le **cancer colorectal** :
 - Indications similaires à la **CGH-array** ; **avantages** : analyse simultanée mutations + CNV
 - Validation : **mélanomes** (amplification MDM2, délétion CDKN2A), CCR (amplification AKT2, délétion SMAD4) ; corrélation parfaite avec CGH-array
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-270 Instabilité génétique/p15_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-270%20Instabilit%C3%A9%20g%C3%A9n%C3%A9tique/p15_00.png)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-270 Instabilité génétique/p16_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-270%20Instabilit%C3%A9%20g%C3%A9n%C3%A9tique/p16_00.png)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-270 Instabilité génétique/p17_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-270%20Instabilit%C3%A9%20g%C3%A9n%C3%A9tique/p17_00.png)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-270 Instabilité génétique/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-270%20Instabilit%C3%A9%20g%C3%A9n%C3%A9tique/p18_00.jpeg)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-270 Instabilité génétique/p19_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-270%20Instabilit%C3%A9%20g%C3%A9n%C3%A9tique/p19_00.png)
 
 ### Séquençage ARN
 
@@ -164,9 +164,9 @@ Dans le **cancer colorectal** :
 - Premières trousses commerciales : **panels de 50 gènes** (NTRK, ROS, FGFR…)
 - Panels élargis (> 500 gènes) → identification de **nouveaux gènes de fusion** (ex. sarcome oropharyngé)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-270 Instabilité génétique/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-270%20Instabilit%C3%A9%20g%C3%A9n%C3%A9tique/p22_00.jpeg)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-270 Instabilité génétique/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-270%20Instabilit%C3%A9%20g%C3%A9n%C3%A9tique/p23_00.jpeg)
 
 ## Tableau récapitulatif — outils d’analyse
 

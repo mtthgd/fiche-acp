@@ -25,7 +25,7 @@ source: DES ACP - Cours d'urologie
 
 Recommandations du **CCAFU 2016** (Comité de Cancérologie de l'AFU) + **ICCR 2017** (International Collaboration on Cancer Reporting) + **OMS 2016**.
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p01_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p01_00.png)
 
 
 ---
@@ -39,20 +39,20 @@ Recommandations du **CCAFU 2016** (Comité de Cancérologie de l'AFU) + **ICCR 2
 - Inclusion, coupe à **3 niveaux**, **rubans** ou **lames blanches** pour IHC ultérieure.
 - **Renseignements cliniques nécessaires** : PSA, TR, IRM (PI-RADS), traitements antérieurs.
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p02_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p02_00.png)
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p02_01.jpeg]]
-
-
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p03_00.png]]
-
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p02_01.jpeg)
 
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p03_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p03_00.png)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p03_01.jpeg)
 
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p03_05.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p03_03.png)
+
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p03_05.png)
 
 ## Éléments du compte rendu CCAFU 2016 (biopsies)
 
@@ -68,14 +68,14 @@ Recommandations du **CCAFU 2016** (Comité de Cancérologie de l'AFU) + **ICCR 2
 | Invasion vasculaire | Oui/non |
 | Lésions associées | **HGPIN, ASAP (foyer suspect), prostatite granulomateuse** |
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p04_00.jpeg)
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p04_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p04_01.png)
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p04_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p04_02.png)
 
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p04_04.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p04_04.png)
 
 ## Types histologiques (OMS 2016)
 
@@ -91,17 +91,17 @@ Recommandations du **CCAFU 2016** (Comité de Cancérologie de l'AFU) + **ICCR 2
 - **Carcinome neuroendocrine**
 - **Carcinome indifférencié**
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p05_00.jpeg)
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p05_01.jpeg)
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p05_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p05_02.jpeg)
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p05_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p05_03.png)
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p05_04.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p05_04.png)
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p05_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p05_05.jpeg)
 
 
 ## IHC en cas de foyer douteux
@@ -109,14 +109,14 @@ Recommandations du **CCAFU 2016** (Comité de Cancérologie de l'AFU) + **ICCR 2
 - **Foyer suspect (ASAP)** : si **discordance** ou marqueurs non contributifs.
 
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p06_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p06_01.png)
 
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p06_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p06_03.png)
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p06_04.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p06_04.png)
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p06_05.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p06_05.png)
 
 ---
 
@@ -135,24 +135,24 @@ Recommandations du **CCAFU 2016** (Comité de Cancérologie de l'AFU) + **ICCR 2
 - **Territoire en bloc** : mesure simple.
 - **Plusieurs foyers sur un fragment** : **mesurer en incluant l'intervalle de tissu sain** (si doute sur le caractère discontinu).
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p07_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p07_00.png)
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p07_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p07_01.png)
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p07_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p07_02.jpeg)
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p07_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p07_03.jpeg)
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p07_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p07_04.jpeg)
 
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p07_06.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p07_06.png)
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p07_07.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p07_07.png)
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p07_08.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p07_08.png)
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p07_09.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p07_09.png)
 
 ### Difficultés
 - Biopsies fragmentées, inclusion inadéquate, fragments trop nombreux par cassette (**max 3 fragments/cassette**).
@@ -175,12 +175,12 @@ Recommandations du **CCAFU 2016** (Comité de Cancérologie de l'AFU) + **ICCR 2
 - Si biopsie fragmentée : **score unique pour l'ensemble des fragments**.
 
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p08_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p08_01.png)
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p08_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p08_02.jpeg)
 
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p11_02.jpeg)
 
 
 - Groupe **prédictif** en uni- et multivariée pour : **PSA préop, stade clinique** (biopsies), **marges, stade pT, PSA** (prostatectomie).
@@ -196,14 +196,14 @@ Recommandations du **CCAFU 2016** (Comité de Cancérologie de l'AFU) + **ICCR 2
 - **Prédictive de pT3** et de **récidive biologique** dans les stades cliniques localisés.
 - **Filet nerveux ≥ 1 mm de diamètre** infiltré = **EEP** même sans graisse visible (stroma fibreux tumoral).
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p13_00.jpeg)
 
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p13_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p13_02.png)
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p13_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p13_03.jpeg)
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p13_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p13_04.jpeg)
 
 
 ### Invasion vasculaire (emboles)
@@ -211,7 +211,7 @@ Recommandations du **CCAFU 2016** (Comité de Cancérologie de l'AFU) + **ICCR 2
 - Emboles lymphatiques et/ou veineux (globules rouges ± visibles dans la lumière).
 
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p14_02.jpeg)
 
 
 ### Infiltration des vésicules séminales
@@ -220,10 +220,10 @@ Recommandations du **CCAFU 2016** (Comité de Cancérologie de l'AFU) + **ICCR 2
 - Doute → **biopsie ciblée des VS**.
 
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p15_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p15_03.jpeg)
 
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p16_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p16_03.jpeg)
 
 ---
 
@@ -239,14 +239,14 @@ Identification patient + items précédents. Astuce pratique (modèle Strasbourg
 - IHC résumée
 - **Conclusion globale** rappelant le score du foyer index.
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p17_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p17_00.png)
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p17_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p17_01.png)
 
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p18_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p18_02.jpeg)
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p18_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p18_03.jpeg)
 
 
 ---
@@ -259,7 +259,7 @@ Identification patient + items précédents. Astuce pratique (modèle Strasbourg
 - Prise en charge anapath plus **chronophage** ; compte rendu adapté mais items identiques.
 
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p20_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p20_00.png)
 
 
 ---
@@ -286,75 +286,75 @@ Identification patient + items précédents. Astuce pratique (modèle Strasbourg
 - **Infiltration péri-nerveuse**
 - **Emboles vasculaires**
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p22_00.jpeg)
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p22_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p22_01.png)
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p22_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p22_02.png)
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p22_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p22_03.jpeg)
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p22_04.jpeg]]
-
-
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p23_00.png]]
-
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p23_01.png]]
-
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p23_02.jpeg]]
-
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p23_03.jpeg]]
-
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p23_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p22_04.jpeg)
 
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p23_06.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p23_00.png)
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p24_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p23_01.png)
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p24_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p23_02.jpeg)
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p24_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p23_03.jpeg)
 
-
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p25_00.png]]
-
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p25_01.png]]
-
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p25_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p23_04.jpeg)
 
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p23_06.png)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p24_00.png)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p24_01.png)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p24_02.jpeg)
 
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p27_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p25_00.png)
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p27_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p25_01.png)
 
-
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p28_00.png]]
-
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p28_01.png]]
-
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p28_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p25_02.png)
 
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p29_00.png]]
-
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p29_01.png]]
-
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p29_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p26_00.jpeg)
 
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p27_00.png)
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p30_01.jpeg]]
-
-
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p30_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p27_01.png)
 
 
-![[assets/urologie/prostate/05-334-Facteurs pronostiques sur biopies prostatiques et résection/p31_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p28_00.png)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p28_01.png)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p28_02.jpeg)
+
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p29_00.png)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p29_01.png)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p29_02.jpeg)
+
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p30_00.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p30_01.jpeg)
+
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p30_03.png)
+
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-334-Facteurs%20pronostiques%20sur%20biopies%20prostatiques%20et%20r%C3%A9section/p31_00.png)
 
 
 ---

@@ -108,7 +108,7 @@ source: DES ACP - Cours de gynéco-pathologie (sein tumoral)
 
 ## 5. Mesure de la taille tumorale
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/COURS pTNM V1/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/COURS%20pTNM%20V1/p06_00.jpeg)
 
 ### Règles pratiques
 
@@ -150,7 +150,7 @@ source: DES ACP - Cours de gynéco-pathologie (sein tumoral)
 
 ## 7. Statut ganglionnaire (pN)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/COURS pTNM V1/p13_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/COURS%20pTNM%20V1/p13_00.png)
 
 ### Règles d’examen
 
@@ -189,7 +189,7 @@ source: DES ACP - Cours de gynéco-pathologie (sein tumoral)
 
 ## 8. Sous-types moléculaires cliniques (AJCC)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/COURS pTNM V1/p15_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/COURS%20pTNM%20V1/p15_00.png)
 
 | Sous-type | Définition AJCC |
 |-----------|-----------------|

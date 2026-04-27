@@ -88,11 +88,11 @@ Triade :
   - **Endothélite**, décollement endothélial
 - ± Microthrombi capillaires glomérulaires
 
-![[assets/nephropathologie/rein-natif/nephropathies-vasculaires/264-14 MAT/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-vasculaires/264-14%20MAT/p06_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-vasculaires/264-14 MAT/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-vasculaires/264-14%20MAT/p10_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-vasculaires/264-14 MAT/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-vasculaires/264-14%20MAT/p10_01.jpeg)
 
 #### Secteur tubulo-interstitiel
 - **Souffrance épithéliale tubulaire** (NTA associée fréquente — voir [[15_NTA - Nécrose tubulaire aiguë]])
@@ -101,11 +101,11 @@ Triade :
   - **Fantomatisation** du tissu rénal (disparition des noyaux)
   - **Pas de récupération** (à distinguer impérativement d'une NTA)
 
-![[assets/nephropathologie/rein-natif/nephropathies-vasculaires/264-14 MAT/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-vasculaires/264-14%20MAT/p12_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-vasculaires/264-14 MAT/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-vasculaires/264-14%20MAT/p13_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-vasculaires/264-14 MAT/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-vasculaires/264-14%20MAT/p13_01.jpeg)
 
 ### Aspect particulier du SHU typique (post-infectieux STEC)
 
@@ -115,9 +115,9 @@ Triade :
 - **Tubulopathie intense** par toxicité directe des toxines sur les cellules tubulaires
 - Atteintes glomérulaires possibles à distance par **réduction néphronique** ou via toxicité directe du **C3a** sur les podocytes
 
-![[assets/nephropathologie/rein-natif/nephropathies-vasculaires/264-14 MAT/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-vasculaires/264-14%20MAT/p15_01.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-vasculaires/264-14 MAT/p15_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-vasculaires/264-14%20MAT/p15_02.jpeg)
 
 ## Immunofluorescence (utile pour les diagnostics différentiels)
 
@@ -125,9 +125,9 @@ Triade :
 - Avec antisérum anti-fibrinogène : visualisation des **thrombi intraluminaux**
 - Permet d'éliminer une glomérulopathie immune associée (lupus, GNMP)
 
-![[assets/nephropathologie/rein-natif/nephropathies-vasculaires/264-14 MAT/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-vasculaires/264-14%20MAT/p17_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-vasculaires/264-14 MAT/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-vasculaires/264-14%20MAT/p17_01.jpeg)
 
 ## Sous-types détaillés
 
@@ -159,7 +159,7 @@ Triade :
 |-------------|-------------------|
 | Régulateurs solubles (**facteur H, facteur I**) et membranaires (**MCP**) inhibent la C3 convertase de la voie alterne | **Déficit en CFH/CFI/MCP** → activation incontrôlée → C3/C5 convertase → **complexe d'attaque membranaire C5b-9** → exulcération endothéliale, état pro-thrombotique |
 
-![[assets/nephropathologie/rein-natif/nephropathies-vasculaires/264-14 MAT/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-vasculaires/264-14%20MAT/p17_00.jpeg)
 
 ### PTT (purpura thrombotique thrombocytopénique)
 

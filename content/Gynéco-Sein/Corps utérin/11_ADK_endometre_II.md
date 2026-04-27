@@ -62,7 +62,7 @@ L’adénocarcinome endométrioïde peut revêtir différents aspects :
 | **Sex-cord-like avec hyalinisation** | cellules fusiformes en cordons/travées + hyalinisation/fibrose |
 | **Avec différenciation mucineuse** | cellules cylindriques à mucosécrétion endocervicale (terme « ADK mucineux » abandonné OMS 2020) |
 
-![[assets/gyneco-sein/corps_uterin/04_42_02_01 ADK endomètre I MDS/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_42_02_01%20ADK%20endom%C3%A8tre%20I%20MDS/p10_00.jpeg)
 
 > ⚠️ La **différenciation malpighienne ne rentre pas en ligne de compte** pour le grade.
 
@@ -80,8 +80,8 @@ L’adénocarcinome endométrioïde peut revêtir différents aspects :
 | **Classique** | glandes anguleuses + **stromaréaction desmoplastique** |
 | **MELF** (**M**icro-cystic **E**longated and **F**ragmented) | structures glandulaires fragmentées, irrégulières, infiltrat lymphocytaire dans le myomètre. **Plus volontiers associé à envahissement ganglionnaire** |
 
-![[assets/gyneco-sein/corps_uterin/04_42_02_01 ADK endomètre I MDS/p15_00.jpeg]]
-![[assets/gyneco-sein/corps_uterin/04_42_02_01 ADK endomètre I MDS/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_42_02_01%20ADK%20endom%C3%A8tre%20I%20MDS/p15_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_42_02_01%20ADK%20endom%C3%A8tre%20I%20MDS/p16_00.jpeg)
 
 ### Distinction infiltration vs extension à un foyer d’**adénomyose**
 
@@ -112,7 +112,7 @@ L’adénocarcinome endométrioïde peut revêtir différents aspects :
 - Grade 1 + atypies G3 → grade 2
 - Grade 2 + atypies G3 → grade 3
 
-![[assets/gyneco-sein/corps_uterin/04_42_02_01 ADK endomètre I MDS/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_42_02_01%20ADK%20endom%C3%A8tre%20I%20MDS/p19_00.jpeg)
 
 ## Immunohistochimie / classification moléculaire
 

@@ -51,7 +51,7 @@ Adénocarcinome
 - Carcinogénèse **multi-étapes** = altérations morphologiques + génétiques + épigénétiques accumulées
 - Hyperméthylation progressive tout au long de la séquence
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.10 Néoplasie intra-épithéliale gastrique/p04_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.10%20N%C3%A9oplasie%20intra-%C3%A9pith%C3%A9liale%20gastrique/p04_00.png)
 
 ## Rôle de *Helicobacter pylori*
 
@@ -60,9 +60,9 @@ Adénocarcinome
 - Adhère à la cellule épithéliale → injection de la **toxine CagA** → activation de voies oncogéniques
 - Inflammation chronique = **moteur de la séquence intestinale**
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.10 Néoplasie intra-épithéliale gastrique/p06_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.10%20N%C3%A9oplasie%20intra-%C3%A9pith%C3%A9liale%20gastrique/p06_00.png)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.10 Néoplasie intra-épithéliale gastrique/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.10%20N%C3%A9oplasie%20intra-%C3%A9pith%C3%A9liale%20gastrique/p08_01.jpeg)
 
 ## Métaplasie intestinale
 
@@ -72,7 +72,7 @@ Adénocarcinome
 - Cellules métaplasiques expriment le **SPEM** (*Spasmolytic Polypeptide Expressing Metaplasia*)
 - Apparaît d'abord à la **jonction antro-fundique**
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p10_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p10_01.png)
 
 ## Classifications historiques
 
@@ -112,13 +112,13 @@ Adénocarcinome
 - **Polarité conservée** : noyaux dans la **moitié basale** de la cellule
 - Atteinte de l'**épithélium de surface** (élément important)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.4 Adénocarcinome pancréatique et ses variants/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.4%20Ad%C3%A9nocarcinome%20pancr%C3%A9atique%20et%20ses%20variants/p15_00.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.10 Néoplasie intra-épithéliale gastrique/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.10%20N%C3%A9oplasie%20intra-%C3%A9pith%C3%A9liale%20gastrique/p15_01.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p15_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p15_02.png)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.10 Néoplasie intra-épithéliale gastrique/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.10%20N%C3%A9oplasie%20intra-%C3%A9pith%C3%A9liale%20gastrique/p16_00.jpeg)
 
 ## Néoplasie intra-épithéliale de haut grade (NIE-HG)
 
@@ -131,9 +131,9 @@ Adénocarcinome
 - Mitoses nombreuses, parfois atypiques
 - **Pas de stroma tumoral** (≠ ADK invasif)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.4 Adénocarcinome pancréatique et ses variants/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.4%20Ad%C3%A9nocarcinome%20pancr%C3%A9atique%20et%20ses%20variants/p18_00.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.10 Néoplasie intra-épithéliale gastrique/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.10%20N%C3%A9oplasie%20intra-%C3%A9pith%C3%A9liale%20gastrique/p19_00.jpeg)
 
 ## Outil IHC : p53
 
@@ -179,7 +179,7 @@ Adénocarcinome
 
 → Difficulté reconnue, conserver le terme NIE-HG en cas de doute (variabilité interobservateur)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.10 Néoplasie intra-épithéliale gastrique/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.10%20N%C3%A9oplasie%20intra-%C3%A9pith%C3%A9liale%20gastrique/p25_00.jpeg)
 
 ## Surveillance et traitement
 

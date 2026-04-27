@@ -42,7 +42,7 @@ source: DES ACP - Cours d'urologie
 - Le **haut grade** = potentiel évolutif vers l'invasion musculaire → **traitement BCG** en complément de la RTUV
 
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-221 Classification des tumeurs papillaires non invasives/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-221%20Classification%20des%20tumeurs%20papillaires%20non%20invasives/p05_00.jpeg)
 
 ---
 
@@ -56,9 +56,9 @@ source: DES ACP - Cours d'urologie
 - Évolution bénigne, au maximum **1 récidive**
 
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-221 Classification des tumeurs papillaires non invasives/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-221%20Classification%20des%20tumeurs%20papillaires%20non%20invasives/p07_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-221 Classification des tumeurs papillaires non invasives/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-221%20Classification%20des%20tumeurs%20papillaires%20non%20invasives/p08_00.jpeg)
 
 ---
 
@@ -75,11 +75,11 @@ source: DES ACP - Cours d'urologie
   - **Pas d'atypie**, pas d'invasion du chorion, pas de désorganisation
 - Lésion **bénigne**, évolution favorable
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-221 Classification des tumeurs papillaires non invasives/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-221%20Classification%20des%20tumeurs%20papillaires%20non%20invasives/p09_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-221 Classification des tumeurs papillaires non invasives/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-221%20Classification%20des%20tumeurs%20papillaires%20non%20invasives/p10_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-221 Classification des tumeurs papillaires non invasives/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-221%20Classification%20des%20tumeurs%20papillaires%20non%20invasives/p11_00.jpeg)
 
 ---
 
@@ -103,7 +103,7 @@ d'atypie / variations
            BAS GRADE
 ```
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-221 Classification des tumeurs papillaires non invasives/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-221%20Classification%20des%20tumeurs%20papillaires%20non%20invasives/p12_00.jpeg)
 
 
 ---
@@ -132,7 +132,7 @@ d'atypie / variations
 - **Récidive possible** (faible risque)
 - **Pas de progression** vers l'invasion
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-221 Classification des tumeurs papillaires non invasives/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-221%20Classification%20des%20tumeurs%20papillaires%20non%20invasives/p14_00.jpeg)
 
 
 ---
@@ -160,13 +160,13 @@ d'atypie / variations
 - **Récidive** fréquente
 - **Progression très faible**
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-221 Classification des tumeurs papillaires non invasives/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-221%20Classification%20des%20tumeurs%20papillaires%20non%20invasives/p16_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-221 Classification des tumeurs papillaires non invasives/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-221%20Classification%20des%20tumeurs%20papillaires%20non%20invasives/p17_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-221 Classification des tumeurs papillaires non invasives/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-221%20Classification%20des%20tumeurs%20papillaires%20non%20invasives/p18_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-221 Classification des tumeurs papillaires non invasives/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-221%20Classification%20des%20tumeurs%20papillaires%20non%20invasives/p19_00.jpeg)
 
 ---
 
@@ -196,16 +196,16 @@ d'atypie / variations
 - **Récidive** et **progression élevée** → risque d'envahissement du muscle
 - **Traitement par BCG** intra-vésical après RTUV
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-221 Classification des tumeurs papillaires non invasives/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-221%20Classification%20des%20tumeurs%20papillaires%20non%20invasives/p20_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-221 Classification des tumeurs papillaires non invasives/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-221%20Classification%20des%20tumeurs%20papillaires%20non%20invasives/p21_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-221 Classification des tumeurs papillaires non invasives/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-221%20Classification%20des%20tumeurs%20papillaires%20non%20invasives/p22_00.jpeg)
 
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-221 Classification des tumeurs papillaires non invasives/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-221%20Classification%20des%20tumeurs%20papillaires%20non%20invasives/p24_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-221 Classification des tumeurs papillaires non invasives/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-221%20Classification%20des%20tumeurs%20papillaires%20non%20invasives/p25_00.jpeg)
 
 ---
 
@@ -221,7 +221,7 @@ d'atypie / variations
 | Récidive | Très rare | Très rare | Faible | Fréquente | Fréquente |
 | **Progression** | **Non** | **Non** | **Non** | Très faible | **Élevée** |
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-221 Classification des tumeurs papillaires non invasives/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-221%20Classification%20des%20tumeurs%20papillaires%20non%20invasives/p26_00.jpeg)
 
 ---
 

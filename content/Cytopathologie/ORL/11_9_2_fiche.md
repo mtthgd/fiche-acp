@@ -87,9 +87,9 @@ Diagnostic **formel** de tumeur maligne — fournit des informations cruciales p
 - IHC : **CD117+, p63+, calponine+**
 - Génétique : **translocation MYB-NFIB** (FISH/RT-PCR) — utile pour distinguer des autres lésions
 
-![[assets/cytopathologie/orl/V2 11.9-2/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/orl/V2%2011.9-2/p03_00.jpeg)
 
-![[assets/cytopathologie/orl/V2 11.9-2/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/orl/V2%2011.9-2/p04_00.jpeg)
 
 
 ## Carcinome à cellules acineuses
@@ -109,7 +109,7 @@ Diagnostic **formel** de tumeur maligne — fournit des informations cruciales p
 - IHC : **DOG1+** (très utile)
 - **NR4A3** réarrangement (récent)
 
-![[assets/cytopathologie/orl/V2 11.9-2/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/orl/V2%2011.9-2/p06_00.jpeg)
 
 
 

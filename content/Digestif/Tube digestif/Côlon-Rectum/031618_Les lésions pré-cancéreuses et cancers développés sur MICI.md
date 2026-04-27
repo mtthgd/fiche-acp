@@ -81,7 +81,7 @@ Contribution également : **microbiote**, immunité innée + adaptative, hyperpr
 
 (Les types villeuse et festonnée ont été ajoutés à la classification OMS 2010.)
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.18 Les lésions pré-cancéreuses et cancers développés sur MICI/p17_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.18%20Les%20l%C3%A9sions%20pr%C3%A9-canc%C3%A9reuses%20et%20cancers%20d%C3%A9velopp%C3%A9s%20sur%20MICI/p17_03.jpeg)
 
 ### Grades
 
@@ -108,7 +108,7 @@ Contribution également : **microbiote**, immunité innée + adaptative, hyperpr
 - Utile pour distinguer dysplasie BG / HG
 - Approche **non consensuelle** mais reconnue
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.18 Les lésions pré-cancéreuses et cancers développés sur MICI/p23_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.18%20Les%20l%C3%A9sions%20pr%C3%A9-canc%C3%A9reuses%20et%20cancers%20d%C3%A9velopp%C3%A9s%20sur%20MICI/p23_02.png)
 
 ## Classification macro/endoscopique
 
@@ -160,7 +160,7 @@ Dysplasie
          └─ Haut grade → CHIRURGIE
 ```
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.18 Les lésions pré-cancéreuses et cancers développés sur MICI/p31_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.18%20Les%20l%C3%A9sions%20pr%C3%A9-canc%C3%A9reuses%20et%20cancers%20d%C3%A9velopp%C3%A9s%20sur%20MICI/p31_03.png)
 
 ## Dysplasie festonnée dans les MICI
 

@@ -31,11 +31,11 @@ En à peine 30 ans, on est passé de la découverte des régulateurs du cycle ce
 - **M (mitose)** : division
 - **G0** : quiescence
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-220 Cycle cellulaire et Cancer/p01_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-220%20Cycle%20cellulaire%20et%20Cancer/p01_00.jpeg)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-220 Cycle cellulaire et Cancer/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-220%20Cycle%20cellulaire%20et%20Cancer/p02_00.jpeg)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-220 Cycle cellulaire et Cancer/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-220%20Cycle%20cellulaire%20et%20Cancer/p03_00.jpeg)
 
 ## Historique — découverte des régulateurs
 
@@ -48,11 +48,11 @@ En à peine 30 ans, on est passé de la découverte des régulateurs du cycle ce
 
 → Prix Nobel 2001 (Hartwell, Hunt, Nurse).
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-220 Cycle cellulaire et Cancer/p05_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-220%20Cycle%20cellulaire%20et%20Cancer/p05_00.png)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-220 Cycle cellulaire et Cancer/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-220%20Cycle%20cellulaire%20et%20Cancer/p06_00.jpeg)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-220 Cycle cellulaire et Cancer/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-220%20Cycle%20cellulaire%20et%20Cancer/p07_00.jpeg)
 
 ## CDK et cyclines
 
@@ -63,11 +63,11 @@ En à peine 30 ans, on est passé de la découverte des régulateurs du cycle ce
 - Comme toute kinase : transfert d’un phosphate (depuis l’ATP) sur un substrat
 - Le changement conformationnel à l’association libère le site catalytique pour l’ATP
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-220 Cycle cellulaire et Cancer/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-220%20Cycle%20cellulaire%20et%20Cancer/p08_00.jpeg)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-220 Cycle cellulaire et Cancer/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-220%20Cycle%20cellulaire%20et%20Cancer/p09_00.jpeg)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-220 Cycle cellulaire et Cancer/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-220%20Cycle%20cellulaire%20et%20Cancer/p10_00.jpeg)
 
 ### Les cyclines
 
@@ -75,9 +75,9 @@ En à peine 30 ans, on est passé de la découverte des régulateurs du cycle ce
 - Caractéristique majeure : leur **abondance est régulée** au cours du cycle
 - Régulation par **ubiquitinylation → dégradation par le protéasome** (APC/C, SCF)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-220 Cycle cellulaire et Cancer/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-220%20Cycle%20cellulaire%20et%20Cancer/p11_00.jpeg)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-220 Cycle cellulaire et Cancer/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-220%20Cycle%20cellulaire%20et%20Cancer/p12_00.jpeg)
 
 ### Complexes cycline / CDK et étapes du cycle
 
@@ -88,11 +88,11 @@ En à peine 30 ans, on est passé de la découverte des régulateurs du cycle ce
 | **Phase S** | **CDK2-Cycline A** | Substrats de la réplication |
 | **G2 / M (mitose)** | **CDK1-Cycline A** puis **CDK1-Cycline B** | Lamines (désassemblage de l’enveloppe nucléaire), histones, … |
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-220 Cycle cellulaire et Cancer/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-220%20Cycle%20cellulaire%20et%20Cancer/p13_00.jpeg)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-220 Cycle cellulaire et Cancer/p14_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-220%20Cycle%20cellulaire%20et%20Cancer/p14_00.png)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-220 Cycle cellulaire et Cancer/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-220%20Cycle%20cellulaire%20et%20Cancer/p15_00.jpeg)
 
 ## Régulation des complexes Cycline-CDK
 
@@ -105,7 +105,7 @@ Trois mécanismes principaux :
 | **CKI** (CDK Inhibitors) | Petites protéines qui se fixent et dissocient les complexes Cycline-CDK ; familles **INK4** (p16, p15, p18, p19) et **Cip/Kip** (**p21, p27**, p57) |
 
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-220 Cycle cellulaire et Cancer/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-220%20Cycle%20cellulaire%20et%20Cancer/p17_00.jpeg)
 
 ## Points de contrôle (« checkpoints »)
 
@@ -118,7 +118,7 @@ Stations « **stop** » qui assurent la **légitimité de la progression**, évi
 - Renforcée par **CDK2-Cycline E** → progression vers la phase S
 - **Perte de fonction de RB** = abolition du point R → progression non régulée
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-220 Cycle cellulaire et Cancer/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-220%20Cycle%20cellulaire%20et%20Cancer/p18_00.jpeg)
 
 
 ### Réponse aux dommages de l’ADN (DDR)
@@ -137,9 +137,9 @@ p53 (phosphorylée → stable, accumulée)
 - gènes pro-apoptotiques (BAX, PUMA…)
 ```
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-220 Cycle cellulaire et Cancer/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-220%20Cycle%20cellulaire%20et%20Cancer/p20_00.jpeg)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-220 Cycle cellulaire et Cancer/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-220%20Cycle%20cellulaire%20et%20Cancer/p21_00.jpeg)
 
 ## Altérations en cancérologie
 
@@ -164,9 +164,9 @@ La **majorité** des altérations touche des régulateurs de la **phase G1**.
 | **TP53** | Mutation | Très nombreux cancers (~50 % des tumeurs) |
 | **MDM2** | Amplification (chromosomes double-minute) | Liposarcome dédifférencié, ostéosarcome |
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-220 Cycle cellulaire et Cancer/p22_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-220%20Cycle%20cellulaire%20et%20Cancer/p22_00.png)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-220 Cycle cellulaire et Cancer/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-220%20Cycle%20cellulaire%20et%20Cancer/p23_00.jpeg)
 
 ### Exemple de p16 (CDKN2A) — un CKI clé
 
@@ -174,9 +174,9 @@ La **majorité** des altérations touche des régulateurs de la **phase G1**.
 - Inactivation par **mutation, délétion, méthylation du promoteur**
 - Une forme mutée (ex. glioblastome) est incapable d’arrêter le cycle (perte de fonction démontrée par transfection)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-220 Cycle cellulaire et Cancer/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-220%20Cycle%20cellulaire%20et%20Cancer/p24_00.jpeg)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-220 Cycle cellulaire et Cancer/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-220%20Cycle%20cellulaire%20et%20Cancer/p25_00.jpeg)
 
 ## Ciblage thérapeutique : les inhibiteurs de CDK4/6
 
@@ -187,7 +187,7 @@ La **majorité** des altérations touche des régulateurs de la **phase G1**.
 - Effet : arrêt du cycle en **G1** (cytométrie en flux : pic unique de contenu en ADN), perte de phosphorylation de **RB**, perte du marqueur **Ki-67** sur les xénogreffes
 - Suppression de la croissance tumorale en modèles précliniques (cancer du sein)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-220 Cycle cellulaire et Cancer/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-220%20Cycle%20cellulaire%20et%20Cancer/p26_00.jpeg)
 
 
 ### Indications cliniques

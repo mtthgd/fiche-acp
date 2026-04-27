@@ -51,11 +51,11 @@ Quatre couches identiques au gros intestin : **muqueuse / sous-muqueuse / muscul
 - Nombreux **plasmocytes** dans le chorion
 - **PNN et PNE absents** à l'état normal
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.5.2 Pathologie non tumorale de lappendice/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.5.2%20Pathologie%20non%20tumorale%20de%20lappendice/p03_00.jpeg)
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.5.2 Pathologie non tumorale de lappendice/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.5.2%20Pathologie%20non%20tumorale%20de%20lappendice/p05_01.jpeg)
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.5.2 Pathologie non tumorale de lappendice/p05_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.5.2%20Pathologie%20non%20tumorale%20de%20lappendice/p05_02.jpeg)
 
 ---
 
@@ -68,9 +68,9 @@ Quatre couches identiques au gros intestin : **muqueuse / sous-muqueuse / muscul
 | Décrire | Contenu lumière, aspect séreuse |
 | Prélever | **Section transversale de la base** + **sections longitudinales de la pointe** + sections étagées |
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.5.2 Pathologie non tumorale de lappendice/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.5.2%20Pathologie%20non%20tumorale%20de%20lappendice/p12_01.jpeg)
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.5.2 Pathologie non tumorale de lappendice/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.5.2%20Pathologie%20non%20tumorale%20de%20lappendice/p12_02.jpeg)
 
 ---
 
@@ -97,9 +97,9 @@ Quatre couches identiques au gros intestin : **muqueuse / sous-muqueuse / muscul
 - Localisation préférentielle : **tiers distal**, **multiples**, fréquents dans la **mucoviscidose**
 - Complication : inflammation, perforation → **piège diagnostique avec une néoplasie mucineuse appendiculaire de bas grade**
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.5.2 Pathologie non tumorale de lappendice/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.5.2%20Pathologie%20non%20tumorale%20de%20lappendice/p15_00.jpeg)
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.5.2 Pathologie non tumorale de lappendice/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.5.2%20Pathologie%20non%20tumorale%20de%20lappendice/p16_01.jpeg)
 
 ### Oblitération fibreuse de la lumière (= "neurome paraisthésine")
 
@@ -146,7 +146,7 @@ Quatre couches identiques au gros intestin : **muqueuse / sous-muqueuse / muscul
 
 Complications : **perforation, péritonite, abcès**.
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.5.2 Pathologie non tumorale de lappendice/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.5.2%20Pathologie%20non%20tumorale%20de%20lappendice/p17_00.jpeg)
 
 ### Stades histologiques
 
@@ -157,11 +157,11 @@ Complications : **perforation, péritonite, abcès**.
 | **Phlegmoneuse** | Nécrose suppurée **transmurale**, infiltrat leucocytaire diffus, atteinte séreuse → **réaction péritonéale** |
 | **Gangréneuse** | Muqueuse largement ulcérée, **nécrose ischémique transmurale**, **thromboses veineuses**, peu de réaction inflammatoire |
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p21_00.jpeg)
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.5.2 Pathologie non tumorale de lappendice/p22_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.5.2%20Pathologie%20non%20tumorale%20de%20lappendice/p22_01.png)
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.5.2 Pathologie non tumorale de lappendice/p23_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.5.2%20Pathologie%20non%20tumorale%20de%20lappendice/p23_00.png)
 
 ### Périappendicite
 
@@ -195,7 +195,7 @@ Complications : **perforation, péritonite, abcès**.
 - **Corps étrangers**
 - **Idiopathique**
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.5.2 Pathologie non tumorale de lappendice/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.5.2%20Pathologie%20non%20tumorale%20de%20lappendice/p27_00.jpeg)
 
 ### Histologie
 
@@ -244,7 +244,7 @@ Complications : **perforation, péritonite, abcès**.
 | *M. tuberculosis* | Atteinte associée digestive ou pulmonaire, pas de spécificité histologique |
 | ***Actinomyces israelii*** | Flore orale, **appendicite chronique suppurée**, **fistules** mimant Crohn ; **filaments bleu foncé + grains** au Grocott |
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.5.2 Pathologie non tumorale de lappendice/p28_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.5.2%20Pathologie%20non%20tumorale%20de%20lappendice/p28_01.png)
 
 ### Parasitaires
 
@@ -253,7 +253,7 @@ Complications : **perforation, péritonite, abcès**.
 | ***Enterobius vermicularis* (oxyure)** | Le plus fréquent, **enfant**, climats tempérés, 5 mm, **épaisse cuticule + éperons latéraux** ; ulcérations superficielles, hémorragies, granulome possible |
 | *Strongyloides stercoralis* | Riche en PNE, abcès, nécrose ; recherche dans les selles ++ |
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.5.2 Pathologie non tumorale de lappendice/p29_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.5.2%20Pathologie%20non%20tumorale%20de%20lappendice/p29_00.png)
 
 ### Virales
 
@@ -279,7 +279,7 @@ Aspergillose, mucormycose, candidose : surtout chez l'**immunodéprimé** ou gre
 - Atteinte **séreuse + musculeuse**
 - Glandes endométriales + stroma + **dépôts hémosidériniques** + réaction fibreuse
 
-![[assets/digestif/pancreas/tumorale/03.3.3.2 Pathologie moléculaire de ladénocarcinome du pancréas/p30_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.2%20Pathologie%20mol%C3%A9culaire%20de%20lad%C3%A9nocarcinome%20du%20pancr%C3%A9as/p30_00.png)
 
 ### Invagination de l'appendice
 

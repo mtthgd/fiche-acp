@@ -35,7 +35,7 @@ source: DES ACP - Cours d'urologie
   - Sans séminome : **~25 ans**
   - Avec séminome : **~30 ans**
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (1ère partie)/p07_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%281%C3%A8re%20partie%29/p07_00.png)
 
 ### Facteurs de prédisposition
 - **Antécédent TG contro-latérale** : RR ≈ **25** (facteur majeur)
@@ -62,7 +62,7 @@ source: DES ACP - Cours d'urologie
 - **TDM thoraco-abdomino-pelvien**
 - Geste = **orchidectomie totale par voie inguinale** ; **biopsie percutanée PROSCRITE**
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (1ère partie)/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%281%C3%A8re%20partie%29/p13_00.jpeg)
 
 ## Classification OMS 2016 - Vocabulaire
 
@@ -72,21 +72,21 @@ source: DES ACP - Cours d'urologie
 | **Type II** | Dérivée de **GCNIS** ; **séminome** + **TGNS** (carcinome embryonnaire, tumeur vitelline, choriocarcinome, tératome post-puberté), burn-out / régressive |
 | **Type III** | **Tumeur spermatocytaire** ; non dérivée de GCNIS |
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (1ère partie)/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%281%C3%A8re%20partie%29/p15_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (1ère partie)/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%281%C3%A8re%20partie%29/p15_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (1ère partie)/p15_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%281%C3%A8re%20partie%29/p15_02.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (1ère partie)/p15_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%281%C3%A8re%20partie%29/p15_03.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (1ère partie)/p15_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%281%C3%A8re%20partie%29/p15_04.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (1ère partie)/p15_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%281%C3%A8re%20partie%29/p15_05.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (1ère partie)/p15_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%281%C3%A8re%20partie%29/p15_06.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (1ère partie)/p15_07.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%281%C3%A8re%20partie%29/p15_07.jpeg)
 
 ## Principes thérapeutiques (stade I)
 
@@ -106,17 +106,17 @@ source: DES ACP - Cours d'urologie
 - **M1 particulier** : **trombus vasculaire tumoral discontinu dans le cordon** (AJCC)
 - **Marqueurs sériques (S)** intégrés dans le stade clinique
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (1ère partie)/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%281%C3%A8re%20partie%29/p25_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (1ère partie)/p25_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%281%C3%A8re%20partie%29/p25_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (1ère partie)/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%281%C3%A8re%20partie%29/p26_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (1ère partie)/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%281%C3%A8re%20partie%29/p27_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (1ère partie)/p27_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%281%C3%A8re%20partie%29/p27_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (1ère partie)/p27_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%281%C3%A8re%20partie%29/p27_02.jpeg)
 
 ## Tumeurs germinales MIXTES
 
@@ -129,21 +129,21 @@ source: DES ACP - Cours d'urologie
   - Rechercher **LVI**
   - IHC **ciblée** par contingent
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (1ère partie)/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%281%C3%A8re%20partie%29/p28_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (1ère partie)/p28_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%281%C3%A8re%20partie%29/p28_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (1ère partie)/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%281%C3%A8re%20partie%29/p29_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (1ère partie)/p29_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%281%C3%A8re%20partie%29/p29_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (1ère partie)/p29_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%281%C3%A8re%20partie%29/p29_02.jpeg)
 
 ### Composantes de pronostic péjoratif
 - **Choriocarcinome** (surtout) : diffusion **hématogène**
 - **Carcinome embryonnaire abondant**
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (1ère partie)/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%281%C3%A8re%20partie%29/p30_00.jpeg)
 
 ## Macroscopie des TGNS
 
@@ -151,13 +151,13 @@ source: DES ACP - Cours d'urologie
 - **Échantillonnage guidé par l'aspect macro** : chaque zone différente
 - **Inclusion totale** si petite ; sinon 1 bloc/0,5-1 cm par contingent
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (1ère partie)/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%281%C3%A8re%20partie%29/p31_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (1ère partie)/p31_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%281%C3%A8re%20partie%29/p31_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (1ère partie)/p31_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%281%C3%A8re%20partie%29/p31_02.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (1ère partie)/p31_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%281%C3%A8re%20partie%29/p31_03.jpeg)
 
 ## Histologie - Aspects de TG mixtes
 
@@ -172,7 +172,7 @@ source: DES ACP - Cours d'urologie
 - **Séminome** : **CD117+, OCT4+, CK−, CD30−**
 - **Carcinome embryonnaire** : **CD30+, CK+, OCT4+, CD117−**
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (1ère partie)/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%281%C3%A8re%20partie%29/p34_00.jpeg)
 
 
 ## Tableau IHC récapitulatif des TG du testicule

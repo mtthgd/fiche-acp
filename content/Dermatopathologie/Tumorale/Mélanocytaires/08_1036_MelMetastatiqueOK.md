@@ -45,7 +45,7 @@ Le mélanome donne des métastases **partout** (y compris le cœur), parfois **>
 - **« B »** : ganglion **cliniquement détecté**
 - **« C »** : présence d'une **métastase en transit** (avec ou sans ganglion +)
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1036-Mélanome Métastatique/p03_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1036-M%C3%A9lanome%20M%C3%A9tastatique/p03_02.jpeg)
 
 ## Ganglion sentinelle (GS)
 
@@ -97,9 +97,9 @@ Le mélanome donne des métastases **partout** (y compris le cœur), parfois **>
 - **Tout envahissement** = N+, **même micrométastatique**
 - Mais la taille de la micrométastase reste cruciale : **traitements adjuvants** si > 1 mm
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1036-Mélanome Métastatique/p06_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1036-Mélanome Métastatique/p08_01.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1036-Mélanome Métastatique/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1036-M%C3%A9lanome%20M%C3%A9tastatique/p06_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1036-M%C3%A9lanome%20M%C3%A9tastatique/p08_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1036-M%C3%A9lanome%20M%C3%A9tastatique/p10_01.jpeg)
 
 ## Métastases en transit
 
@@ -124,8 +124,8 @@ Métastase **dermique ou hypodermique** (parfois épidermotrope), **sans connexi
 
 > ⚠️ Toujours examiner attentivement les lames d'un mélanome primitif pour ne pas manquer une métastase en transit (péjorative).
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1036-Mélanome Métastatique/p12_01.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1036-Mélanome Métastatique/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1036-M%C3%A9lanome%20M%C3%A9tastatique/p12_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1036-M%C3%A9lanome%20M%C3%A9tastatique/p14_01.jpeg)
 
 ## Classification M — métastases à distance
 
@@ -140,7 +140,7 @@ Métastase **dermique ou hypodermique** (parfois épidermotrope), **sans connexi
 
 Stade III subdivisé en **IIIA, IIIB, IIIC, IIID** car différences pronostiques marquées.
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221 - Dermatoses lichénoïdes - approche diagnostique/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221%20-%20Dermatoses%20lich%C3%A9no%C3%AFdes%20-%20approche%20diagnostique/p15_01.jpeg)
 
 ## Prise en charge thérapeutique
 
@@ -168,7 +168,7 @@ Choix conditionné par :
 | **BRAF muté + cinétique lente** | **Immunothérapie** (anti-PD1) plutôt |
 | **BRAF non muté** | **Anti-PD1 seul** (± association anti-CTLA4 + anti-PD1 dans cas particuliers, notamment PD-L1 négatifs) |
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1036-Mélanome Métastatique/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1036-M%C3%A9lanome%20M%C3%A9tastatique/p19_01.jpeg)
 
 ## Théragnostique : recherche de mutation BRAF
 
@@ -191,8 +191,8 @@ Choix conditionné par :
 
 > Plus l'exposition aux **UV** est importante, plus la **charge mutationnelle** est élevée → meilleure candidature à l'**immunothérapie**.
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211 Approche Diagnostique Dans Les Dermatoses Spongiotiques/p20_01.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1036-Mélanome Métastatique/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211%20Approche%20Diagnostique%20Dans%20Les%20Dermatoses%20Spongiotiques/p20_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1036-M%C3%A9lanome%20M%C3%A9tastatique/p22_00.jpeg)
 
 ## PD-L1 et immunothérapie
 
@@ -228,8 +228,8 @@ Choix conditionné par :
 
 > ⚠️ **IHC informative uniquement si POSITIVE** (V600E mise en évidence). Si **négative**, **toujours faire la moléculaire** (peut être V600K ou autre mutation activatrice).
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1036-Mélanome Métastatique/p25_01.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1036-Mélanome Métastatique/p26_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1036-M%C3%A9lanome%20M%C3%A9tastatique/p25_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1036-M%C3%A9lanome%20M%C3%A9tastatique/p26_01.jpeg)
 
 ## Immunohistochimie d'une métastase de mélanome
 

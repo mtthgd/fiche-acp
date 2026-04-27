@@ -39,9 +39,9 @@ Touchent surtout la **femme**, âge médian 50-60 ans, **prédominance proximale
 - Quelques capillaires inclus dans les dépôts
 - Lésions associées : infiltrat inflammatoire, altérations épithéliales
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.6 Colites chroniques hors MICI/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.6%20Colites%20chroniques%20hors%20MICI/p06_00.jpeg)
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.6 Colites chroniques hors MICI/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.6%20Colites%20chroniques%20hors%20MICI/p06_01.jpeg)
 
 **DD de la bande collagène épaissie** :
 - Radiothérapie
@@ -57,9 +57,9 @@ Touchent surtout la **femme**, âge médian 50-60 ans, **prédominance proximale
 - Bande collagène sous-épithéliale **normale**
 - Lésions associées (inflammation, altérations épithéliales) possibles
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.6 Colites chroniques hors MICI/p13_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.6%20Colites%20chroniques%20hors%20MICI/p13_02.jpeg)
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.6 Colites chroniques hors MICI/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.6%20Colites%20chroniques%20hors%20MICI/p14_00.jpeg)
 
 > **Forme paucicellulaire** : 10-20 lymphocytes/100 cellules + diarrhée hydrique → diagnostic possible.
 > **Formes non diffuses** : nécessitent ≥ 3 biopsies sur ≥ 2 segments coliques.
@@ -86,7 +86,7 @@ Touchent surtout la **femme**, âge médian 50-60 ans, **prédominance proximale
 - Ulcérations remplacées par tissu de granulation
 - Lésions transmurales possibles → perforation
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.6 Colites chroniques hors MICI/p18_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.6%20Colites%20chroniques%20hors%20MICI/p18_01.png)
 
 ### Phase chronique
 
@@ -131,7 +131,7 @@ Certains germes peuvent évoluer en mode chronique mimant une MICI avec **anomal
 - **Bilharziose** : œufs sous-muqueux
 - Bactéries : examens microbiologiques
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.6 Colites chroniques hors MICI/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.6%20Colites%20chroniques%20hors%20MICI/p20_00.jpeg)
 
 ## Syndrome du prolapsus muqueux ano-rectal
 
@@ -148,7 +148,7 @@ Synonymes : **ulcère solitaire du rectum**, **colite kystique profonde**, **pol
 - Ulcération
 - Glandes en sous-muqueuse (« colite kystique profonde »)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p21_00.jpeg)
 
 ## Autres causes
 

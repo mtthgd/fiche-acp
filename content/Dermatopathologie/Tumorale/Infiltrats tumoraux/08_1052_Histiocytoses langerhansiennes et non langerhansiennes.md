@@ -51,7 +51,7 @@ source: DES ACP - Cours de Dermatopathologie
 | CD33 | Lignée myéloïde |
 | CD45 | Toutes cellules hématopoïétiques (sauf plasmocytes) |
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052 Histiocytoses langerhansiennes et non langerhansiennes/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052%20Histiocytoses%20langerhansiennes%20et%20non%20langerhansiennes/p06_00.jpeg)
 
 ### Lignées de différenciation
 
@@ -64,7 +64,7 @@ source: DES ACP - Cours de Dermatopathologie
 | Cellule plasmacytoïde dendritique | CD123+, TCL1+ (origine médullaire/sanguine distincte) |
 | Cellule folliculaire dendritique | CD21+, CD23+ (origine mésenchymateuse) |
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052 Histiocytoses langerhansiennes et non langerhansiennes/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052%20Histiocytoses%20langerhansiennes%20et%20non%20langerhansiennes/p07_00.jpeg)
 
 ## Diagnostics différentiels à éliminer avant tout
 
@@ -84,7 +84,7 @@ source: DES ACP - Cours de Dermatopathologie
   - corps étranger
   - **cellule géante de Touton** (très évocatrice) : cytoplasme éosinophile central + **couronne interne de noyaux** + zone externe de cytoplasme **vacuolisé/xanthomisé**
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052 Histiocytoses langerhansiennes et non langerhansiennes/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052%20Histiocytoses%20langerhansiennes%20et%20non%20langerhansiennes/p10_00.jpeg)
 
 ### Xanthogranulome juvénile (JXG) — la plus fréquente
 
@@ -100,11 +100,11 @@ source: DES ACP - Cours de Dermatopathologie
 - Infiltrat inflammatoire associé (lymphocytes, éosinophiles)
 - ⚠️ Au stade initial : infiltrat **monomorphe**, cellules de Touton et xanthomisation peuvent **manquer**
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052 Histiocytoses langerhansiennes et non langerhansiennes/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052%20Histiocytoses%20langerhansiennes%20et%20non%20langerhansiennes/p12_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052 Histiocytoses langerhansiennes et non langerhansiennes/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052%20Histiocytoses%20langerhansiennes%20et%20non%20langerhansiennes/p13_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052 Histiocytoses langerhansiennes et non langerhansiennes/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052%20Histiocytoses%20langerhansiennes%20et%20non%20langerhansiennes/p14_00.jpeg)
 
 #### IHC (xanthogranulome)
 
@@ -126,17 +126,17 @@ source: DES ACP - Cours de Dermatopathologie
 | **Xanthoma disseminatum** | Papules brun-orangé multiples (visage, tronc, plis, muqueuses ORL/conjonctive) ; atteinte systémique possible (diabète insipide), résolution spontanée possible |
 | **Réticulohistiocytose multicentrique** | Femme adulte, cutanéo-articulaire ; arthrite symétrique destructrice + papulonodules sur faces d'extension des mains, association à cancer/maladies auto-immunes ; cellules oncocytaires « verre dépoli » |
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052 Histiocytoses langerhansiennes et non langerhansiennes/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052%20Histiocytoses%20langerhansiennes%20et%20non%20langerhansiennes/p15_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052 Histiocytoses langerhansiennes et non langerhansiennes/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052%20Histiocytoses%20langerhansiennes%20et%20non%20langerhansiennes/p16_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052 Histiocytoses langerhansiennes et non langerhansiennes/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052%20Histiocytoses%20langerhansiennes%20et%20non%20langerhansiennes/p21_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052 Histiocytoses langerhansiennes et non langerhansiennes/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052%20Histiocytoses%20langerhansiennes%20et%20non%20langerhansiennes/p21_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052 Histiocytoses langerhansiennes et non langerhansiennes/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052%20Histiocytoses%20langerhansiennes%20et%20non%20langerhansiennes/p22_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052 Histiocytoses langerhansiennes et non langerhansiennes/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052%20Histiocytoses%20langerhansiennes%20et%20non%20langerhansiennes/p23_00.jpeg)
 
 ### DD du xanthogranulome
 
@@ -159,11 +159,11 @@ source: DES ACP - Cours de Dermatopathologie
 - Histiocytes particuliers : **cytoplasme abondant éosinophile pâle**, noyau ovoïde **nucléolé**
 - **Empéripolèse** (signe pathognomonique) : présence de polynucléaires neutrophiles dans des **vacuoles cytoplasmiques** des histiocytes — mieux visible sur **IHC PS100**
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052 Histiocytoses langerhansiennes et non langerhansiennes/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052%20Histiocytoses%20langerhansiennes%20et%20non%20langerhansiennes/p25_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052 Histiocytoses langerhansiennes et non langerhansiennes/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052%20Histiocytoses%20langerhansiennes%20et%20non%20langerhansiennes/p29_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052 Histiocytoses langerhansiennes et non langerhansiennes/p29_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052%20Histiocytoses%20langerhansiennes%20et%20non%20langerhansiennes/p29_01.jpeg)
 
 ### IHC
 
@@ -204,11 +204,11 @@ source: DES ACP - Cours de Dermatopathologie
 - Cellules **ovoïdes**, abondant cytoplasme, **noyau ovoïde indenté ou réniforme** (caractéristique)
 - Infiltrat associé : lymphocytes, polynucléaires éosinophiles
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052 Histiocytoses langerhansiennes et non langerhansiennes/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052%20Histiocytoses%20langerhansiennes%20et%20non%20langerhansiennes/p33_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052 Histiocytoses langerhansiennes et non langerhansiennes/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052%20Histiocytoses%20langerhansiennes%20et%20non%20langerhansiennes/p34_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052 Histiocytoses langerhansiennes et non langerhansiennes/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052%20Histiocytoses%20langerhansiennes%20et%20non%20langerhansiennes/p35_00.jpeg)
 
 ### IHC LCH
 
@@ -219,11 +219,11 @@ source: DES ACP - Cours de Dermatopathologie
 | **CD207 (langérine)** | **+** (le plus spécifique) |
 | **BRAF V600E (VE1)** | + dans ~50 % |
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052 Histiocytoses langerhansiennes et non langerhansiennes/p36_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052%20Histiocytoses%20langerhansiennes%20et%20non%20langerhansiennes/p36_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052 Histiocytoses langerhansiennes et non langerhansiennes/p36_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052%20Histiocytoses%20langerhansiennes%20et%20non%20langerhansiennes/p36_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052 Histiocytoses langerhansiennes et non langerhansiennes/p37_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052%20Histiocytoses%20langerhansiennes%20et%20non%20langerhansiennes/p37_00.jpeg)
 
 ### DD de la LCH
 
@@ -234,7 +234,7 @@ source: DES ACP - Cours de Dermatopathologie
 | **Histiocytose à cellules indéterminées** | PS100+, CD1a+, **CD207−** |
 | **Hyperplasie langerhansienne réactionnelle** | Très fréquente (gale, dermatoses infectieuses) → **confrontation clinique++** |
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052 Histiocytoses langerhansiennes et non langerhansiennes/p38_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052%20Histiocytoses%20langerhansiennes%20et%20non%20langerhansiennes/p38_00.jpeg)
 
 ## Histiocytose à cellules indéterminées
 
@@ -244,9 +244,9 @@ source: DES ACP - Cours de Dermatopathologie
 - ME : **absence de granules de Birbeck**
 - Translocation **ETV3-NCOA2** décrite, mutation BRAF rapportée
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052 Histiocytoses langerhansiennes et non langerhansiennes/p40_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052%20Histiocytoses%20langerhansiennes%20et%20non%20langerhansiennes/p40_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052 Histiocytoses langerhansiennes et non langerhansiennes/p40_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052%20Histiocytoses%20langerhansiennes%20et%20non%20langerhansiennes/p40_01.jpeg)
 
 ## Maladie d'Erdheim-Chester (groupe L)
 
@@ -272,9 +272,9 @@ source: DES ACP - Cours de Dermatopathologie
 - Présence de **cellules de Touton en abondance** dans le derme papillaire (≠ xanthélasma habituel sans Touton)
 - Mutations **BRAF V600E jusqu'à 100 %** des lésions xanthélasmoïdes
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052 Histiocytoses langerhansiennes et non langerhansiennes/p43_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052%20Histiocytoses%20langerhansiennes%20et%20non%20langerhansiennes/p43_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052 Histiocytoses langerhansiennes et non langerhansiennes/p43_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052%20Histiocytoses%20langerhansiennes%20et%20non%20langerhansiennes/p43_01.jpeg)
 
 ## Tableau récapitulatif phénotypique
 
@@ -297,9 +297,9 @@ La majorité des histiocytoses (langerhansiennes ET non langerhansiennes) sont l
 | ARAF, NRAS, PIK3CA | Plus rares |
 | Fusions **ALK**, BRAF, **NTRK1**, ETV3-NCOA2 | Histiocytoses non langerhansiennes (cellules indéterminées) |
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052 Histiocytoses langerhansiennes et non langerhansiennes/p46_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052%20Histiocytoses%20langerhansiennes%20et%20non%20langerhansiennes/p46_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052 Histiocytoses langerhansiennes et non langerhansiennes/p47_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1052%20Histiocytoses%20langerhansiennes%20et%20non%20langerhansiennes/p47_00.jpeg)
 
 ## Traitements ciblés
 

@@ -57,9 +57,9 @@ Tumeur **bénigne** à différenciation cartilagineuse constituée de **chondrob
 - Aussi : mains/pieds, os plats, tête/face
 - L'âge moyen varie avec le site (os longs = plus précoce)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p05_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p05_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p05_03.jpeg)
 
 ## Imagerie
 
@@ -70,13 +70,13 @@ Tumeur **bénigne** à différenciation cartilagineuse constituée de **chondrob
 - IRM : **hyposignal T1, hypersignal T2**
 - **Œdème périlésionnel** important et caractéristique (aussi observé dans l'ostéome ostéoïde)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p06_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p06_00.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p08_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p08_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p08_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p08_02.jpeg)
 
 ## Histologie
 
@@ -87,9 +87,9 @@ Tumeur **bénigne** à différenciation cartilagineuse constituée de **chondrob
 - **Nombreuses cellules géantes** de type ostéoclastique dispersées
 - **Matrice cartilagineuse** d'importance variable
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p09_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p09_01.jpeg)
 
 ### Fort grossissement — chondroblastes
 
@@ -98,11 +98,11 @@ Tumeur **bénigne** à différenciation cartilagineuse constituée de **chondrob
 - **Cytoplasme abondant éosinophile** ou parfois clarifié
 - **Noyaux caractéristiques** : allongés, souvent périphériques, avec **incisures longitudinales** (noyau en grain de café)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p10_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p10_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p10_03.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p10_04.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p10_04.png)
 
 ### Matrice cartilagineuse
 
@@ -113,17 +113,17 @@ Tumeur **bénigne** à différenciation cartilagineuse constituée de **chondrob
 
 Calcifications fines **autour de chaque chondroblaste** réalisant un aspect **grillagé** (chicken-wire calcification).
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p11_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p11_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p12_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p12_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p12_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p12_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p12_03.jpeg)
 
 ## Immunohistochimie
 
@@ -136,9 +136,9 @@ Calcifications fines **autour de chaque chondroblaste** réalisant un aspect **g
 
 **H3.3 K36M = marqueur essentiel** : tous les chondroblastomes mutés sont marqués, utile ++ sur microbiopsie et variantes.
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p13_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p13_01.jpeg)
 
 ## Variantes histologiques
 
@@ -148,9 +148,9 @@ Calcifications fines **autour de chaque chondroblaste** réalisant un aspect **g
 - **Composante fusiforme**
 - Transformation maligne / dédifférenciation : **exceptionnelle**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p14_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p14_01.jpeg)
 
 ## Diagnostics différentiels
 
@@ -163,11 +163,11 @@ Calcifications fines **autour de chaque chondroblaste** réalisant un aspect **g
 
 **Clés diagnostiques** : **siège épiphysaire** + **anticorps H3.3 K36M** (spécifique).
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p15_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p16_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p16_01.jpeg)
 
 ## Traitement et pronostic
 
@@ -177,11 +177,11 @@ Calcifications fines **autour de chaque chondroblaste** réalisant un aspect **g
 - **Greffes à distance** (poumon, autres os) **exceptionnelles**
 - **OMS : agressivité intermédiaire, rarement métastasiant**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p18_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p18_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p18_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p18_02.png)
 
 # II. CHONDROSARCOME À CELLULES CLAIRES
 
@@ -201,7 +201,7 @@ Calcifications fines **autour de chaque chondroblaste** réalisant un aspect **g
 - **Fémur (> 50 %)**, puis humérus → **fémur + humérus > 2/3**
 - Également : crâne, face, vertèbres
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p23_00.jpeg)
 
 ## Imagerie
 
@@ -210,13 +210,13 @@ Calcifications fines **autour de chaque chondroblaste** réalisant un aspect **g
 - Si volumineuse : limites moins nettes, envahissement cortical, extension tissus mous
 - IRM : hyposignal T1, hypersignal T2 hétérogène
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p24_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p24_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p24_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p24_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p24_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p24_03.jpeg)
 
 ## Macroscopie
 
@@ -225,7 +225,7 @@ Calcifications fines **autour de chaque chondroblaste** réalisant un aspect **g
 - Fréquents **remaniements hémorragiques**
 - ⚠️ Caractère cartilagineux peu visible macroscopiquement (≠ chondrosarcome classique)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p25_00.jpeg)
 
 ## Histologie
 
@@ -240,13 +240,13 @@ Calcifications fines **autour de chaque chondroblaste** réalisant un aspect **g
 - **Noyau central** avec **nucléole** souvent visible, parfois proéminent
 - Agencement en travées anastomotiques
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p26_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p27_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p28_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p28_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p28_01.jpeg)
 
 ## Immunohistochimie
 
@@ -262,7 +262,7 @@ S100+ diffus = élément clé pour **éviter le diagnostic d'ostéosarcome** mal
 - **Génome simple, diploïde**
 - **PAS de mutations IDH1 / IDH2** (≠ chondrosarcome conventionnel ++)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256 Tumeurs cartilagineuses épiphysaires/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-256%20Tumeurs%20cartilagineuses%20%C3%A9piphysaires/p29_00.jpeg)
 
 ## Pronostic
 

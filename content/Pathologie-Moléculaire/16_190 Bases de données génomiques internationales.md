@@ -34,7 +34,7 @@ source: DES ACP - Pathologie moléculaire
 Disponibilité accrue : nombreux journaux **imposent la publication des données brutes** lors de l’acceptation.
 
 
-![[assets/pathologie-moleculaire/rappels-adn/16-190 Base de données génomiques internationales/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-190%20Base%20de%20donn%C3%A9es%20g%C3%A9nomiques%20internationales/p02_00.jpeg)
 
 ## Principaux consortiums internationaux
 
@@ -45,9 +45,9 @@ Disponibilité accrue : nombreux journaux **imposent la publication des données
 
 Portails web modernes : **agrégation** des données + **visualisation interactive** + **analyses simples** (ex : corrélation mutation ↔ survie, mutation ↔ expression).
 
-![[assets/pathologie-moleculaire/rappels-adn/16-190 Base de données génomiques internationales/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-190%20Base%20de%20donn%C3%A9es%20g%C3%A9nomiques%20internationales/p07_00.jpeg)
 
-![[assets/pathologie-moleculaire/rappels-adn/16-190 Base de données génomiques internationales/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-190%20Base%20de%20donn%C3%A9es%20g%C3%A9nomiques%20internationales/p08_00.jpeg)
 
 ## Applications cliniques pour le pathologiste
 
@@ -70,9 +70,9 @@ Portails web modernes : **agrégation** des données + **visualisation interacti
 - Datasets utilisés comme **cohortes de validation** externes
 - Bases d’**effets de drogues sur lignées** : associer drogue ↔ statut moléculaire (ex : drogue A efficace si gène X muté)
 
-![[assets/pathologie-moleculaire/rappels-adn/16-190 Base de données génomiques internationales/p09_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-190%20Base%20de%20donn%C3%A9es%20g%C3%A9nomiques%20internationales/p09_00.png)
 
-![[assets/pathologie-moleculaire/rappels-adn/16-190 Base de données génomiques internationales/p10_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-190%20Base%20de%20donn%C3%A9es%20g%C3%A9nomiques%20internationales/p10_00.png)
 
 ## Caractéristiques des portails
 
@@ -113,11 +113,11 @@ Portails web modernes : **agrégation** des données + **visualisation interacti
 
 → **Toujours nettoyer / vérifier** la composition d’une cohorte avant analyse.
 
-![[assets/pathologie-moleculaire/rappels-adn/16-190 Base de données génomiques internationales/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-190%20Base%20de%20donn%C3%A9es%20g%C3%A9nomiques%20internationales/p11_00.jpeg)
 
-![[assets/pathologie-moleculaire/rappels-adn/16-190 Base de données génomiques internationales/p12_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-190%20Base%20de%20donn%C3%A9es%20g%C3%A9nomiques%20internationales/p12_00.png)
 
-![[assets/pathologie-moleculaire/rappels-adn/16-190 Base de données génomiques internationales/p13_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-190%20Base%20de%20donn%C3%A9es%20g%C3%A9nomiques%20internationales/p13_00.png)
 
 ## GeneCards — fiche d’identité d’un gène
 
@@ -125,7 +125,7 @@ Portails web modernes : **agrégation** des données + **visualisation interacti
 - Pour un gène : **fonction**, **synonymes** (utile car nomenclature variable), **liens vers fournisseurs** (anticorps, plasmides — à vérifier)
 - Idéal pour identifier rapidement la fonction d’un gène inconnu
 
-![[assets/pathologie-moleculaire/rappels-adn/16-190 Base de données génomiques internationales/p14_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-190%20Base%20de%20donn%C3%A9es%20g%C3%A9nomiques%20internationales/p14_00.png)
 
 ## ClinVar — variants
 
@@ -136,9 +136,9 @@ Portails web modernes : **agrégation** des données + **visualisation interacti
 
 Exemple : *KRAS* codon 61 → consultable directement.
 
-![[assets/pathologie-moleculaire/rappels-adn/16-190 Base de données génomiques internationales/p15_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-190%20Base%20de%20donn%C3%A9es%20g%C3%A9nomiques%20internationales/p15_00.png)
 
-![[assets/pathologie-moleculaire/rappels-adn/16-190 Base de données génomiques internationales/p16_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-190%20Base%20de%20donn%C3%A9es%20g%C3%A9nomiques%20internationales/p16_00.png)
 
 ## COSMIC — variants somatiques en cancer
 
@@ -150,13 +150,13 @@ Très utilisé pour les variants. Pour un gène (ex : **KRAS**) :
 
 ⚠ Discordances possibles entre **COSMIC** et **ClinVar** (sources différentes) → **consulter plusieurs portails**.
 
-![[assets/pathologie-moleculaire/rappels-adn/16-190 Base de données génomiques internationales/p17_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-190%20Base%20de%20donn%C3%A9es%20g%C3%A9nomiques%20internationales/p17_00.png)
 
-![[assets/pathologie-moleculaire/rappels-adn/16-190 Base de données génomiques internationales/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-190%20Base%20de%20donn%C3%A9es%20g%C3%A9nomiques%20internationales/p18_00.jpeg)
 
-![[assets/pathologie-moleculaire/rappels-adn/16-190 Base de données génomiques internationales/p20_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-190%20Base%20de%20donn%C3%A9es%20g%C3%A9nomiques%20internationales/p20_00.png)
 
-![[assets/pathologie-moleculaire/rappels-adn/16-190 Base de données génomiques internationales/p21_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-190%20Base%20de%20donn%C3%A9es%20g%C3%A9nomiques%20internationales/p21_00.png)
 
 ## cBioPortal — portail analytique majeur
 
@@ -186,15 +186,15 @@ Agrège **TCGA + ICGC + datasets de publications**. Outil très riche, fonctions
 - Identification des mutations **classiquement pathogéniques** (icône flamme)
 - **Co-expression** : gènes les plus associés (ex : *MAPK10* avec *SMAD4*)
 
-![[assets/pathologie-moleculaire/rappels-adn/16-190 Base de données génomiques internationales/p22_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-190%20Base%20de%20donn%C3%A9es%20g%C3%A9nomiques%20internationales/p22_00.png)
 
-![[assets/pathologie-moleculaire/rappels-adn/16-190 Base de données génomiques internationales/p23_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-190%20Base%20de%20donn%C3%A9es%20g%C3%A9nomiques%20internationales/p23_00.png)
 
-![[assets/pathologie-moleculaire/rappels-adn/16-190 Base de données génomiques internationales/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-190%20Base%20de%20donn%C3%A9es%20g%C3%A9nomiques%20internationales/p24_00.jpeg)
 
-![[assets/pathologie-moleculaire/rappels-adn/16-190 Base de données génomiques internationales/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-190%20Base%20de%20donn%C3%A9es%20g%C3%A9nomiques%20internationales/p25_00.jpeg)
 
-![[assets/pathologie-moleculaire/rappels-adn/16-190 Base de données génomiques internationales/p26_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-190%20Base%20de%20donn%C3%A9es%20g%C3%A9nomiques%20internationales/p26_00.png)
 
 ## Human Protein Atlas
 
@@ -213,13 +213,13 @@ Agrège :
 - Sélection **TMA** parfois contestable (ex : tumeurs neuro-endocrines mêlées dans TMA pancréas)
 - À utiliser avec **circonspection**
 
-![[assets/pathologie-moleculaire/rappels-adn/16-190 Base de données génomiques internationales/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-190%20Base%20de%20donn%C3%A9es%20g%C3%A9nomiques%20internationales/p27_00.jpeg)
 
-![[assets/pathologie-moleculaire/rappels-adn/16-190 Base de données génomiques internationales/p28_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-190%20Base%20de%20donn%C3%A9es%20g%C3%A9nomiques%20internationales/p28_00.png)
 
-![[assets/pathologie-moleculaire/rappels-adn/16-190 Base de données génomiques internationales/p29_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-190%20Base%20de%20donn%C3%A9es%20g%C3%A9nomiques%20internationales/p29_00.png)
 
-![[assets/pathologie-moleculaire/rappels-adn/16-190 Base de données génomiques internationales/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-190%20Base%20de%20donn%C3%A9es%20g%C3%A9nomiques%20internationales/p30_00.jpeg)
 
 ## Conclusion — bonnes pratiques
 

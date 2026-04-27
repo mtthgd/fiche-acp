@@ -60,7 +60,7 @@ Cette fiche traite :
 - Quelques kystes possibles
 - **Remaniements hémorragiques / nécrotiques**
 
-![[assets/gyneco-sein/ovaire/Ovaire cordons sexuels stroma mixtes stroma et cordons/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/Ovaire%20cordons%20sexuels%20stroma%20mixtes%20stroma%20et%20cordons/p06_01.jpeg)
 
 ### Histologie
 
@@ -70,7 +70,7 @@ Cette fiche traite :
   - **Cytoplasme abondant**, parfois **cristalloïdes de Reinke** (rares)
   - Aspect **constant** quel que soit le degré de différenciation
 
-![[assets/gyneco-sein/ovaire/Ovaire cordons sexuels stroma mixtes stroma et cordons/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/Ovaire%20cordons%20sexuels%20stroma%20mixtes%20stroma%20et%20cordons/p07_01.jpeg)
 
 #### Grading par différenciation
 
@@ -82,9 +82,9 @@ Cette fiche traite :
 
 > Échantillonnage indispensable pour rechercher des **zones mieux différenciées avec tubes** dans les formes peu différenciées.
 
-![[assets/gyneco-sein/ovaire/Ovaire cordons sexuels stroma mixtes stroma et cordons/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/Ovaire%20cordons%20sexuels%20stroma%20mixtes%20stroma%20et%20cordons/p08_01.jpeg)
 
-![[assets/gyneco-sein/ovaire/Ovaire cordons sexuels stroma mixtes stroma et cordons/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/Ovaire%20cordons%20sexuels%20stroma%20mixtes%20stroma%20et%20cordons/p09_01.jpeg)
 
 #### Formes particulières
 
@@ -95,7 +95,7 @@ Cette fiche traite :
 |   - Épithélial mucineux, carcinoïde, hépatocytaire | | |
 |   - Mésenchymateux : **cartilage immature, muscle strié immature** | | DD : **tératome immature** |
 
-![[assets/gyneco-sein/ovaire/Ovaire cordons sexuels stroma mixtes stroma et cordons/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/Ovaire%20cordons%20sexuels%20stroma%20mixtes%20stroma%20et%20cordons/p10_01.jpeg)
 
 ### IHC
 

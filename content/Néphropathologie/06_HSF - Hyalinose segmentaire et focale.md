@@ -47,7 +47,7 @@ source: DES ACP - Cours de néphropathologie
 | **Médicamenteuse / toxique** | Pamidronate, IFN, héroïne, anabolisants, lithium, anti-VEGF |
 
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/216-14 HSF/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/216-14%20HSF/p05_00.jpeg)
 
 ## Histologie (MO) — ensemble lésionnel
 
@@ -58,11 +58,11 @@ L'HSF associe en microscopie optique :
 3. **Dépôts hyalins** (PAS+, **rouge au trichrome de Masson**) : protéines plasmatiques piégées dans les zones de sclérose ; vacuoles lipidiques possibles
 4. **Synéchie flocculo-capsulaire** : adhérence entre l'anse glomérulaire et la **capsule de Bowman**
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/216-14 HSF/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/216-14%20HSF/p06_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/216-14 HSF/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/216-14%20HSF/p07_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/216-14 HSF/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/216-14%20HSF/p08_00.jpeg)
 
 > ⚠️ Lésions **focales et segmentaires** → en pratique : **multiplier les niveaux de coupe** pour ne pas méconnaître l'HSF (DD avec LGM).
 
@@ -73,7 +73,7 @@ L'HSF associe en microscopie optique :
 - Possibles **dépôts d'IgM** et de **C3** au niveau des lésions de hyalinose (segmentaires, dans les zones sclérosées) — **non spécifiques** (piégeage)
 - Pas de dépôts diffus d'immunoglobulines
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/216-14 HSF/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/216-14%20HSF/p11_00.jpeg)
 
 ## Microscopie électronique (ME)
 
@@ -93,19 +93,19 @@ Cinq variants morphologiques associés à des particularités étiologiques et p
 | **Cellulaire** | **Comblement du capillaire glomérulaire** par des cellules (cellules spumeuses, cellules micro-vacuolisées) ; dilatation capillaire ; hyperplasie podocytaire marquée | Idiopathique, médicamenteuse |
 | **Collapsing** (avec collapsus du floculus) | **Hyperplasie + hypertrophie podocytaire intense** (vacuoles éosinophiles) ; **collapsus** du capillaire (lumières effondrées) ; aspect en **pseudo-croissant** possible | **APOL1**, **VIH**, certains médicaments |
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/216-14 HSF/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/216-14%20HSF/p13_00.jpeg)
 
 ### Variant périhilaire
 
 
 ### Variant pôle urinaire (*tip lesion*)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/216-14 HSF/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/216-14%20HSF/p15_00.jpeg)
 
 
 ### Variant cellulaire
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/216-14 HSF/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/216-14%20HSF/p17_00.jpeg)
 
 ### Variant *collapsing*
 

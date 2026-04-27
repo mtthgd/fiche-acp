@@ -43,11 +43,11 @@ Les deux entités sont traitées ensemble car représentent un **diagnostic diff
 - Architecture péri-folliculaire (pseudo-manteau)
 - Conservation variable des follicules
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-326_Lymphomes de la zone marginale et LPL/p05_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-326_Lymphomes%20de%20la%20zone%20marginale%20et%20LPL/p05_04.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-326_Lymphomes de la zone marginale et LPL/p05_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-326_Lymphomes%20de%20la%20zone%20marginale%20et%20LPL/p05_05.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-326_Lymphomes de la zone marginale et LPL/p06_08.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-326_Lymphomes%20de%20la%20zone%20marginale%20et%20LPL/p06_08.jpeg)
 
 ### Cytologie — également hétérogène
 
@@ -57,9 +57,9 @@ Mélange de :
 - **Petits lymphocytes** plasmocytoïdes (noyau arrondi, un peu de cytoplasme)
 - Population augmentée de grandes cellules
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-326_Lymphomes de la zone marginale et LPL/p07_12.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-326_Lymphomes%20de%20la%20zone%20marginale%20et%20LPL/p07_12.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-326_Lymphomes de la zone marginale et LPL/p07_13.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-326_Lymphomes%20de%20la%20zone%20marginale%20et%20LPL/p07_13.jpeg)
 
 ### Infiltration médullaire
 - Nodulaire ou para-trabéculaire, rarement interstitielle
@@ -74,7 +74,7 @@ Mélange de :
 - BCL2 souvent +
 - Ki67 faible-modéré (parfois élevé si riche en grandes cellules)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-326_Lymphomes de la zone marginale et LPL/p08_16.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-326_Lymphomes%20de%20la%20zone%20marginale%20et%20LPL/p08_16.jpeg)
 
 ### Génétique et moléculaire
 - Pas d'altération cytogénétique spécifique
@@ -123,11 +123,11 @@ Mélange de :
 - Dépôts d'immunoglobulines (IgM) ± **amylose**
 - **Corps de Dutcher** : inclusions intranucléaires d'Ig
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-326_Lymphomes de la zone marginale et LPL/p16_19.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-326_Lymphomes%20de%20la%20zone%20marginale%20et%20LPL/p16_19.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-326_Lymphomes de la zone marginale et LPL/p17_21.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-326_Lymphomes%20de%20la%20zone%20marginale%20et%20LPL/p17_21.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-326_Lymphomes de la zone marginale et LPL/p17_22.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-326_Lymphomes%20de%20la%20zone%20marginale%20et%20LPL/p17_22.jpeg)
 
 ### Histologie ganglionnaire
 - Architecture diffuse ou vaguement nodulaire/interfolliculaire
@@ -141,11 +141,11 @@ Mélange de :
 - CD19+ sur les plasmocytes (souvent)
 - **CD5− CD10− CD23− CD43− Cycline D1−**
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-326_Lymphomes de la zone marginale et LPL/p19_26.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-326_Lymphomes%20de%20la%20zone%20marginale%20et%20LPL/p19_26.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-326_Lymphomes de la zone marginale et LPL/p20_30.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-326_Lymphomes%20de%20la%20zone%20marginale%20et%20LPL/p20_30.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-326_Lymphomes de la zone marginale et LPL/p21_33.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-326_Lymphomes%20de%20la%20zone%20marginale%20et%20LPL/p21_33.jpeg)
 
 ### Génétique et moléculaire
 - Pas d'altération cytogénétique spécifique (del6q, trisomie 4)

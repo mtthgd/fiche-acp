@@ -49,7 +49,7 @@ source: DES ACP - Cours d'urologie
 - **Remaniements hémorragiques/nécrotiques** fréquents
 - Aucun aspect macroscopique spécifique (ressemble à ccRCC)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-142-Carcinome à translocation/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-142-Carcinome%20%C3%A0%20translocation/p07_00.jpeg)
 
 ## Histologie — **tumeur polymorphe**
 
@@ -63,13 +63,13 @@ Peut **mimer tous les autres types** de carcinomes rénaux !
 - **Nodules hyalins** et **psammomes** fréquents (non pathognomoniques)
 
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-142-Carcinome à translocation/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-142-Carcinome%20%C3%A0%20translocation/p09_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-142-Carcinome à translocation/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-142-Carcinome%20%C3%A0%20translocation/p10_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-142-Carcinome à translocation/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-142-Carcinome%20%C3%A0%20translocation/p11_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-142-Carcinome à translocation/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-142-Carcinome%20%C3%A0%20translocation/p12_00.jpeg)
 
 ### Aspects mimétiques
 | Tumeur mimée | Caractéristiques |
@@ -79,9 +79,9 @@ Peut **mimer tous les autres types** de carcinomes rénaux !
 | **Oncocytome** | Aspects éosinophiles pseudo-oncocytaires |
 | **Carcinome papillaire type 2** | Architecture papillaire |
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-142-Carcinome à translocation/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-142-Carcinome%20%C3%A0%20translocation/p13_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-142-Carcinome à translocation/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-142-Carcinome%20%C3%A0%20translocation/p14_00.jpeg)
 
 ### Forme TFEB (spécificité morphologique)
 - **Nids, amas, tubules**
@@ -105,9 +105,9 @@ Peut **mimer tous les autres types** de carcinomes rénaux !
 
 > Attention : anticorps TFE3/TFEB d'**utilisation délicate** → **faux +/−** liés à la fixation.
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-142-Carcinome à translocation/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-142-Carcinome%20%C3%A0%20translocation/p17_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-142-Carcinome à translocation/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-142-Carcinome%20%C3%A0%20translocation/p18_00.jpeg)
 
 ## Confirmation moléculaire
 
@@ -117,7 +117,7 @@ Peut **mimer tous les autres types** de carcinomes rénaux !
 - **RNA-Seq / techniques récentes** (Archer...) : utile pour fusions rares
 
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-142-Carcinome à translocation/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-142-Carcinome%20%C3%A0%20translocation/p20_00.jpeg)
 
 ## DD majeurs
 

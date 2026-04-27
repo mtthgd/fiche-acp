@@ -37,11 +37,11 @@ date: 2024
 
 Nécrose et angio-invasion fréquentes.
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-333_Lymphomes B à grandes cellules EBV PP/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-333_Lymphomes%20B%20%C3%A0%20grandes%20cellules%20EBV%20PP/p07_00.jpeg)
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-333_Lymphomes B à grandes cellules EBV PP/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-333_Lymphomes%20B%20%C3%A0%20grandes%20cellules%20EBV%20PP/p07_01.jpeg)
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-333_Lymphomes B à grandes cellules EBV PP/p07_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-333_Lymphomes%20B%20%C3%A0%20grandes%20cellules%20EBV%20PP/p07_02.jpeg)
 
 ### Phénotype
 - **Pan-B** : CD20+, CD79A+, PAX5+, CD19+, BOB1+, OCT2+
@@ -81,7 +81,7 @@ Nécrose et angio-invasion fréquentes.
 - Grandes cellules, aspect DLBCL ou plasmablastique
 - Nécrose fréquente, angio-invasion
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-333_Lymphomes B à grandes cellules EBV PP/p15_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-333_Lymphomes%20B%20%C3%A0%20grandes%20cellules%20EBV%20PP/p15_04.jpeg)
 
 ### Phénotype
 - Pan-B + (mais CD20 parfois − si différenciation plasmocytaire)
@@ -125,9 +125,9 @@ Nécrose et angio-invasion fréquentes.
 - **Pas de vrais granulomes** (malgré le nom)
 - **Angiocentrisme et angioinvasion** → nécrose ischémique / fibrinoïde
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-333_Lymphomes B à grandes cellules EBV PP/p24_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-333_Lymphomes%20B%20%C3%A0%20grandes%20cellules%20EBV%20PP/p24_05.jpeg)
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-333_Lymphomes B à grandes cellules EBV PP/p24_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-333_Lymphomes%20B%20%C3%A0%20grandes%20cellules%20EBV%20PP/p24_06.jpeg)
 
 ### Grading (OMS)
 
@@ -142,7 +142,7 @@ Nécrose et angio-invasion fréquentes.
 - Fond : lymphocytes T CD3+ CD5+
 - **EBNA2+, LMP1+** (latence III), **EBER+** dans toutes les cellules tumorales
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-333_Lymphomes B à grandes cellules EBV PP/p26_08.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-333_Lymphomes%20B%20%C3%A0%20grandes%20cellules%20EBV%20PP/p26_08.jpeg)
 
 ### DD
 - **Hodgkin classique** (CD15+, CD20 perdu)

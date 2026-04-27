@@ -30,11 +30,11 @@ date: 2024
 - Plasmocytes + fibrose fréquents
 - Diagnostic : **coloration de Ziehl-Neelsen** positive dans ≈60% des cas (BAAR en périphérie de la nécrose, dans les cellules épithélioïdes et géantes)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-222_Approfondissement lymphadenite granulomateuse  (1)/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-222_Approfondissement%20lymphadenite%20granulomateuse%20%20%281%29/p04_00.jpeg)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-222_Approfondissement lymphadenite granulomateuse  (1)/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-222_Approfondissement%20lymphadenite%20granulomateuse%20%20%281%29/p04_01.jpeg)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-222_Approfondissement lymphadenite granulomateuse  (1)/p05_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-222_Approfondissement%20lymphadenite%20granulomateuse%20%20%281%29/p05_04.jpeg)
 
 > Diagnostics différentiels : sarcoïdose, lymphadénite nodulaire abcédée, mycobactériose atypique, histoplasmose
 
@@ -46,11 +46,11 @@ date: 2024
 - Inclusions dans les cellules géantes : corps de Schaumann, corps astéroïdes (non spécifiques)
 - **Pas** de nécrose éosinophile aniste
 
-![[assets/hematologie/lymphadenites/Diaporama 07-222_Approfondissement lymphadenite granulomateuse  (1)/p06_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-222_Approfondissement%20lymphadenite%20granulomateuse%20%20%281%29/p06_05.jpeg)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-222_Approfondissement lymphadenite granulomateuse  (1)/p06_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-222_Approfondissement%20lymphadenite%20granulomateuse%20%20%281%29/p06_06.jpeg)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-222_Approfondissement lymphadenite granulomateuse  (1)/p07_09.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-222_Approfondissement%20lymphadenite%20granulomateuse%20%20%281%29/p07_09.jpeg)
 
 > ⚠️ **Diagnostics différentiels majeurs** :
 > - Tuberculose non nécrosante (toujours faire un Ziehl)
@@ -63,16 +63,16 @@ date: 2024
 - Levures intracellulaires, **bourgeonnantes**, mises en évidence par PAS et Grocott
 - Confrontation avec la mycologie indispensable
 
-![[assets/hematologie/lymphadenites/Diaporama 07-222_Approfondissement lymphadenite granulomateuse  (1)/p08_12.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-222_Approfondissement%20lymphadenite%20granulomateuse%20%20%281%29/p08_12.jpeg)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-222_Approfondissement lymphadenite granulomateuse  (1)/p08_13.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-222_Approfondissement%20lymphadenite%20granulomateuse%20%20%281%29/p08_13.jpeg)
 
 ### Autres étiologies
 
 - **Maladie de Crohn** (ganglions mésentériques) : petits granulomes épithélioïdes giganto-cellulaires
 - Ganglions de **drainage d'un cancer** : lésions granulomateuses possibles
 
-![[assets/hematologie/lymphadenites/Diaporama 07-222_Approfondissement lymphadenite granulomateuse  (1)/p10_14.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-222_Approfondissement%20lymphadenite%20granulomateuse%20%20%281%29/p10_14.jpeg)
 
 ---
 
@@ -85,9 +85,9 @@ date: 2024
 - Formes variables : arrondies, ovoïdes, allongées, **en Y**
 - Évolution : disparition progressive des PNN → risque de ressembler à une tuberculose
 
-![[assets/hematologie/lymphadenites/Diaporama 07-222_Approfondissement lymphadenite granulomateuse  (1)/p11_16.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-222_Approfondissement%20lymphadenite%20granulomateuse%20%20%281%29/p11_16.jpeg)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-222_Approfondissement lymphadenite granulomateuse  (1)/p12_18.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-222_Approfondissement%20lymphadenite%20granulomateuse%20%20%281%29/p12_18.jpeg)
 
 ### Étiologies principales
 
@@ -98,9 +98,9 @@ date: 2024
 | Tularémie | *Francisella tularensis* | Europe Est/USA, contact lapin, adénopathie de drainage + fièvre |
 | Yersiniose mésentérique | *Yersinia enterocolitica* | Ganglions mésentériques → DD appendicite. Appendice souvent normal, hyperplasie immunoblastique |
 
-![[assets/hematologie/lymphadenites/Diaporama 07-222_Approfondissement lymphadenite granulomateuse  (1)/p13_19.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-222_Approfondissement%20lymphadenite%20granulomateuse%20%20%281%29/p13_19.jpeg)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-222_Approfondissement lymphadenite granulomateuse  (1)/p14_20.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-222_Approfondissement%20lymphadenite%20granulomateuse%20%20%281%29/p14_20.jpeg)
 
 ### Diagnostics différentiels
 
@@ -121,11 +121,11 @@ date: 2024
 
 Nids de monocytes plasmocytoïdes fréquemment associés.
 
-![[assets/hematologie/lymphadenites/Diaporama 07-222_Approfondissement lymphadenite granulomateuse  (1)/p16_22.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-222_Approfondissement%20lymphadenite%20granulomateuse%20%20%281%29/p16_22.jpeg)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-222_Approfondissement lymphadenite granulomateuse  (1)/p17_23.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-222_Approfondissement%20lymphadenite%20granulomateuse%20%20%281%29/p17_23.jpeg)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-222_Approfondissement lymphadenite granulomateuse  (1)/p18_26.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-222_Approfondissement%20lymphadenite%20granulomateuse%20%20%281%29/p18_26.jpeg)
 
 ### Étiologies
 

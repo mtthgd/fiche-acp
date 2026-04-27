@@ -36,7 +36,7 @@ Particularités des lymphomes de la **tête et du cou** par topographie :
 1. **Anneau de Waldeyer**
 2. **Fosses nasales et sinus**
 
-![[assets/ORL/VADS/autres_tumeurs/10.241lymphomesorl/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/autres_tumeurs/10.241lymphomesorl/p03_00.jpeg)
 
 ## I. Anneau de Waldeyer
 
@@ -64,7 +64,7 @@ Quatre composants :
 - **Follicules à centres germinatifs activés**
 - Au niveau **amygdale palatine** : possibles **grains d'actinomycès** dans les cryptes → à signaler
 
-![[assets/ORL/VADS/autres_tumeurs/10.241lymphomesorl/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/autres_tumeurs/10.241lymphomesorl/p04_00.jpeg)
 
 ### Lymphomes de l'anneau de Waldeyer
 
@@ -133,13 +133,13 @@ Trois entités principales :
 - Atypies parfois subtiles → **piège diagnostique** (peut ressembler à de l'inflammation chronique)
 - **Hyperplasie pseudo-épithéliomateuse** réactionnelle de surface fréquente (piège pour CEP)
 
-![[assets/ORL/VADS/autres_tumeurs/10.241lymphomesorl/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/autres_tumeurs/10.241lymphomesorl/p08_00.jpeg)
 
-![[assets/ORL/VADS/autres_tumeurs/10.241lymphomesorl/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/autres_tumeurs/10.241lymphomesorl/p08_01.jpeg)
 
-![[assets/ORL/VADS/autres_tumeurs/10.241lymphomesorl/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/autres_tumeurs/10.241lymphomesorl/p09_00.jpeg)
 
-![[assets/ORL/VADS/autres_tumeurs/10.241lymphomesorl/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/autres_tumeurs/10.241lymphomesorl/p10_00.jpeg)
 
 ### Rappel sur les cellules cytotoxiques
 
@@ -171,7 +171,7 @@ Le lymphome **"NK/T"** comprend :
 > Toujours associer **CD3 + CD5 + CD56 + marqueurs cytotoxiques + EBER**.
 > Discordance **CD3+ / CD5−** → évoquer **NK** → demander CD56 + cytotoxiques + EBER.
 
-![[assets/ORL/VADS/autres_tumeurs/10.241lymphomesorl/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/autres_tumeurs/10.241lymphomesorl/p11_00.jpeg)
 
 ### Critères diagnostiques
 
@@ -212,11 +212,11 @@ Le lymphome **"NK/T"** comprend :
 - **Dépôts d'amylose** possibles (parfois abondants, pouvant masquer les cellules tumorales)
 - Respect de l'épithélium de surface
 
-![[assets/ORL/VADS/autres_tumeurs/10.241lymphomesorl/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/autres_tumeurs/10.241lymphomesorl/p17_00.jpeg)
 
-![[assets/ORL/VADS/autres_tumeurs/10.241lymphomesorl/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/autres_tumeurs/10.241lymphomesorl/p18_00.jpeg)
 
-![[assets/ORL/VADS/autres_tumeurs/10.241lymphomesorl/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/autres_tumeurs/10.241lymphomesorl/p19_00.jpeg)
 
 ### Immunohistochimie
 
@@ -232,20 +232,20 @@ Le lymphome **"NK/T"** comprend :
 
 ⚠️ **Piège** : si la nature plasmocytaire n'est pas reconnue, on peut partir vers un **lymphome B à grandes cellules** → redresser le diagnostic devant **CD45 faible + CD20−** → faire **CD138, MUM1, Kappa/Lambda**.
 
-![[assets/ORL/VADS/autres_tumeurs/10.241lymphomesorl/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/autres_tumeurs/10.241lymphomesorl/p20_00.jpeg)
 
-![[assets/ORL/VADS/autres_tumeurs/10.241lymphomesorl/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/autres_tumeurs/10.241lymphomesorl/p20_01.jpeg)
 
-![[assets/ORL/VADS/autres_tumeurs/10.241lymphomesorl/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/autres_tumeurs/10.241lymphomesorl/p21_00.jpeg)
 
 ### Amyloïdose associée
 
 - Inconstante, parfois **massive**
 - Peut **masquer les cellules tumorales** → faire **Kappa/Lambda** sur l'amylose pour démontrer la **monoclonalité** des plasmocytes résiduels
 
-![[assets/ORL/VADS/autres_tumeurs/10.241lymphomesorl/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/autres_tumeurs/10.241lymphomesorl/p21_01.jpeg)
 
-![[assets/ORL/VADS/autres_tumeurs/10.241lymphomesorl/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/autres_tumeurs/10.241lymphomesorl/p22_01.jpeg)
 
 ### Pronostic / Traitement
 

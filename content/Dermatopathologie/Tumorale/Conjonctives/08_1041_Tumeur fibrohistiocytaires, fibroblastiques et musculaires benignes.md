@@ -36,8 +36,8 @@ source: DES ACP - Cours de dermatopathologie
 - Axe conjonctif simple ± volumineux, pédiculé
 - Variante : **fibrolipome pédiculé** (tissu adipeux mature dans l'axe → DD avec amartome lipomateux superficiel selon caractère unique/multiple)
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041 - Tumeur fibrohistiocytaires, fibroblastiques et musculaires benignes/p06_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041 - Tumeur fibrohistiocytaires, fibroblastiques et musculaires benignes/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041%20-%20Tumeur%20fibrohistiocytaires%2C%20fibroblastiques%20et%20musculaires%20benignes/p06_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041%20-%20Tumeur%20fibrohistiocytaires%2C%20fibroblastiques%20et%20musculaires%20benignes/p07_00.jpeg)
 
 ## Histiocytofibrome cutané bénin (= dermatofibrome)
 
@@ -48,7 +48,7 @@ source: DES ACP - Cours de dermatopathologie
 - Papule/plaque unique, rosée ou pigmentée, **< 1 cm**
 - Bénigne dans l'écrasante majorité, mais : récidives possibles pour les formes cellulaires/anévrismales/atypiques ; quelques cas exceptionnels métastatiques décrits
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041 - Tumeur fibrohistiocytaires, fibroblastiques et musculaires benignes/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041%20-%20Tumeur%20fibrohistiocytaires%2C%20fibroblastiques%20et%20musculaires%20benignes/p10_00.jpeg)
 
 ### Histologie
 
@@ -58,9 +58,9 @@ source: DES ACP - Cours de dermatopathologie
 - **Trousseaux de collagène hyalinisés englobés** en périphérie (teinte orangée éosinophile) → quasi-constant, non spécifique
 - Cytologie polymorphe : fibrocytaires, fibrohistiocytaires, hémosidérine possible
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041 - Tumeur fibrohistiocytaires, fibroblastiques et musculaires benignes/p11_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041 - Tumeur fibrohistiocytaires, fibroblastiques et musculaires benignes/p12_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041 - Tumeur fibrohistiocytaires, fibroblastiques et musculaires benignes/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041%20-%20Tumeur%20fibrohistiocytaires%2C%20fibroblastiques%20et%20musculaires%20benignes/p11_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041%20-%20Tumeur%20fibrohistiocytaires%2C%20fibroblastiques%20et%20musculaires%20benignes/p12_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041%20-%20Tumeur%20fibrohistiocytaires%2C%20fibroblastiques%20et%20musculaires%20benignes/p13_00.jpeg)
 
 #### Variantes
 - **Hémosidérinique** : cheville, dépôts d'hémosidérine, coloration de Perls utile
@@ -68,9 +68,9 @@ source: DES ACP - Cours de dermatopathologie
 - **Induction folliculaire** sus-jacente : peut mimer un **carcinome basocellulaire superficiel** ; collisions véritables CBC + dermatofibrome possibles
 - **Extension hypodermique** : possible focale, suit les septas, **infiltrat lymphocytaire à l'interface** (≠ DFSP : nid d'abeille englobant les adipocytes)
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041 - Tumeur fibrohistiocytaires, fibroblastiques et musculaires benignes/p14_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041 - Tumeur fibrohistiocytaires, fibroblastiques et musculaires benignes/p17_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041 - Tumeur fibrohistiocytaires, fibroblastiques et musculaires benignes/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041%20-%20Tumeur%20fibrohistiocytaires%2C%20fibroblastiques%20et%20musculaires%20benignes/p14_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041%20-%20Tumeur%20fibrohistiocytaires%2C%20fibroblastiques%20et%20musculaires%20benignes/p17_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041%20-%20Tumeur%20fibrohistiocytaires%2C%20fibroblastiques%20et%20musculaires%20benignes/p18_00.jpeg)
 
 ### Immunohistochimie
 
@@ -81,8 +81,8 @@ source: DES ACP - Cours de dermatopathologie
 | **Actine musculaire lisse** | + possible (formes des extrémités, cellulaires, anévrismales, atypiques) |
 | Factor XIIIa | + (classique) |
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041 - Tumeur fibrohistiocytaires, fibroblastiques et musculaires benignes/p20_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041 - Tumeur fibrohistiocytaires, fibroblastiques et musculaires benignes/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041%20-%20Tumeur%20fibrohistiocytaires%2C%20fibroblastiques%20et%20musculaires%20benignes/p20_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041%20-%20Tumeur%20fibrohistiocytaires%2C%20fibroblastiques%20et%20musculaires%20benignes/p21_00.jpeg)
 
 > Pas de biologie moléculaire en routine ; FISH **COL1A1-PDGFB** uniquement si doute avec DFSP.
 
@@ -94,8 +94,8 @@ source: DES ACP - Cours de dermatopathologie
 | **Anévrismale** | Femmes, extrémité/tronc ; **cavité centrale d'amas érythrocytaires** + dépôts hémosidérine ; mitoses possibles |
 | **Atypique / pseudo-sarcomateux** | Rare ; cellules pléomorphes bizarres ; DD = **fibroxanthome atypique** mais **pas d'ulcération**, **hyperplasie épidermique**, jeunes adultes des extrémités (FXA = sujet âgé, photoexposé) |
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041 - Tumeur fibrohistiocytaires, fibroblastiques et musculaires benignes/p22_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041 - Tumeur fibrohistiocytaires, fibroblastiques et musculaires benignes/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041%20-%20Tumeur%20fibrohistiocytaires%2C%20fibroblastiques%20et%20musculaires%20benignes/p22_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041%20-%20Tumeur%20fibrohistiocytaires%2C%20fibroblastiques%20et%20musculaires%20benignes/p25_00.jpeg)
 
 ### Dermatofibrome vs DFSP
 
@@ -120,14 +120,14 @@ source: DES ACP - Cours de dermatopathologie
 - Cellules **épithélioïdes** : cytoplasme ample éosinophile « laqué », noyaux ovales monomorphes, chromatine vésiculeuse, fin nucléole central
 - Cellules bi/trinucléaires non atypiques
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041 - Tumeur fibrohistiocytaires, fibroblastiques et musculaires benignes/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041%20-%20Tumeur%20fibrohistiocytaires%2C%20fibroblastiques%20et%20musculaires%20benignes/p29_00.jpeg)
 
 ### IHC
 - **ALK +** (FISH ALK > 88 %)
 - EMA ± CD30 +
 - DD : **périneuriome épithélioïde**, tumeur de Spitz, myoépithéliome (panel élargi)
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041 - Tumeur fibrohistiocytaires, fibroblastiques et musculaires benignes/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041%20-%20Tumeur%20fibrohistiocytaires%2C%20fibroblastiques%20et%20musculaires%20benignes/p30_00.jpeg)
 
 ## Cicatrices hypertrophiques et chéloïdes
 
@@ -143,8 +143,8 @@ source: DES ACP - Cours de dermatopathologie
 - Faisceaux **myofibroblastiques** horizontaux, capillaires verticalisés, néocollagène
 - **Pas d'hyalinisation**
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041 - Tumeur fibrohistiocytaires, fibroblastiques et musculaires benignes/p33_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041 - Tumeur fibrohistiocytaires, fibroblastiques et musculaires benignes/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041%20-%20Tumeur%20fibrohistiocytaires%2C%20fibroblastiques%20et%20musculaires%20benignes/p33_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041%20-%20Tumeur%20fibrohistiocytaires%2C%20fibroblastiques%20et%20musculaires%20benignes/p35_00.jpeg)
 
 ## Papule fibreuse / Angiofibrome de la face
 
@@ -158,8 +158,8 @@ source: DES ACP - Cours de dermatopathologie
 - **Dendrocytes dermiques** fusiformes entre les trousseaux de collagène + structures vasculaires
 - Variantes pigmentées, claires, épithélioïdes
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041 - Tumeur fibrohistiocytaires, fibroblastiques et musculaires benignes/p40_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041 - Tumeur fibrohistiocytaires, fibroblastiques et musculaires benignes/p41_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041%20-%20Tumeur%20fibrohistiocytaires%2C%20fibroblastiques%20et%20musculaires%20benignes/p40_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041%20-%20Tumeur%20fibrohistiocytaires%2C%20fibroblastiques%20et%20musculaires%20benignes/p41_00.jpeg)
 
 ## Fibrokératome digital acquis
 
@@ -172,7 +172,7 @@ source: DES ACP - Cours de dermatopathologie
 - Vaisseaux et fibroblastes dans le derme
 - Épiderme hyperplasique, **orthokératosique**
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041 - Tumeur fibrohistiocytaires, fibroblastiques et musculaires benignes/p43_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041%20-%20Tumeur%20fibrohistiocytaires%2C%20fibroblastiques%20et%20musculaires%20benignes/p43_00.jpeg)
 
 ## Léiomyome cutané (pilo-érecteur)
 
@@ -187,8 +187,8 @@ source: DES ACP - Cours de dermatopathologie
 - Aucune mitose
 - **Desmine + h-Caldesmon +** (musculaire lisse vraie)
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041 - Tumeur fibrohistiocytaires, fibroblastiques et musculaires benignes/p45_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041 - Tumeur fibrohistiocytaires, fibroblastiques et musculaires benignes/p46_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041%20-%20Tumeur%20fibrohistiocytaires%2C%20fibroblastiques%20et%20musculaires%20benignes/p45_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041%20-%20Tumeur%20fibrohistiocytaires%2C%20fibroblastiques%20et%20musculaires%20benignes/p46_00.jpeg)
 
 ## Dermatomyofibrome
 
@@ -201,7 +201,7 @@ source: DES ACP - Cours de dermatopathologie
 - Annexes englobées
 - Inflammation possible
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041 - Tumeur fibrohistiocytaires, fibroblastiques et musculaires benignes/p47_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041%20-%20Tumeur%20fibrohistiocytaires%2C%20fibroblastiques%20et%20musculaires%20benignes/p47_00.jpeg)
 
 ## Collagénome storiforme
 
@@ -214,8 +214,8 @@ source: DES ACP - Cours de dermatopathologie
 - Cellules fusiformes vaguement storiformes, **CD34 +++** (souligne l'aspect boisé)
 - DD : **périneuriome sclérosant** (pas de marqueurs périneuriaux ici)
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041 - Tumeur fibrohistiocytaires, fibroblastiques et musculaires benignes/p50_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041 - Tumeur fibrohistiocytaires, fibroblastiques et musculaires benignes/p51_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041%20-%20Tumeur%20fibrohistiocytaires%2C%20fibroblastiques%20et%20musculaires%20benignes/p50_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041%20-%20Tumeur%20fibrohistiocytaires%2C%20fibroblastiques%20et%20musculaires%20benignes/p51_00.jpeg)
 
 ## Neurothécome cellulaire (faux ami : non neural)
 
@@ -230,9 +230,9 @@ source: DES ACP - Cours de dermatopathologie
 - Nids ± myxoïdes dans le derme
 - Cellules non atypiques, cytoplasme pâle éosinophile, enroulement périphérique dans matrice myxoïde
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041 - Tumeur fibrohistiocytaires, fibroblastiques et musculaires benignes/p55_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041 - Tumeur fibrohistiocytaires, fibroblastiques et musculaires benignes/p58_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041 - Tumeur fibrohistiocytaires, fibroblastiques et musculaires benignes/p61_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041%20-%20Tumeur%20fibrohistiocytaires%2C%20fibroblastiques%20et%20musculaires%20benignes/p55_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041%20-%20Tumeur%20fibrohistiocytaires%2C%20fibroblastiques%20et%20musculaires%20benignes/p58_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1041%20-%20Tumeur%20fibrohistiocytaires%2C%20fibroblastiques%20et%20musculaires%20benignes/p61_00.jpeg)
 
 ---
 

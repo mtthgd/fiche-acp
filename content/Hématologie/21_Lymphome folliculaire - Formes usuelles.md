@@ -29,9 +29,9 @@ date: 2024
 - 90% des LF portent la t(14;18)
 - Mais : 10% de LF sans t(14;18) ET sujets sains porteurs de t(14;18) sans lymphome → autres événements nécessaires (épigénétiques, BCR, micro-environnement)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-322_Lymphomes folliculaires_Formes Usuelles_CL final/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-322_Lymphomes%20folliculaires_Formes%20Usuelles_CL%20final/p04_01.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-322_Lymphomes folliculaires_Formes Usuelles_CL final/p06_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-322_Lymphomes%20folliculaires_Formes%20Usuelles_CL%20final/p06_02.png)
 
 ## Pronostic et prise en charge
 
@@ -52,9 +52,9 @@ date: 2024
   - Folliculaire et diffus : 25-75%
   - Diffus : < 25%
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-322_Lymphomes folliculaires_Formes Usuelles_CL final/p08_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-322_Lymphomes%20folliculaires_Formes%20Usuelles_CL%20final/p08_04.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-322_Lymphomes folliculaires_Formes Usuelles_CL final/p08_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-322_Lymphomes%20folliculaires_Formes%20Usuelles_CL%20final/p08_05.jpeg)
 
 ### Aspect des follicules lymphomateux
 
@@ -68,9 +68,9 @@ date: 2024
 - Majorité de **centrocytes** (petites cellules clivées hyperchromatiques)
 - Mêlés à des **centroblastes** (grandes cellules rondes, nucléoles périphériques, cytoplasme visible)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-322_Lymphomes folliculaires_Formes Usuelles_CL final/p09_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-322_Lymphomes%20folliculaires_Formes%20Usuelles_CL%20final/p09_06.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-322_Lymphomes folliculaires_Formes Usuelles_CL final/p09_07.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-322_Lymphomes%20folliculaires_Formes%20Usuelles_CL%20final/p09_07.jpeg)
 
 ## Grade histologique (OMS 2016)
 
@@ -83,7 +83,7 @@ date: 2024
 
 > ⚠️ LF 3B séparé car agressif. Parfois les grandes cellules sont des **immunoblastes** (nucléole central unique).
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-322_Lymphomes folliculaires_Formes Usuelles_CL final/p12_16.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-322_Lymphomes%20folliculaires_Formes%20Usuelles_CL%20final/p12_16.jpeg)
 
 ## Immunophénotype
 
@@ -107,9 +107,9 @@ date: 2024
 - Variable, en moyenne **faible à modéré**
 - **Pas de répartition zonale** (différent du CG réactionnel) ← critère diagnostic important
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-322_Lymphomes folliculaires_Formes Usuelles_CL final/p13_19.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-322_Lymphomes%20folliculaires_Formes%20Usuelles_CL%20final/p13_19.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-322_Lymphomes folliculaires_Formes Usuelles_CL final/p13_20.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-322_Lymphomes%20folliculaires_Formes%20Usuelles_CL%20final/p13_20.jpeg)
 
 ## Diagnostic de certitude
 
@@ -120,7 +120,7 @@ Coexpression **CD10 + BCL2** par les cellules centrofolliculaires.
 - **Sonde fusion BCL2-IGH** : signal fusionné
 - Positif dans ≈90% des LF
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-322_Lymphomes folliculaires_Formes Usuelles_CL final/p14_23.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-322_Lymphomes%20folliculaires_Formes%20Usuelles_CL%20final/p14_23.jpeg)
 
 ## Cas particulier : LF BCL2-négatif
 
@@ -131,7 +131,7 @@ Coexpression **CD10 + BCL2** par les cellules centrofolliculaires.
 4. Si FISH BCL2 négatif → tester réarrangements **BCL6** ou **IRF4** (variantes)
 5. **Étude de clonalité B** (IgH) pour confirmer la prolifération tumorale
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-322_Lymphomes folliculaires_Formes Usuelles_CL final/p15_26.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-322_Lymphomes%20folliculaires_Formes%20Usuelles_CL%20final/p15_26.jpeg)
 
 ## Diagnostics différentiels
 
@@ -161,7 +161,7 @@ Coexpression **CD10 + BCL2** par les cellules centrofolliculaires.
 - Parfois concomitant avec le LF
 - Plages diffuses de grandes cellules + Ki67 très élevé + destruction du réseau FDC
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-322_Lymphomes folliculaires_Formes Usuelles_CL final/p20_38.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-322_Lymphomes%20folliculaires_Formes%20Usuelles_CL%20final/p20_38.jpeg)
 
 ---
 

@@ -23,7 +23,7 @@ Les **polynucléaires éosinophiles** (PNE) sont **rarement au premier plan** da
 
 ⚠️ **Attention aux fixateurs alcooliques** (type AFA) : ils **décolorent le cytoplasme** et rendent la distinction avec les **PNN** beaucoup plus difficile.
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422 Dermatoses éosinophiliques/p03_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422%20Dermatoses%20%C3%A9osinophiliques/p03_02.jpeg)
 
 ## Démarche diagnostique selon la topographie
 
@@ -38,29 +38,29 @@ Les **polynucléaires éosinophiles** (PNE) sont **rarement au premier plan** da
 | Spongiose éosinophilique | Pemphigus/pemphigoïde débutant, **eczéma**, **incontinentia pigmenti** |
 | Atteinte folliculaire | **Mycosis fungoïde pilotrope**, **folliculite à éosinophiles** (VIH+), folliculite d'Ofuji |
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422 Dermatoses éosinophiliques/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422%20Dermatoses%20%C3%A9osinophiliques/p04_00.jpeg)
 
 ## Pemphigoïde bulleuse pré-bulleuse
 
 Aspect typique : infiltrat **très riche en PNE** dans le derme superficiel, PNE au contact de la **jonction dermo-épidermique** et même intra-épidermiques (**spongiose éosinophilique**).
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422 Dermatoses éosinophiliques/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422%20Dermatoses%20%C3%A9osinophiliques/p05_01.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422 Dermatoses éosinophiliques/p05_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422%20Dermatoses%20%C3%A9osinophiliques/p05_02.jpeg)
 
 ## Pemphigus à un stade débutant pré-bulleux
 
 Spongiose éosinophilique + PNN.
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422 Dermatoses éosinophiliques/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422%20Dermatoses%20%C3%A9osinophiliques/p06_00.jpeg)
 
 ## Eczéma riche en PNE
 
 PNE essentiellement dermiques, plus focaux dans l'épiderme. Pattern eczématiforme reconnu par la **spongiose** entraînant un espacement exagéré des kératinocytes et la formation de **vésicules sous-cornées** contenant des séro-érosités.
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422 Dermatoses éosinophiliques/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422%20Dermatoses%20%C3%A9osinophiliques/p07_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422 Dermatoses éosinophiliques/p07_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422%20Dermatoses%20%C3%A9osinophiliques/p07_02.jpeg)
 
 ## Toxidermies à éosinophiles
 
@@ -78,14 +78,14 @@ Les PNE ne sont **pas constants** dans les toxidermies. On peut les retrouver da
 - Très riche en **PNE**
 - **Foyers de nécrose du collagène** d'aspect bleuté en **flammèches** ("flame figures") liés à la dégranulation des enzymes protéolytiques des PNE
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422 Dermatoses éosinophiliques/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422%20Dermatoses%20%C3%A9osinophiliques/p08_00.jpeg)
 
 
 ## Gale (toujours évoquer)
 
 Tout infiltrat éosinophilique cutané doit faire évoquer une **parasitose, en particulier la gale**. Visualisation directe du parasite dans un **sillon** possible mais rare.
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422 Dermatoses éosinophiliques/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422%20Dermatoses%20%C3%A9osinophiliques/p10_01.jpeg)
 
 L'aspect de **"super-spongiose"** est évocateur mais inconstant.
 
@@ -104,9 +104,9 @@ L'aspect de **"super-spongiose"** est évocateur mais inconstant.
 
 Infiltrat inflammatoire étendu sur toute la hauteur du derme, **œdème**, topographie **périvasculaire**, nombreux PNE.
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422 Dermatoses éosinophiliques/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422%20Dermatoses%20%C3%A9osinophiliques/p11_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422 Dermatoses éosinophiliques/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422%20Dermatoses%20%C3%A9osinophiliques/p11_01.jpeg)
 
 ⚠️ Devant une "hypersensibilité aux piqûres d'insectes" : penser à une **hémopathie B sous-jacente, en particulier une LLC**.
 
@@ -127,15 +127,15 @@ Les PNE sont **inconstants** dans les lymphomes cutanés primitifs/secondaires e
 
 Nécrose épidermique, hyperplasie épidermique bordant, infiltrat lymphocytaire pléomorphe + nombreux PNN/PNE → **CD30** caractérise les éléments lymphoïdes néoplasiques.
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422 Dermatoses éosinophiliques/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422%20Dermatoses%20%C3%A9osinophiliques/p13_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422 Dermatoses éosinophiliques/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422%20Dermatoses%20%C3%A9osinophiliques/p13_01.jpeg)
 
 ### Lymphome lympho-blastique cutané
 
 Lymphocytes discrètement atypiques avec cellules clarifiées, plasmocytes, nombreux PNE, **angiogenèse à HEV** (vénules à endothélium haut).
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422 Dermatoses éosinophiliques/p13_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422%20Dermatoses%20%C3%A9osinophiliques/p13_02.jpeg)
 
 ## Pseudo-lymphomes à PNE
 
@@ -145,17 +145,17 @@ Lymphocytes discrètement atypiques avec cellules clarifiées, plasmocytes, nomb
 - Infiltrat lymphoïde dense, **profond**, **follicules lymphoïdes à CG**, nombreux PNE
 - Diagnostic étiologique : **macrophages à cytoplasme en feuille morte chargés de particules d'aluminium** identifiables par la **coloration de Morin** (lecture en fluorescence)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422 Dermatoses éosinophiliques/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422%20Dermatoses%20%C3%A9osinophiliques/p14_01.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422 Dermatoses éosinophiliques/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422%20Dermatoses%20%C3%A9osinophiliques/p14_02.jpeg)
 
 ## Panniculite à éosinophiles
 
 **Pattern inflammatoire** plutôt qu'entité : infiltrat hypodermique très riche en PNE. Mêmes étiologies que les infiltrats dermiques profonds éosinophiliques.
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422 Dermatoses éosinophiliques/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422%20Dermatoses%20%C3%A9osinophiliques/p16_01.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422 Dermatoses éosinophiliques/p16_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-polynucleaires/08-422%20Dermatoses%20%C3%A9osinophiliques/p16_02.jpeg)
 
 ## Diagnostics différentiels selon la topographie
 

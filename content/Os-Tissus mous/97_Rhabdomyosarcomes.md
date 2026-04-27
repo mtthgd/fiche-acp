@@ -46,13 +46,13 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Dépend du site : rétention d'urine, ictère, diplopie, sinusite, asymptomatique
 
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p02_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p02_05.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p02_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p02_06.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p02_07.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p02_07.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p02_08.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p02_08.jpeg)
 
 ## Histologie
 - Prolifération de **cellules mésenchymateuses primitives** avec différenciation musculaire striée **de degré variable**
@@ -63,14 +63,14 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
   - Cellules différenciées : grande taille, **cytoplasme éosinophile abondant**, noyau excentré
   - Cellules **multinucléées** avec **striations cytoplasmiques**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p05_00.jpeg)
 
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p06_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p07_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p07_01.jpeg)
 
 ## IHC
 - **Desmine +** cytoplasmique (constant)
@@ -84,28 +84,28 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Micro : **couche cambiale** = densification cellulaire sous l'épithélium
 - **Très bon pronostic**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p08_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p08_01.jpeg)
 
 ### RMS anaplasique
 - **Atypies cytonucléaires marquées** : noyaux volumineux, hyperchromatiques, **mitoses multipolaires**
 - **Mauvais pronostic**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p09_00.jpeg)
 
 ## Biologie moléculaire
 - **Pas d'anomalie spécifique**
 - **Aneuploïdie** avec gains/pertes de chromosomes entiers (CGH)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p10_01.jpeg)
 
 ## Pronostic
 - Classé en **3 groupes** : bas / intermédiaire / haut risque
 - **Âge** pronostique : meilleur entre **1 et 9 ans**, péjoratif chez nourrissons et adolescents/adultes
 - **Hiérarchie** : Botryoïde (très bon) > Embryonnaire > Alvéolaire > Anaplasique (mauvais)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p10_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p10_02.jpeg)
 
 ---
 
@@ -116,11 +116,11 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Extrémités ++** (contraste avec embryonnaire)
 - Autres : sinus, périnée
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p11_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p11_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p15_00.jpeg)
 
 ## Macro
 - Masse assez bien limitée, blanchâtre, remaniements hémorragiques
@@ -132,21 +132,21 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Cytologie : **peu différenciée**, noyau rond hyperchromatique, peu de cytoplasme
 - **Rhabdomyoblastes** possibles : cellules multinucléées, **noyaux en couronne**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p16_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p17_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p17_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p18_01.jpeg)
 
 ## IHC
 - **Desmine +** cytoplasmique
 - **Myogénine** et **MyoD1** : nucléaires, **plus intenses et diffuses** que dans les RMS embryonnaires
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p19_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p19_01.jpeg)
 
 ## Biologie moléculaire — **indispensable au diagnostic**
 - **Translocations** impliquant **FOXO1** (chr. 13) :
@@ -154,9 +154,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
   - **PAX7-FOXO1**
 - Variants plus rares décrits
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p20_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p20_01.jpeg)
 
 ## Pronostic
 - 3 groupes (bas/intermédiaire/haut risque)
@@ -181,33 +181,33 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Cellules à noyaux **ovalaires ou allongés**, chromatine **vésiculeuse**, nucléole fin
 - Cytoplasme éosinophile
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p24_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p25_00.jpeg)
 
 ## IHC
 - Desmine + cytoplasmique
 - **MyoD1 > myogénine** (plus sensible dans les formes non à cellules rondes)
 - MyoD1 + en IHC **non spécifique** du statut muté de MYOD1
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p26_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p26_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p26_01.jpeg)
 
 ## Biologie moléculaire — groupe hétérogène
 - **Enfant (surtout congénital/nourrisson)** : translocations **NCOA2**, **VGLL2**
 - **Mutation MYOD1** (mutuellement exclusive des translocations)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p27_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p27_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p27_02.jpeg)
 
 ## Pronostic
 - **Enfant** : survie globale **95% à 5 ans**
 - **Adulte** : mauvais pronostic
 - **Mutation MYOD1** = **facteur pronostique péjoratif** (évolution agressive)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p29_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p29_01.jpeg)
 
 ---
 
@@ -222,17 +222,17 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Cytologie **pléomorphe** : cellules de grande taille, atypiques, **multinucléées**, cytoplasme éosinophile
 - Possibles morphologies **épithélioïde** ou **fusocellulaire**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p30_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p30_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p30_01.jpeg)
 
 ## IHC
 - Desmine + cytoplasmique
 - Myogénine et MyoD1 + nucléaires → **permet d'asseoir le diagnostic**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p31_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p31_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p31_01.jpeg)
 
 ## Biologie moléculaire
 - **Génomique complexe** (≠ embryonnaire et alvéolaire)
@@ -240,9 +240,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 ## Pronostic
 - **Mauvais pronostic**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p33_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p33_00.png)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568 Rhabdomyosarcomes/p33_08.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-568%20Rhabdomyosarcomes/p33_08.jpeg)
 
 ---
 

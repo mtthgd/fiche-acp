@@ -71,7 +71,7 @@ source: DES ACP - Cours de gynéco-pathologie
 - **Embols vasculaires** fréquents
 - Tumeurs **synchrones** ovariennes possibles → souvent **carcinome à cellules claires**
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 embryologie du tractus génital féminin/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20embryologie%20du%20tractus%20g%C3%A9nital%20f%C3%A9minin/p11_01.jpeg)
 
 ### Adénocarcinome de la femme jeune (< 40 ans)
 
@@ -110,7 +110,7 @@ source: DES ACP - Cours de gynéco-pathologie
 
 L’origine des **carcinomes séreux de haut grade** est **tubaire** : lésions de **STIC** (*Serous Tubal Intraepithelial Carcinoma*) au niveau du **pavillon** → cellules détachées s’implantent à la surface de l’ovaire → carcinome séreux de haut grade.
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 embryologie du tractus génital féminin/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20embryologie%20du%20tractus%20g%C3%A9nital%20f%C3%A9minin/p12_00.jpeg)
 
 ### Annexectomie prophylactique BRCA
 
@@ -124,7 +124,7 @@ L’origine des **carcinomes séreux de haut grade** est **tubaire** : lésions 
 - Référence : protocole **SEE-FIM** (Crum 2007)
 
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 embryologie du tractus génital féminin/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20embryologie%20du%20tractus%20g%C3%A9nital%20f%C3%A9minin/p14_01.jpeg)
 
 ### Lésions retrouvées sur annexectomie prophylactique
 
@@ -145,9 +145,9 @@ L’origine des **carcinomes séreux de haut grade** est **tubaire** : lésions 
 - **Perte des cils**, perte des cellules de réserve
 - = **STIC** ou **TIC** = *Serous/Tubal Intraepithelial Carcinoma*
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 embryologie du tractus génital féminin/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20embryologie%20du%20tractus%20g%C3%A9nital%20f%C3%A9minin/p15_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 embryologie du tractus génital féminin/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20embryologie%20du%20tractus%20g%C3%A9nital%20f%C3%A9minin/p16_00.jpeg)
 
 ## Syndrome de Lynch et cancer ovarien
 

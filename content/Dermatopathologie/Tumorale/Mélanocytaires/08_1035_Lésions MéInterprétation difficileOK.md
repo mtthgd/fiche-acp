@@ -59,8 +59,8 @@ source: DES ACP - Cours de Dermatopathologie
 - Distinction : **lésion isolée** vs syndrome
 - **Naevus hyperpigmenté du tronc** chez le sujet plus âgé : variant à connaître
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1035-Lésions Mélanocytaires dInterprétation difficile/p07_01.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1035-Lésions Mélanocytaires dInterprétation difficile/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1035-L%C3%A9sions%20M%C3%A9lanocytaires%20dInterpr%C3%A9tation%20difficile/p07_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1035-L%C3%A9sions%20M%C3%A9lanocytaires%20dInterpr%C3%A9tation%20difficile/p08_01.jpeg)
 
 ### Causes d'atypies « fausses »
 | Cause | Indices |
@@ -70,7 +70,7 @@ source: DES ACP - Cours de Dermatopathologie
 | Antécédent récent de **mélanome** ou en reprise | Tous les naevus stimulés |
 | Traitement par **anti-BRAF** | Stimulation mélanocytaire généralisée |
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1035-Lésions Mélanocytaires dInterprétation difficile/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1035-L%C3%A9sions%20M%C3%A9lanocytaires%20dInterpr%C3%A9tation%20difficile/p11_01.jpeg)
 
 ### Conduite à tenir
 - **Éliminer** une cause locale d'irritation
@@ -101,8 +101,8 @@ source: DES ACP - Cours de Dermatopathologie
 - p16 négatif → **toujours demander FISH 9p21**
 - p16 positif ou hétérogène en mosaïque = non informatif
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1035-Lésions Mélanocytaires dInterprétation difficile/p13_03.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1035-Lésions Mélanocytaires dInterprétation difficile/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1035-L%C3%A9sions%20M%C3%A9lanocytaires%20dInterpr%C3%A9tation%20difficile/p13_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1035-L%C3%A9sions%20M%C3%A9lanocytaires%20dInterpr%C3%A9tation%20difficile/p14_01.jpeg)
 
 ### Outils moléculaires/cytogénétiques
 
@@ -123,9 +123,9 @@ source: DES ACP - Cours de Dermatopathologie
 - Naevus instables (ex. naevus congénital) : gains de chromosomes **entiers**
 - Plus onéreuse → réservée aux cas vraiment difficiles (sujet jeune, lésion épaisse)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211 Approche Diagnostique Dans Les Dermatoses Spongiotiques/p18_01.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1035-Lésions Mélanocytaires dInterprétation difficile/p19_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1035-Lésions Mélanocytaires dInterprétation difficile/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211%20Approche%20Diagnostique%20Dans%20Les%20Dermatoses%20Spongiotiques/p18_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1035-L%C3%A9sions%20M%C3%A9lanocytaires%20dInterpr%C3%A9tation%20difficile/p19_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1035-L%C3%A9sions%20M%C3%A9lanocytaires%20dInterpr%C3%A9tation%20difficile/p20_00.jpeg)
 
 ### Quand utiliser ces outils ?
 | Critère | Indication |
@@ -155,8 +155,8 @@ source: DES ACP - Cours de Dermatopathologie
 | STUMP | Perte **p16** (sans 9p21) |
 | Mélanome spitzoïde | Mutations **TERT promoter**, TP53, PTEN |
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1035-Lésions Mélanocytaires dInterprétation difficile/p23_03.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1035-Lésions Mélanocytaires dInterprétation difficile/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1035-L%C3%A9sions%20M%C3%A9lanocytaires%20dInterpr%C3%A9tation%20difficile/p23_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1035-L%C3%A9sions%20M%C3%A9lanocytaires%20dInterpr%C3%A9tation%20difficile/p24_01.jpeg)
 
 #### Conduite à tenir devant une tumeur de Spitz atypique
 
@@ -185,7 +185,7 @@ source: DES ACP - Cours de Dermatopathologie
 - Souvent **lésion profonde** → **exérèse complète** latérale **et en profondeur** indispensable
 - Mutation **PRKAR1A**
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1035-Lésions Mélanocytaires dInterprétation difficile/p27_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1035-L%C3%A9sions%20M%C3%A9lanocytaires%20dInterpr%C3%A9tation%20difficile/p27_01.jpeg)
 
 ### 3. Naevus avec inactivation de BAP1 (**BAPome**)
 
@@ -198,9 +198,9 @@ source: DES ACP - Cours de Dermatopathologie
 - Préciser si la lésion BAPome est **atypique** ou non
 - Plus le patient a de lésions BAP1−, plus la probabilité de mutation germinale est élevée (étude A. de la Fouchardière : 12/28 patients à lésions multiples = mutés)
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1035-Lésions Mélanocytaires dInterprétation difficile/p29_01.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1035-Lésions Mélanocytaires dInterprétation difficile/p30_03.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1035-Lésions Mélanocytaires dInterprétation difficile/p31_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1035-L%C3%A9sions%20M%C3%A9lanocytaires%20dInterpr%C3%A9tation%20difficile/p29_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1035-L%C3%A9sions%20M%C3%A9lanocytaires%20dInterpr%C3%A9tation%20difficile/p30_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1035-L%C3%A9sions%20M%C3%A9lanocytaires%20dInterpr%C3%A9tation%20difficile/p31_01.jpeg)
 
 ### 4. Naevus bleu cellulaire
 
@@ -209,7 +209,7 @@ source: DES ACP - Cours de Dermatopathologie
 - **HMB45 diffus homogène** = très rassurant (peu de chance que ce soit malin)
 - **Exérèse complète indispensable** → souvent profond, attention aux marges profondes
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p32_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p32_01.jpeg)
 
 ### 5. **DPN** (*Deep Penetrating Nevus*) — « Le traître »
 
@@ -220,7 +220,7 @@ source: DES ACP - Cours de Dermatopathologie
 - Anomalies cytogénétiques **rares** dans les DPN malins → CGH peu utile
 - Conduite : exérèse complète + surveillance ; si **mitoses ou atypies** → avis d'expert
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1035-Lésions Mélanocytaires dInterprétation difficile/p34_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1035-L%C3%A9sions%20M%C3%A9lanocytaires%20dInterpr%C3%A9tation%20difficile/p34_01.jpeg)
 
 ## Tableau récapitulatif — anomalies driver par type de lésion
 

@@ -31,7 +31,7 @@ source: DES ACP - Cours d'urologie
 - **Localisation** des prélèvements (trigone ≠ dôme : anatomie et épaisseurs différentes)
 - **Type de procédure** : biopsie, RTUV monobloc/classique, cystectomie partielle/radicale, cysto-prostatectomie, pelvectomie
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-215 Compte Rendu des biopsies, résectione et pièces opératoires de vessie/p01_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-215%20Compte%20Rendu%20des%20biopsies%2C%20r%C3%A9sectione%20et%20pi%C3%A8ces%20op%C3%A9ratoires%20de%20vessie/p01_00.jpeg)
 
 
 ---
@@ -159,9 +159,9 @@ Tous s'accordent : infiltration **profonde** = pronostic plus sévère que super
 ### CIS associé
 - Présence, localisation, focalité
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-215 Compte Rendu des biopsies, résectione et pièces opératoires de vessie/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-215%20Compte%20Rendu%20des%20biopsies%2C%20r%C3%A9sectione%20et%20pi%C3%A8ces%20op%C3%A9ratoires%20de%20vessie/p09_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-215 Compte Rendu des biopsies, résectione et pièces opératoires de vessie/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-215%20Compte%20Rendu%20des%20biopsies%2C%20r%C3%A9sectione%20et%20pi%C3%A8ces%20op%C3%A9ratoires%20de%20vessie/p10_00.jpeg)
 
 
 ---

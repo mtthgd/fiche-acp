@@ -82,7 +82,7 @@ Basé sur l’**abondance du tissu neuroectodermique immature** sur la lame où 
 - Si l’**implant est mature** alors que la tumeur ovarienne est immature → **implant grade 0** (de bon pronostic)
 - Si l’implant est immature : grade selon les mêmes règles ; ex : fond glial + nombreuses cellules hyperchromatiques mitotiques = **grade élevé**
 
-![[assets/gyneco-sein/ovaire/04_58_01 TG non tératome MDS/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_58_01%20TG%20non%20t%C3%A9ratome%20MDS/p13_00.jpeg)
 
 
 ## Gliomatose péritonéale (DD important)
@@ -110,7 +110,7 @@ Avec chimiothérapie actuelle (BEP) : survie **proche de 100 %** pour les grades
 
 Chirurgie **conservatrice** chez la femme jeune (annexectomie unilatérale, préservation de la fertilité).
 
-![[assets/gyneco-sein/ovaire/04_58_01 TG non tératome MDS/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_58_01%20TG%20non%20t%C3%A9ratome%20MDS/p17_00.jpeg)
 
 ## Diagnostics différentiels
 

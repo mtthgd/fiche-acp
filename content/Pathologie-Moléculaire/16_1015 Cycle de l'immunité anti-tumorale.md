@@ -30,9 +30,9 @@ La réponse immunitaire anti-tumorale est **similaire** à celle dirigée contre
 
 L’oncogenèse est à la fois une **maladie de la cellule tumorale** et **une maladie de l’environnement immunitaire**.
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p03_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p03_01.jpeg)
 
 ## Historique
 
@@ -43,9 +43,9 @@ L’oncogenèse est à la fois une **maladie de la cellule tumorale** et **une m
 | Ère SIDA | Cancers viro-induits chez immunodéprimés → preuve clinique |
 | 2002 | Théorie des **3E** : Élimination – Équilibre – Échappement |
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p04_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p04_01.jpeg)
 
 ## Le cycle de l’immunité anti-tumorale (Chen & Mellman)
 
@@ -59,9 +59,9 @@ Cycle dynamique en **6 (à 7) étapes** :
 6. **Infiltration intra-tumorale** des LT effecteurs (TIL)
 7. **Reconnaissance et lyse** des cellules tumorales par les **LT CD8+ cytotoxiques**
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p06_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p06_01.jpeg)
 
 ## Les antigènes tumoraux — spectre soi / non-soi
 
@@ -74,9 +74,9 @@ Cycle dynamique en **6 (à 7) étapes** :
 
 Les néo-antigènes sont **plus immunogènes** car non soumis à la **tolérance centrale**.
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p08_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p08_01.jpeg)
 
 ## Cellules dendritiques — chefs d’orchestre
 
@@ -85,9 +85,9 @@ Les néo-antigènes sont **plus immunogènes** car non soumis à la **tolérance
 - **Différentes des macrophages** (mais partagent **CD68**)
 - Les **macrophages associés aux tumeurs (TAM)** sont souvent **résistants** à la cytotoxicité CD8 (phénotype M2 pro-tumoral)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p10_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p10_01.jpeg)
 
 ## Activation lymphocytaire — les 3 séquences
 
@@ -101,9 +101,9 @@ Les néo-antigènes sont **plus immunogènes** car non soumis à la **tolérance
 - **CTLA-4** : forte affinité pour B7, **délocalise CD28** (phase précoce)
 - **PD-1 / PD-L1** : phase tardive, dans le tissu tumoral
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p11_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p12_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p12_00.png)
 
 
 ## Balance pro- vs anti-tumorale dans le micro-environnement
@@ -117,9 +117,9 @@ Les néo-antigènes sont **plus immunogènes** car non soumis à la **tolérance
 | **Cellules dendritiques matures** | CD tolérogènes |
 | Macrophages M1 | |
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p13_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p15_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p15_00.png)
 
 ## Cytotoxicité du CD8+ — voies de lyse
 
@@ -128,9 +128,9 @@ Les néo-antigènes sont **plus immunogènes** car non soumis à la **tolérance
 | **Voie intrinsèque (mitochondriale)** | Exocytose des **granules : perforine + granzymes** → entrée dans la cellule cible (perforine-dépendante) → activation cytochrome C / caspase 9 → apoptose |
 | **Voie extrinsèque (récepteurs de mort)** | **Fas-L / Fas**, **TNF-α**, **TRAIL** : trimérisation du récepteur → recrutement du complexe DISC (FADD + caspases 8/10) → apoptose |
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p16_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p17_00.jpeg)
 
 ## Théorie des 3E (immuno-édition tumorale)
 
@@ -140,15 +140,15 @@ Les néo-antigènes sont **plus immunogènes** car non soumis à la **tolérance
 | **2. Équilibre** | Pression sélective darwinienne ; coexistence prolongée (parfois années) ; **phase infraclinique lente** |
 | **3. Échappement** | Sélection clonale de variants résistants → prolifération incontrôlée → tumeur cliniquement détectable, métastases |
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p17_01.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p18_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p18_01.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p19_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p19_01.jpeg)
 
 ## Acteurs cellulaires majeurs
 
@@ -158,9 +158,9 @@ Les néo-antigènes sont **plus immunogènes** car non soumis à la **tolérance
 - Base de l’**immunoscore** (densité CD3/CD8 au centre + front d’invasion) — facteur pronostique parfois **supérieur au stade TNM**
 
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p20_01.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p20_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p20_02.jpeg)
 
 ### Treg FoxP3+
 - Expression la plus forte de **CTLA-4**
@@ -168,7 +168,7 @@ Les néo-antigènes sont **plus immunogènes** car non soumis à la **tolérance
 - **Marqueur de mauvais pronostic** = densité élevée intra-tumorale
 
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p21_01.jpeg)
 
 ## Mécanismes d’échappement tumoral
 
@@ -179,7 +179,7 @@ Les néo-antigènes sont **plus immunogènes** car non soumis à la **tolérance
 - **Sécrétion de cytokines immunosuppressives** (TGF-β, IL-10)
 - **Recrutement de cellules suppressives** (Treg, MDSC, M2)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1015_cycle_immunite_anti-tumorale/p22_00.jpeg)
 
 
 

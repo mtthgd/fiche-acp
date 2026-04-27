@@ -57,11 +57,11 @@ Ce cours couvre les spécificités osseuses des : **myélome multiple**, **plasm
 - Fractures pathologiques fréquentes
 - **Scanner / IRM corps entier** plus sensibles (**T2 STIR** : hyposignal T1, hypersignal STIR, rehaussement au gadolinium)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p07_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p07_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p07_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p07_02.jpeg)
 
 ## Microscopie
 
@@ -75,17 +75,17 @@ Ce cours couvre les spécificités osseuses des : **myélome multiple**, **plasm
   - Formes **anaplasiques** pléomorphes
   - Formes **à petites cellules lymphocytoïdes** → DD avec lymphome B petites cellules
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p08_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p08_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p08_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p08_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p09_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p09_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p09_02.jpeg)
 
 ## Immunophénotype
 
@@ -102,15 +102,15 @@ Ce cours couvre les spécificités osseuses des : **myélome multiple**, **plasm
 | **Monotypie κ/λ** | + | Confirmation de la clonalité |
 | Aberrations fréquentes | **CD56+, CD117+**, cycline D1+ si t(11;14) (**CD5−**, ≠ lymphome du manteau) | |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p10_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p10_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p11_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p11_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p11_02.jpeg)
 
 ## Diagnostics différentiels
 
@@ -123,20 +123,20 @@ Ce cours couvre les spécificités osseuses des : **myélome multiple**, **plasm
 | **Lymphome du manteau** | Cycline D1+ partagé, mais **CD5+** dans MCL vs **CD5− dans myélome** |
 | **Lymphome plasmoblastique** | Détaillé en hématopathologie |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p12_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p12_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p12_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p12_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p12_03.jpeg)
 
 ## Pronostic et traitement
 
 - Facteurs pronostiques : **del 17p**, extension, âge, fonction rénale
 - Traitement : **dexaméthasone/prednisone**, alkylants, **immunomodulateurs** (**bortézomib**, **thalidomide**, lénalidomide)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p16_00.jpeg)
 
 ---
 
@@ -196,13 +196,13 @@ Ce cours couvre les spécificités osseuses des : **myélome multiple**, **plasm
 - **Discordance scanner / IRM** très évocatrice : scanner peu parlant, **IRM** avec lésion nette en hyposignal T1, hypersignal T2 (infiltration médullaire sans destruction trabéculaire)
 - Infiltration des parties molles possible avec **respect relatif des corticales**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p21_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p21_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p21_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p21_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p21_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p21_03.jpeg)
 
 ## Microscopie
 
@@ -218,15 +218,15 @@ Ce cours couvre les spécificités osseuses des : **myélome multiple**, **plasm
 3. Aspect **pseudo-ostéite** : fibrose médullaire diffuse/focale, cellules lymphomateuses étirées en cordons/faisceaux (aspect fusiforme)
 4. **Infiltrat T réactionnel abondant** masquant le contingent B tumoral → **CD20 + CD3** indispensables
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p22_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p22_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p22_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p22_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p23_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p23_01.jpeg)
 
 ## IHC — DLBCL osseux
 
@@ -240,13 +240,13 @@ Ce cours couvre les spécificités osseuses des : **myélome multiple**, **plasm
 - **FISH** : réarrangements **MYC, BCL2, BCL6** si suspicion de lymphome de haut grade double/triple hit
 - → Os **décalcifié en acide formique** ou **non décalcifié** obligatoire pour la FISH
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p24_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p24_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p25_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p25_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p25_01.jpeg)
 
 ## Diagnostics différentiels — DLBCL osseux
 
@@ -262,23 +262,23 @@ Ce cours couvre les spécificités osseuses des : **myélome multiple**, **plasm
 - Facteurs pronostiques : **âge, stade**
 - **Meilleure survie** pour les lymphomes limités à l'os vs disséminés
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p26_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p26_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p26_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p27_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p27_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p27_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p27_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p27_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p28_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p28_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p28_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p28_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p28_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268 Maladies hématologiques primitives de los/p28_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-268%20Maladies%20h%C3%A9matologiques%20primitives%20de%20los/p28_03.jpeg)
 
 ---
 

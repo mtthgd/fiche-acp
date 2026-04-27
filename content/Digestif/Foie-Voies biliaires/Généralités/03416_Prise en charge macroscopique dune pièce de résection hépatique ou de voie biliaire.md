@@ -53,9 +53,9 @@ Indications optionnelles utiles :
 - Encrage de Chine sur les **limites de résection**
 - Sections **fines de 5-10 mm** d'épaisseur pour bonne fixation
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.6 Prise en charge macroscopique dune pièce de résection hépatique ou de voie biliaire/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.6%20Prise%20en%20charge%20macroscopique%20dune%20pi%C3%A8ce%20de%20r%C3%A9section%20h%C3%A9patique%20ou%20de%20voie%20biliaire/p06_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.6 Prise en charge macroscopique dune pièce de résection hépatique ou de voie biliaire/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.6%20Prise%20en%20charge%20macroscopique%20dune%20pi%C3%A8ce%20de%20r%C3%A9section%20h%C3%A9patique%20ou%20de%20voie%20biliaire/p07_00.jpeg)
 
 ### Fixation
 - **Formol dilué au 10ᵉ** (formol tamponné)
@@ -72,11 +72,11 @@ Indications optionnelles utiles :
 - Sections **5-10 mm** révélant la tumeur sur les tranches
 - Décrire le **parenchyme non tumoral** : cirrhose ? Nodules satellites ?
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.6 Prise en charge macroscopique dune pièce de résection hépatique ou de voie biliaire/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.6%20Prise%20en%20charge%20macroscopique%20dune%20pi%C3%A8ce%20de%20r%C3%A9section%20h%C3%A9patique%20ou%20de%20voie%20biliaire/p08_01.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.6 Prise en charge macroscopique dune pièce de résection hépatique ou de voie biliaire/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.6%20Prise%20en%20charge%20macroscopique%20dune%20pi%C3%A8ce%20de%20r%C3%A9section%20h%C3%A9patique%20ou%20de%20voie%20biliaire/p11_01.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.6 Prise en charge macroscopique dune pièce de résection hépatique ou de voie biliaire/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.6%20Prise%20en%20charge%20macroscopique%20dune%20pi%C3%A8ce%20de%20r%C3%A9section%20h%C3%A9patique%20ou%20de%20voie%20biliaire/p11_02.jpeg)
 
 ### Hépatectomie totale (transplantation, retransplantation)
 
@@ -94,13 +94,13 @@ Protocole spécifique pour **séparer les 8 segments** → meilleure corrélatio
 
 Chaque segment est **tranché et fixé séparément**, séparé par **papier absorbant**.
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.6 Prise en charge macroscopique dune pièce de résection hépatique ou de voie biliaire/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.6%20Prise%20en%20charge%20macroscopique%20dune%20pi%C3%A8ce%20de%20r%C3%A9section%20h%C3%A9patique%20ou%20de%20voie%20biliaire/p13_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.6 Prise en charge macroscopique dune pièce de résection hépatique ou de voie biliaire/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.6%20Prise%20en%20charge%20macroscopique%20dune%20pi%C3%A8ce%20de%20r%C3%A9section%20h%C3%A9patique%20ou%20de%20voie%20biliaire/p13_01.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.6 Prise en charge macroscopique dune pièce de résection hépatique ou de voie biliaire/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.6%20Prise%20en%20charge%20macroscopique%20dune%20pi%C3%A8ce%20de%20r%C3%A9section%20h%C3%A9patique%20ou%20de%20voie%20biliaire/p14_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.6 Prise en charge macroscopique dune pièce de résection hépatique ou de voie biliaire/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.6%20Prise%20en%20charge%20macroscopique%20dune%20pi%C3%A8ce%20de%20r%C3%A9section%20h%C3%A9patique%20ou%20de%20voie%20biliaire/p14_02.jpeg)
 
 ### Pièce de **résection biliaire** (cholangiocarcinome, tumeur hilaire/périhilaire)
 
@@ -109,9 +109,9 @@ Chaque segment est **tranché et fixé séparément**, séparé par **papier abs
 - Si fragment volumineux : **sections parallèles** à partir de la limite chirurgicale
 - Possibilité d'**ouvrir les canaux** (mais risque d'abîmer les repères) → **préférer ouvrir après fixation**
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.6 Prise en charge macroscopique dune pièce de résection hépatique ou de voie biliaire/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.6%20Prise%20en%20charge%20macroscopique%20dune%20pi%C3%A8ce%20de%20r%C3%A9section%20h%C3%A9patique%20ou%20de%20voie%20biliaire/p15_01.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.6 Prise en charge macroscopique dune pièce de résection hépatique ou de voie biliaire/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.6%20Prise%20en%20charge%20macroscopique%20dune%20pi%C3%A8ce%20de%20r%C3%A9section%20h%C3%A9patique%20ou%20de%20voie%20biliaire/p16_00.jpeg)
 
 ---
 
@@ -134,9 +134,9 @@ Chaque segment est **tranché et fixé séparément**, séparé par **papier abs
 - **Cholangiocarcinome**
 - Plus rares : **hémangioendothéliome épithélioïde**, hépatoblastome (enfant)
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.6 Prise en charge macroscopique dune pièce de résection hépatique ou de voie biliaire/p18_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.6%20Prise%20en%20charge%20macroscopique%20dune%20pi%C3%A8ce%20de%20r%C3%A9section%20h%C3%A9patique%20ou%20de%20voie%20biliaire/p18_02.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.6 Prise en charge macroscopique dune pièce de résection hépatique ou de voie biliaire/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.6%20Prise%20en%20charge%20macroscopique%20dune%20pi%C3%A8ce%20de%20r%C3%A9section%20h%C3%A9patique%20ou%20de%20voie%20biliaire/p19_00.jpeg)
 
 ### Foie non tumoral
 - **Cirrhose ?** micro ou macronodulaire
@@ -160,11 +160,11 @@ Chaque segment est **tranché et fixé séparément**, séparé par **papier abs
    - À **distance** de la tumeur
    - En **zone d'aval**
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.6 Prise en charge macroscopique dune pièce de résection hépatique ou de voie biliaire/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.6%20Prise%20en%20charge%20macroscopique%20dune%20pi%C3%A8ce%20de%20r%C3%A9section%20h%C3%A9patique%20ou%20de%20voie%20biliaire/p21_01.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.6 Prise en charge macroscopique dune pièce de résection hépatique ou de voie biliaire/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.6%20Prise%20en%20charge%20macroscopique%20dune%20pi%C3%A8ce%20de%20r%C3%A9section%20h%C3%A9patique%20ou%20de%20voie%20biliaire/p22_01.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.6 Prise en charge macroscopique dune pièce de résection hépatique ou de voie biliaire/p22_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.6%20Prise%20en%20charge%20macroscopique%20dune%20pi%C3%A8ce%20de%20r%C3%A9section%20h%C3%A9patique%20ou%20de%20voie%20biliaire/p22_02.jpeg)
 
 ### Pathologie kystique
 - Cibler les **zones remaniées** (hémorragiques, nodulaires, à végétations)
@@ -195,23 +195,23 @@ Chaque segment est **tranché et fixé séparément**, séparé par **papier abs
 
 Astuce : sonde dans la voie biliaire principale → **guide pour la section** du bloc tumoral. Encres de différentes couleurs sur les canaux (rouge = VBP, jaune = canal G, vert = canal D).
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.6 Prise en charge macroscopique dune pièce de résection hépatique ou de voie biliaire/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.6%20Prise%20en%20charge%20macroscopique%20dune%20pi%C3%A8ce%20de%20r%C3%A9section%20h%C3%A9patique%20ou%20de%20voie%20biliaire/p27_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.6 Prise en charge macroscopique dune pièce de résection hépatique ou de voie biliaire/p27_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.6%20Prise%20en%20charge%20macroscopique%20dune%20pi%C3%A8ce%20de%20r%C3%A9section%20h%C3%A9patique%20ou%20de%20voie%20biliaire/p27_02.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.6 Prise en charge macroscopique dune pièce de résection hépatique ou de voie biliaire/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.6%20Prise%20en%20charge%20macroscopique%20dune%20pi%C3%A8ce%20de%20r%C3%A9section%20h%C3%A9patique%20ou%20de%20voie%20biliaire/p28_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.6 Prise en charge macroscopique dune pièce de résection hépatique ou de voie biliaire/p28_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.6%20Prise%20en%20charge%20macroscopique%20dune%20pi%C3%A8ce%20de%20r%C3%A9section%20h%C3%A9patique%20ou%20de%20voie%20biliaire/p28_01.jpeg)
 
 ### Exérèses limitées de voie biliaire
 - Toujours **prélever les limites d'exérèse en premier**
 - Petits segments : analyse complète
 - Volumineux (tumeur endocanalaire) : sections parallèles avec inclusion ciblée
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.6 Prise en charge macroscopique dune pièce de résection hépatique ou de voie biliaire/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.6%20Prise%20en%20charge%20macroscopique%20dune%20pi%C3%A8ce%20de%20r%C3%A9section%20h%C3%A9patique%20ou%20de%20voie%20biliaire/p31_00.jpeg)
 
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.6 Prise en charge macroscopique dune pièce de résection hépatique ou de voie biliaire/p32_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.6%20Prise%20en%20charge%20macroscopique%20dune%20pi%C3%A8ce%20de%20r%C3%A9section%20h%C3%A9patique%20ou%20de%20voie%20biliaire/p32_01.jpeg)
 
 ---
 

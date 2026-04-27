@@ -35,7 +35,7 @@ Savoir rédiger un compte rendu avec une conclusion comportant les **items indis
 - Vascularisation : **artère et veine mésentériques supérieures**
 - **Particularité** : circulation collatérale **abondante** (arborisation artérielle dense, équivalent veineux)
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.8 Pathologie chirurgicale non tumorale de l’intestin grêle/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.8%20Pathologie%20chirurgicale%20non%20tumorale%20de%20l%E2%80%99intestin%20gr%C3%AAle/p03_01.jpeg)
 
 ---
 
@@ -71,9 +71,9 @@ Ischémie mésentérique aiguë = interruption complète ou diminution du flux s
 - À l'ouverture : muqueuse noirâtre sur toute la longueur
 - Extrémités parfois mieux préservées
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.8 Pathologie chirurgicale non tumorale de l’intestin grêle/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.8%20Pathologie%20chirurgicale%20non%20tumorale%20de%20l%E2%80%99intestin%20gr%C3%AAle/p11_01.jpeg)
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.8 Pathologie chirurgicale non tumorale de l’intestin grêle/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.8%20Pathologie%20chirurgicale%20non%20tumorale%20de%20l%E2%80%99intestin%20gr%C3%AAle/p13_00.jpeg)
 
 ### Classification de la nécrose ischémique
 
@@ -90,7 +90,7 @@ Ischémie mésentérique aiguë = interruption complète ou diminution du flux s
 - **Préservation du fond des cryptes**
 - **Œdème + congestion** de l'axe villositaire
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.8 Pathologie chirurgicale non tumorale de l’intestin grêle/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.8%20Pathologie%20chirurgicale%20non%20tumorale%20de%20l%E2%80%99intestin%20gr%C3%AAle/p16_00.jpeg)
 
 **Tardive (transmural)** :
 - **Nécrose de coagulation** intéressant tous les plans pariétaux
@@ -98,11 +98,11 @@ Ischémie mésentérique aiguë = interruption complète ou diminution du flux s
 - Afflux secondaire de **polynucléaires neutrophiles** (élimination du tissu nécrotique)
 - **Inondation hémorragique** sous-muqueuse
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.8 Pathologie chirurgicale non tumorale de l’intestin grêle/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.8%20Pathologie%20chirurgicale%20non%20tumorale%20de%20l%E2%80%99intestin%20gr%C3%AAle/p18_01.jpeg)
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.8 Pathologie chirurgicale non tumorale de l’intestin grêle/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.8%20Pathologie%20chirurgicale%20non%20tumorale%20de%20l%E2%80%99intestin%20gr%C3%AAle/p19_01.jpeg)
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.8 Pathologie chirurgicale non tumorale de l’intestin grêle/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.8%20Pathologie%20chirurgicale%20non%20tumorale%20de%20l%E2%80%99intestin%20gr%C3%AAle/p20_01.jpeg)
 
 ### Items du compte rendu
 
@@ -120,9 +120,9 @@ Ischémie mésentérique aiguë = interruption complète ou diminution du flux s
 - Aspect macroscopique : muqueuse dépolie, **épaississement pariétal**, **sténose**, plages serrées, aspect parfois **"Crohn-like"** (muqueuse en pavé, fausses membranes, ulcérations)
 - Histologie : muqueuse déshabitée + **angiogenèse marquée** sous-muqueuse
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.8 Pathologie chirurgicale non tumorale de l’intestin grêle/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.8%20Pathologie%20chirurgicale%20non%20tumorale%20de%20l%E2%80%99intestin%20gr%C3%AAle/p24_01.jpeg)
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.8 Pathologie chirurgicale non tumorale de l’intestin grêle/p25_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.8%20Pathologie%20chirurgicale%20non%20tumorale%20de%20l%E2%80%99intestin%20gr%C3%AAle/p25_01.jpeg)
 
 ---
 
@@ -151,9 +151,9 @@ Ischémie mésentérique aiguë = interruption complète ou diminution du flux s
 - **Sténoses** ± perforations ± fistules
 - Aspect parfois indifférenciable d'autres pathologies
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.8 Pathologie chirurgicale non tumorale de l’intestin grêle/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.8%20Pathologie%20chirurgicale%20non%20tumorale%20de%20l%E2%80%99intestin%20gr%C3%AAle/p32_00.jpeg)
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.8 Pathologie chirurgicale non tumorale de l’intestin grêle/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.8%20Pathologie%20chirurgicale%20non%20tumorale%20de%20l%E2%80%99intestin%20gr%C3%AAle/p33_00.jpeg)
 
 ### Histologie (atteinte triple : muqueuse + sous-séreuse + vasculaire)
 
@@ -165,13 +165,13 @@ Ischémie mésentérique aiguë = interruption complète ou diminution du flux s
 | Mésentère | **Fibrose** responsable d'adhérences interanses |
 | Vaisseaux | **Hyalinisation et fibrose de la média**, **épaississement fibroïde de l'intima** → **quasi-occlusion** |
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.8 Pathologie chirurgicale non tumorale de l’intestin grêle/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.8%20Pathologie%20chirurgicale%20non%20tumorale%20de%20l%E2%80%99intestin%20gr%C3%AAle/p35_00.jpeg)
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.8 Pathologie chirurgicale non tumorale de l’intestin grêle/p37_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.8%20Pathologie%20chirurgicale%20non%20tumorale%20de%20l%E2%80%99intestin%20gr%C3%AAle/p37_00.jpeg)
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.8 Pathologie chirurgicale non tumorale de l’intestin grêle/p39_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.8%20Pathologie%20chirurgicale%20non%20tumorale%20de%20l%E2%80%99intestin%20gr%C3%AAle/p39_00.jpeg)
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.8 Pathologie chirurgicale non tumorale de l’intestin grêle/p42_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.8%20Pathologie%20chirurgicale%20non%20tumorale%20de%20l%E2%80%99intestin%20gr%C3%AAle/p42_00.jpeg)
 
 ---
 
@@ -197,9 +197,9 @@ Ischémie mésentérique aiguë = interruption complète ou diminution du flux s
 
 Évagination sur le **bord antimésentérique** du grêle, parfois avec lésion bombante intraluminale.
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.8 Pathologie chirurgicale non tumorale de l’intestin grêle/p45_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.8%20Pathologie%20chirurgicale%20non%20tumorale%20de%20l%E2%80%99intestin%20gr%C3%AAle/p45_00.jpeg)
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.8 Pathologie chirurgicale non tumorale de l’intestin grêle/p46_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.8%20Pathologie%20chirurgicale%20non%20tumorale%20de%20l%E2%80%99intestin%20gr%C3%AAle/p46_01.jpeg)
 
 ### Histologie
 
@@ -209,9 +209,9 @@ Ischémie mésentérique aiguë = interruption complète ou diminution du flux s
   - Hétérotopie pancréatique
   - Plus rarement : duodénale, biliaire
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.8 Pathologie chirurgicale non tumorale de l’intestin grêle/p47_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.8%20Pathologie%20chirurgicale%20non%20tumorale%20de%20l%E2%80%99intestin%20gr%C3%AAle/p47_00.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.8 Tumeurs intracanalaires pancréatiques/p49_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.8%20Tumeurs%20intracanalaires%20pancr%C3%A9atiques/p49_00.jpeg)
 
 ---
 

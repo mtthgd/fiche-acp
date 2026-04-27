@@ -37,7 +37,7 @@ Elle évalue trois paramètres clés :
 
 
 
-![[assets/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-365 Validation de la qualité de léchantillon par  q PCR/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-365%20Validation%20de%20la%20qualit%C3%A9%20de%20l%C3%A9chantillon%20par%20%20q%20PCR/p04_00.jpeg)
 
 ## Évaluation de l’intégrité de l’ADN
 
@@ -67,7 +67,7 @@ Elle évalue trois paramètres clés :
 
 
 
-![[assets/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-365 Validation de la qualité de léchantillon par  q PCR/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-365%20Validation%20de%20la%20qualit%C3%A9%20de%20l%C3%A9chantillon%20par%20%20q%20PCR/p11_00.jpeg)
 
 ## Détection des inhibiteurs de PCR
 

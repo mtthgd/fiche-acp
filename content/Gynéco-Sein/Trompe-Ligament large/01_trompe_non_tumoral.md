@@ -73,9 +73,9 @@ Salpingite aiguë → abcédation → hydrosalpinx séquellaire
 - Analyser les **segments non dilatés**
 - Possibilité : salpingite chronique multiloculaire, salpingite spécifique, endométriose
 
-![[assets/gyneco-sein/trompe-ligament_large/04_62  trompe non tumoral PAJ/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/trompe-ligament_large/04_62%20%20trompe%20non%20tumoral%20PAJ/p04_00.jpeg)
 
-![[assets/gyneco-sein/trompe-ligament_large/04_62  trompe non tumoral PAJ/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/trompe-ligament_large/04_62%20%20trompe%20non%20tumoral%20PAJ/p05_00.jpeg)
 
 ---
 
@@ -99,7 +99,7 @@ Salpingite aiguë → abcédation → hydrosalpinx séquellaire
 - Importance de **rechercher une cause** (ex : endométriose)
 - Mais **généralement aucune cause** identifiée microscopiquement
 
-![[assets/gyneco-sein/trompe-ligament_large/04_62  trompe non tumoral PAJ/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/trompe-ligament_large/04_62%20%20trompe%20non%20tumoral%20PAJ/p06_00.jpeg)
 
 ---
 
@@ -115,7 +115,7 @@ Salpingite aiguë → abcédation → hydrosalpinx séquellaire
 - **Lumière** presque totalement **oblitérée**
 - Nombreuses **structures bilharziennes** au contact de **cellules géantes type corps étranger**
 
-![[assets/gyneco-sein/trompe-ligament_large/04_62  trompe non tumoral PAJ/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/trompe-ligament_large/04_62%20%20trompe%20non%20tumoral%20PAJ/p07_00.jpeg)
 
 ---
 
@@ -142,7 +142,7 @@ Salpingite aiguë → abcédation → hydrosalpinx séquellaire
 ### DD
 - **Endométriose** tubaire
 
-![[assets/gyneco-sein/trompe-ligament_large/04_62  trompe non tumoral PAJ/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/trompe-ligament_large/04_62%20%20trompe%20non%20tumoral%20PAJ/p08_00.jpeg)
 
 ## B. Salpingiose pseudo-xanthomateuse (= salpingiose pigmentée)
 
@@ -156,7 +156,7 @@ Salpingite aiguë → abcédation → hydrosalpinx séquellaire
 - Traduit le **reflux menstruel**
 - Fréquemment observée chez les patientes souffrant d’**endométriose**
 
-![[assets/gyneco-sein/trompe-ligament_large/04_62  trompe non tumoral PAJ/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/trompe-ligament_large/04_62%20%20trompe%20non%20tumoral%20PAJ/p09_00.jpeg)
 
 ---
 
@@ -187,7 +187,7 @@ Salpingite aiguë → abcédation → hydrosalpinx séquellaire
 
 - **Cause fréquente d’infertilité**
 
-![[assets/gyneco-sein/trompe-ligament_large/04_62  trompe non tumoral PAJ/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/trompe-ligament_large/04_62%20%20trompe%20non%20tumoral%20PAJ/p11_00.jpeg)
 
 ---
 
@@ -226,9 +226,9 @@ Salpingite aiguë → abcédation → hydrosalpinx séquellaire
 
 > Souvent, **aucune cause spécifique** n’est trouvée.
 
-![[assets/gyneco-sein/trompe-ligament_large/04_62  trompe non tumoral PAJ/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/trompe-ligament_large/04_62%20%20trompe%20non%20tumoral%20PAJ/p13_00.jpeg)
 
-![[assets/gyneco-sein/trompe-ligament_large/04_62  trompe non tumoral PAJ/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/trompe-ligament_large/04_62%20%20trompe%20non%20tumoral%20PAJ/p14_00.jpeg)
 
 ---
 

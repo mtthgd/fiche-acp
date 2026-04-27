@@ -76,7 +76,7 @@ Format de sortie initial : **BCL** (Illumina) → converti en **FASTQ**.
 
 > **FASTQ (Sequence with Quality)** = format texte contenant la séquence + le score qualité Phred caractère par caractère.
 
-![[assets/pathologie-moleculaire/ngs/16 535 le pipeline bioinformatique/p03_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16%20535%20le%20pipeline%20bioinformatique/p03_02.jpeg)
 
 
 
@@ -98,7 +98,7 @@ Format de sortie initial : **BCL** (Illumina) → converti en **FASTQ**.
 
 
 
-![[assets/pathologie-moleculaire/ngs/16 535 le pipeline bioinformatique/p04_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16%20535%20le%20pipeline%20bioinformatique/p04_02.jpeg)
 
 
 
@@ -120,7 +120,7 @@ Format de sortie initial : **BCL** (Illumina) → converti en **FASTQ**.
 
 
 
-![[assets/pathologie-moleculaire/ngs/16 535 le pipeline bioinformatique/p05_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16%20535%20le%20pipeline%20bioinformatique/p05_03.jpeg)
 
 
 ## Étape 4 — Annotation
@@ -164,7 +164,7 @@ Cf [[16_190 Bases publiques de variants]] pour le détail des bases consultées.
 
 
 
-![[assets/pathologie-moleculaire/ngs/16 535 le pipeline bioinformatique/p06_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16%20535%20le%20pipeline%20bioinformatique/p06_03.jpeg)
 
 
 ## Récapitulatif — Workflow et formats de fichiers
@@ -197,7 +197,7 @@ Séquenceur (.bcl/signal)
 | **VCF annoté** | Variants enrichis (HGVS, fréquences, prédiction) | Annotation |
 
 
-![[assets/pathologie-moleculaire/ngs/16 535 le pipeline bioinformatique/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16%20535%20le%20pipeline%20bioinformatique/p12_00.jpeg)
 
 
 ## Outils logiciels par étape
@@ -225,7 +225,7 @@ Séquenceur (.bcl/signal)
 | **Stockage centralisé** des résultats | **Volumes de données** considérables (To/run) |
 | Adaptable à chaque type d’analyse (panel, exome, RNA, fusion) | Validation analytique nécessaire (norme ISO 15189) |
 
-![[assets/pathologie-moleculaire/ngs/16 535 le pipeline bioinformatique/p14_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16%20535%20le%20pipeline%20bioinformatique/p14_00.png)
 
 ---
 

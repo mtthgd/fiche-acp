@@ -54,7 +54,7 @@ Les transcriptomes des K du sein se séparent en :
 
 > **Enjeu** : distinguer **luminal A strict** (à épargner de chimio) du **luminal non-A** (à traiter par chimio adjuvante).
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_7LACROIX-TRIKI _signatures moléculaires/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_7LACROIX-TRIKI%20_signatures%20mol%C3%A9culaires/p06_00.jpeg)
 
 ## Panorama des signatures principales
 

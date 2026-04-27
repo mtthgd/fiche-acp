@@ -48,15 +48,15 @@ Toutes partagent une **voie des MAP-kinases activée** (mutations **BRAF V600E**
 
 > DD en imagerie : ostéomyélite aiguë, sarcome d'Ewing, lymphome.
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276 Histiocytoses osseuses/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276%20Histiocytoses%20osseuses/p04_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276 Histiocytoses osseuses/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276%20Histiocytoses%20osseuses/p04_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276 Histiocytoses osseuses/p04_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276%20Histiocytoses%20osseuses/p04_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276 Histiocytoses osseuses/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276%20Histiocytoses%20osseuses/p05_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276 Histiocytoses osseuses/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276%20Histiocytoses%20osseuses/p05_01.jpeg)
 
 ### Histologie
 
@@ -69,13 +69,13 @@ Toutes partagent une **voie des MAP-kinases activée** (mutations **BRAF V600E**
   - Cytoplasme abondant éosinophile pâle
 - Disposition en **amas / plages** (hétérogène sur le prélèvement)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276 Histiocytoses osseuses/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276%20Histiocytoses%20osseuses/p07_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276 Histiocytoses osseuses/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276%20Histiocytoses%20osseuses/p07_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276 Histiocytoses osseuses/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276%20Histiocytoses%20osseuses/p08_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276 Histiocytoses osseuses/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276%20Histiocytoses%20osseuses/p08_01.jpeg)
 
 ### IHC et biomol
 
@@ -88,9 +88,9 @@ Toutes partagent une **voie des MAP-kinases activée** (mutations **BRAF V600E**
 
 > Diagnostic positif = **amas/plages de cellules CD1a+ et langerine+**. Quelques cellules CD1a+ éparses dans une ostéite = non spécifique.
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276 Histiocytoses osseuses/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276%20Histiocytoses%20osseuses/p10_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276 Histiocytoses osseuses/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276%20Histiocytoses%20osseuses/p11_00.jpeg)
 
 > Formes **mixtes HCL + Erdheim-Chester** possibles.
 
@@ -108,9 +108,9 @@ Toutes partagent une **voie des MAP-kinases activée** (mutations **BRAF V600E**
 - **Ostéosclérose bilatérale et ~symétrique** des diaphyses/métaphyses des **os longs** (fémurs, tibias, humérus)
 - Lésions **hypermétaboliques au PET-scan**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276 Histiocytoses osseuses/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276%20Histiocytoses%20osseuses/p16_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276 Histiocytoses osseuses/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276%20Histiocytoses%20osseuses/p17_00.jpeg)
 
 ### Histologie
 
@@ -120,11 +120,11 @@ Toutes partagent une **voie des MAP-kinases activée** (mutations **BRAF V600E**
 
 > Piège : des macrophages spumeux peuvent se voir dans une dysplasie fibreuse vieillie ou une ostéite ancienne. Ne **jamais** conclure sur la seule histologie.
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276 Histiocytoses osseuses/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276%20Histiocytoses%20osseuses/p18_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276 Histiocytoses osseuses/p20_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276%20Histiocytoses%20osseuses/p20_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276 Histiocytoses osseuses/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276%20Histiocytoses%20osseuses/p22_00.jpeg)
 
 ### IHC et biomol
 
@@ -136,9 +136,9 @@ Toutes partagent une **voie des MAP-kinases activée** (mutations **BRAF V600E**
 | PS100 | − (parfois faible) |
 | **BRAF V600E** | **50-60 %** (voie MAPK) |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276 Histiocytoses osseuses/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276%20Histiocytoses%20osseuses/p22_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276 Histiocytoses osseuses/p22_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276%20Histiocytoses%20osseuses/p22_02.jpeg)
 
 ---
 
@@ -154,9 +154,9 @@ Toutes partagent une **voie des MAP-kinases activée** (mutations **BRAF V600E**
 - **Ostéolyse bien limitée**, parfois avec liseré d'ostéosclérose
 - Possible rupture corticale avec envahissement des tissus mous
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276 Histiocytoses osseuses/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276%20Histiocytoses%20osseuses/p24_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276 Histiocytoses osseuses/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276%20Histiocytoses%20osseuses/p25_00.jpeg)
 
 ### Histologie
 
@@ -169,14 +169,14 @@ Toutes partagent une **voie des MAP-kinases activée** (mutations **BRAF V600E**
 
 > L'**empéripolèse** est la clé du diagnostic (mais peut se voir dans d'autres lésions).
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276 Histiocytoses osseuses/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276%20Histiocytoses%20osseuses/p26_00.jpeg)
 
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276 Histiocytoses osseuses/p31_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276%20Histiocytoses%20osseuses/p31_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276 Histiocytoses osseuses/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276%20Histiocytoses%20osseuses/p33_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276 Histiocytoses osseuses/p33_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276%20Histiocytoses%20osseuses/p33_01.jpeg)
 
 ### IHC
 
@@ -187,9 +187,9 @@ Toutes partagent une **voie des MAP-kinases activée** (mutations **BRAF V600E**
 | **CD1a** | **−** |
 | **Langerine** | **−** |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276 Histiocytoses osseuses/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276%20Histiocytoses%20osseuses/p34_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276 Histiocytoses osseuses/p36_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276%20Histiocytoses%20osseuses/p36_01.jpeg)
 
 ---
 
@@ -201,11 +201,11 @@ Toutes partagent une **voie des MAP-kinases activée** (mutations **BRAF V600E**
 | **Erdheim-Chester** | Macrophage spumeux | − | − | ± | 50-60 % |
 | **Rosai-Dorfman** | Grand histiocyte à empéripolèse | − | − | **+++** | possible |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276 Histiocytoses osseuses/p37_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276%20Histiocytoses%20osseuses/p37_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276 Histiocytoses osseuses/p38_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276%20Histiocytoses%20osseuses/p38_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276 Histiocytoses osseuses/p38_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-276%20Histiocytoses%20osseuses/p38_01.jpeg)
 
 ---
 

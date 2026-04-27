@@ -46,7 +46,7 @@ Ce cours aborde :
 - Glandes bordées de cellules **cylindriques à cytoplasme clair, sécrétantes**
 - Noyaux **basaux, réguliers**
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.10 Les tumeurs bénignes du grêle/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.10%20Les%20tumeurs%20b%C3%A9nignes%20du%20gr%C3%AAle/p04_00.jpeg)
 
 ### Pathogénie
 
@@ -73,7 +73,7 @@ Probablement **réactionnelle à une augmentation de l'acidité duodénale** →
 - **Polype pédiculé**
 - Taille **0,5 à 12 cm**, généralement **< 2 cm**
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.10 Les tumeurs bénignes du grêle/p04_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.10%20Les%20tumeurs%20b%C3%A9nignes%20du%20gr%C3%AAle/p04_05.jpeg)
 
 ### Histologie
 
@@ -82,9 +82,9 @@ Probablement **réactionnelle à une augmentation de l'acidité duodénale** →
 | **Adénome brunérien** | Glandes de Brunner hyperplasiques groupées en lobules, parfois dystrophies kystiques |
 | **Hamartome brunérien** | Même aspect + **interstitium contenant** des faisceaux **musculaires lisses**, du tissu **adipeux**, du tissu fibreux, des vaisseaux et des filets nerveux |
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.10 Les tumeurs bénignes du grêle/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.10%20Les%20tumeurs%20b%C3%A9nignes%20du%20gr%C3%AAle/p05_00.jpeg)
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.10 Les tumeurs bénignes du grêle/p05_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.10%20Les%20tumeurs%20b%C3%A9nignes%20du%20gr%C3%AAle/p05_03.jpeg)
 
 ### Évolution
 
@@ -107,11 +107,11 @@ Très **exceptionnels cas** de transformation **adénocarcinomateuse** décrits.
 - Particularité : un peu plus de **cellules de Paneth** dans les glandes
 - **Dysplasie** de bas et de haut grade comme dans le côlon
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.10 Les tumeurs bénignes du grêle/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.10%20Les%20tumeurs%20b%C3%A9nignes%20du%20gr%C3%AAle/p06_00.jpeg)
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.10 Les tumeurs bénignes du grêle/p06_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.10%20Les%20tumeurs%20b%C3%A9nignes%20du%20gr%C3%AAle/p06_03.jpeg)
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.10 Les tumeurs bénignes du grêle/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.10%20Les%20tumeurs%20b%C3%A9nignes%20du%20gr%C3%AAle/p07_00.jpeg)
 
 ### Facteurs de risque
 
@@ -141,7 +141,7 @@ Polypes isolés ou multiples, **< 1 cm**.
 - Glandes bordées de cellules **pariétales et principales**
 - Cryptes de surface parfois hypertrophiques et sécrétantes
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.10 Les tumeurs bénignes du grêle/p07_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.10%20Les%20tumeurs%20b%C3%A9nignes%20du%20gr%C3%AAle/p07_02.jpeg)
 
 ### Pathogénie
 
@@ -175,11 +175,11 @@ Composés de :
 - **Îlots de Langerhans**
 - **Canaux pancréatiques** normaux
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p09_00.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p09_01.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p09_02.jpeg)
 
 ### Complications
 

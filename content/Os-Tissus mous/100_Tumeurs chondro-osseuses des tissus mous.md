@@ -34,11 +34,11 @@ Deux grands groupes abordés :
 - Matrice **hyaline** caractéristique, parfois **myxoïde** (DD fond myxoïde)
 - **IHC PS100** : marquage diffus et intense des cellules → signe la différenciation cartilagineuse
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574 Tumeurs chondro-osseuses des tissus mous/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574%20Tumeurs%20chondro-osseuses%20des%20tissus%20mous/p03_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574 Tumeurs chondro-osseuses des tissus mous/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574%20Tumeurs%20chondro-osseuses%20des%20tissus%20mous/p04_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574 Tumeurs chondro-osseuses des tissus mous/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574%20Tumeurs%20chondro-osseuses%20des%20tissus%20mous/p04_01.jpeg)
 
 ---
 
@@ -57,11 +57,11 @@ Deux grands groupes abordés :
 - Nodule **unique, bien délimité**, contours polycycliques
 - Souvent **dur** (calcifications périphériques fréquentes)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574 Tumeurs chondro-osseuses des tissus mous/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574%20Tumeurs%20chondro-osseuses%20des%20tissus%20mous/p07_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574 Tumeurs chondro-osseuses des tissus mous/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574%20Tumeurs%20chondro-osseuses%20des%20tissus%20mous/p08_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574 Tumeurs chondro-osseuses des tissus mous/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574%20Tumeurs%20chondro-osseuses%20des%20tissus%20mous/p08_01.jpeg)
 
 ### Histologie
 - Lobulation nette, matrice **hyaline** creusée de **logettes peu nombreuses**
@@ -69,15 +69,15 @@ Deux grands groupes abordés :
 - Cellules à noyaux **arrondis, petits, chromatine fine, petit nucléole** → lésion **très bien différenciée**
 - **Groupes isogéniques**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574 Tumeurs chondro-osseuses des tissus mous/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574%20Tumeurs%20chondro-osseuses%20des%20tissus%20mous/p09_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574 Tumeurs chondro-osseuses des tissus mous/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574%20Tumeurs%20chondro-osseuses%20des%20tissus%20mous/p09_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574 Tumeurs chondro-osseuses des tissus mous/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574%20Tumeurs%20chondro-osseuses%20des%20tissus%20mous/p10_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574 Tumeurs chondro-osseuses des tissus mous/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574%20Tumeurs%20chondro-osseuses%20des%20tissus%20mous/p10_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574 Tumeurs chondro-osseuses des tissus mous/p10_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574%20Tumeurs%20chondro-osseuses%20des%20tissus%20mous/p10_02.jpeg)
 
 ### Variantes fréquentes
 | Variant | Particularité |
@@ -88,11 +88,11 @@ Deux grands groupes abordés :
 | **Fortement calcifié** / ossifié | Lésions anciennes |
 | **Hémorragique / épithélioïde** | Rares, diagnostic difficile |
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574 Tumeurs chondro-osseuses des tissus mous/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574%20Tumeurs%20chondro-osseuses%20des%20tissus%20mous/p11_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574 Tumeurs chondro-osseuses des tissus mous/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574%20Tumeurs%20chondro-osseuses%20des%20tissus%20mous/p12_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574 Tumeurs chondro-osseuses des tissus mous/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574%20Tumeurs%20chondro-osseuses%20des%20tissus%20mous/p12_01.jpeg)
 
 > ⚠️ **Il n'existe PAS de chondrosarcome conventionnel dans les tissus mous** → une lésion cellulaire et atypique reste un **chondrome**.
 
@@ -101,7 +101,7 @@ Deux grands groupes abordés :
 - FN1 aussi retrouvé dans translocations de chondromatose et tumeurs mésenchymateuses phosphaturiques (partenaires différents)
 - Plus fréquente dans les chondromes fortement calcifiés
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574 Tumeurs chondro-osseuses des tissus mous/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574%20Tumeurs%20chondro-osseuses%20des%20tissus%20mous/p13_00.jpeg)
 
 ### Diagnostics différentiels
 
@@ -111,11 +111,11 @@ Deux grands groupes abordés :
 | **Enchondrome / chondrome périosté** | Aspect microscopique superposable → **imagerie** seule discriminante |
 | **Chondrosarcome mésenchymateux** | Très rare, 50% dans TM, composante à **petites cellules rondes/fusiformes** + **vascularisation hémangiopéricytaire** + contingent cartilagineux bien différencié à l'emporte-pièce |
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574 Tumeurs chondro-osseuses des tissus mous/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574%20Tumeurs%20chondro-osseuses%20des%20tissus%20mous/p13_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574 Tumeurs chondro-osseuses des tissus mous/p13_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574%20Tumeurs%20chondro-osseuses%20des%20tissus%20mous/p13_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574 Tumeurs chondro-osseuses des tissus mous/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574%20Tumeurs%20chondro-osseuses%20des%20tissus%20mous/p14_00.jpeg)
 
 ### Traitement
 - **Résection chirurgicale** non fragmentée avec pseudo-capsule
@@ -129,7 +129,7 @@ Deux grands groupes abordés :
 **Bénignes** : ostéome, ossifications ectopiques, ossifications réactionnelles (**myosite ossifiante**), fibrodysplasie ossifiante progressive, kyste anévrysmal des TM
 **Malignes** : ostéosarcome extra-squelettique, tumeurs avec ostéogenèse hétérologue (carcinomes, carcinosarcomes)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574 Tumeurs chondro-osseuses des tissus mous/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574%20Tumeurs%20chondro-osseuses%20des%20tissus%20mous/p16_00.jpeg)
 
 ### Étapes diagnostiques
 1. **Identifier la matrice ostéoïde** : étape difficile, **pas de coloration ni IHC spécifiques** → diagnostic morphologique pur. Attention : fibrosarcome et rhabdomyosarcome sclérosant peuvent avoir une matrice hyaline mimant l'ostéoïde
@@ -137,9 +137,9 @@ Deux grands groupes abordés :
 3. **Écarter les tumeurs non mésenchymateuses à différenciation ostéosarcomateuse** : carcinome sarcomatoïde/métaplasique, carcinosarcome (utérus++), certaines tumeurs mixtes → échantillonnage +++
 4. **Écarter les autres sarcomes à différenciation ostéosarcomateuse** : **liposarcome dédifférencié (MDM2+)**, **MPNST**, mésenchymome malin multidifférencié
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574 Tumeurs chondro-osseuses des tissus mous/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574%20Tumeurs%20chondro-osseuses%20des%20tissus%20mous/p17_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574 Tumeurs chondro-osseuses des tissus mous/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574%20Tumeurs%20chondro-osseuses%20des%20tissus%20mous/p17_01.jpeg)
 
 ---
 
@@ -156,15 +156,15 @@ Deux grands groupes abordés :
 - Trois composantes possibles : **ostéoblastique, chondroblastique, fibroblastique** (proportions variables)
 - Rechercher les **composantes de haut grade**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574 Tumeurs chondro-osseuses des tissus mous/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574%20Tumeurs%20chondro-osseuses%20des%20tissus%20mous/p18_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574 Tumeurs chondro-osseuses des tissus mous/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574%20Tumeurs%20chondro-osseuses%20des%20tissus%20mous/p18_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574 Tumeurs chondro-osseuses des tissus mous/p18_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574%20Tumeurs%20chondro-osseuses%20des%20tissus%20mous/p18_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574 Tumeurs chondro-osseuses des tissus mous/p18_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574%20Tumeurs%20chondro-osseuses%20des%20tissus%20mous/p18_03.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574 Tumeurs chondro-osseuses des tissus mous/p18_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574%20Tumeurs%20chondro-osseuses%20des%20tissus%20mous/p18_04.jpeg)
 
 ### Pronostic
 - **Mauvais** : survie **< 50% à 5 ans**
@@ -174,9 +174,9 @@ Deux grands groupes abordés :
 - Multidisciplinaire : **chimiothérapie + chirurgie + radiothérapie**
 - Discussion sur la place des sels de platine
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574 Tumeurs chondro-osseuses des tissus mous/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574%20Tumeurs%20chondro-osseuses%20des%20tissus%20mous/p19_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574 Tumeurs chondro-osseuses des tissus mous/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574%20Tumeurs%20chondro-osseuses%20des%20tissus%20mous/p19_01.jpeg)
 
 ---
 
@@ -190,11 +190,11 @@ Deux grands groupes abordés :
 | **Sur trajet nerveux** | **MPNST** → modification **H3K27me3** |
 | Aucun → diagnostic d'exclusion | **Ostéosarcome extra-squelettique** |
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574 Tumeurs chondro-osseuses des tissus mous/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574%20Tumeurs%20chondro-osseuses%20des%20tissus%20mous/p20_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574 Tumeurs chondro-osseuses des tissus mous/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574%20Tumeurs%20chondro-osseuses%20des%20tissus%20mous/p20_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574 Tumeurs chondro-osseuses des tissus mous/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-574%20Tumeurs%20chondro-osseuses%20des%20tissus%20mous/p22_00.jpeg)
 
 ---
 

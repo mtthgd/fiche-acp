@@ -35,13 +35,13 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Infiltration des parties molles fréquente
 - IRM : iso/hyposignal T1, hypersignal T2, rehaussement après injection
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p04_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p05_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p05_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p05_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p05_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p05_03.jpeg)
 
 ## Macroscopie
 
@@ -49,7 +49,7 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Remaniements **kystiques**, liquide nécrotique pseudo-purulent
 - Possibilité de **forme périostée** (aspect en cupule entre corticale et périoste)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p06_01.jpeg)
 
 ## Microscopie — sarcome d'Ewing classique
 
@@ -64,17 +64,17 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Parfois plus atypique : anisocariose, nucléoles proéminents, mitoses nombreuses
 - Possibles **pseudo-rosettes de Homer-Wright** (différenciation neuro-ectodermique) — une dizaine de cellules centrées par un centre fibrillaire
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p07_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p07_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p07_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p08_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p09_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p09_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p10_01.jpeg)
 
 ## IHC — sarcome d'Ewing
 
@@ -88,9 +88,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 
 > **CD99 non spécifique** : aussi + dans LAL, lymphomes, sarcome granulocytique, synoviosarcome, tumeur desmoplastique à petites cellules rondes, rhabdomyosarcome alvéolaire
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p11_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p11_02.jpeg)
 
 ## Génétique — indispensable
 
@@ -104,13 +104,13 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 
 - Détection : **FISH** (sonde break-apart EWSR1 + sonde de fusion EWSR1-FLI1), **RT-PCR**, **RNA-seq**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p12_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p13_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p14_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p15_01.jpeg)
 
 ## Pronostic et traitement — sarcome d'Ewing
 
@@ -120,9 +120,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Traitement : **chimiothérapie néo-adjuvante → chirurgie → radiothérapie** selon marges
 - **Survie globale 5 ans : 79%**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p17_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p17_01.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p17_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p17_02.png)
 
 ---
 
@@ -141,9 +141,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Riche réseau vasculaire grêle** (différent du sarcome d'Ewing)
 
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p18_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p18_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p20_00.jpeg)
 
 ### IHC
 | Marqueur | Résultat |
@@ -156,13 +156,13 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **FISH** : écart entre signaux vert/rouge (inversion)
 - Autres : BCOR-MAML3, ZC3H7B-BCOR, **ITD de BCOR** (non détectable en FISH break-apart)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p22_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p23_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p23_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p24_00.jpeg)
 
 
 ### Pronostic
@@ -181,11 +181,11 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Grande **variabilité** : cellules rondes à cytoplasme plus abondant, noyaux volumineux nucléolés + plages de cellules fusiformes
 - **Nécrose en carte de géographie**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p28_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p28_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p28_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p28_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p29_00.jpeg)
 
 ### IHC
 | Marqueur | Résultat |
@@ -198,13 +198,13 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **CIC-DUX4** (fusion classique, t(4;19) ou t(10;19))
 - Autres : CIC-FOXO4, CIC-NUTM1
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p29_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p29_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p30_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p30_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p30_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p31_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p31_01.jpeg)
 
 ### Pronostic
 - **Plus agressif** que sarcome d'Ewing — **survie globale 5 ans : 43%**
@@ -217,11 +217,11 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 | **Sarcome BCOR** | **BCOR-CCNB3** | Variable (golgien, 50%) | **BCOR nucléaire** 100% | Os et tissus mous | **72%** |
 | **Sarcome CIC** | **CIC-DUX4** | Variable mixte | **WT1, ETV4** | Tissus mous +++ | **43%** |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p32_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p32_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p32_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266 Tumeurs de la famille Ewing, BCOR-CCNB3, CIC-DUX4/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-266%20Tumeurs%20de%20la%20famille%20Ewing%2C%20BCOR-CCNB3%2C%20CIC-DUX4/p33_00.jpeg)
 
 ---
 

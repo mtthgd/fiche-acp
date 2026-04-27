@@ -113,7 +113,7 @@ Indiquée si **RH+** (≈ **85 %** des K du sein).
 
 ## Stratégie selon catégorie biologique
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_04_5 principes du traitement K sein/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_04_5%20principes%20du%20traitement%20K%20sein/p10_00.jpeg)
 
 | Sous-type | Caractéristiques | Traitement |
 |-----------|------------------|------------|

@@ -95,10 +95,10 @@ Matériels au sein de la lumière tubulaire.
 | **Hématique** | Globules rouges | GR alignés | **Hématurie d'origine glomérulaire** |
 | **Myélomateux** | Chaînes légères monoclonales | **Polychromatique, dense, cassant**, réaction cellulaire au contact | **Myélome** ([[16_NCM - Néphropathie à cylindres myélomateux]]) |
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/242-14 Lesions élémentaires TI/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/242-14%20Lesions%20%C3%A9l%C3%A9mentaires%20TI/p08_00.jpeg)
 
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/242-14 Lesions élémentaires TI/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/242-14%20Lesions%20%C3%A9l%C3%A9mentaires%20TI/p10_00.jpeg)
 
 
 ### 5. Cristaux tubulaires
@@ -156,7 +156,7 @@ Causes :
 - **Hémosidérine** : granulations brun-rouille, **bleu de Prusse+** (Perls) → contexte hémolytique
 - **Lipofuscine, bilirubine, mélanine** : possibles selon contexte
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/242-14 Lesions élémentaires TI/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/242-14%20Lesions%20%C3%A9l%C3%A9mentaires%20TI/p16_00.jpeg)
 
 #### Inclusions virales tubulaires
 
@@ -178,7 +178,7 @@ Causes :
 | **Lame festonnée** | Alternance avec zones préservées | **Néphronophtise** |
 
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/242-14 Lesions élémentaires TI/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/242-14%20Lesions%20%C3%A9l%C3%A9mentaires%20TI/p19_00.jpeg)
 
 ## B — LÉSIONS INTERSTITIELLES
 
@@ -212,7 +212,7 @@ Contextes :
 - **Rejet aigu humoral**
 - Infection (ex : **hantavirus**)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/242-14 Lesions élémentaires TI/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/242-14%20Lesions%20%C3%A9l%C3%A9mentaires%20TI/p21_00.jpeg)
 
 ### 3. Fibrose interstitielle
 

@@ -46,7 +46,7 @@ Les rhinosinusites chroniques sont fréquentes et **ne font habituellement pas l
 - Le plus souvent **bilatéraux**, multiples, volumineux
 - Prédominance **ethmoïdale**
 
-![[assets/ORL/VADS/pathologie_non_tumorale/10.211et2013 inflammationFNS/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/pathologie_non_tumorale/10.211et2013%20inflammationFNS/p05_00.jpeg)
 
 #### Polype antro-choanal de Killian (piège)
 - Polype le plus fréquent du **grand enfant (> 10 ans)** et de l'**adolescent**
@@ -59,9 +59,9 @@ Les rhinosinusites chroniques sont fréquentes et **ne font habituellement pas l
 - Chorion **œdémateux abondant**, plus ou moins inflammatoire
 - Infiltrat avec **nombreux polynucléaires éosinophiles** (témoin d'allergie locale, indépendant de l'éosinophilie sanguine)
 
-![[assets/ORL/VADS/pathologie_non_tumorale/10.211et2013 inflammationFNS/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/pathologie_non_tumorale/10.211et2013%20inflammationFNS/p06_00.jpeg)
 
-![[assets/ORL/VADS/pathologie_non_tumorale/10.211et2013 inflammationFNS/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/pathologie_non_tumorale/10.211et2013%20inflammationFNS/p06_01.jpeg)
 
 ### Traitement
 - Médical : lavage quotidien, **corticoïdes**
@@ -77,7 +77,7 @@ Les rhinosinusites chroniques sont fréquentes et **ne font habituellement pas l
 - Antécédents fréquents : **traumatisme, soins dentaires** (contamination extérieure)
 - Traitement : exérèse de la truffe
 
-![[assets/ORL/VADS/pathologie_non_tumorale/10.211et2013 inflammationFNS/p08_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/pathologie_non_tumorale/10.211et2013%20inflammationFNS/p08_00.png)
 
 ### Rhinosinusite chronique fongique allergique
 - **Mucus épais, verdâtre** (« beurre de cacahuète, mastique »)
@@ -91,9 +91,9 @@ Les rhinosinusites chroniques sont fréquentes et **ne font habituellement pas l
 - Ces PNE en se dégradant forment des **cristaux de Charcot-Leyden** (volumineux, de forme variable, à ne pas confondre avec des filaments)
 - **Coloration de Grocott** : quelques petits filaments d'Aspergillus souvent altérés, **septés, branchés à 45°**
 
-![[assets/ORL/VADS/pathologie_non_tumorale/10.211et2013 inflammationFNS/p10_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/pathologie_non_tumorale/10.211et2013%20inflammationFNS/p10_00.png)
 
-![[assets/ORL/VADS/pathologie_non_tumorale/10.211et2013 inflammationFNS/p11_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/pathologie_non_tumorale/10.211et2013%20inflammationFNS/p11_00.png)
 
 ### Mycose invasive — à connaître +++
 - **Uniquement chez l'immunodéprimé**
@@ -104,9 +104,9 @@ Les rhinosinusites chroniques sont fréquentes et **ne font habituellement pas l
 
 **Histologie** : inflammation riche en PNN, filaments **gros, non septés, branchés à 90°**, souvent intravasculaires (→ nécrose tissulaire).
 
-![[assets/ORL/VADS/pathologie_non_tumorale/10.211et2013 inflammationFNS/p12_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/pathologie_non_tumorale/10.211et2013%20inflammationFNS/p12_00.png)
 
-![[assets/ORL/VADS/pathologie_non_tumorale/10.211et2013 inflammationFNS/p13_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/pathologie_non_tumorale/10.211et2013%20inflammationFNS/p13_00.png)
 
 #### DD Aspergillus vs Mucor
 
@@ -139,14 +139,14 @@ L'Aspergillus peut également donner des formes invasives chez l'immunodéprimé
 - Germes parfois visibles dans les macrophages sur HE ; mieux sur **coloration de Warthin-Starry**
 - Identification définitive : mise en culture
 
-![[assets/ORL/VADS/pathologie_non_tumorale/10.211et2013 inflammationFNS/p18_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/pathologie_non_tumorale/10.211et2013%20inflammationFNS/p18_00.png)
 
 ### DD du rhinosclérome
 - **Lèpre lépromateuse** : bacilles acido-alcoolo-résistants (**Ziehl positif**)
 - **Syphilis** : tréponèmes positifs au Warthin-Starry, moins de cellules claires, IHC anti-tréponème
 - **Maladie de Rosai-Dorfman** (histiocytose sinusale avec lymphadénopathie massive) : macrophages non vacuolisés, **empéripolèse** (lymphocytes phagocytés non détruits dans le cytoplasme), **PS100+**
 
-![[assets/ORL/VADS/pathologie_non_tumorale/10.211et2013 inflammationFNS/p20_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/pathologie_non_tumorale/10.211et2013%20inflammationFNS/p20_00.png)
 
 ## 4. Granulomatose avec polyangéite (GPA, ex-Wegener)
 
@@ -159,20 +159,20 @@ L'Aspergillus peut également donner des formes invasives chez l'immunodéprimé
 ### Triade histologique complète
 **Vascularite + granulome + nécrose** — présente dans **moins d'1/5 des cas** même en Wegener avéré !
 
-![[assets/ORL/VADS/pathologie_non_tumorale/10.211et2013 inflammationFNS/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/pathologie_non_tumorale/10.211et2013%20inflammationFNS/p23_00.jpeg)
 
 ### Reconnaître l'inflammation granulomateuse
 - Cellules géantes **isolées**
 - Petits nids d'histiocytes **mal limités** (~15 éléments) — pas les beaux granulomes de la sarcoïdose
 - Parfois histiocytes en bordure de remaniements nécrotiques
 
-![[assets/ORL/VADS/pathologie_non_tumorale/10.211et2013 inflammationFNS/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/pathologie_non_tumorale/10.211et2013%20inflammationFNS/p25_00.jpeg)
 
 ### Formes de nécrose
 - **Micro-abcès** (élément précoce) : bordure histiocytaire, ± cellule géante
 - **Nécrobiose du tissu conjonctif** : nécrose basophile, débris cellulaires, ± PNN
 
-![[assets/ORL/VADS/pathologie_non_tumorale/10.211et2013 inflammationFNS/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/pathologie_non_tumorale/10.211et2013%20inflammationFNS/p28_00.jpeg)
 
 ### Vascularite
 - Signe le plus rare (biopsies superficielles → petits capillaires)

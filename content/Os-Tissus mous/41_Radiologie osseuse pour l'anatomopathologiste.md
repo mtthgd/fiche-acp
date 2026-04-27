@@ -26,9 +26,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 
 **Obtenir à tout prix les radios standards** lorsqu'on analyse les lames.
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p01_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p01_03.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p01_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p01_04.jpeg)
 
 ## Critères d'analyse systématique
 
@@ -61,15 +61,15 @@ Déterminer le **centre géométrique** de la lésion : épiphyse / métaphyse /
 | **De surface avec spicules / encorbellement** | **Périostée** (ostéosarcome périosté) |
 | **À côté de l'os, espace clair visible** | **Parostéale** (ostéosarcome parostéal) |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p07_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p07_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p08_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p08_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p08_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p08_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p08_03.jpeg)
 
 ## 2. Limites — Classification de Lodwick
 
@@ -86,21 +86,21 @@ Principe : **différentiel entre vitesse de progression lésionnelle et vitesse 
 - **IA à IB** : plutôt **quiescentes**
 - **IC à III** : plutôt **actives**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p10_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p10_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p10_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p11_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p11_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p11_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p12_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p12_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p12_02.jpeg)
 
 
 ## 3. Matrice
@@ -130,23 +130,23 @@ Architecture **lobulaire** → calcifications :
 ### Verre dépoli (dysplasie fibreuse)
 Microfoyers d'ostéogenèse disséminés dans un tissu fibreux → **voile calcique avec images en volutes**.
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p20_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p20_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p20_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p20_02.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p20_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p20_03.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p20_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p20_04.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p23_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p23_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p23_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p23_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p23_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p23_03.jpeg)
 
 ### Condensation lésionnelle vs réactionnelle
 
@@ -156,13 +156,13 @@ Microfoyers d'ostéogenèse disséminés dans un tissu fibreux → **voile calci
 | Condensation **autour** d'une plage d'ostéolyse | **Réactionnelle** (inflammatoire — abcès de Brodie, rhumatisme) |
 | Nodulaire à limite nette + spicules denses | Tumeur ostéogène bénigne (îlot condensant) |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p24_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p24_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p24_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p24_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p24_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p24_03.png)
 
 ## 4. Corticale, périoste, endoste
 
@@ -172,11 +172,11 @@ Réaction périostée **intégrée à la corticale** → processus **chronique p
 - Évolutivité dépend de l'état de l'**endoste**
 - Encoches endostées = **processus lent mais évolutif** (dysplasie fibreuse, tumeur cartilagineuse)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p25_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p25_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p25_01.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p25_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p25_02.png)
 
 ### Réaction périostée
 
@@ -188,26 +188,26 @@ Réaction périostée **intégrée à la corticale** → processus **chronique p
 | **Rayons de soleil** | Divergents | Non physiologique (sarcome) |
 | **Triangle de Codman** | Réaction soulevée et **rompue** par la tumeur | Non physiologique (sarcome) |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p26_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p26_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p26_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p26_03.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p28_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p28_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p28_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p28_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p28_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p28_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p28_03.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p28_04.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p28_04.png)
 
 ### Masse des tissus mous
 Mieux appréciée en **IRM** → signe **franchissement de la corticale et du périoste** (ostéosarcome télangiectasique, Ewing).
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p30_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p30_00.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p30_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p30_01.jpeg)
 
 ## Argumentaire épidémiologique
 
@@ -223,23 +223,23 @@ Mieux appréciée en **IRM** → signe **franchissement de la corticale et du p�
 - Lésions condensantes : cancer de la prostate
 - Lésions vasculaires
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p31_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p31_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p31_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p33_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p34_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p34_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p34_01.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p35_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p37_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p37_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p38_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p38_00.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234 Radiologie osseuse ce que doit connaitre un anatomopathologiste/p38_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-234%20Radiologie%20osseuse%20ce%20que%20doit%20connaitre%20un%20anatomopathologiste/p38_01.jpeg)
 
 ---
 

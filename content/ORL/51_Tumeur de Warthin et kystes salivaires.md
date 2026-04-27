@@ -39,8 +39,8 @@ source: DES ACP - Cours d'ORL
 - À la coupe : écoulement d'un **liquide « sale »** brunâtre, parfois plus visqueux.
 - **Très bonne délimitation**, capsule fine.
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_332 tumeur de Warthin et kystes pour pdf/p04_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_332 tumeur de Warthin et kystes pour pdf/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_332%20tumeur%20de%20Warthin%20et%20kystes%20pour%20pdf/p04_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_332%20tumeur%20de%20Warthin%20et%20kystes%20pour%20pdf/p04_01.jpeg)
 
 ## Histologie
 
@@ -50,8 +50,8 @@ source: DES ACP - Cours d'ORL
 - **Stroma lymphoïde dense** péri-kystique avec follicules à centres germinatifs.
 - Capsule fine respectée (lésion bénigne).
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_332 tumeur de Warthin et kystes pour pdf/p05_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_332 tumeur de Warthin et kystes pour pdf/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_332%20tumeur%20de%20Warthin%20et%20kystes%20pour%20pdf/p05_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_332%20tumeur%20de%20Warthin%20et%20kystes%20pour%20pdf/p06_00.jpeg)
 
 ### Cytologie : aspect typique en **bicouche oncocytaire**
 
@@ -63,9 +63,9 @@ source: DES ACP - Cours d'ORL
 - Cellules oncocytaires : noyau volumineux, **nucléole net**, cytoplasme éosinophile riche en **mitochondries**.
 - L'assise apicale peut présenter un **plateau cilié** ou une **sécrétion apocrine**.
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_332 tumeur de Warthin et kystes pour pdf/p07_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_332 tumeur de Warthin et kystes pour pdf/p08_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_332 tumeur de Warthin et kystes pour pdf/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_332%20tumeur%20de%20Warthin%20et%20kystes%20pour%20pdf/p07_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_332%20tumeur%20de%20Warthin%20et%20kystes%20pour%20pdf/p08_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_332%20tumeur%20de%20Warthin%20et%20kystes%20pour%20pdf/p08_01.jpeg)
 
 ### Variations architecturales
 
@@ -73,9 +73,9 @@ source: DES ACP - Cours d'ORL
 - Formes **compactes** avec stroma lymphoïde refoulé en périphérie (« âges » différents de la tumeur).
 - **Métaplasies** possibles : sébacée, épidermoïde, mucineuse.
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_332 tumeur de Warthin et kystes pour pdf/p09_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_332 tumeur de Warthin et kystes pour pdf/p10_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_332 tumeur de Warthin et kystes pour pdf/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_332%20tumeur%20de%20Warthin%20et%20kystes%20pour%20pdf/p09_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_332%20tumeur%20de%20Warthin%20et%20kystes%20pour%20pdf/p10_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_332%20tumeur%20de%20Warthin%20et%20kystes%20pour%20pdf/p10_01.jpeg)
 
 ### Physiopathogénie
 
@@ -117,8 +117,8 @@ Deux hypothèses :
 
 → Le carcinome épidermoïde « Warthinké » Denovo existe ; un CE véritablement développé sur Warthin est exceptionnel.
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_332 tumeur de Warthin et kystes pour pdf/p13_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_332 tumeur de Warthin et kystes pour pdf/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_332%20tumeur%20de%20Warthin%20et%20kystes%20pour%20pdf/p13_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_332%20tumeur%20de%20Warthin%20et%20kystes%20pour%20pdf/p15_00.jpeg)
 
 ## Diagnostics différentiels
 
@@ -140,8 +140,8 @@ Deux hypothèses :
 - Dilatation du canal collecteur.
 - Histologie : épithélium **abrasé / aplati**, fibrose pariétale dense, discrète inflammation lymphocytaire.
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_332 tumeur de Warthin et kystes pour pdf/p17_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_332 tumeur de Warthin et kystes pour pdf/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_332%20tumeur%20de%20Warthin%20et%20kystes%20pour%20pdf/p17_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_332%20tumeur%20de%20Warthin%20et%20kystes%20pour%20pdf/p18_00.jpeg)
 
 ### Kyste lymphoépithélial (LEC)
 
@@ -150,8 +150,8 @@ Deux hypothèses :
 - Surface épithéliale **ondulée** (vs aplatie dans le kyste canalaire).
 - Épithélium variable : **malpighien, cylindrique cilié, respiratoire**.
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_332 tumeur de Warthin et kystes pour pdf/p19_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_332 tumeur de Warthin et kystes pour pdf/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_332%20tumeur%20de%20Warthin%20et%20kystes%20pour%20pdf/p19_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_332%20tumeur%20de%20Warthin%20et%20kystes%20pour%20pdf/p19_01.jpeg)
 
 ### Hyperplasie lymphoïde kystique du VIH (LEC du VIH)
 
@@ -161,8 +161,8 @@ Deux hypothèses :
 - **Immunohistochimie P24 positive** au moindre doute.
 - Devenue rare car le diagnostic clinique est désormais bien connu.
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_332 tumeur de Warthin et kystes pour pdf/p21_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_332 tumeur de Warthin et kystes pour pdf/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_332%20tumeur%20de%20Warthin%20et%20kystes%20pour%20pdf/p21_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_332%20tumeur%20de%20Warthin%20et%20kystes%20pour%20pdf/p21_01.jpeg)
 
 ### Mucocèle / ranula
 
@@ -181,10 +181,10 @@ Toute lésion kystique cervicale ou parotidienne doit faire éliminer :
 
 → Toujours **examiner attentivement le revêtement** des kystes salivaires.
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_332 tumeur de Warthin et kystes pour pdf/p23_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_332 tumeur de Warthin et kystes pour pdf/p23_01.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_332 tumeur de Warthin et kystes pour pdf/p24_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_332 tumeur de Warthin et kystes pour pdf/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_332%20tumeur%20de%20Warthin%20et%20kystes%20pour%20pdf/p23_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_332%20tumeur%20de%20Warthin%20et%20kystes%20pour%20pdf/p23_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_332%20tumeur%20de%20Warthin%20et%20kystes%20pour%20pdf/p24_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_332%20tumeur%20de%20Warthin%20et%20kystes%20pour%20pdf/p24_01.jpeg)
 
 ## Pronostic / Traitement
 

@@ -82,9 +82,9 @@ Segmentation anatomique/radiologique :
 > **TIPMP du canal principal** ou **mixte** = plus souvent **dysplasie HG ou invasive**.
 > **TIPMP des canaux secondaires** = plus souvent **dysplasie BG**.
 
-![[assets/digestif/pancreas/tumorale/03.3.3.8 Tumeurs intracanalaires pancréatiques/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.8%20Tumeurs%20intracanalaires%20pancr%C3%A9atiques/p07_01.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.8 Tumeurs intracanalaires pancréatiques/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.8%20Tumeurs%20intracanalaires%20pancr%C3%A9atiques/p09_01.jpeg)
 
 ---
 
@@ -118,13 +118,13 @@ Segmentation anatomique/radiologique :
 - TIPMP des canaux secondaires : kyste(s) communicant(s), parfois discrets (4 mm)
 - Parfois lésion peu floride : canal principal très dilaté **sans papilles visibles** macroscopiquement
 
-![[assets/digestif/pancreas/tumorale/03.3.3.6 Lésions et tumeurs kystiques du pancréas/p13_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.6%20L%C3%A9sions%20et%20tumeurs%20kystiques%20du%20pancr%C3%A9as/p13_03.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.6 Lésions et tumeurs kystiques du pancréas/p15_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.6%20L%C3%A9sions%20et%20tumeurs%20kystiques%20du%20pancr%C3%A9as/p15_05.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.6 Lésions et tumeurs kystiques du pancréas/p16_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.6%20L%C3%A9sions%20et%20tumeurs%20kystiques%20du%20pancr%C3%A9as/p16_03.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.8 Tumeurs intracanalaires pancréatiques/p17_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.8%20Tumeurs%20intracanalaires%20pancr%C3%A9atiques/p17_03.jpeg)
 
 ---
 
@@ -143,9 +143,9 @@ Segmentation anatomique/radiologique :
 
 > Critères = identiques à ceux des adénomes du côlon.
 
-![[assets/digestif/pancreas/tumorale/03.3.3.8 Tumeurs intracanalaires pancréatiques/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.8%20Tumeurs%20intracanalaires%20pancr%C3%A9atiques/p19_00.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.8 Tumeurs intracanalaires pancréatiques/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.8%20Tumeurs%20intracanalaires%20pancr%C3%A9atiques/p21_00.jpeg)
 
 ---
 
@@ -168,11 +168,11 @@ Segmentation anatomique/radiologique :
 | **Pancréatobiliaire** | + | **−** | − | **+** |
 | **Oncocytaire** | + | variable | | |
 
-![[assets/digestif/pancreas/tumorale/03.3.3.8 Tumeurs intracanalaires pancréatiques/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.8%20Tumeurs%20intracanalaires%20pancr%C3%A9atiques/p25_00.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.8 Tumeurs intracanalaires pancréatiques/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.8%20Tumeurs%20intracanalaires%20pancr%C3%A9atiques/p27_00.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.8 Tumeurs intracanalaires pancréatiques/p28_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.8%20Tumeurs%20intracanalaires%20pancr%C3%A9atiques/p28_03.jpeg)
 
 ## Particularité : dégénérescence
 | Phénotype | Type d'ADK |
@@ -203,7 +203,7 @@ Segmentation anatomique/radiologique :
 
 > ⚠ IHC pancytokératine peut révéler une micro-invasion non visible à l'HE.
 
-![[assets/digestif/pancreas/tumorale/03.3.3.8 Tumeurs intracanalaires pancréatiques/p33_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.8%20Tumeurs%20intracanalaires%20pancr%C3%A9atiques/p33_03.jpeg)
 
 ---
 
@@ -246,9 +246,9 @@ Segmentation anatomique/radiologique :
 | **Extension intracanalaire d'ADK canalaire classique** | Atypies majeures, nécrose, cellules tumorales aspect glandulaire, IHC peu utile |
 | **Extension intracanalaire de TNE / carcinome à cellules acinaires** | Pas de papilles ; DD plus radiologique/macro qu'histologique |
 
-![[assets/digestif/pancreas/tumorale/03.3.3.8 Tumeurs intracanalaires pancréatiques/p35_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.8%20Tumeurs%20intracanalaires%20pancr%C3%A9atiques/p35_05.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.8 Tumeurs intracanalaires pancréatiques/p36_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.8%20Tumeurs%20intracanalaires%20pancr%C3%A9atiques/p36_03.jpeg)
 
 ---
 

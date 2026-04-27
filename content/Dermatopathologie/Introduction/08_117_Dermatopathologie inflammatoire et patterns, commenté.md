@@ -45,16 +45,16 @@ L'approche des **dermatoses inflammatoires** repose sur :
 
 **Lichen plan** : **acanthose**, **hypergranulose** en coin, **hyperkératose orthokératosique** :
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p05_00.jpeg)
 
 
 
 **Lupus érythémateux chronique** : **atrophie inhomogène** de l'épiderme + **épaississement de la membrane basale** (visible au **PAS**) :
 
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p06_01.jpeg)
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p06_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p06_02.jpeg)
 
 
 ### B. Anomalies qualitatives
@@ -74,9 +74,9 @@ L'approche des **dermatoses inflammatoires** repose sur :
 Œdème intra-épidermique conduisant à un espacement exagéré des kératinocytes ; au stade ultime → **vésicules sous-cornées** (eczéma) :
 
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p07_01.jpeg)
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p07_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p07_02.jpeg)
 
 
 #### Acantholyse
@@ -89,11 +89,11 @@ Cavités intra-épidermiques par destruction des desmosomes ; kératinocytes lib
 
 Cassure complète à la JDE (DBAI sous-épidermique : pemphigoïde bulleuse, EBA…) :
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p09_00.jpeg)
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p09_01.jpeg)
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p09_02.jpeg)
 
 
 
@@ -102,14 +102,14 @@ Cassure complète à la JDE (DBAI sous-épidermique : pemphigoïde bulleuse, EBA
 Kératinocytes **atypiques et désorganisés** sur toute la hauteur de l'épiderme :
 
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p10_01.jpeg)
 
 
 #### Effet cytopathogène viral — HPV
 
 **Koïlocytes** : kératinocytes en regard de la couche granuleuse, **vacuole cytoplasmique** péri-nucléaire et **noyaux opaques**, parfois binucléés :
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p11_00.jpeg)
 
 
 
@@ -118,9 +118,9 @@ Kératinocytes **atypiques et désorganisés** sur toute la hauteur de l'épider
 Décollement complet de l'épiderme par **apoptose massive** des kératinocytes basaux :
 
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p12_01.jpeg)
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p12_02.jpeg)
 
 
 #### Nécrose ischémique
@@ -128,9 +128,9 @@ Décollement complet de l'épiderme par **apoptose massive** des kératinocytes 
 Aspect de **nécrose de coagulation** de tout l'épiderme, en rapport avec une **vascularite** :
 
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p13_01.jpeg)
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p13_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p13_02.jpeg)
 
 
 ## II. Lésions des mélanocytes
@@ -142,7 +142,7 @@ Aspect de **nécrose de coagulation** de tout l'épiderme, en rapport avec une *
 | **Hyperproduction de mélanine** | Hyperpigmentation | Mélasma, hyperpigmentation post-inflammatoire |
 | **Hypoproduction / disparition** | Hypopigmentation | **Vitiligo** : disparition presque complète des mélanocytes + perte de pigment |
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p14_00.jpeg)
 
 
 
@@ -161,7 +161,7 @@ Aspect de **nécrose de coagulation** de tout l'épiderme, en rapport avec une *
 
 Exocytose massive de PNN dissociant l'épiderme → **pustules multiloculaires** (sous-cornées et dans le corps muqueux) :
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p15_00.jpeg)
 
 
 
@@ -176,9 +176,9 @@ Exocytose de **lymphocytes T tumoraux** dans l'épiderme = **épidermotropisme**
 Variante avec **infiltration pagétoïde** : cellules tumorales de **taille moyenne** localisées **toutes dans l'épiderme** :
 
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p17_01.jpeg)
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p17_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p17_02.jpeg)
 
 
 ## IV. Lésions élémentaires du derme
@@ -206,9 +206,9 @@ Variante avec **infiltration pagétoïde** : cellules tumorales de **taille moye
 Excès de **mucopolysaccharides** dans le derme, mieux identifiés par la coloration au **bleu alcian** :
 
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p19_01.jpeg)
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p19_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p19_02.jpeg)
 
 
 ## V. Patterns inflammatoires — vue d'ensemble
@@ -231,13 +231,13 @@ Excès de **mucopolysaccharides** dans le derme, mieux identifiés par la colora
 Triade : **hyperkératose parakératosique étendue, hypogranulose**, **acanthose régulière en peigne**, **papillomatose** avec amincissement du toit des papilles :
 
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p20_01.jpeg)
 
 
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p21_01.jpeg)
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p21_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p21_02.jpeg)
 
 
 ### Pattern eczématiforme (spongiotique)
@@ -247,9 +247,9 @@ Triade : **hyperkératose parakératosique étendue, hypogranulose**, **acanthos
 
 
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p23_01.jpeg)
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p23_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p23_02.jpeg)
 
 
 ### Dermatose d'interface
@@ -264,9 +264,9 @@ Deux variantes :
 **Lichen plan** = chef de file des dermatoses lichénoïdes : infiltrat mononucléé en bande dissociant les couches profondes de l'épiderme, **apoptose** des kératinocytes basaux cibles :
 
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p24_01.jpeg)
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p24_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p24_02.jpeg)
 
 
 
@@ -276,7 +276,7 @@ Deux variantes :
 
 Aspects multiples selon **densité, organisation, composition** : périvasculaire superficiel, périvasculaire profond, périannexiel, en bande, nodulaire, diffus.
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p27_00.jpeg)
 
 
 
@@ -301,20 +301,20 @@ Classification topographique :
 > Le **lymphome T sous-cutané panniculitis-like (SPTCL)** réalise une panniculite **lobulaire** lymphocytaire, à différencier d'une panniculite réactionnelle.
 
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p29_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p29_01.jpeg)
 
 
 
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p31_00.jpeg)
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p31_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p31_01.jpeg)
 
 
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p32_00.jpeg)
 
-![[assets/dermato/introduction/08-117 Dermatopathologie inflammatoire et patterns/p32_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-117%20Dermatopathologie%20inflammatoire%20et%20patterns/p32_01.jpeg)
 
 
 ## VI. Algorithme de lecture d'une dermatose inflammatoire

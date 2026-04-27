@@ -36,7 +36,7 @@ source: DES ACP - Cours de gynéco-pathologie (sein tumoral)
 
 ## 1. Marqueurs des cellules myoépithéliales
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_2 DES_IHCsein_sept18_MPCNON SONO/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_2%20DES_IHCsein_sept18_MPCNON%20SONO/p06_00.jpeg)
 
 - Présentes dans glandes normales et **CCIS** (parfois moins nombreuses).
 - **Absentes** dans le carcinome **infiltrant**.
@@ -64,12 +64,12 @@ source: DES ACP - Cours de gynéco-pathologie (sein tumoral)
 | **Adénose microglandulaire** | **Absentes** | **Présente** (collagène 4) | **PS100+** (cytopl. + nucléaire) |
 | **Carcinome tubuleux** | **Absentes** | **Absente** | Glandes anguleuses |
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_2 DES_IHCsein_sept18_MPCNON SONO/p07_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_2 DES_IHCsein_sept18_MPCNON SONO/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_2%20DES_IHCsein_sept18_MPCNON%20SONO/p07_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_2%20DES_IHCsein_sept18_MPCNON%20SONO/p09_00.jpeg)
 
 ## 2. HCS vs HCA vs CCIS de bas grade
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_2 DES_IHCsein_sept18_MPCNON SONO/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_2%20DES_IHCsein_sept18_MPCNON%20SONO/p11_00.jpeg)
 
 | Lésion | **CK5/6** |
 |--------|:---:|
@@ -82,7 +82,7 @@ source: DES ACP - Cours de gynéco-pathologie (sein tumoral)
 
 ## 3. Carcinome NST vs carcinome lobulaire — E-cadhérine
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_2 DES_IHCsein_sept18_MPCNON SONO/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_2%20DES_IHCsein_sept18_MPCNON%20SONO/p13_00.jpeg)
 
 ### Perte d’E-cadhérine dans le carcinome lobulaire
 
@@ -103,7 +103,7 @@ source: DES ACP - Cours de gynéco-pathologie (sein tumoral)
 
 ## 4. Lésions papillaires — utilité de P63
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_2 DES_IHCsein_sept18_MPCNON SONO/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_2%20DES_IHCsein_sept18_MPCNON%20SONO/p15_00.jpeg)
 
 | Lésion | P63 axes des papilles | P63 paroi du canal |
 |--------|:---:|:---:|
@@ -113,7 +113,7 @@ source: DES ACP - Cours de gynéco-pathologie (sein tumoral)
 
 ## 5. Tumeurs à cellules fusiformes
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_2 DES_IHCsein_sept18_MPCNON SONO/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_2%20DES_IHCsein_sept18_MPCNON%20SONO/p17_00.jpeg)
 
 > **Toujours faire la pancytokératine** : ne pas méconnaître un **carcinome métaplasique** !
 

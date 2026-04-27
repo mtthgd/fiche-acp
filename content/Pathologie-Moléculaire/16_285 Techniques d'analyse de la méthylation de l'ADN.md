@@ -31,7 +31,7 @@ source: DES ACP - Pathologie moléculaire
 
 L’**astuce** repose sur une **chimie** qui transforme un changement épigénétique (qui ne se voit pas par séquençage) en un véritable **changement de séquence** (détectable par n’importe quelle technique de séquençage).
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-285 Techniques danalyse de la methylation de lADN/p01_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-285%20Techniques%20danalyse%20de%20la%20methylation%20de%20lADN/p01_00.jpeg)
 
 ## Application clinique majeure : MGMT et glioblastome
 
@@ -51,10 +51,10 @@ L’**astuce** repose sur une **chimie** qui transforme un changement épigéné
 - **Hypothèse classique** : promoteur MGMT méthylé → MGMT peu exprimée → meilleure sensibilité aux alkylants
 - **Nuance** : le bénéfice de survie persiste **même sans témozolomide** → la méthylation MGMT est probablement aussi un **marqueur d’un phénotype hyperméthylé global** (CIMP-like) plutôt qu’un strict marqueur de sensibilité au témozolomide
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-285 Techniques danalyse de la methylation de lADN/p02_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-285%20Techniques%20danalyse%20de%20la%20methylation%20de%20lADN/p02_00.png)
 
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-285 Techniques danalyse de la methylation de lADN/p06_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-285%20Techniques%20danalyse%20de%20la%20methylation%20de%20lADN/p06_00.png)
 
 ## Étape clé : la conversion bisulfite
 
@@ -77,11 +77,11 @@ L’**astuce** repose sur une **chimie** qui transforme un changement épigéné
 
 > Étape **délicate à contrôler** ; nombreux **kits** commerciaux pour la standardiser.
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-285 Techniques danalyse de la methylation de lADN/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-285%20Techniques%20danalyse%20de%20la%20methylation%20de%20lADN/p07_00.jpeg)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-285 Techniques danalyse de la methylation de lADN/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-285%20Techniques%20danalyse%20de%20la%20methylation%20de%20lADN/p08_00.jpeg)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-285 Techniques danalyse de la methylation de lADN/p10_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-285%20Techniques%20danalyse%20de%20la%20methylation%20de%20lADN/p10_00.png)
 
 ## Techniques d’analyse après bisulfitation
 
@@ -122,11 +122,11 @@ L’**astuce** repose sur une **chimie** qui transforme un changement épigéné
 
 
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-285 Techniques danalyse de la methylation de lADN/p19_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-285%20Techniques%20danalyse%20de%20la%20methylation%20de%20lADN/p19_00.png)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-285 Techniques danalyse de la methylation de lADN/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-285%20Techniques%20danalyse%20de%20la%20methylation%20de%20lADN/p20_00.jpeg)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-285 Techniques danalyse de la methylation de lADN/p21_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-285%20Techniques%20danalyse%20de%20la%20methylation%20de%20lADN/p21_00.png)
 
 > ⚠ Selon le **kit utilisé**, ce ne sont pas les mêmes CpG du promoteur MGMT qui sont étudiés. Vérifier qu’une **cohorte clinique** a validé les CpG analysés.
 
@@ -157,13 +157,13 @@ L’**astuce** repose sur une **chimie** qui transforme un changement épigéné
 - **Résultats CGH-like** simultanés (gains/pertes de copies)
 - Identification de **nouvelles entités tumorales**
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-285 Techniques danalyse de la methylation de lADN/p23_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-285%20Techniques%20danalyse%20de%20la%20methylation%20de%20lADN/p23_00.png)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-285 Techniques danalyse de la methylation de lADN/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-285%20Techniques%20danalyse%20de%20la%20methylation%20de%20lADN/p24_00.jpeg)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-285 Techniques danalyse de la methylation de lADN/p25_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-285%20Techniques%20danalyse%20de%20la%20methylation%20de%20lADN/p25_00.png)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-285 Techniques danalyse de la methylation de lADN/p26_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-285%20Techniques%20danalyse%20de%20la%20methylation%20de%20lADN/p26_00.png)
 
 ## NGS de troisième génération — séquençage par nanopore
 
@@ -188,13 +188,13 @@ L’**astuce** repose sur une **chimie** qui transforme un changement épigéné
 > **Technologie d’avenir** pour l’étude du méthylome.
 
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-285 Techniques danalyse de la methylation de lADN/p30_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-285%20Techniques%20danalyse%20de%20la%20methylation%20de%20lADN/p30_00.png)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-285 Techniques danalyse de la methylation de lADN/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-285%20Techniques%20danalyse%20de%20la%20methylation%20de%20lADN/p32_00.jpeg)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-285 Techniques danalyse de la methylation de lADN/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-285%20Techniques%20danalyse%20de%20la%20methylation%20de%20lADN/p33_00.jpeg)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-285 Techniques danalyse de la methylation de lADN/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-285%20Techniques%20danalyse%20de%20la%20methylation%20de%20lADN/p34_00.jpeg)
 
 
 ## Tableau de synthèse

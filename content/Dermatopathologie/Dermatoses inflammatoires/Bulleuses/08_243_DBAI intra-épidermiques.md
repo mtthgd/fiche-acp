@@ -31,7 +31,7 @@ source: DES ACP - Cours de Dermatopathologie
 
 Fixation d'**auto-anticorps IgG** sur les protéines du **desmosome** (jonction kératinocytaire) → désolidarisation des kératinocytes → **kératinocytes acantholytiques** isolés au sein de la bulle.
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243 DBAI intra-épidermiques/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243%20DBAI%20intra-%C3%A9pidermiques/p02_00.jpeg)
 
 ### Cibles antigéniques : desmogléines
 
@@ -45,9 +45,9 @@ Fixation d'**auto-anticorps IgG** sur les protéines du **desmosome** (jonction 
 - **Anti-Dsg3 seul** = pemphigus muqueux (muqueuses seules, clivage profond)
 - **Anti-Dsg1 + Dsg3** = pemphigus vulgaire forme cutanéo-muqueuse
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243 DBAI intra-épidermiques/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243%20DBAI%20intra-%C3%A9pidermiques/p06_00.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243 DBAI intra-épidermiques/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243%20DBAI%20intra-%C3%A9pidermiques/p07_00.jpeg)
 
 ### Sérologie
 
@@ -97,7 +97,7 @@ L'acantholyse n'est **PAS synonyme de pemphigus** : c'est un **mécanisme histol
 - **Signe de Nikolsky** + (décollement après frottement en peau péri-lésionnelle)
 - **Signe d'Asboe-Hansen** + (extension latérale d'une bulle par pression)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243 DBAI intra-épidermiques/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243%20DBAI%20intra-%C3%A9pidermiques/p13_00.jpeg)
 
 ### Histologie
 
@@ -108,9 +108,9 @@ L'acantholyse n'est **PAS synonyme de pemphigus** : c'est un **mécanisme histol
 
 > 💡 **Mnémotechnique** : « **PP** » = **P**emphigus → **P**oil. Pas d'atteinte pilaire dans Hailey-Hailey.
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243 DBAI intra-épidermiques/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243%20DBAI%20intra-%C3%A9pidermiques/p15_00.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243 DBAI intra-épidermiques/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243%20DBAI%20intra-%C3%A9pidermiques/p16_00.jpeg)
 
 ### Aspect "plancher seul"
 
@@ -123,13 +123,13 @@ Sur muqueuse fragile, le toit peut être absent → seul le plancher (couche bas
 - = « **spongiose éosinophilique** » : **n'est pas une maladie** mais un aspect histologique
 - DD spongiose à PNE : pemphigoïde, dermatite de contact, piqûre d'arthropode, **folliculite à éosinophiles**
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243 DBAI intra-épidermiques/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243%20DBAI%20intra-%C3%A9pidermiques/p19_00.jpeg)
 
 ### IFD
 
 **Pathognomonique** : dépôts intercellulaires d'**IgG ± C3** dans tout l'épiderme, **aspect en résille / maille de filet**.
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243 DBAI intra-épidermiques/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243%20DBAI%20intra-%C3%A9pidermiques/p03_00.jpeg)
 
 ## 2. Pemphigus végétant
 
@@ -140,9 +140,9 @@ Sur muqueuse fragile, le toit peut être absent → seul le plancher (couche bas
 - Histologie : **hyperplasie épidermique végétante** + papillomatose + acantholyse suprabasale + **micro-abcès intra-épidermiques à PNE**
 - DD : carcinome épidermoïde (lésions chroniques végétantes muqueuses)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243 DBAI intra-épidermiques/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243%20DBAI%20intra-%C3%A9pidermiques/p21_00.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243 DBAI intra-épidermiques/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243%20DBAI%20intra-%C3%A9pidermiques/p22_00.jpeg)
 
 ## 3. Pemphigus superficiel (foliacé / érythémateux)
 
@@ -155,7 +155,7 @@ Sur muqueuse fragile, le toit peut être absent → seul le plancher (couche bas
 - **Pemphigus foliacé** : bulles très fragiles fugaces → **érosions croûteuses** des **zones séborrhéiques** (médio-faciale, scalp, présternal, haut du dos)
 - **Pemphigus érythémateux (Senear-Usher)** : aspects mixtes pemphigus + lupus, plaques **érythémato-squameuses** en **masque de loup**, photosensibilité
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243 DBAI intra-épidermiques/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243%20DBAI%20intra-%C3%A9pidermiques/p24_00.jpeg)
 
 ### Histologie
 
@@ -166,7 +166,7 @@ Sur muqueuse fragile, le toit peut être absent → seul le plancher (couche bas
 - Spongiose éosinophilique péri-bulleuse possible
 
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p27_00.jpeg)
 
 ### Diagnostics différentiels (clivage superficiel)
 
@@ -191,9 +191,9 @@ Sur muqueuse fragile, le toit peut être absent → seul le plancher (couche bas
 - **Kératoconjonctivite érosive**, conjonctivite pseudo-membraneuse
 - **Polymorphisme cutané** : aspects de pemphigus + érythème polymorphe (cocardes acrales) + pemphigoïde
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243 DBAI intra-épidermiques/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243%20DBAI%20intra-%C3%A9pidermiques/p29_00.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243 DBAI intra-épidermiques/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243%20DBAI%20intra-%C3%A9pidermiques/p31_00.jpeg)
 
 ### Histologie
 
@@ -202,7 +202,7 @@ Sur muqueuse fragile, le toit peut être absent → seul le plancher (couche bas
 - **Lésions lichénoïdes** péri-bulleuses : souffrance kératinocytaire, **vacuolisation des kératinocytes basaux**, nécroses kératinocytaires, mélanophages dermiques
 - Spongiose, infiltrat polymorphe (PNE, lymphocytes), spongiose éosinophilique possible
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243 DBAI intra-épidermiques/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243%20DBAI%20intra-%C3%A9pidermiques/p33_00.jpeg)
 
 ### IFD
 

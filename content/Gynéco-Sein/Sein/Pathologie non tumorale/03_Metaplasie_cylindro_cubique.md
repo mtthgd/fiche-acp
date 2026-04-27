@@ -65,7 +65,7 @@ L’OMS introduit l’entité **« atypie plane » (Flat Epithelial Atypia, FEA)
 - Possibles **micropapilles courtes**, sans pont, sans micropapilles fusionnées (pas de pointe élargie).
 - **Sécrétions apicales** et **calcifications** très fréquentes.
 
-![[assets/gyneco-sein/sein/pathologie_non_tumorale/CCLs DES/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_non_tumorale/CCLs%20DES/p09_00.jpeg)
 
 ### Atypie plane (FEA)
 **Critères diagnostiques** :

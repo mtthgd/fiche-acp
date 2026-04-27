@@ -82,7 +82,7 @@ Depuis le grading **MD Anderson**, l’OMS 2014 individualise **deux maladies tr
 - Migration secondaire vers l’ovaire (parfois directement vers le péritoine → carcinome séreux primitif du péritoine)
 - Le STIC explique l’absence de précurseur ovarien, donnant pendant longtemps l’impression d’un cancer « **de novo** »
 
-![[assets/gyneco-sein/ovaire/04_54_01_01 Tumeurs ovariennes +á la limite de la malignit+®/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_01_01%20Tumeurs%20ovariennes%20%2B%C3%A1%20la%20limite%20de%20la%20malignit%2B%C2%AE/p11_00.jpeg)
 
 ### STIC : critères histologiques
 - Atypies cytonucléaires marquées de l’épithélium tubaire
@@ -105,7 +105,7 @@ Mécanisme : perte de TP53 → inactivation de **BRCA1/2** → instabilité chro
 - Aspect **solide** + nécrose, foyers hémorragiques, papilles, kystes
 - **Trompes parfois atteintes**, voire disparues dans la masse tumorale (rappel : tumeur primitive d’origine tubaire)
 
-![[assets/gyneco-sein/ovaire/04_54_01_01 Tumeurs ovariennes +á la limite de la malignit+®/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_01_01%20Tumeurs%20ovariennes%20%2B%C3%A1%20la%20limite%20de%20la%20malignit%2B%C2%AE/p21_00.jpeg)
 
 ### Histologie
 - Cellules **très atypiques** en massifs, papilles, glandes, parfois cribriformes
@@ -115,9 +115,9 @@ Mécanisme : perte de TP53 → inactivation de **BRCA1/2** → instabilité chro
 - Aspect transitionnel possible
 - **Infiltrat lymphoïde** parfois abondant (associé à mutation BRCA1/2)
 
-![[assets/gyneco-sein/ovaire/04_54_01_01 Tumeurs ovariennes +á la limite de la malignit+®/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_01_01%20Tumeurs%20ovariennes%20%2B%C3%A1%20la%20limite%20de%20la%20malignit%2B%C2%AE/p23_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_01_01 Tumeurs ovariennes +á la limite de la malignit+®/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_01_01%20Tumeurs%20ovariennes%20%2B%C3%A1%20la%20limite%20de%20la%20malignit%2B%C2%AE/p25_00.jpeg)
 
 ### Immunohistochimie
 

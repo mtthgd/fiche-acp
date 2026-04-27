@@ -24,7 +24,7 @@ Le terme « granulome » a 2 acceptions :
 
 Selon l'étiologie : ± lymphocytes, plasmocytes, PNN/éosinophiles, fibroblastes / fibrose (selon stade évolutif).
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-411 Approche des dermatoses granulomateuses V3 sono/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-411%20Approche%20des%20dermatoses%20granulomateuses%20V3%20sono/p04_00.jpeg)
 
 ## Types d'histiocytes (non Langerhansiens)
 
@@ -36,9 +36,9 @@ Selon l'étiologie : ± lymphocytes, plasmocytes, PNN/éosinophiles, fibroblaste
 | **Xanthomisé** | Cytoplasme **finement spumeux abondant** (lipides) | Xanthomes, xanthogranulomes |
 | **Épithélioïde** | Grande taille, cytoplasme abondant, **limites peu nettes**, noyau **allongé** | Macrophages ayant **perdu** pouvoir de déplacement et de phagocytose, disposés de façon **cohésive** (« épithélium ») |
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-411 Approche des dermatoses granulomateuses V3 sono/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-411%20Approche%20des%20dermatoses%20granulomateuses%20V3%20sono/p05_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-411 Approche des dermatoses granulomateuses V3 sono/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-411%20Approche%20des%20dermatoses%20granulomateuses%20V3%20sono/p05_01.jpeg)
 
 ### Histiocytes plurinucléés (fusion d'histiocytes épithélioïdes)
 
@@ -48,7 +48,7 @@ Selon l'étiologie : ± lymphocytes, plasmocytes, PNN/éosinophiles, fibroblaste
 | **Cellule à corps étrangers (Müller)** | Noyaux **éparpillés au hasard** | Granulomes à corps étrangers |
 | **Cellule de Touton** | Noyaux **en cercle au centre** + cytoplasme micro-vacuolé en périphérie (lipides) | **Xanthogranulomes** |
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-411 Approche des dermatoses granulomateuses V3 sono/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-411%20Approche%20des%20dermatoses%20granulomateuses%20V3%20sono/p06_00.jpeg)
 
 
 ## Classification des granulomes
@@ -104,7 +104,7 @@ Granulome
 - Inclusions parfois présentes : **corps conchoïdes de Schaumann**, **corps astéroïdes** (NON spécifiques)
 - Couronne lymphoplasmocytaire **discrète, voire nulle** (= **« granulomes nus »**)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-411 Approche des dermatoses granulomateuses V3 sono/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-411%20Approche%20des%20dermatoses%20granulomateuses%20V3%20sono/p15_00.jpeg)
 
 
 ### Étiologies
@@ -122,7 +122,7 @@ Granulome
 - Cellules épithélioïdes + plurinucléées (Langhans, corps étranger)
 - **Importante couronne lymphoplasmocytaire** (≠ sarcoïdose nue)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-411 Approche des dermatoses granulomateuses V3 sono/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-411%20Approche%20des%20dermatoses%20granulomateuses%20V3%20sono/p20_00.jpeg)
 
 ### Étiologies
 | Cause | Spécificités |
@@ -135,7 +135,7 @@ Granulome
 | **Rosacée granulomateuse / dermatite périorificielle** | Localisation visage |
 | **Corps étrangers** | À rechercher |
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-411 Approche des dermatoses granulomateuses V3 sono/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-411%20Approche%20des%20dermatoses%20granulomateuses%20V3%20sono/p22_00.jpeg)
 
 
 ## Granulomes nécrobiotiques (cf 08-413)
@@ -152,7 +152,7 @@ Infiltrat histiocytaire **entre les faisceaux de collagène** (pas en couronne).
 
 > ⚠️ **Bleu alcian obligatoire** : différencie granulome annulaire interstitiel (mucine+) vs **dermatose interstitielle granulomateuse (DIG)** (mucine−).
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-411 Approche des dermatoses granulomateuses V3 sono/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-411%20Approche%20des%20dermatoses%20granulomateuses%20V3%20sono/p25_00.jpeg)
 
 ## Granulomes suppuratifs
 
@@ -166,9 +166,9 @@ Infiltrat histiocytaire **entre les faisceaux de collagène** (pas en couronne).
 | **Infections** | **Mycoses** (alternariose, blastomycose), **mycobactéries atypiques**, parasitoses, **Bartonella henselae** (maladie des griffes du chat) |
 | **Corps étrangers** | **Kystes épidermiques rompus** (kératine libérée → réaction) |
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-411 Approche des dermatoses granulomateuses V3 sono/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-411%20Approche%20des%20dermatoses%20granulomateuses%20V3%20sono/p26_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-411 Approche des dermatoses granulomateuses V3 sono/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-411%20Approche%20des%20dermatoses%20granulomateuses%20V3%20sono/p27_00.jpeg)
 
 #### Exemple : alternariose
 Patient 70 ans, immunosupprimé, lésions cutanées + nodules pulmonaires/rétropéritonéaux. **PAS** et **Grocott** : spores et **filaments septés de taille variable** → typage par microbiologistes.
@@ -176,7 +176,7 @@ Patient 70 ans, immunosupprimé, lésions cutanées + nodules pulmonaires/rétro
 #### Maladie des griffes du chat
 Lésions hauteur du derme + hypoderme avec granulomes suppuratifs.
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-411 Approche des dermatoses granulomateuses V3 sono/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-411%20Approche%20des%20dermatoses%20granulomateuses%20V3%20sono/p29_00.jpeg)
 
 ## Granulomes à corps étranger (cf 08-415)
 
@@ -202,9 +202,9 @@ Désignation = corps étranger **identifié** (matériel endogène ou exogène).
 | **Perls** | Hémosidérine (capillarites) |
 | **Anatomoclinique** | Pattern granulomateux = lésion sentinelle (sarcoïdose, infection systémique) |
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-411 Approche des dermatoses granulomateuses V3 sono/p41_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-411%20Approche%20des%20dermatoses%20granulomateuses%20V3%20sono/p41_01.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-411 Approche des dermatoses granulomateuses V3 sono/p43_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-411%20Approche%20des%20dermatoses%20granulomateuses%20V3%20sono/p43_00.jpeg)
 
 ## Clés diagnostiques par localisation
 

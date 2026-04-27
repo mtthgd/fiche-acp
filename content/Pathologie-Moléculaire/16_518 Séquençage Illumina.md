@@ -31,7 +31,7 @@ source: DES ACP - Pathologie moléculaire
 | **HiSeq 2500/4000** (historiques) | Exome, génome | 1 Tb |
 | **NovaSeq 6000 / X** | **WGS, exomes en routine** | jusqu’à **6 Tb** / run |
 
-![[assets/pathologie-moleculaire/ngs/16-516 517 518  NGS 2eme generation au coeur des machines/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-516%20517%20518%20%20NGS%202eme%20generation%20au%20coeur%20des%20machines/p02_00.jpeg)
 
 ## Étapes techniques
 
@@ -62,9 +62,9 @@ Fragmentation 200-500 pb + ligation des **adaptateurs P5/P7** + index (cf [[16_5
 ### Étape 6 — Bioinformatique
 Reads forward + reverse → alignés sur génome de référence (cf [[16_535 Le pipeline bioinformatique]]).
 
-![[assets/pathologie-moleculaire/ngs/16-516 517 518  NGS 2eme generation au coeur des machines/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-516%20517%20518%20%20NGS%202eme%20generation%20au%20coeur%20des%20machines/p04_00.jpeg)
 
-![[assets/pathologie-moleculaire/ngs/16-516 517 518  NGS 2eme generation au coeur des machines/p06_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-516%20517%20518%20%20NGS%202eme%20generation%20au%20coeur%20des%20machines/p06_00.png)
 
 | Étape | Détail | Outil |
 |---|---|---|
@@ -75,7 +75,7 @@ Reads forward + reverse → alignés sur génome de référence (cf [[16_535 Le 
 | Particularité | **Terminateurs réversibles** (1 base/cycle) | Chimie sanguinière modifiée |
 | Lecture bidirectionnelle | **Paired-end** (forward + reverse) | Compense la perte de qualité en fin de read |
 
-![[assets/pathologie-moleculaire/ngs/16-516 517 518  NGS 2eme generation au coeur des machines/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-516%20517%20518%20%20NGS%202eme%20generation%20au%20coeur%20des%20machines/p07_00.jpeg)
 
 ## Spécifications / Métriques
 

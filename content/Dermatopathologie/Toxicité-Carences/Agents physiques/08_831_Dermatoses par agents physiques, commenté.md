@@ -77,7 +77,7 @@ Quatre grands types d'agressions physiques :
 - **Nécrose de coagulation** intéressant l'épiderme
 - Extension **mal délimitée dans le derme**
 
-![[assets/dermato/toxicite-carences/dermatoses-agent-physique/08-831 Dermatoses par agents physiques/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/dermatoses-agent-physique/08-831%20Dermatoses%20par%20agents%20physiques/p06_01.jpeg)
 
 ### Dermite des chaufferettes
 - Liée à exposition répétée à **chaleur modérée** (bouillottes, ordinateurs portables)
@@ -96,11 +96,11 @@ Quatre grands types d'agressions physiques :
 - Extension parfois dans l'**hypoderme**
 - Vaisseaux parfois siège de **vascularite lymphocytaire thrombosante**
 
-![[assets/dermato/toxicite-carences/dermatoses-agent-physique/08-831 Dermatoses par agents physiques/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/dermatoses-agent-physique/08-831%20Dermatoses%20par%20agents%20physiques/p08_01.jpeg)
 
-![[assets/dermato/toxicite-carences/dermatoses-agent-physique/08-831 Dermatoses par agents physiques/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/dermatoses-agent-physique/08-831%20Dermatoses%20par%20agents%20physiques/p09_00.jpeg)
 
-![[assets/dermato/toxicite-carences/dermatoses-agent-physique/08-831 Dermatoses par agents physiques/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/dermatoses-agent-physique/08-831%20Dermatoses%20par%20agents%20physiques/p09_02.jpeg)
 
 ## IV. Lésions liées aux ultraviolets
 
@@ -116,9 +116,9 @@ Quatre grands types d'agressions physiques :
 - **Infiltrat lympho-histiocytaire dense**, profond, périvasculaire
 - ± Lésions d'**interface lichénoïde**, ± lésions **eczématiformes**, ± **PNN**
 
-![[assets/dermato/toxicite-carences/dermatoses-agent-physique/08-831 Dermatoses par agents physiques/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/dermatoses-agent-physique/08-831%20Dermatoses%20par%20agents%20physiques/p10_00.jpeg)
 
-![[assets/dermato/toxicite-carences/dermatoses-agent-physique/08-831 Dermatoses par agents physiques/p10_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/dermatoses-agent-physique/08-831%20Dermatoses%20par%20agents%20physiques/p10_02.jpeg)
 
 ### Photo-allergies et phototoxicité par contact
 - **Photo-allergique** : mécanisme immunologique (sensibilisation)

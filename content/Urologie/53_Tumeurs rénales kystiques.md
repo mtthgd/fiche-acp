@@ -47,13 +47,13 @@ source: DES ACP - Cours d'urologie
 
 - **Biopsie** : indication non consensuelle, utile parfois sur Bosniak III
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p05_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p05_00.png)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p06_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p07_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p08_00.jpeg)
 
 ---
 
@@ -78,9 +78,9 @@ source: DES ACP - Cours d'urologie
 - **CK7 souvent +** dans les cellules claires
 - **Délétion 3p** dans **75 %** → apparenté au ccRCC
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p13_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p14_00.jpeg)
 
 ## 2. Néphrome kystique (adulte)
 
@@ -101,15 +101,15 @@ source: DES ACP - Cours d'urologie
 - **Stroma de type ovarien** : **RE+**, **RP+**
 - Épithélium : **CK7+**, CD10 focal
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p17_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p18_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p19_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p20_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p21_00.jpeg)
 
 ## 3. Carcinome tubulo-kystique
 
@@ -128,13 +128,13 @@ source: DES ACP - Cours d'urologie
 - Associé parfois à des adénomes/carcinomes papillaires
 - **Bon pronostic** (sauf formes associées à un carcinome papillaire solide agressif)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p24_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p25_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p26_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p27_00.jpeg)
 
 ---
 
@@ -153,13 +153,13 @@ source: DES ACP - Cours d'urologie
   - Stroma ovarien : **RE +, RP +**, CD10 ±, actine ±
   - Cellules lutéinisées : **inhibine +, calrétinine +**
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p31_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p32_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p33_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p34_00.jpeg)
 
 > **Néphrome kystique + MEST** = même famille : femme, ~50 ans, bien limitée, contingent stromal **type ovarien (RE+/RP+)**.
 
@@ -182,11 +182,11 @@ source: DES ACP - Cours d'urologie
 - **CD117 −** (≠ oncocytome)
 - PAX8 +, AMACR focal +
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p40_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p40_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p43_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p43_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p44_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p44_00.jpeg)
 
 > DD ESC : **oncocytome, chromophobe éosinophile, carcinome SDH muté, carcinome à translocation oncocytaire, AML épithélioïde, papillaire oncocytaire**.
 
@@ -199,49 +199,49 @@ Toute tumeur solide peut se kystiser.
 - **Pronostic souvent meilleur** que le ccRCC classique, grade ISUP bas (1-2)
 - IHC : **CK7+ dans cellules bordant les kystes** (vs massifs), **CD10+**, **CA9+** membranaire en cadre
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p48_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p48_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p49_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p49_00.jpeg)
 
 ### Carcinome papillaire kystique (type 1)
 - **CK7+, AMACR+, CD10+, CA9−**
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p50_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p50_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p51_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p51_00.jpeg)
 
 ### Carcinome à translocation TF3 kystique
 - Composite solide/kystique, architecture papillaire
 - **CK7−, AMACR+, TFE3+ (IHC + FISH)**
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p52_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p52_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p53_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p53_00.jpeg)
 
 ### Oncocytome kystique
 - Architecture oncocytaire typique + remaniement œdémateux/kystique
 - **Vimentine−, CK7 rares+, CD117+, CK20−**
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p54_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p54_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p55_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p55_00.jpeg)
 
 ### Carcinome chromophobe kystique
 - **Vimentine−, CK20−, CD117+ membranaire, CK7+ intense**
 
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p59_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p59_00.jpeg)
 
 ### Angiomyolipome à kystes épithéliaux
 - **Architecture mixte** : kystes bordés de cellules épithéliales cubiques/hobnail (origine tubulaire), sous lesquelles **couche de cellules stromales**, puis cellules **PEC** éosinophiles
 - Rechercher les **contingents adipeux et vasculaires à paroi épaisse**
 - **HMB45 +** sur les cellules de la prolifération PEC
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p61_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p61_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p62_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p62_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs du rein kystiques/p63_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-143-Tumeurs%20du%20rein%20kystiques/p63_00.jpeg)
 
 ---
 

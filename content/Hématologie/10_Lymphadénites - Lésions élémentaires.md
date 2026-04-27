@@ -24,11 +24,11 @@ date: 2024
 - Manteau folliculaire présent + plasmocytes fréquents
 - Centre germinatif **BCL2−** (manteau BCL2+)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-210_Lésions elementaires approfondissement 190518/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-210_L%C3%A9sions%20elementaires%20approfondissement%20190518/p03_00.jpeg)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-210_Lésions elementaires approfondissement 190518/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-210_L%C3%A9sions%20elementaires%20approfondissement%20190518/p04_01.jpeg)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-210_Lésions elementaires approfondissement 190518/p05_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-210_L%C3%A9sions%20elementaires%20approfondissement%20190518/p05_02.jpeg)
 
 > ⚠️ Certains lymphomes folliculaires peuvent être BCL2− → ne pas se limiter à ce seul critère.
 
@@ -36,7 +36,7 @@ date: 2024
 
 Destruction focale des CG avec œdème, hémorragie, fibrine + infiltration par petits lymphocytes T (CD8) ou B (IgD+). Destruction du réseau FDC. Étiologies : **VIH**, toxoplasmose.
 
-![[assets/hematologie/lymphadenites/Diaporama 07-210_Lésions elementaires approfondissement 190518/p06_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-210_L%C3%A9sions%20elementaires%20approfondissement%20190518/p06_03.jpeg)
 
 ### Hyperplasie folliculaire avec centres germinatifs régressifs
 
@@ -45,9 +45,9 @@ Destruction focale des CG avec œdème, hémorragie, fibrine + infiltration par 
 - Lymphocytes du manteau en **file indienne** concentrique
 - Se voit dans la **maladie de Castelman** ; aussi dans lymphome zone marginale, AITL
 
-![[assets/hematologie/lymphadenites/Diaporama 07-210_Lésions elementaires approfondissement 190518/p08_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-210_L%C3%A9sions%20elementaires%20approfondissement%20190518/p08_04.jpeg)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-210_Lésions elementaires approfondissement 190518/p09_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-210_L%C3%A9sions%20elementaires%20approfondissement%20190518/p09_05.jpeg)
 
 ### Hyperplasie folliculaire avec transformation progressive des CG
 
@@ -56,9 +56,9 @@ Destruction focale des CG avec œdème, hémorragie, fibrine + infiltration par 
 - Lymphocytes B IGD+ (origine manteau), nombreuses cellules T CD57+ PD1+ intrafolliculaires
 - **DD : maladie de Hodgkin nodulaire à prédominance lymphocytaire** (cellules popcorn en plus)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-210_Lésions elementaires approfondissement 190518/p11_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-210_L%C3%A9sions%20elementaires%20approfondissement%20190518/p11_06.jpeg)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-210_Lésions elementaires approfondissement 190518/p12_07.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-210_L%C3%A9sions%20elementaires%20approfondissement%20190518/p12_07.jpeg)
 
 ## 2. Hyperplasie immunoblastique
 
@@ -68,16 +68,16 @@ Destruction focale des CG avec œdème, hémorragie, fibrine + infiltration par 
 - Précurseurs plasmocytaires **polytypiques** (κ et λ) → argument de réactivité
 - Présence simultanée de grandes cellules B **et** T = argument majeur de réactivité
 
-![[assets/hematologie/lymphadenites/Diaporama 07-210_Lésions elementaires approfondissement 190518/p14_08.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-210_L%C3%A9sions%20elementaires%20approfondissement%20190518/p14_08.jpeg)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-210_Lésions elementaires approfondissement 190518/p15_09.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-210_L%C3%A9sions%20elementaires%20approfondissement%20190518/p15_09.jpeg)
 
 ## 3. Hyperplasie plasmocytaire
 
 - Plasmocytes matures, en nids ou en plages (corticale, cordons, CG)
 - CD79A+ CD38+, **polytypiques** (κ et λ) → réactionnel
 
-![[assets/hematologie/lymphadenites/Diaporama 07-210_Lésions elementaires approfondissement 190518/p16_10.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-210_L%C3%A9sions%20elementaires%20approfondissement%20190518/p16_10.jpeg)
 
 ## 4. Hyperplasie des cellules interdigitées (hyperplasie paracorticale)
 
@@ -86,9 +86,9 @@ Destruction focale des CG avec œdème, hémorragie, fibrine + infiltration par 
 - Cellules interdigitées : grand cytoplasme clair, noyau allongé plié/chiffonné (pas de phagocytose)
 - IHC : S100+, CD1a+/−, CD68+, accumulation de lymphocytes CD4 et CD8
 
-![[assets/hematologie/lymphadenites/Diaporama 07-210_Lésions elementaires approfondissement 190518/p17_11.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-210_L%C3%A9sions%20elementaires%20approfondissement%20190518/p17_11.jpeg)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-210_Lésions elementaires approfondissement 190518/p18_12.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-210_L%C3%A9sions%20elementaires%20approfondissement%20190518/p18_12.jpeg)
 
 ## 5. Réactions sinusales
 
@@ -96,22 +96,22 @@ Destruction focale des CG avec œdème, hémorragie, fibrine + infiltration par 
 - Sinus élargis, parfois avec mastocytes (cathare chronique)
 - Fréquente dans les ganglions mésentériques (normal)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-210_Lésions elementaires approfondissement 190518/p20_13.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-210_L%C3%A9sions%20elementaires%20approfondissement%20190518/p20_13.jpeg)
 
 ### Lymphocytose B monocytoïde sinusale
 - Cellules de taille moyenne, cytoplasme pâle abondant, noyau clair
 - Topographie sinusale/marginale, phénotype B (CD20+)
 - Fréquente dans la toxoplasmose et diverses infections virales
 
-![[assets/hematologie/lymphadenites/Diaporama 07-210_Lésions elementaires approfondissement 190518/p21_14.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-210_L%C3%A9sions%20elementaires%20approfondissement%20190518/p21_14.jpeg)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-210_Lésions elementaires approfondissement 190518/p22_15.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-210_L%C3%A9sions%20elementaires%20approfondissement%20190518/p22_15.jpeg)
 
 ### Histiocytose sinusale
 - Simple : histiocytes dans les sinus (CD68+)
 - Avec **hémophagocytose** : érythrophagocytose ou empéripolèse (lymphocytes englobés sans digestion)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-210_Lésions elementaires approfondissement 190518/p23_18.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-210_L%C3%A9sions%20elementaires%20approfondissement%20190518/p23_18.jpeg)
 
 ## 6. Histiocytose parenchymateuse
 
@@ -123,9 +123,9 @@ Destruction focale des CG avec œdème, hémorragie, fibrine + infiltration par 
 | Granulomes à centre suppuré | Riches en PNN altérés | Lymphadénite nodulaire abcédée |
 | Nids de monocytes plasmocytoïdes | CD123+ CD68-dot, GranzB+ | Diverses lymphadénites |
 
-![[assets/hematologie/lymphadenites/Diaporama 07-210_Lésions elementaires approfondissement 190518/p25_20.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-210_L%C3%A9sions%20elementaires%20approfondissement%20190518/p25_20.jpeg)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-210_Lésions elementaires approfondissement 190518/p26_21.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-210_L%C3%A9sions%20elementaires%20approfondissement%20190518/p26_21.jpeg)
 
 ## 7. Nécrose
 
@@ -139,9 +139,9 @@ Destruction focale des CG avec œdème, hémorragie, fibrine + infiltration par 
 
 > ⚠️ N'utiliser le terme "caséeuse" que si ZN+ confirmé — sans cela, dire "nécrose éosinophile aniste".
 
-![[assets/hematologie/lymphadenites/Diaporama 07-210_Lésions elementaires approfondissement 190518/p28_23.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-210_L%C3%A9sions%20elementaires%20approfondissement%20190518/p28_23.jpeg)
 
-![[assets/hematologie/lymphadenites/Diaporama 07-210_Lésions elementaires approfondissement 190518/p29_24.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphadenites/Diaporama%2007-210_L%C3%A9sions%20elementaires%20approfondissement%20190518/p29_24.jpeg)
 
 ## 8. Autres lésions
 

@@ -38,11 +38,11 @@ source: DES ACP - Cours d'urologie
 - Tumeur **solide, hétérogène, grisâtre/rougeâtre, remaniée, mal limitée**
 - Souvent **hémorragique** (peut mimer un choriocarcinome macro)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p02_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p03_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p03_01.jpeg)
 
 ### Histologie
 - Architecture **solide/massive** ou **papillaire**
@@ -54,23 +54,23 @@ source: DES ACP - Cours d'urologie
 - **Carcinome embryonnaire intratubulaire** fréquent (propagation rétrograde)
 - **LVI fréquente**
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p04_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p04_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p05_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p05_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p06_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p06_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p07_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p07_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p07_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p07_02.jpeg)
 
 ### IHC du carcinome embryonnaire
 - **CD30 +++** (marqueur très utile)
@@ -80,9 +80,9 @@ source: DES ACP - Cours d'urologie
 - **EMA** parfois +
 - **AFP −**, **β-HCG −**
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p08_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p08_01.jpeg)
 
 ## 2. TUMEUR VITELLINE (Yolk Sac, YST)
 
@@ -97,7 +97,7 @@ source: DES ACP - Cours d'urologie
 - Couleur **gris pâle**, volontiers **œdémateuse, gélatineuse**
 - Parfois **petits kystes**
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p09_00.jpeg)
 
 ### Histologie - Variantes architecturales
 - **Microkystique (réticulée, « nid d'abeille »)** = la plus fréquente ; stroma œdémateux/myxoïde
@@ -109,32 +109,32 @@ source: DES ACP - Cours d'urologie
 - **Hépatoïde** : cellules hépatocyte-like, **AFP+ intense**
 - Papillaire, pariétale, vésicule vitelline, sarcomatoïde
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p10_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p11_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p11_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p12_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p12_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p12_02.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p12_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p12_03.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p13_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p13_01.jpeg)
 
 ### Cytologie
 - Cellules **plus claires** que le CE
 - Cylindriques ou polygonales, **atypies peu marquées**
 - Globules **hyalins intracellulaires** (AFP) parfois visibles (HES ou PAS)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p14_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p14_01.jpeg)
 
 ### IHC de la tumeur vitelline
 - **AFP +** (marquage **fin, subtil, focal** – souvent moins étendu qu'attendu)
@@ -144,11 +144,11 @@ source: DES ACP - Cours d'urologie
 - **CD117 / PLAP** variables
 - **CD30 −**, **β-HCG −**, **OCT3/4 −**
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p15_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p15_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p16_00.jpeg)
 
 ## 3. CHORIOCARCINOME
 
@@ -164,7 +164,7 @@ source: DES ACP - Cours d'urologie
 - Tumeur solide **très hémorragique**, mal limitée
 - Aspect **« placentaire »**, spongieux
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p17_00.jpeg)
 
 ### Histologie
 - **Fond nécrotico-hémorragique extensif**
@@ -173,11 +173,11 @@ source: DES ACP - Cours d'urologie
   - **Cellules cytotrophoblastiques** : mononucléées, cytoplasme clair, en **nappes autour de fentes vasculaires**
 - **Angioinvasion ++**
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p18_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p19_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p20_00.jpeg)
 
 ### IHC du choriocarcinome
 - **β-HCG +++** (cellules syncytiotrophoblastiques ; marquage « baveux »)
@@ -185,13 +185,13 @@ source: DES ACP - Cours d'urologie
 - **PLAP +** et **SALL4 +** variables
 - **OCT4 −**, **CD30 −**, **CD117 −**, **AFP −**
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p21_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p21_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p21_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p21_02.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p22_00.jpeg)
 
 ## 4. TÉRATOME POST-PUBÉRAIRE
 
@@ -205,20 +205,20 @@ source: DES ACP - Cours d'urologie
 - Mixte **solide et kystique**
 - Partie solide **blanchâtre / rosée**
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p23_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p23_01.jpeg)
 
 ### Histologie
 - Tissus variés : épithélium **respiratoire, digestif, cutané**, cartilage, os, tissu nerveux (glie, substance grise)
 - **Stroma mésenchymateux constant** : cellules fusiformes **non atypiques, peu mitotiques** (sinon évoquer sarcome)
 - Cellules syncytiotrophoblastiques isolées possibles (PAS un choriocarcinome si pas de cytotrophoblaste)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p24_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p25_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p25_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p25_01.jpeg)
 
 ### IHC
 - **Peu contributive** (pas de spécificité)
@@ -243,17 +243,17 @@ source: DES ACP - Cours d'urologie
 - Petites cellules rondes bleues dans un tératome → **desmine + myogénine** pour **rhabdomyosarcome**
 - Adénocarcinome sur tératome : continuum avec adénome tubuleux en dysplasie possible
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p26_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p26_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p26_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p27_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p27_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p27_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p27_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p27_02.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p27_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p27_03.jpeg)
 
 ## 6. TUMEUR GERMINALE DE TYPE INDÉTERMINÉE (Burn-out / Régressive)
 
@@ -276,11 +276,11 @@ source: DES ACP - Cours d'urologie
 - **GCNIS** dans tubes alentours (**50%**, pathognomonique mais inconstant)
 - **Calcifications** (15%, souvent CE régressé)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p28_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p29_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p29_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p29_01.jpeg)
 
 ## 7. TUMEURS GERMINALES DE TYPE I (prépubertaires)
 
@@ -293,13 +293,13 @@ source: DES ACP - Cours d'urologie
 - **BÉNIN** (≠ tératome post-puberté)
 - Variantes : **kyste dermoïde**, **kyste épidermique**, **tumeur neuroendocrine bien différenciée**
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p30_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p30_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p30_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p30_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p30_02.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p30_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p30_03.jpeg)
 
 ### Tumeur vitelline prépubertaire
 - **< 6 ans** (âge moyen 16-20 mois)
@@ -308,9 +308,9 @@ source: DES ACP - Cours d'urologie
 - Si agressive/métastatique → **chimiothérapie**
 - Morphologie proche de la forme de l'adulte
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p31_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-423 Tumeurs germinales non séminomateuses (2ème partie)/p31_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-423%20Tumeurs%20germinales%20non%20s%C3%A9minomateuses%20%282%C3%A8me%20partie%29/p31_01.jpeg)
 
 **Piège pédiatrique** : les spermatogonies normales de l'enfant 6-24 mois sont **grosses** et peuvent mimer une GCNIS → **pas de GCNIS chez l'enfant**.
 

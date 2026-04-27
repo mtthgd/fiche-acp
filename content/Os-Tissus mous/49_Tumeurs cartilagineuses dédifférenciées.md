@@ -35,9 +35,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Exceptionnel** : crâne, face, extrémités
 - Âges très variés (10 à ~100 ans), **moyenne 60 ans** (un peu plus tardif que chondrosarcome central)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252 Tumeurs cartilagineuses dédifférenciées/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252%20Tumeurs%20cartilagineuses%20d%C3%A9diff%C3%A9renci%C3%A9es/p04_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252 Tumeurs cartilagineuses dédifférenciées/p04_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252%20Tumeurs%20cartilagineuses%20d%C3%A9diff%C3%A9renci%C3%A9es/p04_02.jpeg)
 
 ## Imagerie
 
@@ -47,11 +47,11 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 
 Scanner : extension dans les parties molles ++
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252 Tumeurs cartilagineuses dédifférenciées/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252%20Tumeurs%20cartilagineuses%20d%C3%A9diff%C3%A9renci%C3%A9es/p05_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252 Tumeurs cartilagineuses dédifférenciées/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252%20Tumeurs%20cartilagineuses%20d%C3%A9diff%C3%A9renci%C3%A9es/p05_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252 Tumeurs cartilagineuses dédifférenciées/p05_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252%20Tumeurs%20cartilagineuses%20d%C3%A9diff%C3%A9renci%C3%A9es/p05_02.jpeg)
 
 ## Histologie
 
@@ -61,13 +61,13 @@ Scanner : extension dans les parties molles ++
 2. **Composante dédifférenciée** = sarcome de haut grade : aspects variés
 3. **Transition ABRUPTE** entre les deux = signature caractéristique
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252 Tumeurs cartilagineuses dédifférenciées/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252%20Tumeurs%20cartilagineuses%20d%C3%A9diff%C3%A9renci%C3%A9es/p06_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252 Tumeurs cartilagineuses dédifférenciées/p06_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252%20Tumeurs%20cartilagineuses%20d%C3%A9diff%C3%A9renci%C3%A9es/p06_01.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252 Tumeurs cartilagineuses dédifférenciées/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252%20Tumeurs%20cartilagineuses%20d%C3%A9diff%C3%A9renci%C3%A9es/p07_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252 Tumeurs cartilagineuses dédifférenciées/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252%20Tumeurs%20cartilagineuses%20d%C3%A9diff%C3%A9renci%C3%A9es/p07_01.jpeg)
 
 ### Aspects de la composante dédifférenciée
 
@@ -81,19 +81,19 @@ Multiples, non exhaustifs :
 
 La **proportion** des deux composantes est très variable ; la **composante cartilagineuse est souvent limitée** → nécessite **échantillonnage conséquent + niveaux de coupe multiples**.
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252 Tumeurs cartilagineuses dédifférenciées/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252%20Tumeurs%20cartilagineuses%20d%C3%A9diff%C3%A9renci%C3%A9es/p08_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252 Tumeurs cartilagineuses dédifférenciées/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252%20Tumeurs%20cartilagineuses%20d%C3%A9diff%C3%A9renci%C3%A9es/p08_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252 Tumeurs cartilagineuses dédifférenciées/p08_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252%20Tumeurs%20cartilagineuses%20d%C3%A9diff%C3%A9renci%C3%A9es/p08_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252 Tumeurs cartilagineuses dédifférenciées/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252%20Tumeurs%20cartilagineuses%20d%C3%A9diff%C3%A9renci%C3%A9es/p09_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252 Tumeurs cartilagineuses dédifférenciées/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252%20Tumeurs%20cartilagineuses%20d%C3%A9diff%C3%A9renci%C3%A9es/p09_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252 Tumeurs cartilagineuses dédifférenciées/p09_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252%20Tumeurs%20cartilagineuses%20d%C3%A9diff%C3%A9renci%C3%A9es/p09_03.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252 Tumeurs cartilagineuses dédifférenciées/p09_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252%20Tumeurs%20cartilagineuses%20d%C3%A9diff%C3%A9renci%C3%A9es/p09_04.jpeg)
 
 ### Pièges diagnostiques
 
@@ -101,11 +101,11 @@ La **proportion** des deux composantes est très variable ; la **composante cart
 - **Composante à aspect épithélial + AE1/AE3 +** : DD avec métastase de carcinome ; dans le chondrosarcome dédifférencié le marquage est **focal et incomplet** (≠ carcinome = diffus)
 - **Sur biopsie** : c'est souvent la **composante dédifférenciée** qui est échantillonnée → confrontation radiologique essentielle + inclusion en totalité (parfois jusqu'au 20ᵉ bloc pour trouver le cartilage)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252 Tumeurs cartilagineuses dédifférenciées/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252%20Tumeurs%20cartilagineuses%20d%C3%A9diff%C3%A9renci%C3%A9es/p10_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252 Tumeurs cartilagineuses dédifférenciées/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252%20Tumeurs%20cartilagineuses%20d%C3%A9diff%C3%A9renci%C3%A9es/p10_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252 Tumeurs cartilagineuses dédifférenciées/p10_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252%20Tumeurs%20cartilagineuses%20d%C3%A9diff%C3%A9renci%C3%A9es/p10_02.jpeg)
 
 ## Biologie moléculaire
 
@@ -134,11 +134,11 @@ La **proportion** des deux composantes est très variable ; la **composante cart
 | **Métastase de carcinome / mélanome / rhabdomyosarcome** | Imagerie + IHC ; AE1/AE3 focal dans dédifférenciation |
 | **Chondrosarcome mésenchymateux** | Sujet plus jeune, composante cellulaire monomorphe petite cellule, fusion **HEY1-NCOA2** |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252 Tumeurs cartilagineuses dédifférenciées/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252%20Tumeurs%20cartilagineuses%20d%C3%A9diff%C3%A9renci%C3%A9es/p14_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252 Tumeurs cartilagineuses dédifférenciées/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252%20Tumeurs%20cartilagineuses%20d%C3%A9diff%C3%A9renci%C3%A9es/p14_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252 Tumeurs cartilagineuses dédifférenciées/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252%20Tumeurs%20cartilagineuses%20d%C3%A9diff%C3%A9renci%C3%A9es/p14_02.jpeg)
 
 ## Cas illustratif
 
@@ -146,15 +146,15 @@ Biopsie d'une lésion de l'humérus, 55 ans : tumeur fusiforme en faisceaux entr
 Confrontation radiologique : tumeur **primitive** → non concordant.
 Pièce de résection : **composante fusiforme périphérique** + **nodule bleuté central cartilagineux** → transition abrupte → **chondrosarcome dédifférencié**.
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252 Tumeurs cartilagineuses dédifférenciées/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252%20Tumeurs%20cartilagineuses%20d%C3%A9diff%C3%A9renci%C3%A9es/p16_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252 Tumeurs cartilagineuses dédifférenciées/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252%20Tumeurs%20cartilagineuses%20d%C3%A9diff%C3%A9renci%C3%A9es/p17_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252 Tumeurs cartilagineuses dédifférenciées/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252%20Tumeurs%20cartilagineuses%20d%C3%A9diff%C3%A9renci%C3%A9es/p18_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252 Tumeurs cartilagineuses dédifférenciées/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252%20Tumeurs%20cartilagineuses%20d%C3%A9diff%C3%A9renci%C3%A9es/p19_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252 Tumeurs cartilagineuses dédifférenciées/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-252%20Tumeurs%20cartilagineuses%20d%C3%A9diff%C3%A9renci%C3%A9es/p19_01.jpeg)
 
 ---
 

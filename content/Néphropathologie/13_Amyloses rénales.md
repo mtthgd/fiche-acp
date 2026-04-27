@@ -53,16 +53,16 @@ Les dépôts amyloïdes ont des caractéristiques tinctoriales constantes :
 | **Rouge Congo en lumière polarisée** | **Biréfringence jaune-vert** caractéristique |
 | **Rouge Congo en lumière fluorescente** | **Rehaussement du marquage** (sensibilité++) |
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14 Amyloses Rénales/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14%20Amyloses%20R%C3%A9nales/p06_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14 Amyloses Rénales/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14%20Amyloses%20R%C3%A9nales/p06_01.jpeg)
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14 Amyloses Rénales/p06_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14%20Amyloses%20R%C3%A9nales/p06_02.jpeg)
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14 Amyloses Rénales/p06_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14%20Amyloses%20R%C3%A9nales/p06_03.jpeg)
 
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14 Amyloses Rénales/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14%20Amyloses%20R%C3%A9nales/p08_00.jpeg)
 
 > ⚠️ **L'examen en lumière polarisée du rouge Congo est INDISPENSABLE** pour mettre en évidence la **biréfringence jaune-vert**.
 
@@ -74,7 +74,7 @@ Les dépôts amyloïdes ont des caractéristiques tinctoriales constantes :
 - **Interstitiel**
 - **Tubulaire** (basales)
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14 Amyloses Rénales/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14%20Amyloses%20R%C3%A9nales/p10_00.jpeg)
 
 ---
 
@@ -99,13 +99,13 @@ Les dépôts amyloïdes ont des caractéristiques tinctoriales constantes :
 
 
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14 Amyloses Rénales/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14%20Amyloses%20R%C3%A9nales/p14_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14 Amyloses Rénales/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14%20Amyloses%20R%C3%A9nales/p14_01.jpeg)
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14 Amyloses Rénales/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14%20Amyloses%20R%C3%A9nales/p14_02.jpeg)
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14 Amyloses Rénales/p14_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14%20Amyloses%20R%C3%A9nales/p14_03.jpeg)
 
 ### 2. Amylose AA (réactionnelle) — **20 %**
 
@@ -118,13 +118,13 @@ Les dépôts amyloïdes ont des caractéristiques tinctoriales constantes :
   - Cancers
 - **Histologie** comparable, **typage** : **anti-SAA positif** ; **anti-κ et anti-λ négatifs**
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14 Amyloses Rénales/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14%20Amyloses%20R%C3%A9nales/p16_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14 Amyloses Rénales/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14%20Amyloses%20R%C3%A9nales/p16_01.jpeg)
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14 Amyloses Rénales/p16_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14%20Amyloses%20R%C3%A9nales/p16_02.jpeg)
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14 Amyloses Rénales/p16_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14%20Amyloses%20R%C3%A9nales/p16_03.jpeg)
 
 > AL + AA = **~95 %** de l'ensemble des amyloses rénales.
 
@@ -139,11 +139,11 @@ Les dépôts amyloïdes ont des caractéristiques tinctoriales constantes :
   - Modifient considérablement l'**architecture glomérulaire**
   - **Pas de dépôts** dans les compartiments tubulo-interstitiel et vasculaire
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14 Amyloses Rénales/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14%20Amyloses%20R%C3%A9nales/p18_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14 Amyloses Rénales/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14%20Amyloses%20R%C3%A9nales/p18_01.jpeg)
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14 Amyloses Rénales/p18_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/236-14%20Amyloses%20R%C3%A9nales/p18_02.jpeg)
 
 #### Autres amyloses héréditaires (exceptionnelles)
 

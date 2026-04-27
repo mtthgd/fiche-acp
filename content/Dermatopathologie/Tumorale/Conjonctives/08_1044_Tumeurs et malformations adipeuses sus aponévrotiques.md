@@ -38,8 +38,8 @@ source: DES ACP - Cours de dermatopathologie
 - Lésions superficielles < lésions profondes (qui peuvent dépasser **10 cm**)
 - **Toujours bénin** ; un lipome récidivant doit faire suspecter un **liposarcome bien différencié lipoma-like** (chercher amplification **MDM2**)
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p07_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p07_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p08_00.jpeg)
 
 ### Histologie
 - Plages d'**adipocytes matures** très homogènes
@@ -49,9 +49,9 @@ source: DES ACP - Cours de dermatopathologie
 - Adipocytes monomorphes en taille et forme
 - **Pas de lipoblaste**
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p09_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p10_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p09_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p10_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p11_00.jpeg)
 
 ### IHC
 - Aucune indication en routine
@@ -62,9 +62,9 @@ source: DES ACP - Cours de dermatopathologie
 - Remaniements multiples : **myxoïdes, macrophagiques, hémorragiques, cytostéatonécrose, fibrose, métaplasie osseuse/cartilagineuse**
 - Macrophages géants multinucléés : **MDM2 + en IHC** (faux-positif !) → **TOUJOURS confirmer par FISH MDM2** (absence d'amplification = pas de liposarcome)
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p13_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p14_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p13_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p14_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p15_00.jpeg)
 
 ## Amartome lipomateux superficiel
 
@@ -79,8 +79,8 @@ source: DES ACP - Cours de dermatopathologie
 
 > Variante : **fibrolipome pédiculé** (axe d'un acrochordon riche en adipocytes — ne pas confondre).
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p17_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p17_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p18_00.jpeg)
 
 ## Lipome à cellules fusiformes / à cellules pléomorphes
 
@@ -96,7 +96,7 @@ source: DES ACP - Cours de dermatopathologie
 - < 10 cm en règle (volumineux possibles)
 - Bénin, récidives locales possibles
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p21_00.jpeg)
 
 ### Histologie
 
@@ -106,19 +106,19 @@ source: DES ACP - Cours de dermatopathologie
 - **Trousseaux de collagène en « carottes râpées »** dans la matrice myxoïde
 - Proportion variable : forme très adipeuse à très myxoïde
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p22_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p23_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p25_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p26_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p22_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p23_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p25_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p26_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p27_00.jpeg)
 
 #### Lipome à cellules pléomorphes
 - Variant avec **cellules stromales multinucléées** : noyaux **circonvolutés, hyperchromatiques**, **disposés en couronne** dans la cellule (« floret cells »)
 - Mêmes caractéristiques générales (collagène, adipocytes matures, ± myxoïde)
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p30_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p31_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p30_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p31_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p32_00.jpeg)
 
 ### IHC
 - **CD34 +++ diffus, intense** (très évocateur)
@@ -150,9 +150,9 @@ source: DES ACP - Cours de dermatopathologie
 - **Capillaires arborescents en périphérie** (zone plus éosinophile)
 - **Microthrombi** intraluminaux **constants** (font partie de la définition !)
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p37_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p38_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p39_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p37_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p38_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p39_00.jpeg)
 
 ## Lipoblastome
 
@@ -169,10 +169,10 @@ source: DES ACP - Cours de dermatopathologie
 - Plages adipocytaires + **inflexions myxoïdes** plus ou moins étendues
 - Cellules à différents stades : fusiformes → vacuoles intracytoplasmiques (lipoblastes) → adipocytes matures
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p42_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p43_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p44_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p45_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p42_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p43_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p44_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p45_00.jpeg)
 
 ### DD majeur : liposarcome myxoïde
 - Rare chez l'enfant mais possible
@@ -195,9 +195,9 @@ source: DES ACP - Cours de dermatopathologie
 - Cellules de graisse brune : **cytoplasme ample micro-vacuolisé**, parfois cytoplasme éosinophile homogène
 - Noyaux ronds, centraux, **sans atypie**, pas de nécrose
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p48_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p50_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p51_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p48_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p50_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p51_00.jpeg)
 
 ## Chondrolipome (Lipome chondroïde)
 
@@ -214,9 +214,9 @@ source: DES ACP - Cours de dermatopathologie
 - Adipocytes matures + cellules en cordons à cytoplasme **plurivacuolisé** (lipoblaste-like) + aspects pseudo-chondroblastiques
 - Matrice **chondromyxoïde basophile** lâche/hyaline
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p53_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p54_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044 - Tumeurs et malformations adipeuses sus aponévrotiques/p55_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p53_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p54_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1044%20-%20Tumeurs%20et%20malformations%20adipeuses%20sus%20apon%C3%A9vrotiques/p55_00.jpeg)
 
 ## Tableau de synthèse
 

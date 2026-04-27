@@ -37,7 +37,7 @@ Diagnostic le plus souvent fait sur **macrobiopsie** sous guidage **stéréotaxi
 
 ## 3. Définition histologique
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_03CCIS-LA/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_03CCIS-LA/p04_00.jpeg)
 
 - Prolifération de cellules carcinomateuses **canalaires** confinées à l’**arbre galactophorique** (du lobule distal au sinus lactifère).
 - **Préservation des cellules myoépithéliales et de la membrane basale**.
@@ -51,7 +51,7 @@ Basée principalement sur le **grade nucléaire** et la **présence de nécrose*
 
 ### Grades nucléaires
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_03CCIS-LA/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_03CCIS-LA/p07_00.jpeg)
 
 | Grade | Taille noyau / cellule canalaire normale | Chromatine | Nucléoles | Mitoses |
 |-------|:---:|------------|-----------|---------|
@@ -74,7 +74,7 @@ Basée principalement sur le **grade nucléaire** et la **présence de nécrose*
 - Schéma pratique de l’équipe de Boston disponible.
 - **Notée à part** du grade nucléaire.
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_03CCIS-LA/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_03CCIS-LA/p08_00.jpeg)
 
 ### Type architectural
 
@@ -85,7 +85,7 @@ Basée principalement sur le **grade nucléaire** et la **présence de nécrose*
 
 ### 5.1 CCIS de bas grade vs HCA (hyperplasie canalaire atypique)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_03CCIS-LA/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_03CCIS-LA/p10_00.jpeg)
 
 **Critères architecturaux et cytologiques identiques** ; seul change le **critère de taille** :
 
@@ -117,7 +117,7 @@ Basée principalement sur le **grade nucléaire** et la **présence de nécrose*
 
 ### 5.3 CCIS haut grade vs micro-infiltration
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_03CCIS-LA/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_03CCIS-LA/p13_00.jpeg)
 
 - **Carcinome micro-infiltrant** (T1mi) = foyer infiltrant **≤ 1 mm** (quel que soit le nombre, **NE PAS sommer**).
 - Multiplier les niveaux de coupe si doute (surtout si **nécrose abondante**).
@@ -129,7 +129,7 @@ Basée principalement sur le **grade nucléaire** et la **présence de nécrose*
 
 ### Mastectomie partielle
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_03CCIS-LA/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_03CCIS-LA/p18_00.jpeg)
 
 - Pièces **NON ouvertes** avant fixation.
 - Mesurées, **encrées**, **orientées** par le chirurgien.
@@ -139,7 +139,7 @@ Basée principalement sur le **grade nucléaire** et la **présence de nécrose*
 
 ### Calcul de la taille
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_03CCIS-LA/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_03CCIS-LA/p20_00.jpeg)
 
 **Taille CCIS = nombre de tranches positives × épaisseur d’une tranche (3–4 mm)**
 

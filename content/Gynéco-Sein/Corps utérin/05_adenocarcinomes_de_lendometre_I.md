@@ -74,7 +74,7 @@ source: DES ACP - Cours de gynéco-pathologie (corps utérin)
 
 ## Classification moléculaire TCGA 2013 (4 sous-groupes)
 
-![[assets/gyneco-sein/corps_uterin/04_42_01hyperplasies de lendomètre MDS/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_42_01hyperplasies%20de%20lendom%C3%A8tre%20MDS/p15_00.jpeg)
 
 | Groupe TCGA | Caractéristique moléculaire | Pronostic |
 |-------------|------------------------------|-----------|
@@ -131,7 +131,7 @@ Endomètre prolifératif → prolifératif persistant → hyperplasie simple
 | Référence | **hystéroscopie + curetage** : diagnostic préopératoire dans **> 95 %** |
 | Bilan d’extension | **IRM** (invasion myométriale), TDM (loco-régional), CA 125 si extension extra-utérine |
 
-![[assets/gyneco-sein/corps_uterin/04_42_01hyperplasies de lendomètre MDS/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_42_01hyperplasies%20de%20lendom%C3%A8tre%20MDS/p21_00.jpeg)
 
 ## Stadification FIGO
 

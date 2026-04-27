@@ -80,7 +80,7 @@ Renseignements indispensables :
 - Glandes dilatées, épithélium atrophique / abrasé
 - **Fausses membranes en surface = extrusion volcanoïde de mucus + fibrine + débris + PNN**
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.2 Les colites aigues/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.2%20Les%20colites%20aigues/p10_01.jpeg)
 
 
 ## Colite ischémique
@@ -96,9 +96,9 @@ Renseignements indispensables :
 - Formes **nécrosantes** : disparition glandulaire, **microthrombi fibrinoleucocytaires** dans les capillaires
 - Phase chronique : modifications architecturales, métaplasie à cellules de Paneth, hémosidérine
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.2 Les colites aigues/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.2%20Les%20colites%20aigues/p13_00.jpeg)
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.2 Les colites aigues/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.2%20Les%20colites%20aigues/p14_01.jpeg)
 
 > **Piège** : aspect régénératif dystrophique avec atypies nucléaires marquées (noyaux élargis, hyperchromatiques) → ne **pas** porter à tort un diagnostic de dysplasie.
 
@@ -129,7 +129,7 @@ Renseignements indispensables :
 - Lésions ulcérées du côlon ou iléon, perforations possibles
 - **Cristaux de polystyrène sulfonate sodique** : teinte bleu-violacée, formes géométriques, **striations en écailles de poisson**, rouges au PAS
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.2 Les colites aigues/p18_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.2%20Les%20colites%20aigues/p18_04.jpeg)
 
 ### Diagnostic différentiel des cristaux de résine
 
@@ -139,7 +139,7 @@ Renseignements indispensables :
 | **Cholestyramine (Questran)** | Cholestase | Rose-orange | Gris-rose à violacé | − (« glassy ») |
 | **Sevelamer (Renvela)** | Hyperphosphatémie IRC | Jaune rouille à marron | Légèrement violet | Écailles + renforcement rosé |
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.2 Les colites aigues/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.2%20Les%20colites%20aigues/p23_00.jpeg)
 
 ### Mélanose colique
 
@@ -147,7 +147,7 @@ Renseignements indispensables :
 - Endoscopie : muqueuse pigmentée noirâtre
 - Histologie : macrophages du chorion chargés de **lipofuscine** (PAS+, Perls−)
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.2 Les colites aigues/p26_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.2%20Les%20colites%20aigues/p26_01.jpeg)
 
 ## Colites iatrogènes
 
@@ -163,7 +163,7 @@ Renseignements indispensables :
 - Plaques blanc-jaunâtre en surface, asymptomatiques, régressives
 - Histologie : **vacuoles optiquement vides** (= air) dans le chorion, mimant des adipocytes
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.2 Les colites aigues/p28_09.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.2%20Les%20colites%20aigues/p28_09.jpeg)
 
 ### Colite de dérivation (*diversion colitis*)
 
@@ -173,7 +173,7 @@ Renseignements indispensables :
 - **Histologie qui mime une MICI** : inflammation, follicules lymphoïdes à centre clair, cryptite, ramifications glandulaires
 - Difficulté : ne pas porter à tort un diagnostic de MICI
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.2 Les colites aigues/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.2%20Les%20colites%20aigues/p32_00.jpeg)
 
 ## Colite diverticulaire (SCAD)
 
@@ -194,9 +194,9 @@ Renseignements indispensables :
 
 **Traitement** : ATB ; en échec : 5-ASA, hydrocortisone, sulfasalazine ; chirurgie rare.
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.2 Les colites aigues/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.2%20Les%20colites%20aigues/p30_00.jpeg)
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.2 Les colites aigues/p31_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.2%20Les%20colites%20aigues/p31_04.jpeg)
 
 ## Première poussée de MICI
 

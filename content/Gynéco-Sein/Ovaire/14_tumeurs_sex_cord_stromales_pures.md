@@ -73,7 +73,7 @@ Cette fiche traite les **tumeurs stromales pures** :
 - Couleur **blanche / jaune homogène**
 - Peu d’hémorragie / nécrose
 
-![[assets/gyneco-sein/ovaire/Ovaire cordons sexuels stroma pur/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/Ovaire%20cordons%20sexuels%20stroma%20pur/p11_01.jpeg)
 
 ### Histologie
 
@@ -83,9 +83,9 @@ Cette fiche traite les **tumeurs stromales pures** :
 - **Plaques de collagène ± hyalines**, parfois calcifiées et abondantes
 - ± œdème, nécrose ischémique
 
-![[assets/gyneco-sein/ovaire/Ovaire cordons sexuels stroma pur/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/Ovaire%20cordons%20sexuels%20stroma%20pur/p13_01.jpeg)
 
-![[assets/gyneco-sein/ovaire/Ovaire cordons sexuels stroma pur/p13_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/Ovaire%20cordons%20sexuels%20stroma%20pur/p13_02.jpeg)
 
 ### Formes particulières
 
@@ -95,7 +95,7 @@ Cette fiche traite les **tumeurs stromales pures** :
 | **Fibrome mitotiquement actif** | **> 3 mitoses / 10 CFG** mais sans atypie |
 | **Fibrome avec contingent minime de cordons sexuels** | Petits tubules / cordons sexuels représentant **< 10 %** de la surface |
 
-![[assets/gyneco-sein/ovaire/Ovaire cordons sexuels stroma pur/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/Ovaire%20cordons%20sexuels%20stroma%20pur/p15_01.jpeg)
 
 ### Technique : **réticuline**
 - Entoure **cellule par cellule** (≠ granulosa où elle entoure des groupes)
@@ -163,7 +163,7 @@ Cette fiche traite les **tumeurs stromales pures** :
 - **Blanche ou jaune**
 - Possibles **remaniements kystiques**
 
-![[assets/gyneco-sein/ovaire/Ovaire cordons sexuels stroma pur/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/Ovaire%20cordons%20sexuels%20stroma%20pur/p17_01.jpeg)
 
 ### Histologie
 - Cellules **ovoïdes** à **cytoplasme pâle**, sans atypie
@@ -171,7 +171,7 @@ Cette fiche traite les **tumeurs stromales pures** :
 - **Bandes / plaques de collagène ± hyalines**, parfois calcifiées
 - Possible **contingent minime de cordons sexuels (< 10 %)**
 
-![[assets/gyneco-sein/ovaire/Ovaire cordons sexuels stroma pur/p17_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/Ovaire%20cordons%20sexuels%20stroma%20pur/p17_02.jpeg)
 
 ### IHC
 
@@ -220,7 +220,7 @@ Cette fiche traite les **tumeurs stromales pures** :
 - **Pas d’atypie, pas de mitose**
 - **Réseau vasculaire très développé** type **hémangiopéricytaire** (vaisseaux en **corne de cerf**)
 
-![[assets/gyneco-sein/ovaire/Ovaire cordons sexuels stroma pur/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/Ovaire%20cordons%20sexuels%20stroma%20pur/p19_01.jpeg)
 
 ### Pronostic
 - **Excellent** : pas de récidive après chirurgie
@@ -267,7 +267,7 @@ Cette fiche traite les **tumeurs stromales pures** :
 - Couleur **brun à acajou**, orange foncé, parfois **noire**
 - **Site de prédilection : HILE de l’ovaire**
 
-![[assets/gyneco-sein/ovaire/Ovaire cordons sexuels stroma pur/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/Ovaire%20cordons%20sexuels%20stroma%20pur/p22_01.jpeg)
 
 ### Histologie
 - **Nappes de cellules de Leydig** (grande taille, **cytoplasme éosinophile** ou clarifié)
@@ -278,7 +278,7 @@ Cette fiche traite les **tumeurs stromales pures** :
 - **Réseau vasculaire développé**
 - Architecture en nappes / nids / cordons
 
-![[assets/gyneco-sein/ovaire/Ovaire cordons sexuels stroma pur/p22_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/Ovaire%20cordons%20sexuels%20stroma%20pur/p22_02.jpeg)
 
 ### IHC
 
@@ -323,7 +323,7 @@ Cette fiche traite les **tumeurs stromales pures** :
 - **Cytoplasme éosinophile ou clarifié**
 - Réseau vasculaire **type surrénalien**
 
-![[assets/gyneco-sein/ovaire/Ovaire cordons sexuels stroma pur/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/Ovaire%20cordons%20sexuels%20stroma%20pur/p24_01.jpeg)
 
 ### IHC
 

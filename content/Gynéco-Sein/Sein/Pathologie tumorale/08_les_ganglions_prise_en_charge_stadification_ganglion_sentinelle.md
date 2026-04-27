@@ -60,7 +60,7 @@ source: DES ACP - Cours de gynéco-pathologie (sein tumoral)
 
 ### Évolution des protocoles d’analyse pathologique
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/GGS/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/GGS/p02_00.jpeg)
 
 - **Pas de standardisation internationale** ; pratiques très variables.
 - Évolution en 3 phases :
@@ -80,7 +80,7 @@ source: DES ACP - Cours de gynéco-pathologie (sein tumoral)
 - **Aujourd’hui quasi abandonné** sauf si **suspicion macroscopique de macrométastase** (information immédiate au chirurgien).
 - **Faux négatifs : 9–20 %** ; dépend de la taille tumorale.
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/GGS/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/GGS/p06_00.jpeg)
 
 ## 5. Évaluation sur coupes en paraffine
 
@@ -88,8 +88,8 @@ source: DES ACP - Cours de gynéco-pathologie (sein tumoral)
 - IHC **plus recommandée** mais encore pratiquée par certaines équipes.
 - Plusieurs niveaux apportent **+10 à +33 %** de taux d’envahissement détecté.
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/GGS/p10_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/GGS/p12_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/GGS/p10_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/GGS/p12_00.png)
 
 ## 6. Classification des micrométastases (pN)
 
@@ -101,14 +101,14 @@ source: DES ACP - Cours de gynéco-pathologie (sein tumoral)
 
 > Suffixe **(sn)** entre parenthèses si exploration sentinelle (< 6 ganglions selon recommandations) ; à mettre **également** si chirurgien envoie 7-8 ganglions sentinelles.
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/GGS/p14_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/GGS/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/GGS/p14_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/GGS/p15_00.jpeg)
 
 ## 7. Situations difficiles de stadification
 
 ### Multiples foyers métastatiques dans un ganglion
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/GGS/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/GGS/p18_00.jpeg)
 
 - **Stadification basée sur le plus gros amas**.
 
@@ -119,7 +119,7 @@ source: DES ACP - Cours de gynéco-pathologie (sein tumoral)
 
 ### Rupture capsulaire
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/GGS/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/GGS/p16_00.jpeg)
 
 - Mesurer la métastase en **intégrant le plus grand diamètre** (incluant l’extension extra-ganglionnaire).
 - Stroma desmoplasique inclus dans la mesure.
@@ -138,7 +138,7 @@ source: DES ACP - Cours de gynéco-pathologie (sein tumoral)
 
 ### Carcinome lobulaire (cellules isolées)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/GGS/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/GGS/p19_00.jpeg)
 
 - Aspect classique : **cellules isolées dispersées**.
 - Si > 200 cellules positives sur la coupe → **pN+**.

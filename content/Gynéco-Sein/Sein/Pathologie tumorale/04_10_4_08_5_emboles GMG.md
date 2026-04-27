@@ -56,9 +56,9 @@ L'embole vasculaire est défini par :
    - **En pratique** : de véritables emboles peuvent être observés à **moins d'un champ × 400**
 5. **Argument supplémentaire** : embole proche d'**autres petits vaisseaux** (artère, lymphatiques) et/ou de **filets nerveux** (= paquet vasculo-nerveux)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_5  emboles GMG/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_5%20%20emboles%20GMG/p06_00.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_5  emboles GMG/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_5%20%20emboles%20GMG/p07_00.jpeg)
 
 ## Méthode d'analyse
 
@@ -74,9 +74,9 @@ L'embole vasculaire est défini par :
 
 > **Prendre du temps** : un embole ne saute pas toujours aux yeux.
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_5  emboles GMG/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_5%20%20emboles%20GMG/p08_00.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_5  emboles GMG/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_5%20%20emboles%20GMG/p09_00.jpeg)
 
 ## Diagnostic différentiel — artefacts de rétraction tissulaire
 
@@ -95,7 +95,7 @@ Le **principal piège** : **artefact de rétraction** autour d'un amas carcinoma
 | Localisation par rapport à un paquet vasculo-nerveux | Souvent oui | Non |
 | Tissu mammaire | Bien fixé | Souvent mal fixé |
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_5  emboles GMG/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_5%20%20emboles%20GMG/p10_00.jpeg)
 
 ## Aide IHC (en cas de doute uniquement)
 
@@ -119,7 +119,7 @@ Le **principal piège** : **artefact de rétraction** autour d'un amas carcinoma
 - → **Stase lymphatique et sanguine** dermique
 - → **Aspect rouge, chaud, gonflé** du sein (cancer inflammatoire) — voir [[18_Cancer_Inflammatoire_du_sein]]
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_5  emboles GMG/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_5%20%20emboles%20GMG/p09_00.jpeg)
 
 ## Compte rendu
 

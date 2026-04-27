@@ -50,18 +50,18 @@ Les tumeurs hépatocellulaires bénignes se répartissent en **2 grands groupes*
 - **Homogène, bien limitée, NON encapsulée**
 - **Cicatrice fibreuse centrale étoilée** (« scar central ») = caractéristique
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.2 Tumeurs hépatocellulaires bénignes/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.2%20Tumeurs%20h%C3%A9patocellulaires%20b%C3%A9nignes/p06_00.jpeg)
 
 ### Histologie
 - **Bandes fibreuses** délimitant des **nodules parenchymateux** d'hépatocytes réguliers
 - Au sein des bandes : **artères dystrophiques à parois épaissies** (critère **pathognomonique**), infiltrat inflammatoire et **réaction ductulaire** péri-fibreuse
 - Hépatocytes peu atypiques, agencés en **travées de 1 à 2 assises**
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.2 Tumeurs hépatocellulaires bénignes/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.2%20Tumeurs%20h%C3%A9patocellulaires%20b%C3%A9nignes/p07_01.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.2 Tumeurs hépatocellulaires bénignes/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.2%20Tumeurs%20h%C3%A9patocellulaires%20b%C3%A9nignes/p08_01.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.2 Tumeurs hépatocellulaires bénignes/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.2%20Tumeurs%20h%C3%A9patocellulaires%20b%C3%A9nignes/p09_00.jpeg)
 
 ### Immunohistochimie
 
@@ -70,20 +70,20 @@ Les tumeurs hépatocellulaires bénignes se répartissent en **2 grands groupes*
 | **Glutamine synthétase (GS)** | **+ « en carte de géographie »** | Critère diagnostic clé : positivité hépatocytaire au contact des bandes fibreuses |
 | CK7 / CK19 | + (réaction ductulaire) | Aide à visualiser la prolifération néo-ductulaire |
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.2 Tumeurs hépatocellulaires bénignes/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.2%20Tumeurs%20h%C3%A9patocellulaires%20b%C3%A9nignes/p09_01.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.2 Tumeurs hépatocellulaires bénignes/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.2%20Tumeurs%20h%C3%A9patocellulaires%20b%C3%A9nignes/p09_02.jpeg)
 
 ### Variantes (diagnostic plus difficile)
 1. **HNF inflammatoire** : infiltrat lymphocytaire abondant dans les bandes fibreuses
 2. **HNF stéatosique** : ~25 % des HNF présentent une stéatose significative
 3. **HNF de petite taille sans cicatrice évidente** : aspect vaguement nodulaire + quelques artères dystrophiques → confirmation par **GS en carte de géographie**
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.2 Tumeurs hépatocellulaires bénignes/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.2%20Tumeurs%20h%C3%A9patocellulaires%20b%C3%A9nignes/p10_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.2 Tumeurs hépatocellulaires bénignes/p10_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.2%20Tumeurs%20h%C3%A9patocellulaires%20b%C3%A9nignes/p10_02.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.2 Tumeurs hépatocellulaires bénignes/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.2%20Tumeurs%20h%C3%A9patocellulaires%20b%C3%A9nignes/p11_00.jpeg)
 
 ### Prise en charge
 - **Pas de surveillance, pas de traitement** si diagnostic formel (imagerie ou histologie)
@@ -110,7 +110,7 @@ Les tumeurs hépatocellulaires bénignes se répartissent en **2 grands groupes*
 - Taille variable, gros vaisseaux de surface
 - À la coupe : foyers **nécrotiques, hémorragiques** ou de fibrose
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.2 Tumeurs hépatocellulaires bénignes/p12_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.2%20Tumeurs%20h%C3%A9patocellulaires%20b%C3%A9nignes/p12_01.png)
 
 ### Histologie
 - Prolifération hépatocellulaire **régulière** en travées de **1 à 2 assises**
@@ -118,15 +118,15 @@ Les tumeurs hépatocellulaires bénignes se répartissent en **2 grands groupes*
 - **PAS** de canaux biliaires
 - Réticuline préservée (bénignité) — **jamais de travées ≥ 3 assises**
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.2 Tumeurs hépatocellulaires bénignes/p13_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.2%20Tumeurs%20h%C3%A9patocellulaires%20b%C3%A9nignes/p13_03.png)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.2 Tumeurs hépatocellulaires bénignes/p13_04.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.2%20Tumeurs%20h%C3%A9patocellulaires%20b%C3%A9nignes/p13_04.png)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.2 Tumeurs hépatocellulaires bénignes/p13_05.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.2%20Tumeurs%20h%C3%A9patocellulaires%20b%C3%A9nignes/p13_05.png)
 
 ### Classification moléculaire (5 sous-types — OMS 2019)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.2 Tumeurs hépatocellulaires bénignes/p13_08.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.2%20Tumeurs%20h%C3%A9patocellulaires%20b%C3%A9nignes/p13_08.png)
 
 | Sous-type | Fréquence | Mutation | Critères histo-clés | IHC clé | Risque |
 |-----------|:---:|----------|--------------------|---------|--------|
@@ -138,11 +138,11 @@ Les tumeurs hépatocellulaires bénignes se répartissent en **2 grands groupes*
 | **sh-HCA** (Sonic Hedgehog) | ~4 % | *INHBE-GLI1* | Foyers d'**hémorragie microscopique** | **PTGDS +** (à valider) | **Saignement +++** |
 | **U-HCA** (unclassified) | ~5-10 % | Aucune identifiée | — | — | — |
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.2 Tumeurs hépatocellulaires bénignes/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.2%20Tumeurs%20h%C3%A9patocellulaires%20b%C3%A9nignes/p14_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.2 Tumeurs hépatocellulaires bénignes/p15_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.2%20Tumeurs%20h%C3%A9patocellulaires%20b%C3%A9nignes/p15_02.png)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.2 Tumeurs hépatocellulaires bénignes/p15_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.2%20Tumeurs%20h%C3%A9patocellulaires%20b%C3%A9nignes/p15_03.png)
 
 ### Complications
 

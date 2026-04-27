@@ -27,7 +27,7 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 
 Ce cours traite des **enchondromes** et **chondromes périostés** (voies IDH).
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248 Tumeurs cartilagineuses conventionnelles bénignes/p01_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248%20Tumeurs%20cartilagineuses%20conventionnelles%20b%C3%A9nignes/p01_01.jpeg)
 
 ## Enchondrome (tumeur cartilagineuse centrale)
 
@@ -52,11 +52,11 @@ Ce cours traite des **enchondromes** et **chondromes périostés** (voies IDH).
 - IRM (référence) : ISO/hyposignal T1, **hypersignal T2** ; apprécie l'extension
 - Enchondrome diaphysaire d'os long : géode à contour géographique, calcifications cartilagineuses, **corticale respectée**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248 Tumeurs cartilagineuses conventionnelles bénignes/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248%20Tumeurs%20cartilagineuses%20conventionnelles%20b%C3%A9nignes/p05_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248 Tumeurs cartilagineuses conventionnelles bénignes/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248%20Tumeurs%20cartilagineuses%20conventionnelles%20b%C3%A9nignes/p06_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248 Tumeurs cartilagineuses conventionnelles bénignes/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248%20Tumeurs%20cartilagineuses%20conventionnelles%20b%C3%A9nignes/p06_01.jpeg)
 
 ### Histologie
 
@@ -67,11 +67,11 @@ Ce cours traite des **enchondromes** et **chondromes périostés** (voies IDH).
 - Micro-remaniements mixoïdes très focaux possibles (disparition des logettes)
 - Nécrose ischémique chondrocytaire dans les zones fortement minéralisées = **physiologique** (≠ nécrose tumorale vraie = péjorative si sans minéralisation)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248 Tumeurs cartilagineuses conventionnelles bénignes/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248%20Tumeurs%20cartilagineuses%20conventionnelles%20b%C3%A9nignes/p07_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248 Tumeurs cartilagineuses conventionnelles bénignes/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248%20Tumeurs%20cartilagineuses%20conventionnelles%20b%C3%A9nignes/p07_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248 Tumeurs cartilagineuses conventionnelles bénignes/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248%20Tumeurs%20cartilagineuses%20conventionnelles%20b%C3%A9nignes/p08_00.jpeg)
 
 ### Critère diagnostique clé : rapports tumeur / os lamellaire
 
@@ -80,19 +80,19 @@ Ce cours traite des **enchondromes** et **chondromes périostés** (voies IDH).
 - **Interface lisse, régulière, ballonnée** (≠ tumeur atypique = encoches de résorption endostéale)
 - Persistance d'**espaces de moelle hématopoïétique** entre les lobules → témoigne du caractère bénin
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248 Tumeurs cartilagineuses conventionnelles bénignes/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248%20Tumeurs%20cartilagineuses%20conventionnelles%20b%C3%A9nignes/p10_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248 Tumeurs cartilagineuses conventionnelles bénignes/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248%20Tumeurs%20cartilagineuses%20conventionnelles%20b%C3%A9nignes/p10_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248 Tumeurs cartilagineuses conventionnelles bénignes/p10_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248%20Tumeurs%20cartilagineuses%20conventionnelles%20b%C3%A9nignes/p10_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248 Tumeurs cartilagineuses conventionnelles bénignes/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248%20Tumeurs%20cartilagineuses%20conventionnelles%20b%C3%A9nignes/p11_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248 Tumeurs cartilagineuses conventionnelles bénignes/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248%20Tumeurs%20cartilagineuses%20conventionnelles%20b%C3%A9nignes/p11_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248 Tumeurs cartilagineuses conventionnelles bénignes/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248%20Tumeurs%20cartilagineuses%20conventionnelles%20b%C3%A9nignes/p11_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248 Tumeurs cartilagineuses conventionnelles bénignes/p11_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248%20Tumeurs%20cartilagineuses%20conventionnelles%20b%C3%A9nignes/p11_03.jpeg)
 
 ### Cadres particuliers (cellularité augmentée ACCEPTÉE)
 
@@ -104,13 +104,13 @@ Trois situations où l'enchondrome peut avoir une **densité cellulaire plus él
 | **Enchondromes des enchondromatoses** (Ollier, Maffucci) | Voir [[50_Enchondromatoses]] |
 | **Chondrome périosté** | Voir ci-dessous |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248 Tumeurs cartilagineuses conventionnelles bénignes/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248%20Tumeurs%20cartilagineuses%20conventionnelles%20b%C3%A9nignes/p13_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248 Tumeurs cartilagineuses conventionnelles bénignes/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248%20Tumeurs%20cartilagineuses%20conventionnelles%20b%C3%A9nignes/p13_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248 Tumeurs cartilagineuses conventionnelles bénignes/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248%20Tumeurs%20cartilagineuses%20conventionnelles%20b%C3%A9nignes/p14_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248 Tumeurs cartilagineuses conventionnelles bénignes/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248%20Tumeurs%20cartilagineuses%20conventionnelles%20b%C3%A9nignes/p15_00.jpeg)
 
 ## Chondrome périosté (tumeur cartilagineuse de surface)
 
@@ -129,11 +129,11 @@ Trois situations où l'enchondrome peut avoir une **densité cellulaire plus él
 - **Néo-corticale** formée par le périoste soulevé : **bec / contrefort osseux** latéral
 - **Taille < 5 cm** (> 5 cm → suspecter chondrosarcome périosté)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248 Tumeurs cartilagineuses conventionnelles bénignes/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248%20Tumeurs%20cartilagineuses%20conventionnelles%20b%C3%A9nignes/p16_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248 Tumeurs cartilagineuses conventionnelles bénignes/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248%20Tumeurs%20cartilagineuses%20conventionnelles%20b%C3%A9nignes/p16_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248 Tumeurs cartilagineuses conventionnelles bénignes/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248%20Tumeurs%20cartilagineuses%20conventionnelles%20b%C3%A9nignes/p18_00.jpeg)
 
 ### Histologie
 
@@ -141,7 +141,7 @@ Trois situations où l'enchondrome peut avoir une **densité cellulaire plus él
 - Binucléations plus nombreuses, atypies légères à modérées **acceptées**
 - Remaniements mixoïdes focaux possibles
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248 Tumeurs cartilagineuses conventionnelles bénignes/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248%20Tumeurs%20cartilagineuses%20conventionnelles%20b%C3%A9nignes/p19_00.jpeg)
 
 ### Diagnostics différentiels du chondrome périosté
 
@@ -153,7 +153,7 @@ Trois situations où l'enchondrome peut avoir une **densité cellulaire plus él
 
 > **IDH+** (si positif) aide à retenir le chondrome périosté.
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248 Tumeurs cartilagineuses conventionnelles bénignes/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248%20Tumeurs%20cartilagineuses%20conventionnelles%20b%C3%A9nignes/p20_00.jpeg)
 
 ## Diagnostic différentiel principal de l'enchondrome
 
@@ -172,11 +172,11 @@ Trois situations où l'enchondrome peut avoir une **densité cellulaire plus él
 - Exérèse **intralésionnelle** (curetage), **marginale** ou **en bloc**
 - En bloc privilégiée si doute sur chondrosarcome périosté
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248 Tumeurs cartilagineuses conventionnelles bénignes/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248%20Tumeurs%20cartilagineuses%20conventionnelles%20b%C3%A9nignes/p21_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248 Tumeurs cartilagineuses conventionnelles bénignes/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248%20Tumeurs%20cartilagineuses%20conventionnelles%20b%C3%A9nignes/p21_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248 Tumeurs cartilagineuses conventionnelles bénignes/p21_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-248%20Tumeurs%20cartilagineuses%20conventionnelles%20b%C3%A9nignes/p21_02.jpeg)
 
 ---
 

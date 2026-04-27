@@ -45,7 +45,7 @@ L'analyse macroscopique d'un cœur en autopsie ou explanté repose sur l'identif
 - **Oreillette droite (OD)** : auricule à base large, abouchement de la **VCS** et **VCI**
 - **Oreillette gauche (OG)** : auricule petit, rétracté en chaussette, abouchement des **4 veines pulmonaires** (2 supérieures, 2 inférieures)
 
-![[assets/cardio-vasculaire/coeur/Prise en charge macroscopique dun prélèvement  - /p02_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Prise%20en%20charge%20macroscopique%20dun%20pr%C3%A9l%C3%A8vement%20%20-%20/p02_05.jpeg)
 
 ## Vaisseaux de la base — gros troncs artériels
 
@@ -59,9 +59,9 @@ L'**aorte** comporte trois segments :
 
 L'**isthme aortique** = zone de transition mobile/fixe → **zone de fragilité** en cas de **décélération brutale** (rupture isthmique post-traumatique).
 
-![[assets/cardio-vasculaire/coeur/Prise en charge macroscopique dun prélèvement  - /p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Prise%20en%20charge%20macroscopique%20dun%20pr%C3%A9l%C3%A8vement%20%20-%20/p03_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Prise en charge macroscopique dun prélèvement  - /p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Prise%20en%20charge%20macroscopique%20dun%20pr%C3%A9l%C3%A8vement%20%20-%20/p03_01.jpeg)
 
 ## Histologie des artères
 
@@ -78,7 +78,7 @@ L'**isthme aortique** = zone de transition mobile/fixe → **zone de fragilité*
 | **Média** | Cellules musculaires lisses + matrice + fibres élastiques | Tonus, élasticité |
 | **Adventice** | Tissu conjonctif + ***vasa vasorum*** | Nutrition de la paroi, résistance mécanique en cas de rupture des autres tuniques |
 
-![[assets/cardio-vasculaire/coeur/Prise en charge macroscopique dun prélèvement  - /p03_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Prise%20en%20charge%20macroscopique%20dun%20pr%C3%A9l%C3%A8vement%20%20-%20/p03_02.png)
 
 ## Valves cardiaques — anatomie
 
@@ -107,9 +107,9 @@ La valve aortique et la valve mitrale sont **très proches** dans le cœur gauch
 - Antéro-droite : **coronaire droite** → artère coronaire droite (entoure l'orifice tricuspide)
 - Antéro-gauche : **coronaire gauche** → tronc commun, **IVA**, **circonflexe** (entoure la valve mitrale)
 
-![[assets/cardio-vasculaire/coeur/Prise en charge macroscopique dun prélèvement  - /p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Prise%20en%20charge%20macroscopique%20dun%20pr%C3%A9l%C3%A8vement%20%20-%20/p04_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Prise en charge macroscopique dun prélèvement  - /p04_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Prise%20en%20charge%20macroscopique%20dun%20pr%C3%A9l%C3%A8vement%20%20-%20/p04_01.png)
 
 ### Valves orificielles — détails
 - Valve aortique et pulmonaire ont **le même calibre**
@@ -136,9 +136,9 @@ Les piliers sont des **tissus musculaires** : un infarctus avec nécrose peut en
 - **Zone claire** (sans cordage)
 - **Zone d'épaississement / coaptation** allant jusqu'au bord libre, mamelonnée → insertion des cordages sur la face ventriculaire
 
-![[assets/cardio-vasculaire/coeur/Prise en charge macroscopique dun prélèvement  - /p04_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Prise%20en%20charge%20macroscopique%20dun%20pr%C3%A9l%C3%A8vement%20%20-%20/p04_02.png)
 
-![[assets/cardio-vasculaire/coeur/Prise en charge macroscopique dun prélèvement  - /p04_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Prise%20en%20charge%20macroscopique%20dun%20pr%C3%A9l%C3%A8vement%20%20-%20/p04_03.jpeg)
 
 ## Histologie valvulaire
 
@@ -156,7 +156,7 @@ Surface tapissée par une **couche de cellules endothéliales** :
 
 **Pas de vascularisation distale** → fragilité face à l'infection.
 
-![[assets/cardio-vasculaire/coeur/Prise en charge macroscopique dun prélèvement  - /p02_12.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Prise%20en%20charge%20macroscopique%20dun%20pr%C3%A9l%C3%A8vement%20%20-%20/p02_12.png)
 
 ## Cavités cardiaques — particularités morphologiques
 
@@ -184,7 +184,7 @@ Sur une coupe **« petit axe »** (coupe 4 cavités équivalente à l'incidence 
 
 À la palpation, le VD est **facilement déprimable**, contrairement au VG.
 
-![[assets/cardio-vasculaire/coeur/Prise en charge macroscopique dun prélèvement  - /p02_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Prise%20en%20charge%20macroscopique%20dun%20pr%C3%A9l%C3%A8vement%20%20-%20/p02_01.png)
 
 ## Tuniques cardiaques
 

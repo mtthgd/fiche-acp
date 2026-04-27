@@ -35,9 +35,9 @@ La **surface oculaire** comprend la **cornée** et la **conjonctive**. Les lési
 - **Épithélium pluristratifié non kératinisé** contenant des **cellules caliciformes**.
 - **Mélanocytes** dispersés dans les **cellules basales**, peu nombreux.
 
-![[assets/ORL/oeil/pathologie_de_surface/Pathologie de surface_2024_pdf/p03_00.jpeg]]
-![[assets/ORL/oeil/pathologie_de_surface/Pathologie de surface_2024_pdf/p04_00.jpeg]]
-![[assets/ORL/oeil/pathologie_de_surface/Pathologie de surface_2024_pdf/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/Pathologie%20de%20surface_2024_pdf/p03_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/Pathologie%20de%20surface_2024_pdf/p04_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/Pathologie%20de%20surface_2024_pdf/p05_00.jpeg)
 
 ### Répartition des lésions de surface oculaire
 
@@ -63,8 +63,8 @@ Cliniquement les lésions peuvent être : pigmentées / non pigmentées, nodulai
 - **Pas de transformation maligne**.
 - Histologie : **projections papillaires** (axe conjonctivovasculaire) tapissées par un épithélium **acanthosique malpighien**, le plus souvent **non kératinisant**.
 
-![[assets/ORL/oeil/pathologie_de_surface/Pathologie de surface_2024_pdf/p07_00.jpeg]]
-![[assets/ORL/oeil/pathologie_de_surface/Pathologie de surface_2024_pdf/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/Pathologie%20de%20surface_2024_pdf/p07_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/Pathologie%20de%20surface_2024_pdf/p07_01.jpeg)
 
 ### 1.2 Néoplasies épithéliales malpighiennes de surface oculaire = OSSN
 
@@ -94,8 +94,8 @@ Cliniquement les lésions peuvent être : pigmentées / non pigmentées, nodulai
 
 Critères : **kératinocytes atypiques**, désorganisation architecturale, **mitoses atypiques**, mitoses **ascensionnées**, anomalies de kératinisation.
 
-![[assets/ORL/oeil/pathologie_de_surface/Pathologie de surface_2024_pdf/p08_00.jpeg]]
-![[assets/ORL/oeil/pathologie_de_surface/Pathologie de surface_2024_pdf/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/Pathologie%20de%20surface_2024_pdf/p08_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/Pathologie%20de%20surface_2024_pdf/p09_00.jpeg)
 
 #### Carcinome épidermoïde infiltrant conjonctival
 
@@ -116,9 +116,9 @@ Critères : **kératinocytes atypiques**, désorganisation architecturale, **mit
 
 - **pTNM 2017** spécifique de la conjonctive (importance de **mesurer la lésion**).
 
-![[assets/ORL/oeil/pathologie_de_surface/Pathologie de surface_2024_pdf/p11_00.jpeg]]
-![[assets/ORL/oeil/pathologie_de_surface/Pathologie de surface_2024_pdf/p11_01.jpeg]]
-![[assets/ORL/oeil/pathologie_de_surface/Pathologie de surface_2024_pdf/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/Pathologie%20de%20surface_2024_pdf/p11_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/Pathologie%20de%20surface_2024_pdf/p11_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/Pathologie%20de%20surface_2024_pdf/p12_00.jpeg)
 
 ---
 
@@ -135,8 +135,8 @@ Critères : **kératinocytes atypiques**, désorganisation architecturale, **mit
 - Architecture **régulière**, gradient de maturation.
 - **Pas d'atypie**, pas de mitose en règle.
 
-![[assets/ORL/oeil/pathologie_de_surface/Pathologie de surface_2024_pdf/p13_00.jpeg]]
-![[assets/ORL/oeil/pathologie_de_surface/Pathologie de surface_2024_pdf/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/Pathologie%20de%20surface_2024_pdf/p13_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/Pathologie%20de%20surface_2024_pdf/p14_00.jpeg)
 
 ### 2.2 Lésions mélanocytaires intraépithéliales conjonctivales (C-MIN / PAM)
 
@@ -159,9 +159,9 @@ Critères : **kératinocytes atypiques**, désorganisation architecturale, **mit
 
 > Difficulté en conjonctive : **faible nombre d'assises cellulaires** rendant l'estimation des ascensions parfois délicate.
 
-![[assets/ORL/oeil/pathologie_de_surface/Pathologie de surface_2024_pdf/p16_00.jpeg]]
-![[assets/ORL/oeil/pathologie_de_surface/Pathologie de surface_2024_pdf/p16_01.jpeg]]
-![[assets/ORL/oeil/pathologie_de_surface/Pathologie de surface_2024_pdf/p16_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/Pathologie%20de%20surface_2024_pdf/p16_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/Pathologie%20de%20surface_2024_pdf/p16_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/Pathologie%20de%20surface_2024_pdf/p16_02.jpeg)
 
 #### Reproductibilité (étude récente)
 
@@ -201,7 +201,7 @@ Critères : **kératinocytes atypiques**, désorganisation architecturale, **mit
 | **PRAM** | + (intérêt ++ dans les lésions malignes) |
 | **Ki67** | **Élevé** (utile dans le DD nævus / mélanome) |
 
-![[assets/ORL/oeil/pathologie_de_surface/Pathologie de surface_2024_pdf/p17_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/Pathologie%20de%20surface_2024_pdf/p17_00.png)
 
 ---
 

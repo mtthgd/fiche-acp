@@ -24,7 +24,7 @@ La classification OMS des tumeurs des glandes salivaires (TGS) utilise **deux ap
 1. **Approche classique** : agressivité architecturale, atypies cytonucléaires, activité mitotique (= pathologie générale)
 2. **Approche pragmatique** : certaines tumeurs (**VIT** = Very Important Tumors) se comportent de façon inhabituelle et doivent être reconnues même sans tous les critères classiques
 
-![[assets/ORL/glandes_salivaires/introduction/10_312 principes de la classification des TGS final/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/introduction/10_312%20principes%20de%20la%20classification%20des%20TGS%20final/p03_00.jpeg)
 
 ## 1. Approche classique — critères d'agressivité architecturale
 
@@ -41,9 +41,9 @@ La classification OMS des tumeurs des glandes salivaires (TGS) utilise **deux ap
 - Protrusions **arrondies** même si la capsule est rompue → **NON agressif**
 - **⚠ Ne pas raisonner comme en pathologie thyroïdienne** : une protrusion qui traverse la capsule n'est **pas** un critère de malignité si elle reste arrondie
 
-![[assets/ORL/glandes_salivaires/introduction/10_312 principes de la classification des TGS final/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/introduction/10_312%20principes%20de%20la%20classification%20des%20TGS%20final/p04_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/introduction/10_312 principes de la classification des TGS final/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/introduction/10_312%20principes%20de%20la%20classification%20des%20TGS%20final/p05_00.jpeg)
 
 ### Signes de malignité architecturale
 
@@ -55,13 +55,13 @@ La classification OMS des tumeurs des glandes salivaires (TGS) utilise **deux ap
 - **Emboles vasculaires**
 - **Métastases ganglionnaires**
 
-![[assets/ORL/glandes_salivaires/introduction/10_312 principes de la classification des TGS final/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/introduction/10_312%20principes%20de%20la%20classification%20des%20TGS%20final/p06_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/introduction/10_312 principes de la classification des TGS final/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/introduction/10_312%20principes%20de%20la%20classification%20des%20TGS%20final/p06_01.jpeg)
 
-![[assets/ORL/glandes_salivaires/introduction/10_312 principes de la classification des TGS final/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/introduction/10_312%20principes%20de%20la%20classification%20des%20TGS%20final/p08_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/introduction/10_312 principes de la classification des TGS final/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/introduction/10_312%20principes%20de%20la%20classification%20des%20TGS%20final/p09_00.jpeg)
 
 ### Atypies cytonucléaires
 
@@ -73,9 +73,9 @@ La classification OMS des tumeurs des glandes salivaires (TGS) utilise **deux ap
 - **Ki-67 > 5 %** = cut-off bénin/malin pour les TGS
 - **Exception : adénome pléomorphe** qui peut dépasser ce seuil (jusqu'à 3 mitoses / 10 champs et Ki-67 > 5 %)
 
-![[assets/ORL/glandes_salivaires/introduction/10_312 principes de la classification des TGS final/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/introduction/10_312%20principes%20de%20la%20classification%20des%20TGS%20final/p10_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/introduction/10_312 principes de la classification des TGS final/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/introduction/10_312%20principes%20de%20la%20classification%20des%20TGS%20final/p11_00.jpeg)
 
 ## 2. Approche histogénétique — nomenclature
 
@@ -88,7 +88,7 @@ Une fois la bénignité/malignité établie, on reconnaît le **composant cellul
 | **Oncocytaire** | Oncocytome | Carcinome oncocytaire |
 | **Mixte épithélial + myoépithélial** | Adénome pléomorphe | Carcinome sur adénome pléomorphe, **Carcinome adénoïde kystique**, **Carcinome épithélial-myoépithélial** |
 
-![[assets/ORL/glandes_salivaires/introduction/10_312 principes de la classification des TGS final/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/introduction/10_312%20principes%20de%20la%20classification%20des%20TGS%20final/p12_00.jpeg)
 
 ## 3. Les VIT (Very Important Tumors)
 
@@ -106,11 +106,11 @@ Une fois la bénignité/malignité établie, on reconnaît le **composant cellul
 
 **Astuce économique** : colorations **PAS-D** et **bleu alcian** = détection rapide des deux VIT principales en extemporané.
 
-![[assets/ORL/glandes_salivaires/introduction/10_312 principes de la classification des TGS final/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/introduction/10_312%20principes%20de%20la%20classification%20des%20TGS%20final/p13_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/introduction/10_312 principes de la classification des TGS final/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/introduction/10_312%20principes%20de%20la%20classification%20des%20TGS%20final/p14_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/introduction/10_312 principes de la classification des TGS final/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/introduction/10_312%20principes%20de%20la%20classification%20des%20TGS%20final/p15_00.jpeg)
 
 ### VIT bénigne — adénome pléomorphe
 
@@ -123,9 +123,9 @@ Droit à **quelques transgressions** par rapport aux critères classiques :
 - **Essaimage** dans le tissu cellulo-adipeux lors des **récidives**
 - **Greffes pulmonaires** (métastases) possibles sans transformation maligne
 
-![[assets/ORL/glandes_salivaires/introduction/10_312 principes de la classification des TGS final/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/introduction/10_312%20principes%20de%20la%20classification%20des%20TGS%20final/p17_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/introduction/10_312 principes de la classification des TGS final/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/introduction/10_312%20principes%20de%20la%20classification%20des%20TGS%20final/p18_00.jpeg)
 
 ## 4. Classification OMS 2017 / 2022 — entités principales
 
@@ -199,9 +199,9 @@ Toute TGS peut subir une transformation anaplasique de novo ou secondaire → **
   - Présents dans : adénome pléomorphe, adénome à cellules basales, carcinome épithélial-myoépithélial...
 - **Ne pas faire le diagnostic de carcinome adénoïde kystique** en extemporané sans **infiltration architecturale**
 
-![[assets/ORL/glandes_salivaires/introduction/10_312 principes de la classification des TGS final/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/introduction/10_312%20principes%20de%20la%20classification%20des%20TGS%20final/p22_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/introduction/10_312 principes de la classification des TGS final/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/introduction/10_312%20principes%20de%20la%20classification%20des%20TGS%20final/p23_00.jpeg)
 
 ### Aide moléculaire en cas de doute (biopsie)
 
@@ -216,7 +216,7 @@ Toute TGS peut subir une transformation anaplasique de novo ou secondaire → **
 
 ## Démarche diagnostique synthétique
 
-![[assets/ORL/glandes_salivaires/introduction/10_312 principes de la classification des TGS final/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/introduction/10_312%20principes%20de%20la%20classification%20des%20TGS%20final/p24_00.jpeg)
 
 1. **Critères classiques d'agressivité** → bénin vs malin
 2. **Identifier les acteurs cellulaires** : épithélial pur / épithélial + myoépithélial / myoépithélial pur
@@ -231,7 +231,7 @@ Dépend de l'entité et du grade :
 - Curage et radiothérapie selon grade et extension
 - Suivi long pour les adénomes pléomorphes (risque de récidive locale)
 
-![[assets/ORL/glandes_salivaires/introduction/10_312 principes de la classification des TGS final/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/introduction/10_312%20principes%20de%20la%20classification%20des%20TGS%20final/p25_00.jpeg)
 
 ---
 

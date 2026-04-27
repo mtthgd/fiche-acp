@@ -28,7 +28,7 @@ source: DES ACP - Cours de gynéco-pathologie
 
 ### 1. Différenciation glandulaire (formations glandulaires)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent ARNOULD/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent%20ARNOULD/p04_00.jpeg)
 
 | Score | Critère |
 |-------|---------|
@@ -39,8 +39,8 @@ source: DES ACP - Cours de gynéco-pathologie
 > Les **papilles** des carcinomes papillaires **NE sont PAS** une vraie différenciation glandulaire (pas de polarisation autour d’une lumière)
 > La polarisation peut être minimale (ébauche de cavité)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent ARNOULD/p05_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent ARNOULD/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent%20ARNOULD/p05_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent%20ARNOULD/p06_00.jpeg)
 
 ### 2. Pléomorphisme nucléaire (taille des noyaux)
 
@@ -54,9 +54,9 @@ source: DES ACP - Cours de gynéco-pathologie
 > En leur absence : **lymphocytes** (~1,5 × plus petits que les cellules glandulaires normales)
 > Ne pas mettre 3 sur quelques noyaux volumineux isolés
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent ARNOULD/p08_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent ARNOULD/p09_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent ARNOULD/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent%20ARNOULD/p08_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent%20ARNOULD/p09_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent%20ARNOULD/p09_01.jpeg)
 
 ### 3. Index mitotique
 
@@ -73,10 +73,10 @@ source: DES ACP - Cours de gynéco-pathologie
 - **Début de métaphase** (boule hyperchromatique avec aspect échevelé périphérique) : difficile mais à compter
 - **NE PAS compter** : noyaux pyknotiques, apoptoses, lymphocytes, débris, polynucléaires
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent ARNOULD/p10_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent ARNOULD/p10_01.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent ARNOULD/p11_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent ARNOULD/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent%20ARNOULD/p10_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent%20ARNOULD/p10_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent%20ARNOULD/p11_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent%20ARNOULD/p12_00.jpeg)
 
 #### Score selon le diamètre de champ
 
@@ -88,7 +88,7 @@ Exemple : pour **9 mitoses** sur 10 champs ×40 :
 
 → Toujours **régler le score selon son microscope**
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent ARNOULD/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent%20ARNOULD/p13_00.jpeg)
 
 ## Calcul du grade total
 
@@ -103,7 +103,7 @@ Exemple : pour **9 mitoses** sur 10 champs ×40 :
 - Grade 2 : ~40 % (zone intermédiaire problématique)
 - Grade 3 : ~30 %
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent ARNOULD/p14_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent%20ARNOULD/p14_00.png)
 
 ## Valeur pronostique
 
@@ -113,9 +113,9 @@ Exemple : pour **9 mitoses** sur 10 champs ×40 :
 - Élément le plus discriminant = **score mitotique** (le score 1 change radicalement le pronostic)
 - Pertinent pour **TOUS les types histologiques**, y compris **carcinome lobulaire infiltrant**
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent ARNOULD/p15_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent ARNOULD/p15_01.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent ARNOULD/p15_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent%20ARNOULD/p15_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent%20ARNOULD/p15_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent%20ARNOULD/p15_02.jpeg)
 
 ## Score combiné de Nottingham
 
@@ -123,8 +123,8 @@ Exemple : pour **9 mitoses** sur 10 champs ×40 :
 - Identifie 3 groupes pronostiques (excellent / intermédiaire / mauvais)
 - **Peu utilisé en France**, courant en Angleterre
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent ARNOULD/p16_01.png]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent ARNOULD/p16_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent%20ARNOULD/p16_01.png)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent%20ARNOULD/p16_02.png)
 
 ## Recommandations pratiques
 
@@ -142,10 +142,10 @@ Exemple : pour **9 mitoses** sur 10 champs ×40 :
 - Souvent **sous-estimation** du compte mitotique sur biopsie (zone non choisie)
 - C’est le **grade sur la pièce opératoire** qui prévaut pour le traitement adjuvant
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent ARNOULD/p17_00.png]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent ARNOULD/p17_01.png]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent ARNOULD/p17_02.png]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent ARNOULD/p17_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent%20ARNOULD/p17_00.png)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent%20ARNOULD/p17_01.png)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent%20ARNOULD/p17_02.png)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent%20ARNOULD/p17_03.png)
 
 ### Après chimiothérapie néo-adjuvante
 - Le grade EE peut être élaboré sur le **reliquat tumoral** post-CTN
@@ -155,9 +155,9 @@ Exemple : pour **9 mitoses** sur 10 champs ×40 :
 - Valeur pronostique du grade EE **non formellement démontrée** sur récidive
 - Mais le **grade initial conserverait sa valeur** : récidive d’une tumeur initialement bas grade < récidive d’une tumeur haut grade
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent ARNOULD/p18_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent ARNOULD/p18_01.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent ARNOULD/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent%20ARNOULD/p18_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent%20ARNOULD/p18_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1GRADELaurent%20ARNOULD/p19_00.jpeg)
 
 ## Diagnostics différentiels (pièges du grade)
 

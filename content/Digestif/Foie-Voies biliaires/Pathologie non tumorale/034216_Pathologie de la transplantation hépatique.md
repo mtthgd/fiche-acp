@@ -88,7 +88,7 @@ Lésions d'**ischémie-reperfusion précoces** :
 - Histologie : **bilirubinostase**, **ballonisation hépatocytaire**, parfois aspect d'hépatite lobulaire
 - **Réversible** en quelques semaines
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16 Pathologie de la transplantation hépatique/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16%20Pathologie%20de%20la%20transplantation%20h%C3%A9patique/p13_01.jpeg)
 
 ### Foie septique (sepsis)
 
@@ -150,17 +150,17 @@ Repose sur la **TRIADE diagnostique** :
 | 5–6 | Rejet **modéré** |
 | 7–9 | Rejet **sévère** |
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16 Pathologie de la transplantation hépatique/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16%20Pathologie%20de%20la%20transplantation%20h%C3%A9patique/p21_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16 Pathologie de la transplantation hépatique/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16%20Pathologie%20de%20la%20transplantation%20h%C3%A9patique/p22_01.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16 Pathologie de la transplantation hépatique/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16%20Pathologie%20de%20la%20transplantation%20h%C3%A9patique/p23_00.jpeg)
 
 #### Variante : **rejet aigu centrolobulaire tardif**
 - Épargne souvent les espaces portes
 - Inflammation **périveinulaire centrolobulaire** + endothélite
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16 Pathologie de la transplantation hépatique/p26_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16%20Pathologie%20de%20la%20transplantation%20h%C3%A9patique/p26_01.jpeg)
 
 ### Rejet chronique
 
@@ -192,15 +192,15 @@ Repose sur la **TRIADE diagnostique** :
 - **Perte hépatocytaire centrolobulaire** : disparition des hépatocytes en zone 3, remplacés par macrophages + lymphocytes
 - **Artériopathie spumeuse** : macrophages spumeux dans l'**intima** des artérioles (visible surtout sur pièce opératoire)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16 Pathologie de la transplantation hépatique/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16%20Pathologie%20de%20la%20transplantation%20h%C3%A9patique/p27_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16 Pathologie de la transplantation hépatique/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16%20Pathologie%20de%20la%20transplantation%20h%C3%A9patique/p28_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16 Pathologie de la transplantation hépatique/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16%20Pathologie%20de%20la%20transplantation%20h%C3%A9patique/p29_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16 Pathologie de la transplantation hépatique/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16%20Pathologie%20de%20la%20transplantation%20h%C3%A9patique/p32_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16 Pathologie de la transplantation hépatique/p33_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16%20Pathologie%20de%20la%20transplantation%20h%C3%A9patique/p33_01.jpeg)
 
 ## 5. Hépatite plasmocytaire
 
@@ -212,9 +212,9 @@ Repose sur la **TRIADE diagnostique** :
 - **IgG4 élevée** dans **50 %** des cas (immunohistochimie)
 - **DSA positifs** dans **9 %** des cas
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16 Pathologie de la transplantation hépatique/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16%20Pathologie%20de%20la%20transplantation%20h%C3%A9patique/p34_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16 Pathologie de la transplantation hépatique/p34_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16%20Pathologie%20de%20la%20transplantation%20h%C3%A9patique/p34_02.jpeg)
 
 ## 6. PTLD — Lymphoprolifération post-transplantation
 
@@ -222,7 +222,7 @@ Repose sur la **TRIADE diagnostique** :
 - Marquage **CD20** des grandes cellules lymphoïdes
 - **EBV (EBER) positif dans 100 %** des cellules tumorales
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16 Pathologie de la transplantation hépatique/p37_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16%20Pathologie%20de%20la%20transplantation%20h%C3%A9patique/p37_01.jpeg)
 
 ## 7. Foie et **allogreffe de moelle osseuse**
 
@@ -245,7 +245,7 @@ Repose sur la **TRIADE diagnostique** :
 
 **DD GVH aiguë** : obstacle biliaire, sepsis (autres causes de cholestase)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16 Pathologie de la transplantation hépatique/p39_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16%20Pathologie%20de%20la%20transplantation%20h%C3%A9patique/p39_00.jpeg)
 
 ### Maladie veino-occlusive (VOD = SOS)
 
@@ -257,9 +257,9 @@ Repose sur la **TRIADE diagnostique** :
   - **Obstruction fibreuse des veines centrolobulaires**
   - **Nécrose hémorragique centrolobulaire**
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16 Pathologie de la transplantation hépatique/p39_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16%20Pathologie%20de%20la%20transplantation%20h%C3%A9patique/p39_03.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16 Pathologie de la transplantation hépatique/p40_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.16%20Pathologie%20de%20la%20transplantation%20h%C3%A9patique/p40_01.jpeg)
 
 ## Diagnostics différentiels (synoptique)
 

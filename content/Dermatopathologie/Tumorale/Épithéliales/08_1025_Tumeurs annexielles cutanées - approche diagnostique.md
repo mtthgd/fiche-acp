@@ -123,9 +123,9 @@ Famille la plus nombreuse.
 - Cellules **basophiles** + palissade discrète → trichoblastome (DD CBC)
 - **Cellules fantômes** + cellules matricielles → pilomatricome
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p15_00.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p16_00.jpeg)
 
 ---
 

@@ -36,7 +36,7 @@ source: DES ACP - Cours de gynéco-pathologie
 
 ### Histologie
 
-![[assets/gyneco-sein/corps_uterin/04_42_02_01 ADK endomètre I MDS/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_42_02_01%20ADK%20endom%C3%A8tre%20I%20MDS/p10_00.jpeg)
 
 - Architecture **micropapillaire / solide**, **papilles de petite taille et complexes**
 - Lumières glandulaires en **fente**, zones de **nécrose**
@@ -46,8 +46,8 @@ source: DES ACP - Cours de gynéco-pathologie
 - **Calcosphérites** dans **30 %** des cas
 - Zones de cellules claires possibles (n’en font pas un carcinome à cellules claires)
 
-![[assets/gyneco-sein/corps_uterin/04_42_02_01 ADK endomètre I MDS/p15_00.jpeg]]
-![[assets/gyneco-sein/corps_uterin/04_42_02_01 ADK endomètre I MDS/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_42_02_01%20ADK%20endom%C3%A8tre%20I%20MDS/p15_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_42_02_01%20ADK%20endom%C3%A8tre%20I%20MDS/p15_01.jpeg)
 
 ### Carcinome séreux intra-épithélial (EIC)
 
@@ -66,7 +66,7 @@ source: DES ACP - Cours de gynéco-pathologie
 
 > **Profil p53 wild-type** = positivité focale, intensité variable (~30-40 % noyaux) → exclut séreux
 
-![[assets/gyneco-sein/corps_uterin/04_42_02_01 ADK endomètre I MDS/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_42_02_01%20ADK%20endom%C3%A8tre%20I%20MDS/p16_00.jpeg)
 
 ### Carcinome mixte (endométrioïde + séreux)
 
@@ -76,9 +76,9 @@ source: DES ACP - Cours de gynéco-pathologie
 - **Contingent séreux > 25 %** : pronostic = celui du séreux pur
 - Aspect typique : papillaire séreux **en surface**, endométrioïde en profondeur, confirmé par p16 et p53 différentiels
 
-![[assets/gyneco-sein/corps_uterin/04_42_02_01 ADK endomètre I MDS/p19_00.jpeg]]
-![[assets/gyneco-sein/corps_uterin/04_42_02_01 ADK endomètre I MDS/p19_01.jpeg]]
-![[assets/gyneco-sein/corps_uterin/04_42_02_01 ADK endomètre I MDS/p19_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_42_02_01%20ADK%20endom%C3%A8tre%20I%20MDS/p19_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_42_02_01%20ADK%20endom%C3%A8tre%20I%20MDS/p19_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_42_02_01%20ADK%20endom%C3%A8tre%20I%20MDS/p19_02.jpeg)
 
 ## Carcinome à cellules claires
 
@@ -99,7 +99,7 @@ source: DES ACP - Cours de gynéco-pathologie
 | **Ki67** | Élevé (> endométrioïde) |
 | **Napsine A / HNF1β** | Souvent positifs (hors texte) |
 
-![[assets/gyneco-sein/corps_uterin/04_42_02_01 ADK endomètre I MDS/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_42_02_01%20ADK%20endom%C3%A8tre%20I%20MDS/p22_00.jpeg)
 
 ### Pronostic
 - **Intermédiaire** entre séreux haut grade et endométrioïde grade 3

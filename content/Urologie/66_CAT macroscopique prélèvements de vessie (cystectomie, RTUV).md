@@ -28,7 +28,7 @@ Objectifs de la prise en charge macroscopique :
 5. Analyser les **ganglions**
 
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-213-prise en charge macroscopique cystectomie/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-213-prise%20en%20charge%20macroscopique%20cystectomie/p02_00.jpeg)
 
 ---
 
@@ -46,7 +46,7 @@ Objectifs de la prise en charge macroscopique :
 - **Orientation possible** (encrage latéral + profondeur)
 - **Moins d'artéfacts d'électrocoagulation** → meilleure lecture
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-213-prise en charge macroscopique cystectomie/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-213-prise%20en%20charge%20macroscopique%20cystectomie/p03_00.jpeg)
 
 
 ## Stadification pTNM sur RTUV (rappel)
@@ -79,7 +79,7 @@ Objectifs de la prise en charge macroscopique :
 - **Marquage** de zones d'intérêt avec petits bâtonnets encrés avant fixation
 - **Ne pas mettre de papier** dans la cavité vésicale (abîme l'urothélium)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-213-prise en charge macroscopique cystectomie/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-213-prise%20en%20charge%20macroscopique%20cystectomie/p07_00.jpeg)
 
 
 ## Étape 2 — Ouverture
@@ -91,9 +91,9 @@ Objectifs de la prise en charge macroscopique :
 - Formol tamponné 10 %, laisser fixer **sans papier**
 - Encrage possible avant ou après fixation (préférence : **après fixation**)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-213-prise en charge macroscopique cystectomie/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-213-prise%20en%20charge%20macroscopique%20cystectomie/p10_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-213-prise en charge macroscopique cystectomie/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-213-prise%20en%20charge%20macroscopique%20cystectomie/p11_00.jpeg)
 
 ---
 
@@ -113,27 +113,27 @@ La cysto-prostatectomie est coupée en **2 fragments (D et G)** → prélèvemen
 | **Jonction urétéro-vésicale** | Extension tumorale à l'uretère |
 | **Prélèvement systématique de muqueuse** | Muqueuse en bon état pour éliminer CIS |
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-213-prise en charge macroscopique cystectomie/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-213-prise%20en%20charge%20macroscopique%20cystectomie/p12_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-213-prise en charge macroscopique cystectomie/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-213-prise%20en%20charge%20macroscopique%20cystectomie/p13_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-213-prise en charge macroscopique cystectomie/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-213-prise%20en%20charge%20macroscopique%20cystectomie/p14_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-213-prise en charge macroscopique cystectomie/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-213-prise%20en%20charge%20macroscopique%20cystectomie/p15_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-213-prise en charge macroscopique cystectomie/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-213-prise%20en%20charge%20macroscopique%20cystectomie/p16_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-213-prise en charge macroscopique cystectomie/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-213-prise%20en%20charge%20macroscopique%20cystectomie/p17_00.jpeg)
 
 ## Identification de l'infiltration
 - **pT3a (micro)** : attention aux pièges — réaction inflammatoire / stroma desmoplastique simulent une infiltration ; la distinction **microscopique** est essentielle
 - **pT3b (macro)** : envahissement macroscopique de la graisse évident
 - **Vésicules séminales envahies = pT4** (important à documenter)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-213-prise en charge macroscopique cystectomie/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-213-prise%20en%20charge%20macroscopique%20cystectomie/p18_00.jpeg)
 
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-213-prise en charge macroscopique cystectomie/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-213-prise%20en%20charge%20macroscopique%20cystectomie/p20_00.jpeg)
 
 ---
 
@@ -144,9 +144,9 @@ La cysto-prostatectomie est coupée en **2 fragments (D et G)** → prélèvemen
   - **Relation vessie / col utérin / vagin** (détermine le pT)
   - Sens d'infiltration : vessie → vagin ? vagin → vessie ?
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-213-prise en charge macroscopique cystectomie/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-213-prise%20en%20charge%20macroscopique%20cystectomie/p27_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-213-prise en charge macroscopique cystectomie/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-213-prise%20en%20charge%20macroscopique%20cystectomie/p28_00.jpeg)
 
 ---
 
@@ -165,9 +165,9 @@ La cysto-prostatectomie est coupée en **2 fragments (D et G)** → prélèvemen
 - **Inclure totalement** (petite taille) + toute la limite
 - **Diverticule** : pas de détrusor → pas de pT2 possible (rester descriptif : « infiltre 1/3 du tissu fibreux du diverticule »)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-213-prise en charge macroscopique cystectomie/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-213-prise%20en%20charge%20macroscopique%20cystectomie/p22_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-213-prise en charge macroscopique cystectomie/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-213-prise%20en%20charge%20macroscopique%20cystectomie/p23_00.jpeg)
 
 ---
 
@@ -200,9 +200,9 @@ La cysto-prostatectomie est coupée en **2 fragments (D et G)** → prélèvemen
 - **Localisation** anatomique
 - ⚠️ Différence classification **UICC vs AJCC** : les ganglions métastatiques **péri-vésicaux** ne sont pas comptés dans l'UICC mais le sont dans la **8ème éd. AJCC** → ne pas oublier d'explorer la graisse périvésicale
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-213-prise en charge macroscopique cystectomie/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-213-prise%20en%20charge%20macroscopique%20cystectomie/p29_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-213-prise en charge macroscopique cystectomie/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-213-prise%20en%20charge%20macroscopique%20cystectomie/p30_00.jpeg)
 
 
 ---

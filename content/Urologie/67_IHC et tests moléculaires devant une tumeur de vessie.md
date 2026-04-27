@@ -110,7 +110,7 @@ En pratique, **CK20 + p53** = cocktail standard pour ce DD ; K67 en appoint.
 - **ALK1+** = argument fort pour **TMI** (translocation)
 - **MyoD1 / myogénine +** = rhabdomyosarcome
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-214 Place de limmunohistochimie et des tests moléculaires devant une tumeur de vessie/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-214%20Place%20de%20limmunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20devant%20une%20tumeur%20de%20vessie/p12_00.jpeg)
 
 
 ---
@@ -143,7 +143,7 @@ Seuil **≥ 10** = positif pour indication pembrolizumab 1re ligne.
 ⚠️ En pratique, testing réalisé **ponctuellement** (pas de remboursement spécifique).
 
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-214 Place de limmunohistochimie et des tests moléculaires devant une tumeur de vessie/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-214%20Place%20de%20limmunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20devant%20une%20tumeur%20de%20vessie/p17_00.jpeg)
 
 
 ---
@@ -167,11 +167,11 @@ Seuil **≥ 10** = positif pour indication pembrolizumab 1re ligne.
 - ⚠️ Détection des **fusions** = nécessite **recherche de transcrits sur ARN**, **pas par FISH**
 - IHC FGFR3 : place à l'étude comme crible
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-214 Place de limmunohistochimie et des tests moléculaires devant une tumeur de vessie/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-214%20Place%20de%20limmunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20devant%20une%20tumeur%20de%20vessie/p19_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-214 Place de limmunohistochimie et des tests moléculaires devant une tumeur de vessie/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-214%20Place%20de%20limmunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20devant%20une%20tumeur%20de%20vessie/p20_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-214 Place de limmunohistochimie et des tests moléculaires devant une tumeur de vessie/p21_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-214%20Place%20de%20limmunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20devant%20une%20tumeur%20de%20vessie/p21_00.png)
 
 ---
 
@@ -191,7 +191,7 @@ Seuil **≥ 10** = positif pour indication pembrolizumab 1re ligne.
 - Non utilisée en routine actuellement
 - Intérêt **prédictif** potentiel pour chimiothérapie / immunothérapie (à évaluer)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-214 Place de limmunohistochimie et des tests moléculaires devant une tumeur de vessie/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-214%20Place%20de%20limmunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20devant%20une%20tumeur%20de%20vessie/p22_00.jpeg)
 
 ---
 

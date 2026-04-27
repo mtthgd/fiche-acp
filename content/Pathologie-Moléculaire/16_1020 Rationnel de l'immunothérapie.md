@@ -47,9 +47,9 @@ L’**immunothérapie** vise à **restaurer ou amplifier** la réponse anti-tumo
 - **Voie intrinsèque mitochondriale** : **perforine + granzymes** → cytochrome C → caspase 9
 - **Voie extrinsèque** : **TNF, Fas-L, TRAIL** → DISC (FADD + caspases 8/10)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1020_Rationnel ImT Audio/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1020_Rationnel%20ImT%20Audio/p05_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1020_Rationnel ImT Audio/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1020_Rationnel%20ImT%20Audio/p05_01.jpeg)
 
 ## Immunosurveillance — preuves
 
@@ -60,9 +60,9 @@ L’**immunothérapie** vise à **restaurer ou amplifier** la réponse anti-tumo
 | **Régression spontanée** | Mélanome, carcinome rénal à cellules claires |
 | Cancers chez immunodéprimés | Cancers viro-induits (SIDA, post-greffe) |
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1020_Rationnel ImT Audio/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1020_Rationnel%20ImT%20Audio/p06_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1020_Rationnel ImT Audio/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1020_Rationnel%20ImT%20Audio/p08_00.jpeg)
 
 ## Immuno-édition tumorale — théorie des 3E
 
@@ -80,11 +80,11 @@ Mécanismes : instabilité génétique → anomalies de présentation antigéniq
 | **Équilibre** | Sélection darwinienne ; émergence continue de variants ; phase **infraclinique** longue (années) |
 | **Échappement** | Variants résistants prolifèrent → tumeur clinique + métastases |
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1020_Rationnel ImT Audio/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1020_Rationnel%20ImT%20Audio/p09_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1020_Rationnel ImT Audio/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1020_Rationnel%20ImT%20Audio/p10_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1020_Rationnel ImT Audio/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1020_Rationnel%20ImT%20Audio/p11_00.jpeg)
 
 ## Mécanismes d’échappement (5 grands types)
 
@@ -118,9 +118,9 @@ Mécanismes : instabilité génétique → anomalies de présentation antigéniq
 - Sécrétion d’inducteurs d’apoptose (RCAS1, CXL2)
 - Inactivation des **checkpoints PD-1/PD-L1, CTLA-4**
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1020_Rationnel ImT Audio/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1020_Rationnel%20ImT%20Audio/p13_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1020_Rationnel ImT Audio/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1020_Rationnel%20ImT%20Audio/p13_01.jpeg)
 
 
 
@@ -147,14 +147,14 @@ But : **fournir** des effecteurs (anticorps ou cellules), réponse **brève**, i
 | Anticorps monoclonaux | Rituximab, trastuzumab, cétuximab |
 | **CAR-T** (lymphocytes T à récepteur antigénique chimérique) | Tisagenlecleucel (LAL-B, DLBCL) ; approche **autologue** ou **allogénique** : isolation → amplification/activation **ex vivo** → réinjection |
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1020_Rationnel ImT Audio/p20_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1020_Rationnel%20ImT%20Audio/p20_00.png)
 
 
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1020_Rationnel ImT Audio/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1020_Rationnel%20ImT%20Audio/p22_00.jpeg)
 
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1020_Rationnel ImT Audio/p22_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1020_Rationnel%20ImT%20Audio/p22_02.jpeg)
 
 ## Inhibiteurs de checkpoint — vue d’ensemble
 

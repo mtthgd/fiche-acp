@@ -32,7 +32,7 @@ source: DES ACP - Cours de dermatopathologie
 | **Intermédiaires** | Hémangioendothéliome rétiforme, kaposiforme, épithélioïde |
 | **Malignes** | Sarcome de Kaposi, angiosarcome — voir [[08_1046_Sarcome de Kaposi et angiosarcomes cutanés, commenté]] |
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p03_00.jpeg)
 
 ## Hémangiome capillaire lobulaire (= granulome pyogénique / botryomycome)
 
@@ -52,10 +52,10 @@ source: DES ACP - Cours de dermatopathologie
 - Bouquets de capillaires en lobules (lumières aplaties)
 - Ulcération possible avec œdème/inflammation sous-jacente
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p06_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p07_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p08_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p06_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p07_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p08_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p09_00.jpeg)
 
 ## Hémangiome rubis (taches rubis, Campbell de Morgan spots)
 
@@ -72,9 +72,9 @@ source: DES ACP - Cours de dermatopathologie
 - Collerette épithéliale **moins marquée** que botryomycome
 - Remaniements hyalins, stroma myxoïde/fibreux lâche
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p11_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p12_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p11_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p12_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p13_00.jpeg)
 
 ## Angiokératome (NON un hémangiome)
 
@@ -95,10 +95,10 @@ source: DES ACP - Cours de dermatopathologie
 - Pas de contingent vasculaire profond
 - **GLUT-1 −** (≠ hémangiome verruqueux et hémangiome infantile)
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p16_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p17_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p18_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p16_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p17_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p18_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p19_00.jpeg)
 
 ## Lac veineux
 
@@ -111,8 +111,8 @@ source: DES ACP - Cours de dermatopathologie
 ### Histologie
 - **Cavité congestive** riche en hématies dans le derme superficiel, ± thrombose
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p22_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p22_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p23_00.jpeg)
 
 ## Lymphangiome
 
@@ -127,8 +127,8 @@ source: DES ACP - Cours de dermatopathologie
 - Lymphocytes/monocytes dans les lumières
 - **D2-40 +** confirme la nature lymphatique
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p25_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p25_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p26_00.jpeg)
 
 ## Hémangiome infantile
 
@@ -154,9 +154,9 @@ source: DES ACP - Cours de dermatopathologie
 - Marquage **conservé même en phase régressive**
 - ≠ **hémangiomes congénitaux** (RICH = rapidly involuting, NICH = non-involuting) qui sont **GLUT-1 −**
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p30_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p31_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p30_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p31_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p32_00.jpeg)
 
 ## Hémangiome épithélioïde (= ALHE — angiolymphoïde hyperplasia)
 
@@ -172,9 +172,9 @@ source: DES ACP - Cours de dermatopathologie
 - Endothélium **épithélioïde non aplati**, protrusion intra-luminale
 - Vacuoles intra-cytoplasmiques caractéristiques
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p36_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p37_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p38_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p36_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p37_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p38_00.jpeg)
 
 ## Hyperplasie endothéliale papillaire (Masson)
 
@@ -188,8 +188,8 @@ source: DES ACP - Cours de dermatopathologie
 - **Architecture papillaire** marquée autour d'une thrombose ou hématome
 - Papilles bordées d'une **assise endothéliale unique non atypique**
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p40_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p41_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p40_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p41_00.jpeg)
 
 ## Malformations vasculaires (classification ISSVA)
 
@@ -208,9 +208,9 @@ source: DES ACP - Cours de dermatopathologie
 - **Différenciation hémangiome / malformation difficile** → intégration anatomo-clinique
 - Possibilité de matériel d'embolisation noirâtre intravasculaire
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p43_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p44_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p47_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p43_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p44_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p47_00.jpeg)
 
 ## Hamartome angio-éccrine
 
@@ -222,7 +222,7 @@ source: DES ACP - Cours de dermatopathologie
 ### Histologie
 - Lumières vasculaires intriquées à des **pelotons sudoraux eccrines**
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p50_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p50_00.jpeg)
 
 ## Hémangiome touffu
 
@@ -236,8 +236,8 @@ source: DES ACP - Cours de dermatopathologie
 - Petites lumières vasculaires tassées, **cerclées d'une lumière lymphatique en croissant**
 - **CD31 + diffus** ; **D2-40 +** périphérique (croissants lymphatiques)
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p52_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p54_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p52_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p54_00.jpeg)
 
 ## Hémangiome glomérulaire (glomeruloid)
 
@@ -248,7 +248,7 @@ source: DES ACP - Cours de dermatopathologie
 ### Histologie
 - Multiples nodules **intravasculaires** dermiques **ressemblant à des glomérules rénaux**
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p57_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p57_00.jpeg)
 
 ## Hémangiome microvénulaire
 
@@ -265,8 +265,8 @@ source: DES ACP - Cours de dermatopathologie
   - **HHV8 −**, pas de prolifération fusiforme associée
   - **Ki67 bas**
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p59_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043 - Principales lésions vasculaire/p60_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p59_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1043%20-%20Principales%20l%C3%A9sions%20vasculaire/p60_00.jpeg)
 
 ## Hémangioendothéliomes (rappel — malignité intermédiaire)
 

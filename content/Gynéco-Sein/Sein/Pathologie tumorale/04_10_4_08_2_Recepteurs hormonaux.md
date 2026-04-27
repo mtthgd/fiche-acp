@@ -74,9 +74,9 @@ Statut RH = **facteur pronostique** mais surtout **prédictif majeur** :
 | **Témoin externe** | Indispensable (suivi qualité hebdomadaire) |
 | **Témoin interne** | Glandes mammaires normales **doivent être positives** (sinon ajouter témoin externe) |
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1 Recepteurs hormonaux Laurent ARNOULD/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1%20Recepteurs%20hormonaux%20Laurent%20ARNOULD/p13_00.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1 Recepteurs hormonaux Laurent ARNOULD/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1%20Recepteurs%20hormonaux%20Laurent%20ARNOULD/p14_00.jpeg)
 
 ### Anticorps recommandés
 - **ER** : clone **SP1** (Ventana, lapin monoclonal)
@@ -101,11 +101,11 @@ Statut RH = **facteur pronostique** mais surtout **prédictif majeur** :
 
 > **Lien intensité / pourcentage** : tumeur 80-100 % de cellules marquées **mais 1+ faible** = **rare → suspecter défaut technique**.
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1 Recepteurs hormonaux Laurent ARNOULD/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1%20Recepteurs%20hormonaux%20Laurent%20ARNOULD/p16_00.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1 Recepteurs hormonaux Laurent ARNOULD/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1%20Recepteurs%20hormonaux%20Laurent%20ARNOULD/p17_00.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1 Recepteurs hormonaux Laurent ARNOULD/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1%20Recepteurs%20hormonaux%20Laurent%20ARNOULD/p18_00.jpeg)
 
 ## Seuils de positivité
 
@@ -160,9 +160,9 @@ Statut RH = **facteur pronostique** mais surtout **prédictif majeur** :
 | Score modéré | **~ 50 %** |
 | Score faible | **franchement moins** |
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1 Recepteurs hormonaux Laurent ARNOULD/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1%20Recepteurs%20hormonaux%20Laurent%20ARNOULD/p24_00.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1 Recepteurs hormonaux Laurent ARNOULD/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_1%20Recepteurs%20hormonaux%20Laurent%20ARNOULD/p26_00.jpeg)
 
 ## Sur quel prélèvement ?
 

@@ -39,7 +39,7 @@ Le **léiomyome utérin** est une **prolifération bénigne de cellules tumorale
 | Aspect de tranche | **Homogène, fasciculé** |
 | Comportement | **Protrusion** à la tranchage à l’état frais |
 
-![[assets/gyneco-sein/corps_uterin/04_45_01 Leiomyome  macro et sémio (2)/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_45_01%20Leiomyome%20%20macro%20et%20s%C3%A9mio%20%282%29/p05_00.jpeg)
 
 ### Localisations
 
@@ -59,8 +59,8 @@ Un léiomyome **n’élimine pas** d’autres pathologies utérines coexistantes
 - **Sarcome du stroma endométrial**
 - **Adénomyose**
 
-![[assets/gyneco-sein/corps_uterin/04_45_01 Leiomyome  macro et sémio (2)/p08_00.jpeg]]
-![[assets/gyneco-sein/corps_uterin/04_45_01 Leiomyome  macro et sémio (2)/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_45_01%20Leiomyome%20%20macro%20et%20s%C3%A9mio%20%282%29/p08_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_45_01%20Leiomyome%20%20macro%20et%20s%C3%A9mio%20%282%29/p09_00.jpeg)
 
 ### Échantillonnage selon le type de prélèvement
 
@@ -123,8 +123,8 @@ Un léiomyome **n’élimine pas** d’autres pathologies utérines coexistantes
 |-------|-------------|------|
 | Légères / modérées / sévères | diffuses / focales / multifocales | **pléomorphes** (visibles au faible grossissement) ou **monomorphes** (anomalies de chromatine récurrentes) |
 
-![[assets/gyneco-sein/corps_uterin/04_45_01 Leiomyome  macro et sémio (2)/p16_00.jpeg]]
-![[assets/gyneco-sein/corps_uterin/04_45_01 Leiomyome  macro et sémio (2)/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_45_01%20Leiomyome%20%20macro%20et%20s%C3%A9mio%20%282%29/p16_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_45_01%20Leiomyome%20%20macro%20et%20s%C3%A9mio%20%282%29/p17_00.jpeg)
 
 ## Activité mitotique — règles de comptage
 
@@ -134,7 +134,7 @@ Un léiomyome **n’élimine pas** d’autres pathologies utérines coexistantes
 - Compte facilité dans les **faisceaux musculaires inclus longitudinalement**.
 - Nécessite : bonne fixation, coupe fine, qualité technique.
 
-![[assets/gyneco-sein/corps_uterin/04_45_01 Leiomyome  macro et sémio (2)/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_45_01%20Leiomyome%20%20macro%20et%20s%C3%A9mio%20%282%29/p19_00.jpeg)
 
 ## Immunohistochimie
 

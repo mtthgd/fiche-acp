@@ -52,7 +52,7 @@ source: DES ACP - Cours d'urologie
 > Toute composante **sarcomatoïde** ou **rhabdoïde** → **grade 4 obligatoire** (quel que soit le sous-type). Pas d'IHC nécessaire sur ces contingents.
 
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p06_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p06_00.png)
 
 
 ### Composante sarcomatoïde et rhabdoïde
@@ -61,33 +61,33 @@ source: DES ACP - Cours d'urologie
 - **Rhabdoïde** : à repérer à **petit grandissement** — grandes cellules éosinophiles **non cohésives** ; à fort grossissement = cytoplasme éosinophile **en boule** refoulant le noyau en périphérie (aspect de rhabdomyoblaste) — **pas d'IHC nécessaire**.
 
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p10_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p10_01.jpeg]]
-
-
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p11_00.jpeg]]
-
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p10_01.jpeg)
 
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p11_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p11_01.jpeg)
 
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p12_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p12_01.jpeg)
+
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p13_00.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p13_01.jpeg)
 
 
 > **Hétérogénéité** : les ccRCC peuvent présenter un foyer jaune chamois typique G1/G2 et une zone blanchâtre indurée correspondant à un **G4 ISUP** (pléomorphisme marqué). **Une mauvaise macroscopie = un mauvais CR**.
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p14_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p14_01.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p14_02.jpeg)
 
 
 ---
@@ -119,14 +119,14 @@ source: DES ACP - Cours d'urologie
 - **Thrombus microscopique** fortuit dans une **branche** de la veine rénale au hile = **pT3a** (même sans visibilité macroscopique).
 - **Infiltration des cavités pyélocalicielles / bassinet** = **pT3a** (rare mais non exceptionnel).
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p15_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p15_01.jpeg)
 
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p16_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p16_01.jpeg)
 
 
 ### Pièges pT3a vs pT1/pT2
@@ -135,11 +135,11 @@ source: DES ACP - Cours d'urologie
 - **pT3a graisse péri-rénale** = **contact direct** tumeur/adipocytes (interface macroscopiquement **très irrégulière**, infiltration visible).
 - **pT3a graisse hilaire** = contact tumeur/graisse au **hile** (près du bassinet et des vaisseaux).
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p17_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p17_01.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p17_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p17_02.jpeg)
 
 
 ### Thrombus veineux
@@ -147,18 +147,18 @@ source: DES ACP - Cours d'urologie
 - **Volumineux thrombus** de la veine rénale = souvent évident en macroscopie (saillie à la recoupe).
 - Histologiquement = carcinome dans la lumière, parfois **adhérent à la paroi** vasculaire → à préciser.
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p20_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p20_01.jpeg)
 
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p21_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p21_01.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p21_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p21_02.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p21_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p21_03.jpeg)
 
 
 ### Surrénale : pT4 vs M1
@@ -166,14 +166,14 @@ source: DES ACP - Cours d'urologie
 - **pT4** = surrénale envahie **par contiguïté** (continuité tumeur rénale → graisse → surrénale).
 - **M1** = surrénale tumorale **sans contact** avec la tumeur intra-rénale.
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p22_00.jpeg)
 
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p23_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p24_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p25_00.jpeg)
 
 ---
 
@@ -190,38 +190,38 @@ source: DES ACP - Cours d'urologie
 | **Envahissement du sinus** | Classe en **pT3a** — examen macroscopique **méticuleux** |
 | **Ganglions** | Nombre examinés / envahis, **rupture capsulaire** (mauvais pronostic), **taille** de la métastase (> 1 cm = péjoratif) |
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p26_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p26_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p26_01.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p26_02.jpeg]]
-
-
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p27_00.jpeg]]
-
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p27_01.jpeg]]
-
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p27_02.jpeg]]
-
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p27_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p26_02.jpeg)
 
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p27_00.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p27_01.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p27_02.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p27_03.jpeg)
 
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p29_00.jpeg]]
-
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p29_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p28_00.jpeg)
 
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p29_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p30_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p29_01.jpeg)
 
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p30_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-114-Cancer du rein facteurs pronostiques/p31_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p30_01.jpeg)
+
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p31_00.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-114-Cancer%20du%20rein%20facteurs%20pronostiques/p31_01.jpeg)
 
 
 ---

@@ -34,8 +34,8 @@ Deux populations de patients distinctes pour les CE oropharyngés :
 | Gène P16 | Muté / perdu | **Surexprimé (p16+)** |
 | Pronostic | Moins bon | **Meilleur (radio/chimiosensible)** |
 
-![[assets/ORL/VADS/carcinome_epidermoide/cours CE oropharynxcbok/p03_01.jpeg]]
-![[assets/ORL/VADS/carcinome_epidermoide/cours CE oropharynxcbok/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/cours%20CE%20oropharynxcbok/p03_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/cours%20CE%20oropharynxcbok/p05_01.jpeg)
 
 ## Clinique / Épidémio / FR
 
@@ -77,7 +77,7 @@ Deux populations de patients distinctes pour les CE oropharyngés :
 
 > Pour les CE non kératinisants, **la notion de différenciation ne s'applique plus**.
 
-![[assets/ORL/VADS/carcinome_epidermoide/cours CE oropharynxcbok/p01_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/cours%20CE%20oropharynxcbok/p01_03.jpeg)
 
 ### CE oropharyngé HPV+ — morphologie typique
 
@@ -90,9 +90,9 @@ Deux populations de patients distinctes pour les CE oropharyngés :
 - Aspect **basaloïde**
 - Stroma **fibreux** ± **inflammatoire**
 
-![[assets/ORL/VADS/carcinome_epidermoide/cours CE oropharynxcbok/p10_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/cours%20CE%20oropharynxcbok/p10_03.jpeg)
 
-![[assets/ORL/VADS/carcinome_epidermoide/cours CE oropharynxcbok/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/cours%20CE%20oropharynxcbok/p14_01.jpeg)
 
 ### Variantes morphologiques HPV+ (plus rares)
 - CE **papillaire**
@@ -123,7 +123,7 @@ Deux populations de patients distinctes pour les CE oropharyngés :
 
 > **80 % des CE oropharyngés p16+ sont HPV+** (p16 = marqueur indirect). Si p16+ sur CE **non kératinisant** oropharyngé → classer **HPV+**.
 
-![[assets/ORL/VADS/carcinome_epidermoide/cours CE oropharynxcbok/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/cours%20CE%20oropharynxcbok/p21_01.jpeg)
 
 ### Algorithme de test HPV en routine
 

@@ -56,13 +56,13 @@ source: DES ACP - Cours de néphropathologie
 | **Prolifération extracapillaire** | **Croissants épithéliaux** circonférentiels ou hémicirconférentiels dans la chambre urinaire |
 | **Vascularite associée** | Nécrose fibrinoïde de la paroi des **artères et artérioles** (hors artériole pré-glomérulaire) avec afflux inflammatoire |
 
-![[assets/nephropathologie/urgences/410-14 Urgences/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/urgences/410-14%20Urgences/p11_01.jpeg)
 
-![[assets/nephropathologie/urgences/410-14 Urgences/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/urgences/410-14%20Urgences/p11_02.jpeg)
 
-![[assets/nephropathologie/urgences/410-14 Urgences/p11_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/urgences/410-14%20Urgences/p11_03.jpeg)
 
-![[assets/nephropathologie/urgences/410-14 Urgences/p11_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/urgences/410-14%20Urgences/p11_04.jpeg)
 
 ### Lésions chroniques associées
 
@@ -70,13 +70,13 @@ source: DES ACP - Cours de néphropathologie
 - **Glomérules scléreux**
 - **Anciens croissants fibreux / fibro-cicatriciels** dans la chambre urinaire
 
-![[assets/nephropathologie/urgences/410-14 Urgences/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/urgences/410-14%20Urgences/p12_01.jpeg)
 
-![[assets/nephropathologie/urgences/410-14 Urgences/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/urgences/410-14%20Urgences/p12_02.jpeg)
 
-![[assets/nephropathologie/urgences/410-14 Urgences/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/urgences/410-14%20Urgences/p13_01.jpeg)
 
-![[assets/nephropathologie/urgences/410-14 Urgences/p13_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/urgences/410-14%20Urgences/p13_02.jpeg)
 
 ### Classement étiologique par IF
 
@@ -88,17 +88,17 @@ source: DES ACP - Cours de néphropathologie
 | **Full-house** (IgG/A/M, C3, C1q) | **Lupus érythémateux** | Classes ISN/RPS III ou IV ± croissants |
 | Dépôts d'Ig granulaires | **GN à complexes immuns** (post-infectieuses, cryoglobulinémie…) | Dépôts mésangiaux et/ou endomembraneux |
 
-![[assets/nephropathologie/urgences/410-14 Urgences/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/urgences/410-14%20Urgences/p15_01.jpeg)
 
-![[assets/nephropathologie/urgences/410-14 Urgences/p15_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/urgences/410-14%20Urgences/p15_02.jpeg)
 
-![[assets/nephropathologie/urgences/410-14 Urgences/p15_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/urgences/410-14%20Urgences/p15_03.jpeg)
 
-![[assets/nephropathologie/urgences/410-14 Urgences/p15_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/urgences/410-14%20Urgences/p15_04.jpeg)
 
-![[assets/nephropathologie/urgences/410-14 Urgences/p15_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/urgences/410-14%20Urgences/p15_05.jpeg)
 
-![[assets/nephropathologie/urgences/410-14 Urgences/p15_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/urgences/410-14%20Urgences/p15_06.jpeg)
 
 ## II. Néphropathies tubulo-interstitielles et tubulaires en urgence
 
@@ -110,9 +110,9 @@ Devant une IRA avec atteinte tubulo-interstitielle :
 - Touche tubes contournés **proximaux et distaux**
 - Voir [[15_NTA - Nécrose tubulaire aiguë]]
 
-![[assets/nephropathologie/urgences/410-14 Urgences/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/urgences/410-14%20Urgences/p16_01.jpeg)
 
-![[assets/nephropathologie/urgences/410-14 Urgences/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/urgences/410-14%20Urgences/p17_01.jpeg)
 
 ### 2. Néphropathie interstitielle inflammatoire (NTIA)
 
@@ -125,9 +125,9 @@ Devant une IRA avec atteinte tubulo-interstitielle :
 - **Granulomes épithélioïdes** ± cellules géantes multinucléées, **non nécrosants** le plus souvent
 - Étiologies à éliminer : **immuno-allergique** (médicamenteuse), **infectieuse** (TB, BCG-thérapie), **sarcoïdose**, vascularites (Wegener, EGPA)
 
-![[assets/nephropathologie/urgences/410-14 Urgences/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/urgences/410-14%20Urgences/p18_01.jpeg)
 
-![[assets/nephropathologie/urgences/410-14 Urgences/p18_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/urgences/410-14%20Urgences/p18_02.jpeg)
 
 ### 4. Tubulopathie myélomateuse (NCM)
 

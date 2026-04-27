@@ -33,13 +33,13 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Abstention** ou exérèse simple sans marge
 - Pronostic **excellent**, régression spontanée possible, récidives exceptionnelles
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p04_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p04_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p04_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p04_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p04_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p04_03.jpeg)
 
 ## Histologie
 
@@ -48,11 +48,11 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Alternance** : zones denses collagéniques / zones cellulaires / zones lâches myxoïdes
 - Remaniements hémorragiques fréquents
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p05_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p05_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p05_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p05_03.jpeg)
 
 ### Cytologie
 - Prolifération **désordonnée, désorganisée** : faisceaux courts partant en tous sens
@@ -63,21 +63,21 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Mitoses nombreuses MAIS jamais atypiques**
 - Cellules géantes multinucléées ostéoclastiques possibles
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p12_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p13_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p14_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p14_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p14_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p15_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p16_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p16_01.jpeg)
 
 ## IHC
 
@@ -89,20 +89,20 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 | Desmine | Rarement + focal |
 | AE1/AE3, PS100, CD34 | **Négatifs** |
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p17_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p18_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p19_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p20_00.jpeg)
 
 ## Biologie moléculaire
 - **Réarrangement USP6** en FISH : **60-70%** des cas
 - **Non spécifique** (aussi dans kystes anévrismaux, myosite ossifiante) — partenaire de fusion variable
 - Seuil laboratoire habituel : **> 10%** de noyaux réarrangés (simulateurs peuvent avoir un petit clone)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p21_00.jpeg)
 
 ---
 
@@ -119,22 +119,22 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
   1. Lésion tissulaire mal définie
   2. **Coque calcifiée périphérique** progressive (radio-opaque)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p23_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p24_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p25_00.jpeg)
 
 ## Histologie : **phénomène de zone**
 - **Centre** : aspect de fasciite nodulaire (myofibroblastes + flaques myxoïdes)
 - **Zone intermédiaire** : collagénisation, ostéoïde
 - **Périphérie** : **travées osseuses matures** avec bordure ostéoblastique non atypique
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p26_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p27_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p27_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p28_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p28_00.png)
 
 - **Pas d'IHC ni FISH** en routine (USP6 possible mais peu étudié)
 
@@ -155,13 +155,13 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 | Pénienne | **Lapeyronie** | Diagnostic clinique |
 | Coussinets fibreux phalanges | – | Dermo-hypodermique, IPP |
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p29_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p29_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p29_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p30_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p30_00.png)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p30_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p30_01.jpeg)
 
 ## Histologie
 - Épaississement de l'aponévrose par une formation **multinodulaire**
@@ -170,17 +170,17 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Plages œdémateuses, extravasation, sidérophages
 - Lésions anciennes : collagène abondant, cellularité faible
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p30_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p30_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p31_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p32_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p33_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p34_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p35_00.jpeg)
 
 ---
 
@@ -202,18 +202,18 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 | Localisation | **Extra-abdominale** (membres, tronc) | **Abdominale** (paroi, cavité) |
 | Contexte | Isolée | **Gardner**, PAF, Turcot |
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p41_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p41_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p42_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p42_00.jpeg)
 
 ## Clinique / Macro / Imagerie
 - Croissance **lente, insidieuse, asymptomatique**
 - Unique ou multiple
 - **Très mal limitée**, infiltrante, **dissèque le muscle** (différence majeure / fibromatoses superficielles)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p43_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p43_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p44_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p44_00.jpeg)
 
 ## Histologie
 - **Clé du diagnostic** : image du **front d'invasion** (périphérie)
@@ -223,21 +223,21 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Matrice collagénique **ondulée, fibrillaire**, parfois pseudo-chéloïdienne
 - **Rares mitoses**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p49_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p49_00.png)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p50_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p50_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p50_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p50_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p51_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p51_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p52_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p52_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p53_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p53_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p54_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p54_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p55_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p55_00.jpeg)
 
 ## IHC (économe — préserver matériel pour biomol)
 
@@ -249,24 +249,24 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 | PS100 | – (éliminer neurofibrome diffus) |
 | MUC4 | – (éliminer LGFMS) |
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p56_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p56_00.jpeg)
 
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p56_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p56_03.jpeg)
 
 ## Biologie moléculaire (diagnostic)
 - **Sporadique** : mutation ponctuelle **CTNNB1 exon 3** (> 90%) → **T41A, S45F, S45P** → bêta-caténine non dégradée = oncogène
 - **Syndromique** : mutation **APC**
 
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p57_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p57_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p57_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p57_02.png)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p57_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p57_03.jpeg)
 
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p57_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p57_05.jpeg)
 
 ## Évolution et prise en charge
 **3 issues possibles** : progression, stabilisation, **régression spontanée**
@@ -275,12 +275,12 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Discussion en **RCP SarCOM** / oncopédiatrie, traitement médical éventuel
 
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p58_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p58_02.png)
 
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p58_07.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p58_07.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556 Fasciite nodulaire, myosite ossifiante, fibromatoses superficielles et profondes/p59_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-556%20Fasciite%20nodulaire%2C%20myosite%20ossifiante%2C%20fibromatoses%20superficielles%20et%20profondes/p59_00.jpeg)
 
 ---
 

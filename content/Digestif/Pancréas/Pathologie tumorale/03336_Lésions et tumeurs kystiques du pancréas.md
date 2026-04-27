@@ -50,9 +50,9 @@ source: DES ACP - Cours de digestif
 
 > Ce cours se concentre sur **3 entités tumorales** (SCN, MCN, SPN) + **pseudokyste**.
 
-![[assets/digestif/pancreas/tumorale/03.3.3.6 Lésions et tumeurs kystiques du pancréas/p04_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.6%20L%C3%A9sions%20et%20tumeurs%20kystiques%20du%20pancr%C3%A9as/p04_00.png)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.6 Lésions et tumeurs kystiques du pancréas/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.6%20L%C3%A9sions%20et%20tumeurs%20kystiques%20du%20pancr%C3%A9as/p07_00.jpeg)
 
 ---
 
@@ -75,7 +75,7 @@ source: DES ACP - Cours de digestif
 
 > ⚠ Pièges : **TPP** ou **ADK kystisé** peuvent ressembler à un pseudokyste → **contexte clinique** crucial.
 
-![[assets/digestif/pancreas/tumorale/03.3.3.6 Lésions et tumeurs kystiques du pancréas/p10_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.6%20L%C3%A9sions%20et%20tumeurs%20kystiques%20du%20pancr%C3%A9as/p10_00.png)
 
 ---
 
@@ -105,9 +105,9 @@ source: DES ACP - Cours de digestif
 - **NE COMMUNIQUE PAS** avec les canaux pancréatiques
 - Forme avec kystes plus volumineux : peut déformer le Wirsung sans l'envahir
 
-![[assets/digestif/pancreas/tumorale/03.3.3.4 Adénocarcinome pancréatique et ses variants/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.4%20Ad%C3%A9nocarcinome%20pancr%C3%A9atique%20et%20ses%20variants/p15_00.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.4 Adénocarcinome pancréatique et ses variants/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.4%20Ad%C3%A9nocarcinome%20pancr%C3%A9atique%20et%20ses%20variants/p16_00.jpeg)
 
 ## Histologie
 - Cavités de **petite taille**
@@ -140,11 +140,11 @@ source: DES ACP - Cours de digestif
 | **Adénome séreux solide** | Même histologie sans kyste |
 | **Associée à VHL** | **> 50 %** des patients VHL ; **multiples**, parfois macrokystiques |
 
-![[assets/digestif/pancreas/tumorale/03.3.3.2 Pathologie moléculaire de ladénocarcinome du pancréas/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.2%20Pathologie%20mol%C3%A9culaire%20de%20lad%C3%A9nocarcinome%20du%20pancr%C3%A9as/p17_01.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p18_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p18_01.png)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.2 Pathologie moléculaire de ladénocarcinome du pancréas/p20_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.2%20Pathologie%20mol%C3%A9culaire%20de%20lad%C3%A9nocarcinome%20du%20pancr%C3%A9as/p20_00.png)
 
 ---
 
@@ -173,7 +173,7 @@ source: DES ACP - Cours de digestif
 
 > Aspect macroscopique très ressemblant aux **tumeurs mucineuses ovariennes**.
 
-![[assets/digestif/pancreas/tumorale/03.3.3.6 Lésions et tumeurs kystiques du pancréas/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.6%20L%C3%A9sions%20et%20tumeurs%20kystiques%20du%20pancr%C3%A9as/p23_00.jpeg)
 
 ## Histologie — 2 composantes obligatoires
 
@@ -201,9 +201,9 @@ source: DES ACP - Cours de digestif
 - **KRAS** muté
 - Mêmes gènes que les ADK pancréatiques altérés (avec fréquence ↑ avec dysplasie)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.6 Lésions et tumeurs kystiques du pancréas/p27_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.6%20L%C3%A9sions%20et%20tumeurs%20kystiques%20du%20pancr%C3%A9as/p27_00.png)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p28_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p28_01.png)
 
 ---
 
@@ -235,9 +235,9 @@ source: DES ACP - Cours de digestif
 - **Pas de véritable capsule**
 - Aspect : solide ou très kystique
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p32_00.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p33_00.jpeg)
 
 ## Histologie
 - Prolifération de **cellules uniformes**
@@ -249,9 +249,9 @@ source: DES ACP - Cours de digestif
 
 > **Ressemblance macroscopique** : peut imiter un pseudokyste si très kystique.
 
-![[assets/digestif/pancreas/tumorale/03.3.3.4 Adénocarcinome pancréatique et ses variants/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.4%20Ad%C3%A9nocarcinome%20pancr%C3%A9atique%20et%20ses%20variants/p35_00.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.4 Adénocarcinome pancréatique et ses variants/p36_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.4%20Ad%C3%A9nocarcinome%20pancr%C3%A9atique%20et%20ses%20variants/p36_00.jpeg)
 
 ## IHC (très utile)
 

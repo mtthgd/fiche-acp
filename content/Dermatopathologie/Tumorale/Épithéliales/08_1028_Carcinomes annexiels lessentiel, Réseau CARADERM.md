@@ -86,9 +86,9 @@ L'OMS 2018 a proposé une nouvelle classification des tumeurs annexielles avec :
 - **Différenciation ductulaire** débutante dans les massifs (morphologique ou par IHC : **CEA+**).
 - Forme évoluée : envahissement dermique mal limité avec **embols lymphatiques fréquents**, différenciation ductulaire avec petits tubes arrondis.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1028 Carcinomes annexiels  lessentiel, Réseau CARADERM/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1028%20Carcinomes%20annexiels%20%20lessentiel%2C%20R%C3%A9seau%20CARADERM/p10_00.jpeg)
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1028 Carcinomes annexiels  lessentiel, Réseau CARADERM/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1028%20Carcinomes%20annexiels%20%20lessentiel%2C%20R%C3%A9seau%20CARADERM/p11_00.jpeg)
 
 ## Hidradénocarcinome
 
@@ -115,7 +115,7 @@ L'OMS 2018 a proposé une nouvelle classification des tumeurs annexielles avec :
 
 - **CRTC1-MAML2** dans une partie des cas (< 50 %).
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1028 Carcinomes annexiels  lessentiel, Réseau CARADERM/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1028%20Carcinomes%20annexiels%20%20lessentiel%2C%20R%C3%A9seau%20CARADERM/p12_00.jpeg)
 
 ## Carcinome annexiel microkystique (CAM)
 
@@ -142,7 +142,7 @@ L'OMS 2018 a proposé une nouvelle classification des tumeurs annexielles avec :
 - Atypies cytologiques peu marquées.
 - **Différenciations ductulaires** typiques rappelant le canal excréteur sudoral.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1028 Carcinomes annexiels  lessentiel, Réseau CARADERM/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1028%20Carcinomes%20annexiels%20%20lessentiel%2C%20R%C3%A9seau%20CARADERM/p14_00.jpeg)
 
 ---
 
@@ -174,7 +174,7 @@ L'OMS 2018 a proposé une nouvelle classification des tumeurs annexielles avec :
 | **EMA** | **+ fortement** dans les sébocytes matures (bon outil pour les identifier) |
 | **MMR** (MLH1/MSH2/MSH6/PMS2) | À tester systématiquement (Muir-Torre) |
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1028 Carcinomes annexiels  lessentiel, Réseau CARADERM/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1028%20Carcinomes%20annexiels%20%20lessentiel%2C%20R%C3%A9seau%20CARADERM/p16_00.jpeg)
 
 ---
 
@@ -200,7 +200,7 @@ L'OMS 2018 a proposé une nouvelle classification des tumeurs annexielles avec :
 - **Atypies cytologiques, nécrose**
 - Extension dans l'**hypoderme**
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1028 Carcinomes annexiels  lessentiel, Réseau CARADERM/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1028%20Carcinomes%20annexiels%20%20lessentiel%2C%20R%C3%A9seau%20CARADERM/p19_00.jpeg)
 
 ---
 

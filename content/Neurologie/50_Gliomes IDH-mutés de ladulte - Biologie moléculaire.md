@@ -39,7 +39,7 @@ source: DES ACP - Cours de Neurologie
 
 ## Classification histomoléculaire OMS des gliomes diffus de l'adulte
 
-![[assets/neurologie/tumeurs_snc/15-750-01a Gliomes infiltrants de ladulte IDH muté-biologie moléculaire/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01a%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-biologie%20mol%C3%A9culaire/p03_00.jpeg)
 
 ```
 GLIOMES INFILTRANTS DE L'ADULTE
@@ -56,7 +56,7 @@ GLIOMES INFILTRANTS DE L'ADULTE
 
 ## Statut IDH
 
-![[assets/neurologie/tumeurs_snc/15-750-01a Gliomes infiltrants de ladulte IDH muté-biologie moléculaire/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01a%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-biologie%20mol%C3%A9culaire/p03_01.jpeg)
 
 ### Définition
 - **IDH1** et **IDH2** codent des enzymes **isocitrate déshydrogénases**
@@ -71,7 +71,7 @@ GLIOMES INFILTRANTS DE L'ADULTE
 - Le 2-HG **inhibe les déméthylases** → **hyperméthylation** de l'ADN et des histones
 - Cette hyperméthylation est impliquée dans l'**oncogenèse** des gliomes IDH-mutés
 
-![[assets/neurologie/tumeurs_snc/15-750-01a Gliomes infiltrants de ladulte IDH muté-biologie moléculaire/p03_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01a%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-biologie%20mol%C3%A9culaire/p03_02.jpeg)
 
 ### Localisation des mutations
 
@@ -87,13 +87,13 @@ GLIOMES INFILTRANTS DE L'ADULTE
 | **IHC anti-IDH1 R132H** (anticorps H09) | Détecte **uniquement** la mutation R132H (mais la majorité des cas) |
 | **Séquençage** (Sanger ou NGS) de IDH1 codon 132 et IDH2 codon 172 | Nécessaire si IHC négative |
 
-![[assets/neurologie/tumeurs_snc/15-750-01a Gliomes infiltrants de ladulte IDH muté-biologie moléculaire/p03_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01a%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-biologie%20mol%C3%A9culaire/p03_05.jpeg)
 
-![[assets/neurologie/tumeurs_snc/15-750-01a Gliomes infiltrants de ladulte IDH muté-biologie moléculaire/p03_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01a%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-biologie%20mol%C3%A9culaire/p03_06.jpeg)
 
 > **En pratique** : IHC IDH1 R132H en 1ʳᵉ intention → si négative, **séquençage** à compléter devant un gliome diffus suspect de mutation IDH.
 
-![[assets/neurologie/tumeurs_snc/15-750-01a Gliomes infiltrants de ladulte IDH muté-biologie moléculaire/p03_11.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01a%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-biologie%20mol%C3%A9culaire/p03_11.jpeg)
 
 ## Codélétion 1p/19q
 
@@ -113,11 +113,11 @@ GLIOMES INFILTRANTS DE L'ADULTE
 | **MLPA** | Multiplex Ligation-dependent Probe Amplification |
 | **NGS** (avec profil de copies) | Détection simultanée CNV + mutations |
 
-![[assets/neurologie/tumeurs_snc/15-750-01a Gliomes infiltrants de ladulte IDH muté-biologie moléculaire/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01a%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-biologie%20mol%C3%A9culaire/p07_00.jpeg)
 
 ## Mécanismes de maintien des télomères
 
-![[assets/neurologie/tumeurs_snc/15-750-01a Gliomes infiltrants de ladulte IDH muté-biologie moléculaire/p08_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01a%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-biologie%20mol%C3%A9culaire/p08_03.jpeg)
 
 Après transformation maligne, les divisions successives raccourcissent les télomères → **sénescence** ou **apoptose** si trop courts. La prolifération tumorale **requiert l'acquisition d'un mécanisme de maintien des télomères**.
 
@@ -142,13 +142,13 @@ Après transformation maligne, les divisions successives raccourcissent les tél
 
 > Les cellules endothéliales servent de **témoin positif interne** pour ATRX.
 
-![[assets/neurologie/tumeurs_snc/15-750-01a Gliomes infiltrants de ladulte IDH muté-biologie moléculaire/p08_10.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01a%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-biologie%20mol%C3%A9culaire/p08_10.jpeg)
 
-![[assets/neurologie/tumeurs_snc/15-750-01a Gliomes infiltrants de ladulte IDH muté-biologie moléculaire/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01a%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-biologie%20mol%C3%A9culaire/p09_01.jpeg)
 
 ## Délétion homozygote CDKN2A/CDKN2B
 
-![[assets/neurologie/tumeurs_snc/15-750-01a Gliomes infiltrants de ladulte IDH muté-biologie moléculaire/p13_09.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01a%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-biologie%20mol%C3%A9culaire/p13_09.jpeg)
 
 ### Signification
 - **Critère de grade 4** pour les **astrocytomes IDH-mutés** (OMS 2021)
@@ -169,9 +169,9 @@ Ces deux gènes codent trois protéines **régulatrices du cycle cellulaire** :
 - **FISH** (sondes CDKN2A/CEP9)
 - **NGS** avec profil de copies
 
-![[assets/neurologie/tumeurs_snc/15-750-01a Gliomes infiltrants de ladulte IDH muté-biologie moléculaire/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01a%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-biologie%20mol%C3%A9culaire/p14_00.jpeg)
 
-![[assets/neurologie/tumeurs_snc/15-750-01a Gliomes infiltrants de ladulte IDH muté-biologie moléculaire/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01a%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-biologie%20mol%C3%A9culaire/p14_01.jpeg)
 
 ## Synthèse du panel moléculaire des gliomes diffus de l'adulte
 
@@ -210,9 +210,9 @@ Gliome infiltrant de l'adulte
              │     └── WT → GLIOBLASTOME IDH-WT (voir [[52_Glioblastome IDH sauvage]])
 ```
 
-![[assets/neurologie/tumeurs_snc/15-750-01a Gliomes infiltrants de ladulte IDH muté-biologie moléculaire/p10_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01a%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-biologie%20mol%C3%A9culaire/p10_00.png)
 
-![[assets/neurologie/tumeurs_snc/15-750-01a Gliomes infiltrants de ladulte IDH muté-biologie moléculaire/p15_10.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01a%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-biologie%20mol%C3%A9culaire/p15_10.png)
 
 ## Impact clinique du panel moléculaire
 

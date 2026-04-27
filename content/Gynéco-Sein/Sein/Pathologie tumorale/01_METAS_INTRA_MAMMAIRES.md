@@ -38,8 +38,8 @@ source: DES ACP - Cours de gynéco-pathologie (sein tumoral)
 
 ## Histologie
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_6 metastase intramammaire cours DES/p04_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_6 metastase intramammaire cours DES/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_6%20metastase%20intramammaire%20cours%20DES/p04_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_6%20metastase%20intramammaire%20cours%20DES/p04_01.jpeg)
 
 **Caractéristiques évocatrices** :
 - Tumeur **bien limitée**.
@@ -52,34 +52,34 @@ source: DES ACP - Cours de gynéco-pathologie (sein tumoral)
 
 **1. Métastase de mélanome** (femme, masse QI sein gauche 40 mm, ACR 4) : prolifération peu différenciée avec **pigment mélanique intracytoplasmique**, biopsie noirâtre.
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_6 metastase intramammaire cours DES/p07_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_6 metastase intramammaire cours DES/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_6%20metastase%20intramammaire%20cours%20DES/p07_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_6%20metastase%20intramammaire%20cours%20DES/p07_01.jpeg)
 
 **2. Carcinome rénal à cellules claires** (femme 85 ans, antécédent K rénal il y a 15 ans, masse 35 mm QSE) : cordons à **cytoplasmes clairs**.
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_6 metastase intramammaire cours DES/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_6%20metastase%20intramammaire%20cours%20DES/p08_00.jpeg)
 
 **3. Adénocarcinome colique mucineux** : **flaques mucoïdes** + cordons et cellules indépendantes mucosécrétantes ; phénotype triple négatif, **CK20+ CK7−**.
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_6 metastase intramammaire cours DES/p15_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_6 metastase intramammaire cours DES/p15_01.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_6 metastase intramammaire cours DES/p15_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_6%20metastase%20intramammaire%20cours%20DES/p15_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_6%20metastase%20intramammaire%20cours%20DES/p15_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_6%20metastase%20intramammaire%20cours%20DES/p15_02.jpeg)
 
 **4. Adénocarcinome bronchopulmonaire** (3 nodules 16, 14, 6 mm, antécédent ADK pulmonaire **TTF1+**) : tumeur triple négative, **TTF1+** sur reprise IHC.
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_6 metastase intramammaire cours DES/p17_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_6 metastase intramammaire cours DES/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_6%20metastase%20intramammaire%20cours%20DES/p17_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_6%20metastase%20intramammaire%20cours%20DES/p17_01.jpeg)
 
 **5. Carcinome séreux ovarien** (antécédent K séreux haut grade, masse QSE + masse axillaire) : RH+, HER2−, **WT1+ et PAX8+**.
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_6 metastase intramammaire cours DES/p19_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_6 metastase intramammaire cours DES/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_6%20metastase%20intramammaire%20cours%20DES/p19_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_6%20metastase%20intramammaire%20cours%20DES/p19_01.jpeg)
 
 **6. Lymphome B diffus à grandes cellules** : tumeur peu différenciée à cellules rondes, **pancytokératine négative**, **CD20 fortement positif**.
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_6 metastase intramammaire cours DES/p21_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_6 metastase intramammaire cours DES/p21_01.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_6 metastase intramammaire cours DES/p21_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_6%20metastase%20intramammaire%20cours%20DES/p21_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_6%20metastase%20intramammaire%20cours%20DES/p21_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_6%20metastase%20intramammaire%20cours%20DES/p21_02.jpeg)
 
 ## Immunohistochimie
 

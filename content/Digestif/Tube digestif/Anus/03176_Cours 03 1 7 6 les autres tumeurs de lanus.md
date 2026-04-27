@@ -81,9 +81,9 @@ Tumeurs anales **non malpighiennes** :
 - **Récidives** fréquentes
 - **Métastases ganglionnaires inguinales**
 
-![[assets/digestif/tube_digestif/anus/Cours 03 1 7 6 les autres tumeurs de lanus/p04_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/Cours%2003%201%207%206%20les%20autres%20tumeurs%20de%20lanus/p04_02.jpeg)
 
-![[assets/digestif/tube_digestif/anus/Cours 03 1 7 6 les autres tumeurs de lanus/p04_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/Cours%2003%201%207%206%20les%20autres%20tumeurs%20de%20lanus/p04_05.jpeg)
 
 ## Tumeurs des glandes anogénitales de type mammaire
 
@@ -134,9 +134,9 @@ Tumeurs anales **non malpighiennes** :
 - Secteurs d'**adénose sclérosante**
 - En cas de connexion à l'épiderme : aspects de **syringocystadénome papillifère**
 
-![[assets/digestif/tube_digestif/anus/Cours 03 1 7 6 les autres tumeurs de lanus/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/Cours%2003%201%207%206%20les%20autres%20tumeurs%20de%20lanus/p13_01.jpeg)
 
-![[assets/digestif/tube_digestif/anus/Cours 03 1 7 6 les autres tumeurs de lanus/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/Cours%2003%201%207%206%20les%20autres%20tumeurs%20de%20lanus/p12_02.jpeg)
 
 ## Maladie de Paget anale
 
@@ -158,9 +158,9 @@ Tumeurs anales **non malpighiennes** :
 - Isolées ou en **amas** au sein de l'épithélium malpighien
 - Colorées par **PAS** et **bleu alcian** (mucines)
 
-![[assets/digestif/tube_digestif/anus/Cours 03 1 7 6 les autres tumeurs de lanus/p17_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/Cours%2003%201%207%206%20les%20autres%20tumeurs%20de%20lanus/p17_04.jpeg)
 
-![[assets/digestif/tube_digestif/anus/Cours 03 1 7 6 les autres tumeurs de lanus/p18_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/Cours%2003%201%207%206%20les%20autres%20tumeurs%20de%20lanus/p18_04.jpeg)
 
 ### Immunohistochimie : différenciation des deux variétés et DD
 
@@ -256,9 +256,9 @@ Cf. [[03172_Pathologie non tumorale anale]] (pseudo-tumeurs).
   - **Taille > 2 cm**
   - **Épaisseur > 2 mm**
 
-![[assets/digestif/tube_digestif/anus/Cours 03 1 7 6 les autres tumeurs de lanus/p21_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/Cours%2003%201%207%206%20les%20autres%20tumeurs%20de%20lanus/p21_03.jpeg)
 
-![[assets/digestif/tube_digestif/anus/Cours 03 1 7 6 les autres tumeurs de lanus/p22_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/Cours%2003%201%207%206%20les%20autres%20tumeurs%20de%20lanus/p22_05.jpeg)
 
 ## Tumeurs neuroendocrines (TNE) du canal anal
 
@@ -299,7 +299,7 @@ Cf. [[03172_Pathologie non tumorale anale]] (pseudo-tumeurs).
 | **Carcinome épidermoïde peu différencié** (plus fréquent) | Marqueurs NE −, **p40+**, **p16+** |
 | **Métastase d'un CNE-PC pulmonaire** | Identique morphologie + IHC → **contexte clinique** indispensable (notion de tumeur primitive pulmonaire) |
 
-![[assets/digestif/tube_digestif/anus/Cours 03 1 7 6 les autres tumeurs de lanus/p25_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/Cours%2003%201%207%206%20les%20autres%20tumeurs%20de%20lanus/p25_02.jpeg)
 
 ## Lymphomes du canal anal
 
@@ -329,7 +329,7 @@ Cf. [[03172_Pathologie non tumorale anale]] (pseudo-tumeurs).
   - **Adénocarcinome colorectal** (le plus classique)
   - Adénocarcinome **pulmonaire**, **mammaire**, **pancréatique**, **prostatique**
 
-![[assets/digestif/tube_digestif/anus/Cours 03 1 7 6 les autres tumeurs de lanus/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/Cours%2003%201%207%206%20les%20autres%20tumeurs%20de%20lanus/p27_00.jpeg)
 
 ---
 

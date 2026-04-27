@@ -63,9 +63,9 @@ Petites structures rectangulaires, fermes, blanc-brunâtre, **dures à la coupe 
 ### Histologie
 Fibres synthétiques **optiquement vides**, en faisceaux entrecroisés, **biréfringentes en lumière polarisée**, avec réaction inflammatoire macrophagique et géanto-cellulaire intense + remaniements fibreux.
 
-![[assets/digestif/peritoine/03.2.1.2 Pathologie péritonéale non tumorale/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/peritoine/03.2.1.2%20Pathologie%20p%C3%A9riton%C3%A9ale%20non%20tumorale/p04_01.jpeg)
 
-![[assets/digestif/peritoine/03.2.1.2 Pathologie péritonéale non tumorale/p04_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/peritoine/03.2.1.2%20Pathologie%20p%C3%A9riton%C3%A9ale%20non%20tumorale/p04_02.jpeg)
 
 ## Granulomes à corps étrangers
 
@@ -85,9 +85,9 @@ Fibres synthétiques **optiquement vides**, en faisceaux entrecroisés, **biréf
 ### Histologie
 Granulome de résorption macrophagique avec **cellules géantes plurinucléées** au contact du corps étranger.
 
-![[assets/digestif/peritoine/03.2.1.2 Pathologie péritonéale non tumorale/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/peritoine/03.2.1.2%20Pathologie%20p%C3%A9riton%C3%A9ale%20non%20tumorale/p05_00.jpeg)
 
-![[assets/digestif/peritoine/03.2.1.2 Pathologie péritonéale non tumorale/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/peritoine/03.2.1.2%20Pathologie%20p%C3%A9riton%C3%A9ale%20non%20tumorale/p05_01.jpeg)
 
 ## Textylomes (gossypibomas)
 
@@ -108,9 +108,9 @@ Granulome de résorption macrophagique avec **cellules géantes plurinucléées*
 ### Histologie
 Fragments de compresse au sein d'un dense remaniement fibro-inflammatoire péritonéal : **fibres synthétiques entrecroisées**.
 
-![[assets/digestif/peritoine/03.2.1.2 Pathologie péritonéale non tumorale/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/peritoine/03.2.1.2%20Pathologie%20p%C3%A9riton%C3%A9ale%20non%20tumorale/p06_01.jpeg)
 
-![[assets/digestif/peritoine/03.2.1.2 Pathologie péritonéale non tumorale/p06_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/peritoine/03.2.1.2%20Pathologie%20p%C3%A9riton%C3%A9ale%20non%20tumorale/p06_03.jpeg)
 
 ## Appendices épiploïques
 
@@ -126,7 +126,7 @@ Fragments de compresse au sein d'un dense remaniement fibro-inflammatoire périt
 ### Histologie
 Nodule adipeux épiploïque avec adipocytes, **plages de nécrose éosinophile**, remaniements fibreux, infiltrat inflammatoire, parfois **calcifications voire métaplasie osseuse**.
 
-![[assets/digestif/peritoine/03.2.1.2 Pathologie péritonéale non tumorale/p07_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/peritoine/03.2.1.2%20Pathologie%20p%C3%A9riton%C3%A9ale%20non%20tumorale/p07_04.jpeg)
 
 ## Stéatonécrose
 
@@ -142,9 +142,9 @@ Nécrose blanchâtre, crayeuse, en **« taches de bougie »**.
 - Infiltrat inflammatoire avec PNN et **histiocytes spumeux**
 - À long terme : **calcifications**
 
-![[assets/digestif/peritoine/03.2.1.2 Pathologie péritonéale non tumorale/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/peritoine/03.2.1.2%20Pathologie%20p%C3%A9riton%C3%A9ale%20non%20tumorale/p08_01.jpeg)
 
-![[assets/digestif/peritoine/03.2.1.2 Pathologie péritonéale non tumorale/p08_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/peritoine/03.2.1.2%20Pathologie%20p%C3%A9riton%C3%A9ale%20non%20tumorale/p08_05.jpeg)
 
 ## Hématome du mésentère
 
@@ -153,7 +153,7 @@ Nécrose blanchâtre, crayeuse, en **« taches de bougie »**.
 - Mécanisme : **décélération brutale** → étirement, désinsertion mésentérique
 - Macroscopie : remaniements hémorragiques, hématomes coalescents, ± lésions ischémiques grêles
 
-![[assets/digestif/peritoine/03.2.1.2 Pathologie péritonéale non tumorale/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/peritoine/03.2.1.2%20Pathologie%20p%C3%A9riton%C3%A9ale%20non%20tumorale/p09_01.jpeg)
 
 ## Endométriose péritonéale
 
@@ -174,7 +174,7 @@ Nodules **rougeâtres, bleutés ou blanchâtres**, mal limités, indurés, parfo
 - Entourées d'un **chorion cytogène** ± métaplasie déciduale
 - **Foyers hémorragiques + sidérophages + remaniement fibreux** cicatriciel
 
-![[assets/digestif/peritoine/03.2.1.2 Pathologie péritonéale non tumorale/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/peritoine/03.2.1.2%20Pathologie%20p%C3%A9riton%C3%A9ale%20non%20tumorale/p10_01.jpeg)
 
 
 ## Péritonites
@@ -194,9 +194,9 @@ Inflammation du péritoine. **Lésion péritonéale bénigne la plus fréquente.
 | **Post-opératoire** | Désunion anastomotique, contamination | |
 | **Post-traumatique** | Plaie pénétrante, perforation endoscopique | |
 
-![[assets/digestif/peritoine/03.2.1.2 Pathologie péritonéale non tumorale/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/peritoine/03.2.1.2%20Pathologie%20p%C3%A9riton%C3%A9ale%20non%20tumorale/p12_00.jpeg)
 
-![[assets/digestif/peritoine/03.2.1.2 Pathologie péritonéale non tumorale/p12_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/peritoine/03.2.1.2%20Pathologie%20p%C3%A9riton%C3%A9ale%20non%20tumorale/p12_03.jpeg)
 
 ### Péritonite tuberculeuse
 - Très rare (0,1-0,7 % des tuberculoses)
@@ -205,7 +205,7 @@ Inflammation du péritoine. **Lésion péritonéale bénigne la plus fréquente.
 - **Granulomes épithélioïdes et giganto-cellulaires** centrés par **nécrose caséeuse éosinophile**
 - Identification : coloration de **Ziehl** ou IHC anti-BK
 
-![[assets/digestif/peritoine/03.2.1.2 Pathologie péritonéale non tumorale/p12_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/peritoine/03.2.1.2%20Pathologie%20p%C3%A9riton%C3%A9ale%20non%20tumorale/p12_04.jpeg)
 
 ### Péritonite actinomycosique
 - Rare, secondaire à chirurgie ou DIU

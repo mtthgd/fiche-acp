@@ -29,7 +29,7 @@ source: DES ACP - Cours de gynéco-pathologie (sein tumoral)
 
 ## 2. Classification intrinsèque de Perou et Sørlie (2001)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_07classification moleculaire FPL/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_07classification%20moleculaire%20FPL/p05_00.jpeg)
 
 **Révolution taxonomique** : analyse **transcriptomique** par profils d’expression génique.
 
@@ -47,7 +47,7 @@ source: DES ACP - Cours de gynéco-pathologie (sein tumoral)
 
 ### Luminal (≈ 75 % des K du sein)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_07classification moleculaire FPL/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_07classification%20moleculaire%20FPL/p07_00.jpeg)
 
 Marqueurs surexprimés : **ESR1**, **GATA3**, **FOXA1**, **XBP1**.
 
@@ -68,7 +68,7 @@ Marqueurs surexprimés : **ESR1**, **GATA3**, **FOXA1**, **XBP1**.
 
 ### Basal-like (10–15 %)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_07classification moleculaire FPL/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_07classification%20moleculaire%20FPL/p10_00.jpeg)
 
 - **Triple négatif** en IHC (RE− RP− HER2−).
 - Type cellulaire distinct.
@@ -125,7 +125,7 @@ Marqueurs surexprimés : **ESR1**, **GATA3**, **FOXA1**, **XBP1**.
 
 ## 7. Classification de Lehmann (triple négatifs)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_07classification moleculaire FPL/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_07classification%20moleculaire%20FPL/p23_00.jpeg)
 
 ### Version 2011 (6 catégories)
 
@@ -149,7 +149,7 @@ Marqueurs surexprimés : **ESR1**, **GATA3**, **FOXA1**, **XBP1**.
 
 ### Types luminaux (RH+ HER2− le plus souvent)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_07classification moleculaire FPL/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_07classification%20moleculaire%20FPL/p26_00.jpeg)
 
 | Type | Fréquence | Mutations clés |
 |------|:---:|----------------|
@@ -161,7 +161,7 @@ Marqueurs surexprimés : **ESR1**, **GATA3**, **FOXA1**, **XBP1**.
 
 ### Types basal-like (RE− HER2− le plus souvent)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_07classification moleculaire FPL/p27_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_07classification%20moleculaire%20FPL/p27_04.jpeg)
 
 | Type | Fréquence | Caractéristiques |
 |------|:---:|------------------|

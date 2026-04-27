@@ -47,9 +47,9 @@ Les toxidermies de mécanisme **non immunologique** regroupent :
 - **Vaisseaux fragiles** → **purpura, hématomes**
 - Forme sévère : derme remplacé par une **plage hémorragique**
 
-![[assets/dermato/toxicite-carences/toxidermies/08-812 Toxicité cutanée non immunologiques/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-812%20Toxicit%C3%A9%20cutan%C3%A9e%20non%20immunologiques/p06_00.jpeg)
 
-![[assets/dermato/toxicite-carences/toxidermies/08-812 Toxicité cutanée non immunologiques/p06_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-812%20Toxicit%C3%A9%20cutan%C3%A9e%20non%20immunologiques/p06_03.jpeg)
 
 ## II. Pigmentations médicamenteuses
 
@@ -70,11 +70,11 @@ Les toxidermies de mécanisme **non immunologique** regroupent :
 - Pigment **non spécifique** : peut prendre les colorations de **Perls** (fer) ou de **Fontana** (mélanine)
 - **Coloration HES** : pigment souvent peu visible (macrophages peu nombreux)
 
-![[assets/dermato/toxicite-carences/toxidermies/08-812 Toxicité cutanée non immunologiques/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-812%20Toxicit%C3%A9%20cutan%C3%A9e%20non%20immunologiques/p07_00.jpeg)
 
-![[assets/dermato/toxicite-carences/toxidermies/08-812 Toxicité cutanée non immunologiques/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-812%20Toxicit%C3%A9%20cutan%C3%A9e%20non%20immunologiques/p09_02.jpeg)
 
-![[assets/dermato/toxicite-carences/toxidermies/08-812 Toxicité cutanée non immunologiques/p09_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-812%20Toxicit%C3%A9%20cutan%C3%A9e%20non%20immunologiques/p09_03.jpeg)
 
 ## III. Ochronose
 
@@ -91,9 +91,9 @@ Les toxidermies de mécanisme **non immunologique** regroupent :
 - **Amas brunâtres d'aspect ambré** dans le derme
 - Aspect caractéristique : pigment **moulé sur le collagène**
 
-![[assets/dermato/toxicite-carences/toxidermies/08-812 Toxicité cutanée non immunologiques/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-812%20Toxicit%C3%A9%20cutan%C3%A9e%20non%20immunologiques/p10_00.jpeg)
 
-![[assets/dermato/toxicite-carences/toxidermies/08-812 Toxicité cutanée non immunologiques/p10_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-812%20Toxicit%C3%A9%20cutan%C3%A9e%20non%20immunologiques/p10_02.jpeg)
 
 ## IV. Calcifications cutanées sur sites d'injection
 
@@ -105,9 +105,9 @@ Les toxidermies de mécanisme **non immunologique** regroupent :
 - **Calcifications bleutées** (HES) dans le **derme et/ou hypoderme**
 - **Panniculite calcifiante** : **dépôts moulant la membrane des adipocytes**
 
-![[assets/dermato/toxicite-carences/toxidermies/08-812 Toxicité cutanée non immunologiques/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-812%20Toxicit%C3%A9%20cutan%C3%A9e%20non%20immunologiques/p11_01.jpeg)
 
-![[assets/dermato/toxicite-carences/toxidermies/08-812 Toxicité cutanée non immunologiques/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-812%20Toxicit%C3%A9%20cutan%C3%A9e%20non%20immunologiques/p11_02.jpeg)
 
 ## V. Granulomes sur produits de comblement
 
@@ -127,19 +127,19 @@ Les toxidermies de mécanisme **non immunologique** regroupent :
 - **Réaction inflammatoire lympho-éosinophilique** ± **granulome à corps étranger**
 - **Cellules géantes multinucléées**
 
-![[assets/dermato/toxicite-carences/toxidermies/08-812 Toxicité cutanée non immunologiques/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-812%20Toxicit%C3%A9%20cutan%C3%A9e%20non%20immunologiques/p13_00.jpeg)
 
-![[assets/dermato/toxicite-carences/toxidermies/08-812 Toxicité cutanée non immunologiques/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-812%20Toxicit%C3%A9%20cutan%C3%A9e%20non%20immunologiques/p14_00.jpeg)
 
-![[assets/dermato/toxicite-carences/toxidermies/08-812 Toxicité cutanée non immunologiques/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-812%20Toxicit%C3%A9%20cutan%C3%A9e%20non%20immunologiques/p14_01.jpeg)
 
-![[assets/dermato/toxicite-carences/toxidermies/08-812 Toxicité cutanée non immunologiques/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-812%20Toxicit%C3%A9%20cutan%C3%A9e%20non%20immunologiques/p17_00.jpeg)
 
-![[assets/dermato/toxicite-carences/toxidermies/08-812 Toxicité cutanée non immunologiques/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-812%20Toxicit%C3%A9%20cutan%C3%A9e%20non%20immunologiques/p17_01.jpeg)
 
-![[assets/dermato/toxicite-carences/toxidermies/08-812 Toxicité cutanée non immunologiques/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-812%20Toxicit%C3%A9%20cutan%C3%A9e%20non%20immunologiques/p18_00.jpeg)
 
-![[assets/dermato/toxicite-carences/toxidermies/08-812 Toxicité cutanée non immunologiques/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-812%20Toxicit%C3%A9%20cutan%C3%A9e%20non%20immunologiques/p18_01.jpeg)
 
 ## VI. Toxicité épidermique des chimiothérapies
 
@@ -159,7 +159,7 @@ Les toxidermies de mécanisme **non immunologique** regroupent :
 - **Mitoses** témoignant d'un effort de régénération
 - **Trouble de maturation** empêchant la constitution d'un épithélium normal
 
-![[assets/dermato/toxicite-carences/toxidermies/08-812 Toxicité cutanée non immunologiques/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-812%20Toxicit%C3%A9%20cutan%C3%A9e%20non%20immunologiques/p20_01.jpeg)
 
 ## Diagnostics différentiels
 

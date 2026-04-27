@@ -60,8 +60,8 @@ La classification analyse les **4 compartiments** rénaux et évalue les lésion
 | **Tubule** | Tubulite (**t**) | Atrophie tubulaire (**ct**) |
 | **Vaisseaux** | Artérite intimale (**v**) artères, capillarite péritubulaire (**ptc**) capillaires | Fibrose intimale (**cv**) artères, hyalinose artériolaire (**ah**) artérioles |
 
-![[assets/nephropathologie/greffon/312-14 Banff/p08_01.jpeg]]
-![[assets/nephropathologie/greffon/312-14 Banff/p08_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/312-14%20Banff/p08_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/312-14%20Banff/p08_02.jpeg)
 
 ## Lésions élémentaires : définitions et scores
 
@@ -93,7 +93,7 @@ Scorée en fonction du **nombre de cellules dans le capillaire le plus atteint**
 
 > **Ne pas scorer** dans : médullaire, région sous-capsulaire, zones de pyélite, infarctus, capillaires coupés longitudinalement.
 
-![[assets/nephropathologie/greffon/312-14 Banff/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/312-14%20Banff/p05_01.jpeg)
 
 ### Inflammation interstitielle (**i**, **ti**, **i-IFTA**)
 
@@ -112,9 +112,9 @@ Gradation **0–3** selon la surface couverte par l'infiltrat :
 | 2 | 25–50 % |
 | 3 | > 50 % |
 
-![[assets/nephropathologie/greffon/312-14 Banff/p10_00.jpeg]]
-![[assets/nephropathologie/greffon/312-14 Banff/p10_01.jpeg]]
-![[assets/nephropathologie/greffon/312-14 Banff/p10_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/312-14%20Banff/p10_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/312-14%20Banff/p10_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/312-14%20Banff/p10_03.jpeg)
 
 ### Tubulite (**t**)
 
@@ -130,12 +130,12 @@ Gradation **0–3** selon la surface couverte par l'infiltrat :
 | **t2** | **5–10** cellules |
 | **t3** | **> 10** cellules OU **destruction de la membrane basale tubulaire** |
 
-![[assets/nephropathologie/greffon/312-14 Banff/p12_01.jpeg]]
-![[assets/nephropathologie/greffon/312-14 Banff/p12_02.jpeg]]
-![[assets/nephropathologie/greffon/312-14 Banff/p12_03.jpeg]]
-![[assets/nephropathologie/greffon/312-14 Banff/p12_04.jpeg]]
-![[assets/nephropathologie/greffon/312-14 Banff/p12_05.jpeg]]
-![[assets/nephropathologie/greffon/312-14 Banff/p12_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/312-14%20Banff/p12_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/312-14%20Banff/p12_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/312-14%20Banff/p12_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/312-14%20Banff/p12_04.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/312-14%20Banff/p12_05.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/312-14%20Banff/p12_06.jpeg)
 
 ### Artérite intimale (**v**)
 
@@ -150,9 +150,9 @@ Gradation **0–3** selon la surface couverte par l'infiltrat :
 | **v2** | Cellules sous-endothéliales avec **réduction ≥ 25 %** du calibre artériel |
 | **v3** | **Artérite transmurale** (atteinte de toute la paroi, ± nécrose fibrinoïde) |
 
-![[assets/nephropathologie/greffon/312-14 Banff/p14_00.jpeg]]
-![[assets/nephropathologie/greffon/312-14 Banff/p14_01.jpeg]]
-![[assets/nephropathologie/greffon/312-14 Banff/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/312-14%20Banff/p14_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/312-14%20Banff/p14_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/312-14%20Banff/p14_02.jpeg)
 
 ### Fibrose interstitielle chronique (**ci**) et atrophie tubulaire (**ct**)
 
@@ -175,8 +175,8 @@ Gradation **0–3** selon la surface couverte par l'infiltrat :
 | **cv** | Épaississement fibreux **intimal** de l'artère la plus sévèrement atteinte (gradé selon % de réduction de la lumière) |
 | **ah** | **Hyalinose artériolaire** : dépôts hyalins dans la paroi des artérioles, en position sous-intimale (le + souvent) ou périphérique. Évocatrice de **toxicité aux ICN** quand nodulaire/circonférentielle |
 
-![[assets/nephropathologie/greffon/312-14 Banff/p15_01.jpeg]]
-![[assets/nephropathologie/greffon/312-14 Banff/p15_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/312-14%20Banff/p15_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/312-14%20Banff/p15_02.jpeg)
 
 ### Lésions glomérulaires chroniques
 
@@ -191,13 +191,13 @@ Gradés dans le glomérule **le plus atteint**, en fonction du **% de membrane b
 | **cg2** | Doubles contours dans 26–50 % des anses |
 | **cg3** | Doubles contours dans > 50 % des anses |
 
-![[assets/nephropathologie/greffon/312-14 Banff/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/312-14%20Banff/p17_00.jpeg)
 
 #### Expansion mésangiale (**mm**)
 
 **Définition** : expansion **au moins modérée** de la matrice mésangiale, dépassant la **largeur de 2 noyaux de cellules mésangiales**, dans **≥ 2 tiges mésangiales** d'un glomérule.
 
-![[assets/nephropathologie/greffon/312-14 Banff/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/312-14%20Banff/p19_00.jpeg)
 
 ### Score C4d (immunomarquage anti-C4d)
 
@@ -216,9 +216,9 @@ Marquage **linéaire et circonférentiel** des capillaires péritubulaires.
 
 > **Critère de rejet humoral** mais **NON indispensable** : peut être remplacé par d'autres signes d'interaction Ac/endothélium (glomérulite + ptc ≥ 2, ou transcrits endothéliaux).
 
-![[assets/nephropathologie/greffon/312-14 Banff/p20_00.jpeg]]
-![[assets/nephropathologie/greffon/312-14 Banff/p20_02.jpeg]]
-![[assets/nephropathologie/greffon/312-14 Banff/p20_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/312-14%20Banff/p20_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/312-14%20Banff/p20_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/312-14%20Banff/p20_03.jpeg)
 
 ## Lésions hors-Banff à reconnaître impérativement
 
@@ -234,8 +234,8 @@ Lésions **importantes** mais **non gradées** par les scores Banff :
 - **Signe de souffrance tubulaire** quelle que soit la cause (cf. [[15_NTA - Nécrose tubulaire aiguë]]).
 - Aplatissement des épithéliums, **lumières béantes**, débris dans les lumières tubulaires.
 
-![[assets/nephropathologie/greffon/312-14 Banff/p21_01.jpeg]]
-![[assets/nephropathologie/greffon/312-14 Banff/p21_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/312-14%20Banff/p21_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/312-14%20Banff/p21_02.jpeg)
 
 ### Néphrite à BK virus (BKVAN)
 

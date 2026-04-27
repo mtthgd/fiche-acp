@@ -33,7 +33,7 @@ Entité **OMS provisoire (2008, maintenue 2016)** intitulée :
 - **Signatures d’expression géniques** très proches entre **cHL** et **PMBL**
 - **Anomalies génétiques communes** : **REL (2p)**, **JAK2 (9p24)**
 
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-364 Lymphomes B inclassables, intermédiaires entre un DLBCL et un HL_dv/p01_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-364%20Lymphomes%20B%20inclassables%2C%20interm%C3%A9diaires%20entre%20un%20DLBCL%20et%20un%20HL_dv/p01_04.jpeg)
 
 ## Clinique / Épidémio
 
@@ -47,8 +47,8 @@ Entité **OMS provisoire (2008, maintenue 2016)** intitulée :
 
 → Pas d’éléments cliniques fiables pour prédire la réponse au traitement.
 
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-364 Lymphomes B inclassables, intermédiaires entre un DLBCL et un HL_dv/p04_00.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-364 Lymphomes B inclassables, intermédiaires entre un DLBCL et un HL_dv/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-364%20Lymphomes%20B%20inclassables%2C%20interm%C3%A9diaires%20entre%20un%20DLBCL%20et%20un%20HL_dv/p04_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-364%20Lymphomes%20B%20inclassables%2C%20interm%C3%A9diaires%20entre%20un%20DLBCL%20et%20un%20HL_dv/p04_01.jpeg)
 
 ## Macroscopie
 
@@ -67,12 +67,12 @@ L’équipe française a individualisé **4 sous-groupes** sur un continuum :
 | **2** | **PMBL/DLBCL-like** | Cellules **cohésives, nombreuses, parfois clarifiées** | **Inflammatoire abondant** (éosinophiles, histiocytes, plasmocytes) — **≠ PMBL classique** |
 | **3** | **PMBL-like** typique | Cellules cohésives, plages | **Pas de fond inflammatoire**, **fibrose** identique au PMBL |
 
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-364 Lymphomes B inclassables, intermédiaires entre un DLBCL et un HL_dv/p04_02.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-364 Lymphomes B inclassables, intermédiaires entre un DLBCL et un HL_dv/p04_03.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-364 Lymphomes B inclassables, intermédiaires entre un DLBCL et un HL_dv/p04_04.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-364 Lymphomes B inclassables, intermédiaires entre un DLBCL et un HL_dv/p04_05.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-364 Lymphomes B inclassables, intermédiaires entre un DLBCL et un HL_dv/p04_06.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-364 Lymphomes B inclassables, intermédiaires entre un DLBCL et un HL_dv/p04_07.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-364%20Lymphomes%20B%20inclassables%2C%20interm%C3%A9diaires%20entre%20un%20DLBCL%20et%20un%20HL_dv/p04_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-364%20Lymphomes%20B%20inclassables%2C%20interm%C3%A9diaires%20entre%20un%20DLBCL%20et%20un%20HL_dv/p04_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-364%20Lymphomes%20B%20inclassables%2C%20interm%C3%A9diaires%20entre%20un%20DLBCL%20et%20un%20HL_dv/p04_04.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-364%20Lymphomes%20B%20inclassables%2C%20interm%C3%A9diaires%20entre%20un%20DLBCL%20et%20un%20HL_dv/p04_05.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-364%20Lymphomes%20B%20inclassables%2C%20interm%C3%A9diaires%20entre%20un%20DLBCL%20et%20un%20HL_dv/p04_06.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-364%20Lymphomes%20B%20inclassables%2C%20interm%C3%A9diaires%20entre%20un%20DLBCL%20et%20un%20HL_dv/p04_07.jpeg)
 
 ### Détail par groupe
 
@@ -81,18 +81,18 @@ L’équipe française a individualisé **4 sous-groupes** sur un continuum :
 - **Peu de polynucléaires éosinophiles**
 - Cellules tumorales **CD20+++ diffus** + **OCT2, BOB1, PAX5 forts** + **CD30+**
 
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-364 Lymphomes B inclassables, intermédiaires entre un DLBCL et un HL_dv/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-364%20Lymphomes%20B%20inclassables%2C%20interm%C3%A9diaires%20entre%20un%20DLBCL%20et%20un%20HL_dv/p05_00.jpeg)
 
 #### Groupe 1
 - Morphologie restant proche du cHL
 - **Cellules tumorales plus nombreuses**, plages plus diffuses
 - **Infiltrat inflammatoire moins important**
 
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-364 Lymphomes B inclassables, intermédiaires entre un DLBCL et un HL_dv/p06_00.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-364 Lymphomes B inclassables, intermédiaires entre un DLBCL et un HL_dv/p06_01.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-364 Lymphomes B inclassables, intermédiaires entre un DLBCL et un HL_dv/p06_02.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-364 Lymphomes B inclassables, intermédiaires entre un DLBCL et un HL_dv/p06_03.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-364 Lymphomes B inclassables, intermédiaires entre un DLBCL et un HL_dv/p06_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-364%20Lymphomes%20B%20inclassables%2C%20interm%C3%A9diaires%20entre%20un%20DLBCL%20et%20un%20HL_dv/p06_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-364%20Lymphomes%20B%20inclassables%2C%20interm%C3%A9diaires%20entre%20un%20DLBCL%20et%20un%20HL_dv/p06_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-364%20Lymphomes%20B%20inclassables%2C%20interm%C3%A9diaires%20entre%20un%20DLBCL%20et%20un%20HL_dv/p06_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-364%20Lymphomes%20B%20inclassables%2C%20interm%C3%A9diaires%20entre%20un%20DLBCL%20et%20un%20HL_dv/p06_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-364%20Lymphomes%20B%20inclassables%2C%20interm%C3%A9diaires%20entre%20un%20DLBCL%20et%20un%20HL_dv/p06_04.jpeg)
 
 #### Groupe 2
 - Morphologie **plus proche du PMBL/DLBCL** : cellules **cohésives**, nombreuses, parfois **clarifiées** (« fried egg »)
@@ -101,20 +101,20 @@ L’équipe française a individualisé **4 sous-groupes** sur un continuum :
 - **CD30 intense et diffus** (≠ PMBL où CD30 est faible/hétérogène)
 - **CD15 parfois +** (intense et diffus)
 
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-364 Lymphomes B inclassables, intermédiaires entre un DLBCL et un HL_dv/p07_00.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-364 Lymphomes B inclassables, intermédiaires entre un DLBCL et un HL_dv/p08_00.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-364 Lymphomes B inclassables, intermédiaires entre un DLBCL et un HL_dv/p08_01.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-364 Lymphomes B inclassables, intermédiaires entre un DLBCL et un HL_dv/p08_02.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-364 Lymphomes B inclassables, intermédiaires entre un DLBCL et un HL_dv/p08_03.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-364 Lymphomes B inclassables, intermédiaires entre un DLBCL et un HL_dv/p08_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-364%20Lymphomes%20B%20inclassables%2C%20interm%C3%A9diaires%20entre%20un%20DLBCL%20et%20un%20HL_dv/p07_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-364%20Lymphomes%20B%20inclassables%2C%20interm%C3%A9diaires%20entre%20un%20DLBCL%20et%20un%20HL_dv/p08_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-364%20Lymphomes%20B%20inclassables%2C%20interm%C3%A9diaires%20entre%20un%20DLBCL%20et%20un%20HL_dv/p08_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-364%20Lymphomes%20B%20inclassables%2C%20interm%C3%A9diaires%20entre%20un%20DLBCL%20et%20un%20HL_dv/p08_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-364%20Lymphomes%20B%20inclassables%2C%20interm%C3%A9diaires%20entre%20un%20DLBCL%20et%20un%20HL_dv/p08_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-364%20Lymphomes%20B%20inclassables%2C%20interm%C3%A9diaires%20entre%20un%20DLBCL%20et%20un%20HL_dv/p08_04.jpeg)
 
 #### Groupe 3
 - Morphologie **encore plus proche du PMBL** : **pas de fond inflammatoire**, **fibrose identique**
 - Différenciation par rapport au PMBL : **CD30 intense et diffus** (parfois **CD15+** également)
 
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-364 Lymphomes B inclassables, intermédiaires entre un DLBCL et un HL_dv/p09_00.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-364 Lymphomes B inclassables, intermédiaires entre un DLBCL et un HL_dv/p09_01.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-364 Lymphomes B inclassables, intermédiaires entre un DLBCL et un HL_dv/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-364%20Lymphomes%20B%20inclassables%2C%20interm%C3%A9diaires%20entre%20un%20DLBCL%20et%20un%20HL_dv/p09_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-364%20Lymphomes%20B%20inclassables%2C%20interm%C3%A9diaires%20entre%20un%20DLBCL%20et%20un%20HL_dv/p09_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-364%20Lymphomes%20B%20inclassables%2C%20interm%C3%A9diaires%20entre%20un%20DLBCL%20et%20un%20HL_dv/p09_02.jpeg)
 
 ## Immunohistochimie — synthèse comparative
 
@@ -130,7 +130,7 @@ L’équipe française a individualisé **4 sous-groupes** sur un continuum :
 | **CD23** | − | +/− | + |
 | **EBV** | + dans 40 % | rares cas + | − |
 
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-364 Lymphomes B inclassables, intermédiaires entre un DLBCL et un HL_dv/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-364%20Lymphomes%20B%20inclassables%2C%20interm%C3%A9diaires%20entre%20un%20DLBCL%20et%20un%20HL_dv/p10_00.jpeg)
 
 ## Biologie moléculaire / FISH
 

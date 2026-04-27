@@ -30,7 +30,7 @@ Centroblaste/Centrocyte (CD10+ BCL6+)
 Lymphocyte B mémoire (CD10− BCL6− IgD+/−) / Plasmocyte (CD38+ CD20−)
 ```
 
-![[assets/hematologie/ganglion_lymphatique_generalites/Diaporama 07-130_Ontogénie du système immunitaire et réarrangement de gènes/p05_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/ganglion_lymphatique_generalites/Diaporama%2007-130_Ontog%C3%A9nie%20du%20syst%C3%A8me%20immunitaire%20et%20r%C3%A9arrangement%20de%20g%C3%A8nes/p05_00.png)
 
 ### Expression des marqueurs B au cours de l'ontogénie
 
@@ -52,7 +52,7 @@ Lymphocyte B mémoire (CD10− BCL6− IgD+/−) / Plasmocyte (CD38+ CD20−)
 2. Réarrangement VJ → **chaîne légère κ** (prioritaire)
 3. Si κ infructueux sur les 2 allèles → réarrangement **chaîne légère λ**
 
-![[assets/hematologie/ganglion_lymphatique_generalites/Diaporama 07-130_Ontogénie du système immunitaire et réarrangement de gènes/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/ganglion_lymphatique_generalites/Diaporama%2007-130_Ontog%C3%A9nie%20du%20syst%C3%A8me%20immunitaire%20et%20r%C3%A9arrangement%20de%20g%C3%A8nes/p12_01.jpeg)
 
 ### Différenciation B dans le ganglion
 
@@ -63,7 +63,7 @@ Lymphocyte B mémoire (CD10− BCL6− IgD+/−) / Plasmocyte (CD38+ CD20−)
 
 ## Concept de cellule d'origine (OMS 2016)
 
-![[assets/hematologie/ganglion_lymphatique_generalites/Diaporama 07-130_Ontogénie du système immunitaire et réarrangement de gènes/p13_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/ganglion_lymphatique_generalites/Diaporama%2007-130_Ontog%C3%A9nie%20du%20syst%C3%A8me%20immunitaire%20et%20r%C3%A9arrangement%20de%20g%C3%A8nes/p13_02.png)
 
 | Lymphome | Cellule d'origine présumée |
 |---------|---------------------------|
@@ -96,7 +96,7 @@ Simple positif : CD4+ CD8− (helper) ou CD4− CD8+ (cytotoxique)
 - Si TCRγδ productif → lymphocyte T γδ (minoritaire, surtout intestinal)
 - Si ni TCRγ ni TCRβ productif → lymphocyte NK (CD3 intracytoplasmique, CD56+)
 
-![[assets/hematologie/ganglion_lymphatique_generalites/Diaporama 07-130_Ontogénie du système immunitaire et réarrangement de gènes/p17_08.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/ganglion_lymphatique_generalites/Diaporama%2007-130_Ontog%C3%A9nie%20du%20syst%C3%A8me%20immunitaire%20et%20r%C3%A9arrangement%20de%20g%C3%A8nes/p17_08.png)
 
 ### Sous-populations TH périphériques
 
@@ -116,7 +116,7 @@ Simple positif : CD4+ CD8− (helper) ou CD4− CD8+ (cytotoxique)
 - **Cytotoxicité** : TIA-1 (présence), Perforine + GranzB (activation)
 - CD56 : NK (non spécifique, exprimé aussi par quelques T)
 
-![[assets/hematologie/ganglion_lymphatique_generalites/Diaporama 07-130_Ontogénie du système immunitaire et réarrangement de gènes/p18_09.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/ganglion_lymphatique_generalites/Diaporama%2007-130_Ontog%C3%A9nie%20du%20syst%C3%A8me%20immunitaire%20et%20r%C3%A9arrangement%20de%20g%C3%A8nes/p18_09.png)
 
 ## Réarrangement de gènes et clonalité en PCR
 
@@ -124,7 +124,7 @@ Simple positif : CD4+ CD8− (helper) ou CD4− CD8+ (cytotoxique)
 
 Les gènes IGH, IgK, IgL, TCRα, TCRβ, TCRγ, TCRδ appartiennent à la **superfamille des immunoglobulines** (segments V, D, J). L'unicité d'un réarrangement VJ (ou VDJ) définit une clonalité.
 
-![[assets/hematologie/ganglion_lymphatique_generalites/Diaporama 07-130_Ontogénie du système immunitaire et réarrangement de gènes/p20_10.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/ganglion_lymphatique_generalites/Diaporama%2007-130_Ontog%C3%A9nie%20du%20syst%C3%A8me%20immunitaire%20et%20r%C3%A9arrangement%20de%20g%C3%A8nes/p20_10.png)
 
 ### Structure des locus
 
@@ -143,14 +143,14 @@ Les gènes IGH, IgK, IgL, TCRα, TCRβ, TCRγ, TCRδ appartiennent à la **super
 | FR3 (proche CDR3) | Standard | Standardisée EuroClonality |
 | DH-JH | Complémentaire | Précurseurs B |
 
-![[assets/hematologie/ganglion_lymphatique_generalites/Diaporama 07-130_Ontogénie du système immunitaire et réarrangement de gènes/p22_11.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/ganglion_lymphatique_generalites/Diaporama%2007-130_Ontog%C3%A9nie%20du%20syst%C3%A8me%20immunitaire%20et%20r%C3%A9arrangement%20de%20g%C3%A8nes/p22_11.png)
 
 **Interprétation du profil PCR** (électrophorèse capillaire) :
 - **Population monoclonale** : pic unique, taille définie
 - **Population polyclonale** : profil gaussien avec multiples pics
 - **Faux négatifs** possibles → tissu congelé plus sensible
 
-![[assets/hematologie/ganglion_lymphatique_generalites/Diaporama 07-130_Ontogénie du système immunitaire et réarrangement de gènes/p23_12.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/ganglion_lymphatique_generalites/Diaporama%2007-130_Ontog%C3%A9nie%20du%20syst%C3%A8me%20immunitaire%20et%20r%C3%A9arrangement%20de%20g%C3%A8nes/p23_12.png)
 
 ### PCR de clonalité T (TCRγ)
 

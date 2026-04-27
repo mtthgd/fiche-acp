@@ -33,7 +33,7 @@ L'immunité digestive est constituée :
 Stimulation antigénique : **alimentaire** (grêle), **bactérienne** (côlon).
 
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.2 Pathologie dysimmunitaire du tube digestif/p05_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.2%20Pathologie%20dysimmunitaire%20du%20tube%20digestif/p05_00.png)
 
 ## Hyperplasie lymphoïde folliculaire digestive
 
@@ -46,7 +46,7 @@ On parle d'**hyperplasie lymphoïde folliculaire** si nombreux follicules ailleu
 - **Allergies alimentaires**
 - Idiopathique (le plus souvent)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.2 Pathologie dysimmunitaire du tube digestif/p07_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.2%20Pathologie%20dysimmunitaire%20du%20tube%20digestif/p07_03.jpeg)
 
 ## Maladie cœliaque
 
@@ -86,11 +86,11 @@ Hauteur villositaire normale = 2 à 3 fois la longueur des cryptes.
 
 **Classification de Marsh** pour grader l'atrophie villositaire.
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.2 Pathologie dysimmunitaire du tube digestif/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.2%20Pathologie%20dysimmunitaire%20du%20tube%20digestif/p13_00.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.2 Pathologie dysimmunitaire du tube digestif/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.2%20Pathologie%20dysimmunitaire%20du%20tube%20digestif/p13_01.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.2 Pathologie dysimmunitaire du tube digestif/p15_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.2%20Pathologie%20dysimmunitaire%20du%20tube%20digestif/p15_02.jpeg)
 
 ### Formes frustes
 | Forme | Atrophie | LIE |
@@ -102,9 +102,9 @@ Hauteur villositaire normale = 2 à 3 fois la longueur des cryptes.
 - **Gastrite lymphocytaire**, **colite lymphocytaire** (LIE↑)
 - **Sprue collagène** (épaississement collagène sous-épithélial à l'HES ou trichrome)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.2 Pathologie dysimmunitaire du tube digestif/p17_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.2%20Pathologie%20dysimmunitaire%20du%20tube%20digestif/p17_02.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.2 Pathologie dysimmunitaire du tube digestif/p17_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.2%20Pathologie%20dysimmunitaire%20du%20tube%20digestif/p17_03.jpeg)
 
 ### Diagnostics différentiels de l'atrophie villositaire
 
@@ -117,9 +117,9 @@ Hauteur villositaire normale = 2 à 3 fois la longueur des cryptes.
 | Déficits immunitaires | DICV, IPEX |
 | Médicamenteuse | **Sartans**, AINS |
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.2 Pathologie dysimmunitaire du tube digestif/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.2%20Pathologie%20dysimmunitaire%20du%20tube%20digestif/p18_00.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.2 Pathologie dysimmunitaire du tube digestif/p18_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.2%20Pathologie%20dysimmunitaire%20du%20tube%20digestif/p18_02.jpeg)
 
 ### Complications
 
@@ -134,11 +134,11 @@ Survie à 5 ans : sprue type 1 > 90 %, sprue type 2 < 50 %, lymphome catastrophi
 
 Autres complications : **jéjunite ulcéreuse**, **adénocarcinome du grêle**.
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.2 Pathologie dysimmunitaire du tube digestif/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.2%20Pathologie%20dysimmunitaire%20du%20tube%20digestif/p21_00.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.2 Pathologie dysimmunitaire du tube digestif/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.2%20Pathologie%20dysimmunitaire%20du%20tube%20digestif/p21_01.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.2 Pathologie dysimmunitaire du tube digestif/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.2%20Pathologie%20dysimmunitaire%20du%20tube%20digestif/p22_00.jpeg)
 
 ## Entéropathies des déficits immunitaires
 
@@ -151,9 +151,9 @@ Autres complications : **jéjunite ulcéreuse**, **adénocarcinome du grêle**.
 - **Absence de plasmocytes IgA** dans le chorion (immunomarquage CD138)
 - Infection associée fréquente : ***Giardia lamblia***
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.2 Pathologie dysimmunitaire du tube digestif/p24_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.2%20Pathologie%20dysimmunitaire%20du%20tube%20digestif/p24_02.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.2 Pathologie dysimmunitaire du tube digestif/p24_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.2%20Pathologie%20dysimmunitaire%20du%20tube%20digestif/p24_03.jpeg)
 
 ### Entéropathie auto-immune
 - Médiée par des **anticorps anti-entérocytes** (IFI : liseré fluorescent à la surface des entérocytes)
@@ -165,16 +165,16 @@ Autres complications : **jéjunite ulcéreuse**, **adénocarcinome du grêle**.
 - Aspect histologique de **GVH-like** : apoptose épithéliale, nécrose glandulaire, abcès cryptiques
 - ± Anticorps anti-entérocytes
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.2 Pathologie dysimmunitaire du tube digestif/p25_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.2%20Pathologie%20dysimmunitaire%20du%20tube%20digestif/p25_03.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.2 Pathologie dysimmunitaire du tube digestif/p25_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.2%20Pathologie%20dysimmunitaire%20du%20tube%20digestif/p25_04.jpeg)
 
 ### Aspect MICI-like
 - **Pseudo-RCH** auto-immune + cholangite sclérosante
 - **Déficit en IL-10R**
 - Colite lymphocytaire de l'adulte/enfant sous IPP
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.2 Pathologie dysimmunitaire du tube digestif/p27_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.2%20Pathologie%20dysimmunitaire%20du%20tube%20digestif/p27_02.jpeg)
 
 ## Maladie du greffon contre l'hôte (GVH) digestive
 
@@ -203,9 +203,9 @@ Autres complications : **jéjunite ulcéreuse**, **adénocarcinome du grêle**.
 
 ⚠️ Le grade histologique n'est **pas corrélé** à l'aspect endoscopique ni clinique.
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.2 Pathologie dysimmunitaire du tube digestif/p27_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.2%20Pathologie%20dysimmunitaire%20du%20tube%20digestif/p27_05.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.2 Pathologie dysimmunitaire du tube digestif/p27_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.2%20Pathologie%20dysimmunitaire%20du%20tube%20digestif/p27_06.jpeg)
 
 ⚠️ **Réactivation CMV** fréquente : CMV-colite et lésions d'apoptose peuvent coexister, rendant le diagnostic différentiel difficile.
 
@@ -224,9 +224,9 @@ Inhibiteurs de checkpoints immunitaires : **anti-PD1, anti-PD-L1, anti-CTLA4**. 
 | **CMV** | Volumineuses inclusions virales endothéliales (anti-CMV) |
 | **Adénovirus** | Effet cytopathogène nucléaire en surface |
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.2 Pathologie dysimmunitaire du tube digestif/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.2%20Pathologie%20dysimmunitaire%20du%20tube%20digestif/p33_00.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.2 Pathologie dysimmunitaire du tube digestif/p33_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.2%20Pathologie%20dysimmunitaire%20du%20tube%20digestif/p33_02.jpeg)
 
 ---
 

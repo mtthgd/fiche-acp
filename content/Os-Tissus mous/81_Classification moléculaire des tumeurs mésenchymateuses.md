@@ -34,7 +34,7 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **3 000-4 000 sarcomes / an en France** (incidence 5,9/100 000)
 - Alertes cliniques = **enfant**, **taille > 10 cm**, **localisation profonde** (rétropéritoine, membres)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p05_00.jpeg)
 
 ## Approche morphologique — pierre angulaire
 
@@ -45,13 +45,13 @@ L'analyse moléculaire n'a **aucun intérêt dans > 90 % des cas** si elle n'est
 - **Vaisseaux** : artériolaires, hémangiopéricytaires, ariformes
 - **Cellules** : fusiformes, étoilées, pléomorphes, adipocytaires
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p06_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p06_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p06_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p06_04.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p06_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p06_05.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p06_08.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p06_08.jpeg)
 
 ## IHC : quand ?
 
@@ -63,15 +63,15 @@ L'analyse moléculaire n'a **aucun intérêt dans > 90 % des cas** si elle n'est
 > - Tumeur **desmine+** peut ne pas être musculaire
 > - Tumeurs **pauci-cellulaires** peuvent être des sarcomes de bas grade (myofibroblastique, fibromyxoïde…)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p08_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p09_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p09_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p09_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p09_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p09_03.jpeg)
 
 ## Deux grandes catégories moléculaires
 
@@ -85,13 +85,13 @@ L'analyse moléculaire n'a **aucun intérêt dans > 90 % des cas** si elle n'est
 - Discrimine **bons vs mauvais pronostics** dans les sarcomes à génomique complexe
 - Plus la tumeur est remaniée, plus elle est agressive
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p12_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p12_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p12_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p12_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p12_03.jpeg)
 
 ## Sarcomes à génomique complexe (exemples)
 
@@ -104,11 +104,11 @@ L'analyse moléculaire n'a **aucun intérêt dans > 90 % des cas** si elle n'est
 
 Caryotypes polymorphes d'une cellule à l'autre, CGH-array : gains et pertes diffus.
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p13_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p13_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p13_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p14_00.jpeg)
 
 ## Sarcomes à génomique simple
 
@@ -118,9 +118,9 @@ Caryotypes polymorphes d'une cellule à l'autre, CGH-array : gains et pertes dif
 3. **Mutations gain de fonction** (KIT/PDGFRA dans GIST, CTNNB1 dans tumeur desmoïde)
 4. **Pertes de gène suppresseur** (SMARCB1 dans tumeur rhabdoïde, RB dans lipome à cellules fusiformes)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p15_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p15_01.jpeg)
 
 ### Conséquences des réarrangements
 
@@ -128,11 +128,11 @@ Caryotypes polymorphes d'une cellule à l'autre, CGH-array : gains et pertes dif
 - Activation de **tyrosine kinase** : tumeur myofibroblastique inflammatoire (ALK, ROS1), fibrosarcome infantile (NTRK), NTRK1/2/3
 - **Surexpression de facteur de croissance** : TGCT, **dermatofibrosarcome protubérans (DFSP)**
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p16_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p16_00.png)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p16_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p16_01.png)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p16_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p16_02.jpeg)
 
 ### Translocations principales (exemples)
 
@@ -149,11 +149,11 @@ Caryotypes polymorphes d'une cellule à l'autre, CGH-array : gains et pertes dif
 
 > **EWSR1** et **FUS** = gènes les plus impliqués. Un même gène peut participer à plusieurs diagnostics.
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p21_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p21_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p22_00.jpeg)
 
 ### Tumeurs bénignes à translocation (attention : anomalie moléculaire ≠ malignité)
 
@@ -163,7 +163,7 @@ Caryotypes polymorphes d'une cellule à l'autre, CGH-array : gains et pertes dif
 | **Lipome conventionnel** | 12q13-15, **HMGA2** |
 | Angiofibrome cellulaire | Délétion RB |
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p23_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p23_00.png)
 
 ## Techniques moléculaires
 
@@ -179,9 +179,9 @@ Caryotypes polymorphes d'une cellule à l'autre, CGH-array : gains et pertes dif
 
 **Avantages** : simple, rapide ; **limites** : faux +/− possibles, non spécifique, pas d'anticorps pour chaque anomalie.
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p24_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p24_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p24_01.png)
 
 ### FISH (hybridation in situ fluorescence)
 
@@ -203,21 +203,21 @@ Caryotypes polymorphes d'une cellule à l'autre, CGH-array : gains et pertes dif
 - Vue **globale du génome**, perte d'hétérozygotie
 - Ne détecte pas les réarrangements équilibrés ni les mutations ponctuelles
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p26_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p26_00.png)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p27_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p27_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p27_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p27_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p27_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p28_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p28_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p28_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p29_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p29_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p29_01.jpeg)
 
 ## Focus Ewing
 
@@ -225,9 +225,9 @@ Caryotypes polymorphes d'une cellule à l'autre, CGH-array : gains et pertes dif
 - Multiples partenaires en 5' d'**EWSR1** : FLI1, ERG, ETV1, ETV4, FEV…
 - **Co-mutations** STAG2, TP53 = marqueurs de risque de progression
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p32_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p33_00.jpeg)
 
 ## Indications de la biologie moléculaire
 
@@ -235,13 +235,13 @@ Caryotypes polymorphes d'une cellule à l'autre, CGH-array : gains et pertes dif
 2. **Présentations cliniques inhabituelles** (âge, localisation atypique)
 3. **Sarcomagenèse avec anomalie pilote attendue** (GIST, DFSP, liposarcome myxoïde, bien diff/dédiff…)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p36_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p36_00.png)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p37_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p37_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p38_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p38_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-430 Classification moléculaire des tumeurs mésenchymateuses/p38_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-430%20Classification%20mol%C3%A9culaire%20des%20tumeurs%20m%C3%A9senchymateuses/p38_01.jpeg)
 
 ---
 

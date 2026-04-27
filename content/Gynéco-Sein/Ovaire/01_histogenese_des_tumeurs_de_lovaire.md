@@ -61,11 +61,11 @@ Lésion in situ du pavillon tubaire :
 - **Mitoses très nombreuses**
 - Profil IHC identique aux carcinomes séreux de haut grade : **p53 muté**, **Ki-67 > 70 %**
 
-![[assets/gyneco-sein/ovaire/x04_11_02 Histogenèse tumeurs ovaires/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/x04_11_02%20Histogen%C3%A8se%20tumeurs%20ovaires/p08_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/x04_11_02 Histogenèse tumeurs ovaires/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/x04_11_02%20Histogen%C3%A8se%20tumeurs%20ovaires/p08_01.jpeg)
 
-![[assets/gyneco-sein/ovaire/x04_11_02 Histogenèse tumeurs ovaires/p08_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/x04_11_02%20Histogen%C3%A8se%20tumeurs%20ovaires/p08_02.jpeg)
 
 ### Validation dans les formes sporadiques
 
@@ -73,11 +73,11 @@ Lésion in situ du pavillon tubaire :
 - **50 %** des carcinomes séreux de haut grade péritonéaux présentent un STIC
 - **Même mutation TP53** dans le STIC et le carcinome invasif → preuve de filiation
 
-![[assets/gyneco-sein/ovaire/x04_11_02 Histogenèse tumeurs ovaires/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/x04_11_02%20Histogen%C3%A8se%20tumeurs%20ovaires/p10_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/x04_11_02 Histogenèse tumeurs ovaires/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/x04_11_02%20Histogen%C3%A8se%20tumeurs%20ovaires/p11_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/x04_11_02 Histogenèse tumeurs ovaires/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/x04_11_02%20Histogen%C3%A8se%20tumeurs%20ovaires/p11_01.jpeg)
 
 ### Origine actuelle des principales tumeurs épithéliales
 
@@ -90,7 +90,7 @@ Lésion in situ du pavillon tubaire :
 
 L’épithélium de surface ovarien lui-même est **calrétinine+ / PAX8 négatif** (profil mésothélial), et n’est plus considéré comme à l’origine de la majorité des cancers ovariens.
 
-![[assets/gyneco-sein/ovaire/x04_11_02 Histogenèse tumeurs ovaires/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/x04_11_02%20Histogen%C3%A8se%20tumeurs%20ovaires/p11_02.jpeg)
 
 
 ## Tumeurs germinales (30 %)

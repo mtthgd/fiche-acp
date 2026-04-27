@@ -31,7 +31,7 @@ source: DES ACP - Cours de gynéco-pathologie
   - **2/3 supérieurs** : canaux de **Müller** → épithélium initialement cylindrique
   - **1/3 inférieur** : sinus uro-génital → épithélium **malpighien**
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p02_00.jpeg)
 
 ### Canaux embryonnaires
 
@@ -42,7 +42,7 @@ source: DES ACP - Cours de gynéco-pathologie
 
 Les canaux de Müller fusionnent sur la ligne médiane → tube unique avec **résorption de la membrane intermüllerienne**.
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p04_00.jpeg)
 
 ## Macroscopie et histologie normale
 
@@ -56,7 +56,7 @@ Les canaux de Müller fusionnent sur la ligne médiane → tube unique avec **r�
 3. **Intermédiaire**
 4. **Superficielle**
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p05_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p05_00.png)
 
 ### Variations cycliques
 
@@ -91,17 +91,17 @@ Anomalies des canaux de Müller (responsables des 2/3 supérieurs du vagin) — 
 | **Urogénital** | Vagin distal | Variable | Origine sinus uro-génital |
 | **Canal de Bartholin** | Vagin distal | **Glandulaire** + glandes mucineuses résiduelles | Origine vulvaire (cf. [[02_vulvePathologie_Benigne]]) |
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p06_00.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p06_01.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p06_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p06_02.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p06_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p06_03.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p06_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p06_04.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p06_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p06_05.jpeg)
 
 > Attention au **bourgeon charnu** qui peut prêter à confusion.
 
@@ -117,15 +117,15 @@ Motif de consultation **fréquent**. Diagnostic essentiellement **cytologique**.
 | **Actinomycose** | *Actinomyces* | Souvent associée au **DIU**, mime un cancer péritonéal |
 | **Malacoplakie** (rare) | Inflammation granulomateuse | **Macrophages avec corps de Michaelis-Gutmann** (incapacité à digérer les bactéries) |
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p09_00.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p09_01.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p09_02.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p09_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p09_03.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p09_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p09_04.jpeg)
 
 ## Pathologie liée au DES (distilbène)
 
@@ -145,17 +145,17 @@ Motif de consultation **fréquent**. Diagnostic essentiellement **cytologique**.
 - DD : **endométriose** (à NE PAS confondre)
 - = **précurseur de l’adénocarcinome à cellules claires** vaginal
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p11_00.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p11_01.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p11_02.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p11_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p11_03.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p11_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p11_04.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p11_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p11_05.jpeg)
 
 ## Lésions pseudo-tumorales
 
@@ -175,13 +175,13 @@ Motif de consultation **fréquent**. Diagnostic essentiellement **cytologique**.
   - **PAS de stroma hypercellulaire**
   - **PAS de striations cytoplasmiques**
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p12_00.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p12_01.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p12_02.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p12_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p12_03.jpeg)
 
 ## Tumeurs bénignes du vagin
 
@@ -204,13 +204,13 @@ Motif de consultation **fréquent**. Diagnostic essentiellement **cytologique**.
 - Lésion **exophytique** : réseau de **papilles anastomosées** + épithélium **cubique régulier**
 - DD : rhabdomyosarcome embryonnaire
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p13_00.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p15_00.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p15_01.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p17_00.jpeg)
 
 ## Tumeurs malignes du vagin
 
@@ -236,9 +236,9 @@ Motif de consultation **fréquent**. Diagnostic essentiellement **cytologique**.
 - Lésions d’**adénose atypique** au contact possibles
 - Très **agressif** : extension locale + métastases pulmonaires et ganglionnaires
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p19_00.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p20_00.jpeg)
 
 ### Rhabdomyosarcome embryonnaire (sarcome botryoïde)
 
@@ -254,13 +254,13 @@ Motif de consultation **fréquent**. Diagnostic essentiellement **cytologique**.
 - Rechercher **stries / striations intracytoplasmiques** (aspect rubané)
 - **IHC : myogénine** (++ rapidement à demander), desmine
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p21_00.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p21_01.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p22_00.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p22_01.jpeg)
 
 #### Pronostic et traitement
 - Localisation vaginale = **localisation favorable**
@@ -291,21 +291,21 @@ Motif de consultation **fréquent**. Diagnostic essentiellement **cytologique**.
 - **Marqueur sérique : alpha-fœtoprotéine (AFP)** à doser
 - Protocoles pédiatriques : chimio + chirurgie ± radiothérapie
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p25_00.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p25_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p25_01.png)
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p25_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p25_02.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p25_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p25_03.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p27_00.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p27_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p27_01.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p27_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p27_02.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21-04 COULOMB/p27_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21-04%20COULOMB/p27_03.jpeg)
 
 ## Diagnostics différentiels — synthèse
 

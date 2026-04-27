@@ -60,9 +60,9 @@ source: DES ACP - Cours d'urologie
 - Tranche de section : solide ou kystique, **jaune beige**
 - Remaniements **nécrotiques** et **calcifications** fréquents
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-122-Carcinomes Papillaires du rein/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-122-Carcinomes%20Papillaires%20du%20rein/p05_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-122-Carcinomes Papillaires du rein/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-122-Carcinomes%20Papillaires%20du%20rein/p06_00.jpeg)
 
 ## Histologie
 - **Architecture papillaire prédominante (> 75 %)**, ± composante **tubuleuse** / zones solides
@@ -77,13 +77,13 @@ source: DES ACP - Cours d'urologie
 - **Forme solide** : papilles de petite taille tassées
 - Formes glomérulées, cribriformes (rares)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-122-Carcinomes Papillaires du rein/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-122-Carcinomes%20Papillaires%20du%20rein/p07_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-122-Carcinomes Papillaires du rein/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-122-Carcinomes%20Papillaires%20du%20rein/p08_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-122-Carcinomes Papillaires du rein/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-122-Carcinomes%20Papillaires%20du%20rein/p09_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-122-Carcinomes Papillaires du rein/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-122-Carcinomes%20Papillaires%20du%20rein/p10_00.jpeg)
 
 ## IHC
 | Marqueur | pRCC type 1 |
@@ -121,7 +121,7 @@ source: DES ACP - Cours d'urologie
 - Tumeur **agressive**, souvent **plurifocale**, **nécrotique**, **mal limitée**
 - Infiltration fréquente : **graisse, sinus, thrombose veineuse, embols vasculaires**
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-122-Carcinomes Papillaires du rein/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-122-Carcinomes%20Papillaires%20du%20rein/p13_00.jpeg)
 
 ## Histologie
 - **Importante hétérogénéité tumorale**
@@ -133,7 +133,7 @@ source: DES ACP - Cours d'urologie
 - Noyaux volumineux, vésiculeux, **nucléoles éosinophiles proéminents**
 - **Haut grade**, remaniements nécrotiques/hémorragiques
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-122-Carcinomes Papillaires du rein/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-122-Carcinomes%20Papillaires%20du%20rein/p14_00.jpeg)
 
 ## IHC
 - **Pas de profil caractéristique**
@@ -195,7 +195,7 @@ source: DES ACP - Cours d'urologie
 | **Génétique** | **Trisomies 7, 17** ; **MET** | Complexe, 7/17 plus rares |
 | **Pronostic** | **Bon** | **Mauvais** |
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-122-Carcinomes Papillaires du rein/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-122-Carcinomes%20Papillaires%20du%20rein/p22_00.jpeg)
 
 
 ---

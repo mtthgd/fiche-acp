@@ -81,9 +81,9 @@ source: DES ACP - Cours de gynéco-pathologie
 | RH (RE/RP) | + |
 | **P53** | **wild-type** ✓ caractéristique |
 
-![[assets/gyneco-sein/trompe-ligament_large/04-63 trompe tumoral PAJ/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/trompe-ligament_large/04-63%20trompe%20tumoral%20PAJ/p04_00.jpeg)
 
-![[assets/gyneco-sein/trompe-ligament_large/04-63 trompe tumoral PAJ/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/trompe-ligament_large/04-63%20trompe%20tumoral%20PAJ/p05_00.jpeg)
 
 ---
 
@@ -119,13 +119,13 @@ Carcinome séreux de haut grade infiltrant
 - **Pavillon et ampoule** (zones riches en cellules sécrétoires/intercalaires)
 - Plus rare dans l’isthme et la portion interstitielle
 
-![[assets/gyneco-sein/trompe-ligament_large/04-63 trompe tumoral PAJ/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/trompe-ligament_large/04-63%20trompe%20tumoral%20PAJ/p06_00.jpeg)
 
-![[assets/gyneco-sein/trompe-ligament_large/04-63 trompe tumoral PAJ/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/trompe-ligament_large/04-63%20trompe%20tumoral%20PAJ/p07_00.jpeg)
 
-![[assets/gyneco-sein/trompe-ligament_large/04-63 trompe tumoral PAJ/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/trompe-ligament_large/04-63%20trompe%20tumoral%20PAJ/p08_00.jpeg)
 
-![[assets/gyneco-sein/trompe-ligament_large/04-63 trompe tumoral PAJ/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/trompe-ligament_large/04-63%20trompe%20tumoral%20PAJ/p09_00.jpeg)
 
 ### Profil IHC du STIC
 
@@ -156,13 +156,13 @@ Carcinome séreux de haut grade infiltrant
 | **Carcinome séreux haut grade infiltrant associé** | À éliminer ++ : rechercher infiltration micrométrique du chorion (niveaux supplémentaires) |
 | Métastase tubaire d’un carcinome séreux endométrial | Contexte + **RH/WT1 négatifs** évocateur |
 
-![[assets/gyneco-sein/trompe-ligament_large/04-63 trompe tumoral PAJ/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/trompe-ligament_large/04-63%20trompe%20tumoral%20PAJ/p10_00.jpeg)
 
-![[assets/gyneco-sein/trompe-ligament_large/04-63 trompe tumoral PAJ/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/trompe-ligament_large/04-63%20trompe%20tumoral%20PAJ/p11_00.jpeg)
 
-![[assets/gyneco-sein/trompe-ligament_large/04-63 trompe tumoral PAJ/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/trompe-ligament_large/04-63%20trompe%20tumoral%20PAJ/p12_00.jpeg)
 
-![[assets/gyneco-sein/trompe-ligament_large/04-63 trompe tumoral PAJ/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/trompe-ligament_large/04-63%20trompe%20tumoral%20PAJ/p13_00.jpeg)
 
 ### Le STIC : précurseur du carcinome séreux de haut grade ovarien
 
@@ -190,9 +190,9 @@ Carcinome séreux de haut grade infiltrant
   - **Reste de la trompe** : tranchage **transversal**
 - = Protocole **SEE-FIM**
 
-![[assets/gyneco-sein/trompe-ligament_large/04-63 trompe tumoral PAJ/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/trompe-ligament_large/04-63%20trompe%20tumoral%20PAJ/p16_00.jpeg)
 
-![[assets/gyneco-sein/trompe-ligament_large/04-63 trompe tumoral PAJ/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/trompe-ligament_large/04-63%20trompe%20tumoral%20PAJ/p17_00.jpeg)
 
 ---
 
@@ -267,11 +267,11 @@ Cytologie :
 
 - **Évolution bénigne** dans la grande majorité des cas
 
-![[assets/gyneco-sein/trompe-ligament_large/04-63 trompe tumoral PAJ/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/trompe-ligament_large/04-63%20trompe%20tumoral%20PAJ/p19_00.jpeg)
 
-![[assets/gyneco-sein/trompe-ligament_large/04-63 trompe tumoral PAJ/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/trompe-ligament_large/04-63%20trompe%20tumoral%20PAJ/p20_00.jpeg)
 
-![[assets/gyneco-sein/trompe-ligament_large/04-63 trompe tumoral PAJ/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/trompe-ligament_large/04-63%20trompe%20tumoral%20PAJ/p21_00.jpeg)
 
 ## B. Léiomyome du ligament large
 

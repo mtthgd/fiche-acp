@@ -26,9 +26,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Âge : **> 50 ans**, légère prédominance masculine
 - Localisations : **bassin, fémur proximal, humérus proximal, fémur distal, côtes**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p04_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p04_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p04_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p04_03.jpeg)
 
 ## Classification (OMS 2013) et grading de O'Neal et Ackermann
 
@@ -43,9 +43,9 @@ Grading basé sur : **cellularité, atypies nucléaires, activité mitotique**.
 - **Grade 2** : remaniements mixoïdes étendus classés d'emblée G2
 - **Grade 3** : au moins focalement cellularité, atypies, mitoses importantes ; différenciation cartilagineuse parfois focale/difficile
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p05_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p05_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p05_03.png)
 
 
 ## Modèle de progression tumorale
@@ -70,7 +70,7 @@ Cellule souche mésenchymateuse → **enchondrome** → chondrosarcome central *
   - **Composante dédifférenciée** (IDH+) vs sarcome primitif osseux
   - Chondrosarcome vs **cordome**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p06_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p06_01.png)
 
 
 ## Critères radiocliniques majeurs
@@ -88,7 +88,7 @@ Cellule souche mésenchymateuse → **enchondrome** → chondrosarcome central *
 - Alternant avec des zones d'ostéosclérose corticale (permission)
 
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p06_10.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p06_10.png)
 
 
 ## Critères histologiques de malignité
@@ -103,7 +103,7 @@ Cellule souche mésenchymateuse → **enchondrome** → chondrosarcome central *
 > Dans **> 25 %** des cas, une tumeur atypique/G1 a une cytologie **identique à un enchondrome** → critères cytologiques insuffisants.
 
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p06_16.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p06_16.png)
 
 
 ⚠️ Une **activité mitotique importante** dans une tumeur cartilagineuse doit faire évoquer un **ostéosarcome chondroblastique**.
@@ -115,17 +115,17 @@ Signes de résorption tumorale à rechercher :
 - Passage de la tumeur d'un **espace médullaire à l'autre** (« bouchon de champagne »)
 - Fragments osseux **englobés** dans le tissu tumoral avec contours anguleux en carte de géographie
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p07_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p09_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p09_01.jpeg)
 
 > ⚠️ **Lumière polarisée obligatoire** pour vérifier que l'os englobé est bien lamellaire **préexistant** (résorbé par la tumeur) et non **fibrillaire néoformé** par ossification endochondrale intratumorale.
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p10_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p11_00.jpeg)
 
 ### Piège : biopsie / curetage très fragmenté
 
@@ -133,11 +133,11 @@ Imbrication fragments osseux / tumeur → images trompeuses de fausse résorptio
 
 → **Importance du COUVERCLE CORTICAL** prélevé à part (enchondrome = corticale préservée ; chondrosarcome = languettes tumorales érodant la face endostéale et protrudant dans les tissus mous).
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p12_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p13_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p13_01.jpeg)
 
 
 ### Autres critères en faveur de la malignité
@@ -151,23 +151,23 @@ Imbrication fragments osseux / tumeur → images trompeuses de fausse résorptio
 
 **Nécrose tumorale spontanée étendue** (hors minéralisation) : critère de malignité ; à distinguer de la nécrose ischémique physiologique liée à la minéralisation.
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p14_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p15_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p15_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p16_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p16_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p17_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p18_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p19_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p19_01.jpeg)
 
 ## Pronostic
 
@@ -181,13 +181,13 @@ Imbrication fragments osseux / tumeur → images trompeuses de fausse résorptio
 2. **Localisation** : squelette appendiculaire (meilleur) vs axial/pelvien (mauvais)
 3. Présence et proportion d'une **composante dédifférenciée**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p20_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p20_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p20_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p20_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p20_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p20_03.jpeg)
 
 ## Traitement
 
@@ -199,11 +199,11 @@ Chondrosarcomes **non chimio- et non radiosensibles** → **chirurgie seule** le
 | G2/G3 os longs | **Résection carcinologique en bloc** |
 | Bassin (tout grade) | Résection en bloc |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p21_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p21_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p21_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p21_02.jpeg)
 
 ## Cas particuliers
 
@@ -214,15 +214,15 @@ Chondrosarcomes **non chimio- et non radiosensibles** → **chirurgie seule** le
 | **Métacarpiens, métatarsiens** | **~20 %** (tumeurs agressives) | Résorption osseuse applicable comme os longs |
 | **Phalanges** | **Minime** (agressivité locale) | Critères habituels à moduler ; besoin d'atypies marquées G3 + **rupture corticale** + extension tissus mous ; récidive après traitement = suspect |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p22_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p23_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p23_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p23_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p23_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p24_00.jpeg)
 
 ### Chondrosarcome sur enchondromatose
 
@@ -230,17 +230,17 @@ Chondrosarcomes **non chimio- et non radiosensibles** → **chirurgie seule** le
 - Corticales remodelées (parfois disparues) → critères de résorption inapplicables
 - **Critère le plus fiable = remaniements mixoïdes étendus** (= G2)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p25_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p26_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p26_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p26_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p27_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p27_00.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p27_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p27_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p28_00.jpeg)
 
 ## Chondrosarcome périosté
 
@@ -255,34 +255,34 @@ Chondrosarcomes **non chimio- et non radiosensibles** → **chirurgie seule** le
 1. **Taille > 5 cm**
 2. **Invasion / résorption / infiltration de la corticale** de l'os porteur
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p31_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p31_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p31_01.jpeg)
 
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p32_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p32_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p32_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p33_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p33_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p33_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p33_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p33_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p34_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p35_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p35_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p35_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p36_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p36_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p36_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p36_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p36_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p36_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250 Tumeurs cartilagineuses conventionnelles malignes/p36_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-250%20Tumeurs%20cartilagineuses%20conventionnelles%20malignes/p36_03.jpeg)
 
 ---
 

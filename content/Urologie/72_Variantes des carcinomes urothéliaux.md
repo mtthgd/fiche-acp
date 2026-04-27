@@ -61,11 +61,11 @@ source: DES ACP - Cours d'urologie
 - Traitement : BCG **inefficace** ; cystectomie radicale d'emblée discutée dès cT1
 - Checkpoints : PD-L1 + dans ~10 %
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-231-Variantes des carcinomes urothéliaux/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-231-Variantes%20des%20carcinomes%20uroth%C3%A9liaux/p05_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-231-Variantes des carcinomes urothéliaux/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-231-Variantes%20des%20carcinomes%20uroth%C3%A9liaux/p06_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-231-Variantes des carcinomes urothéliaux/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-231-Variantes%20des%20carcinomes%20uroth%C3%A9liaux/p07_00.jpeg)
 
 ---
 
@@ -88,13 +88,13 @@ source: DES ACP - Cours d'urologie
 - DD : **cystites kystiques/glandulaires** (bénignes)
 
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-231-Variantes des carcinomes urothéliaux/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-231-Variantes%20des%20carcinomes%20uroth%C3%A9liaux/p09_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-231-Variantes des carcinomes urothéliaux/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-231-Variantes%20des%20carcinomes%20uroth%C3%A9liaux/p10_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-231-Variantes des carcinomes urothéliaux/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-231-Variantes%20des%20carcinomes%20uroth%C3%A9liaux/p11_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-231-Variantes des carcinomes urothéliaux/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-231-Variantes%20des%20carcinomes%20uroth%C3%A9liaux/p12_00.jpeg)
 
 ---
 
@@ -109,9 +109,9 @@ source: DES ACP - Cours d'urologie
 - **OMS 2016** : regroupé avec **bague à chaton** et **diffus**
 - Traitement : cystectomie + chimio → **décès fréquent** malgré tout
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-231-Variantes des carcinomes urothéliaux/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-231-Variantes%20des%20carcinomes%20uroth%C3%A9liaux/p13_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-231-Variantes des carcinomes urothéliaux/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-231-Variantes%20des%20carcinomes%20uroth%C3%A9liaux/p14_00.jpeg)
 
 ---
 
@@ -123,7 +123,7 @@ source: DES ACP - Cours d'urologie
 - Marqueurs épithéliaux **+** (confirment la nature carcinomateuse)
 - **EBV toujours négatif** (≠ nasopharyngé)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-231-Variantes des carcinomes urothéliaux/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-231-Variantes%20des%20carcinomes%20uroth%C3%A9liaux/p15_00.jpeg)
 
 ---
 
@@ -137,9 +137,9 @@ source: DES ACP - Cours d'urologie
 | **À cellules claires** | ≠ carcinome à cellules claires de l'urètre ; rare, agressif |
 | **Rhabdoïde** | Rare, agressif |
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-231-Variantes des carcinomes urothéliaux/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-231-Variantes%20des%20carcinomes%20uroth%C3%A9liaux/p16_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-231-Variantes des carcinomes urothéliaux/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-231-Variantes%20des%20carcinomes%20uroth%C3%A9liaux/p17_00.jpeg)
 
 ---
 
@@ -153,7 +153,7 @@ source: DES ACP - Cours d'urologie
 | **ADK vésical pur** | **1 / 2 / 3** idem |
 | **Composante sarcomatoïde** associée | À mentionner (impact survie) |
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-231-Variantes des carcinomes urothéliaux/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-231-Variantes%20des%20carcinomes%20uroth%C3%A9liaux/p18_00.jpeg)
 
 ---
 
@@ -206,7 +206,7 @@ source: DES ACP - Cours d'urologie
 | **CDX2** | **+** |
 | **β-caténine** | **Membranaire/cytoplasmique** (≠ ADK colique où nucléaire) → aide pour DD métastase colique |
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-231-Variantes des carcinomes urothéliaux/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-231-Variantes%20des%20carcinomes%20uroth%C3%A9liaux/p19_00.jpeg)
 
 
 ---

@@ -42,9 +42,9 @@ source: DES ACP - Cours de gynéco-pathologie (col utérin)
 4. **Infiltrat inflammatoire** du chorion.
 5. **Stroma desmoplastique** (réaction desmoplastique) +++.
 
-![[assets/gyneco-sein/col_uterin/04_33_01 COL CE  Henno/p04_00.jpeg]]
-![[assets/gyneco-sein/col_uterin/04_33_01 COL CE  Henno/p05_00.jpeg]]
-![[assets/gyneco-sein/col_uterin/04_33_01 COL CE  Henno/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_33_01%20COL%20CE%20%20Henno/p04_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_33_01%20COL%20CE%20%20Henno/p05_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_33_01%20COL%20CE%20%20Henno/p06_00.jpeg)
 
 ### Aspects morphologiques de la micro-invasion
 
@@ -53,9 +53,9 @@ source: DES ACP - Cours de gynéco-pathologie (col utérin)
 - **Stroma fibro-inflammatoire desmoplastique** caractéristique.
 - À un stade plus avancé : nombreux petits amas et massifs s’égrenant dans un stroma desmoplastique, contours **anguleux et irréguliers**.
 
-![[assets/gyneco-sein/col_uterin/04_33_01 COL CE  Henno/p07_00.jpeg]]
-![[assets/gyneco-sein/col_uterin/04_33_01 COL CE  Henno/p08_00.jpeg]]
-![[assets/gyneco-sein/col_uterin/04_33_01 COL CE  Henno/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_33_01%20COL%20CE%20%20Henno/p07_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_33_01%20COL%20CE%20%20Henno/p08_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_33_01%20COL%20CE%20%20Henno/p09_00.jpeg)
 
 ### Mesures obligatoires
 
@@ -68,8 +68,8 @@ Deux paramètres à reporter en **mm** dans le compte-rendu :
 
 > Utiliser un micromètre ou un logiciel de mesure pour la précision.
 
-![[assets/gyneco-sein/col_uterin/04_33_01 COL CE  Henno/p13_00.jpeg]]
-![[assets/gyneco-sein/col_uterin/04_33_01 COL CE  Henno/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_33_01%20COL%20CE%20%20Henno/p13_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_33_01%20COL%20CE%20%20Henno/p13_01.jpeg)
 
 ### Embols vasculaires — facteur pronostique majeur
 
@@ -78,9 +78,9 @@ Deux paramètres à reporter en **mm** dans le compte-rendu :
 - À rechercher attentivement sur **toute** invasion débutante (peut modifier la stratégie thérapeutique).
 - En cas de doute (rétraction tissulaire ?) : confirmer par **CD31** ou **D2-40**.
 
-![[assets/gyneco-sein/col_uterin/04_33_01 COL CE  Henno/p15_00.jpeg]]
-![[assets/gyneco-sein/col_uterin/04_33_01 COL CE  Henno/p16_00.jpeg]]
-![[assets/gyneco-sein/col_uterin/04_33_01 COL CE  Henno/p16_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_33_01%20COL%20CE%20%20Henno/p15_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_33_01%20COL%20CE%20%20Henno/p16_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_33_01%20COL%20CE%20%20Henno/p16_03.jpeg)
 
 ### Marges d’exérèse — précisions obligatoires
 
@@ -110,7 +110,7 @@ Deux paramètres à reporter en **mm** dans le compte-rendu :
   - **Ulcérée**.
   - **Infiltrante prédominante** : plus rare, diagnostic plus difficile (col soufflé, extension à la cavité utérine).
 
-![[assets/gyneco-sein/col_uterin/04_33_01 COL CE  Henno/p19_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_33_01%20COL%20CE%20%20Henno/p19_00.png)
 
 ### Histologie
 - Architecture variable : **massifs, amas, îlots, travées, nappes** à différenciation malpighienne.

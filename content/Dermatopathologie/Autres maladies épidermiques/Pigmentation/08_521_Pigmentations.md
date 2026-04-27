@@ -35,9 +35,9 @@ Les troubles pigmentaires regroupent les **hyperpigmentations** et les **hypopig
 
 **Coloration de Perls** = met en évidence les **dépôts de fer**.
 
-![[assets/dermato/autres-maladies-epidermiques/trouble-pigmentation/08-521-Pigmentations/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/autres-maladies-epidermiques/trouble-pigmentation/08-521-Pigmentations/p03_00.jpeg)
 
-![[assets/dermato/autres-maladies-epidermiques/trouble-pigmentation/08-521-Pigmentations/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/autres-maladies-epidermiques/trouble-pigmentation/08-521-Pigmentations/p04_00.jpeg)
 
 ### Question 2 — Hyperplasie mélanocytaire ou augmentation de la production de mélanine ?
 
@@ -54,7 +54,7 @@ Les troubles pigmentaires regroupent les **hyperpigmentations** et les **hypopig
 
 → Voir fiches dédiées (lésions mélanocytaires).
 
-![[assets/dermato/autres-maladies-epidermiques/trouble-pigmentation/08-521-Pigmentations/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/autres-maladies-epidermiques/trouble-pigmentation/08-521-Pigmentations/p07_00.jpeg)
 
 #### Augmentation de la production de mélanine sans hyperplasie mélanocytaire
 
@@ -82,9 +82,9 @@ Les troubles pigmentaires regroupent les **hyperpigmentations** et les **hypopig
 | **Phytophotodermatoses** | Photosensibilité aux plantes (psoralènes) |
 | **Médicaments photosensibilisants** | — |
 
-![[assets/dermato/autres-maladies-epidermiques/trouble-pigmentation/08-521-Pigmentations/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/autres-maladies-epidermiques/trouble-pigmentation/08-521-Pigmentations/p11_00.jpeg)
 
-![[assets/dermato/autres-maladies-epidermiques/trouble-pigmentation/08-521-Pigmentations/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/autres-maladies-epidermiques/trouble-pigmentation/08-521-Pigmentations/p12_00.jpeg)
 
 ### Question 3 — Mélanocytes dermiques ou kératinocytes pigmentés (en cas de doute) ?
 
@@ -166,7 +166,7 @@ Maladie **inflammatoire auto-immune** : **lymphocytes CD8+** agressant les **mé
 - **Évaluer l'état inflammatoire** : présence d'un **infiltrat lymphocytaire** → indication de **bolus de corticoïdes** (efficaces si vitiligo encore inflammatoire)
 
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p21_00.jpeg)
 
 ### Histologie
 
@@ -183,11 +183,11 @@ Maladie **inflammatoire auto-immune** : **lymphocytes CD8+** agressant les **mé
 | Histologie | **Pas d'atypie mélanocytaire**, **infiltrat lymphocytaire massif** du derme papillaire (couleur bleutée, limite nette inférieure) | **Mélanocytes atypiques** ; **tumeur à mélanophages** = quasi pathognomonique d'une régression mélanomateuse |
 | Pronostic | **Bénin** | **Mauvais** (mélanome agressif) |
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p27_00.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242 Dermatoses bulleuses AI de jonction/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242%20Dermatoses%20bulleuses%20AI%20de%20jonction/p28_00.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244 Dermatoses bulleuses non AI/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244%20Dermatoses%20bulleuses%20non%20AI/p30_00.jpeg)
 
 ## Algorithme diagnostique des hypopigmentations
 

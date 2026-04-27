@@ -46,9 +46,9 @@ L'analyse histologique de la paroi aortique permet de reconnaître **divers prof
 - Aortes (surtout **thoraciques ascendantes**) opérées pour anévrysme ou dissection
 - **Incidence des aortites = 4 à 11 %** sur ces séries chirurgicales
 
-![[assets/cardio-vasculaire/vaisseaux/sonorisé_DES MODphase approfondissement Aortites/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/sonoris%C3%A9_DES%20MODphase%20approfondissement%20Aortites/p05_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/sonorisé_DES MODphase approfondissement Aortites/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/sonoris%C3%A9_DES%20MODphase%20approfondissement%20Aortites/p06_00.jpeg)
 
 ## I — Maladie de Horton (artérite à cellules géantes / artérite temporale)
 
@@ -82,7 +82,7 @@ L'analyse histologique de la paroi aortique permet de reconnaître **divers prof
 
 
 
-![[assets/cardio-vasculaire/vaisseaux/sonorisé_DES MODphase approfondissement Aortites/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/sonoris%C3%A9_DES%20MODphase%20approfondissement%20Aortites/p12_00.jpeg)
 
 ## II — Maladie de Takayasu
 
@@ -120,11 +120,11 @@ L'analyse histologique de la paroi aortique permet de reconnaître **divers prof
 
 > ⚠️ Au stade fibrocicatriciel, **l'inflammation N'EST PAS indispensable au diagnostic** si elle a cédé la place à une fibrose adventicielle caractéristique.
 
-![[assets/cardio-vasculaire/vaisseaux/sonorisé_DES MODphase approfondissement Aortites/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/sonoris%C3%A9_DES%20MODphase%20approfondissement%20Aortites/p17_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/sonorisé_DES MODphase approfondissement Aortites/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/sonoris%C3%A9_DES%20MODphase%20approfondissement%20Aortites/p21_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/sonorisé_DES MODphase approfondissement Aortites/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/sonoris%C3%A9_DES%20MODphase%20approfondissement%20Aortites/p23_00.jpeg)
 
 ### Diagnostic différentiel Horton vs Takayasu
 
@@ -150,9 +150,9 @@ L'analyse histologique de la paroi aortique permet de reconnaître **divers prof
 - Versant luminal : **plaque d'athérosclérose**
 - Réponse immune induite par les composants de la plaque
 
-![[assets/cardio-vasculaire/vaisseaux/sonorisé_DES MODphase approfondissement Aortites/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/sonoris%C3%A9_DES%20MODphase%20approfondissement%20Aortites/p27_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/sonorisé_DES MODphase approfondissement Aortites/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/sonoris%C3%A9_DES%20MODphase%20approfondissement%20Aortites/p29_00.jpeg)
 
 > Les lésions inflammatoires chroniques **favorisent** l'athérosclérose → DD difficile entre Takayasu ancien + athérosclérose surajoutée et athérosclérose + péri-aortite réactionnelle.
 
@@ -177,9 +177,9 @@ L'analyse histologique de la paroi aortique permet de reconnaître **divers prof
 - Infiltrat inflammatoire **dense, riche en plasmocytes**
 - Inflammation **agressive** : destruction CML et fibres élastiques → anévrysme
 
-![[assets/cardio-vasculaire/vaisseaux/sonorisé_DES MODphase approfondissement Aortites/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/sonoris%C3%A9_DES%20MODphase%20approfondissement%20Aortites/p32_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/sonorisé_DES MODphase approfondissement Aortites/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/sonoris%C3%A9_DES%20MODphase%20approfondissement%20Aortites/p33_00.jpeg)
 
 ## V — Aortites des maladies rhumatismales
 
@@ -197,7 +197,7 @@ Complication **sévère** de plusieurs maladies rhumatismales : risque d'**anév
 ### Histologie
 Aspects variés : **lympho-plasmocytaire**, **granulomateux** (rhumatoïde), **gigantocellulaire**. Inflammation agressive → anévrysme/dissection.
 
-![[assets/cardio-vasculaire/vaisseaux/sonorisé_DES MODphase approfondissement Aortites/p36_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/sonoris%C3%A9_DES%20MODphase%20approfondissement%20Aortites/p36_00.jpeg)
 
 ## VI — Aortites infectieuses
 
@@ -213,9 +213,9 @@ Aspects variés : **lympho-plasmocytaire**, **granulomateux** (rhumatoïde), **g
 - **Rupture aortique** → **faux anévrysme** par organisation
 - Histologie : matériel **fibrino-leucocytaire**, suppuration, paroi détruite
 
-![[assets/cardio-vasculaire/vaisseaux/sonorisé_DES MODphase approfondissement Aortites/p40_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/sonoris%C3%A9_DES%20MODphase%20approfondissement%20Aortites/p40_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/sonorisé_DES MODphase approfondissement Aortites/p43_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/sonoris%C3%A9_DES%20MODphase%20approfondissement%20Aortites/p43_00.jpeg)
 
 ### Aortite syphilitique
 - Étiologie **exceptionnelle** mais persistante
@@ -228,9 +228,9 @@ Aspects variés : **lympho-plasmocytaire**, **granulomateux** (rhumatoïde), **g
 - Mécanisme habituel : infection **de dehors en dedans** à partir d'**adénopathies tuberculeuses péri-aortiques**
 - Exceptionnellement : dissémination hématogène
 
-![[assets/cardio-vasculaire/vaisseaux/sonorisé_DES MODphase approfondissement Aortites/p44_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/sonoris%C3%A9_DES%20MODphase%20approfondissement%20Aortites/p44_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/sonorisé_DES MODphase approfondissement Aortites/p45_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/sonoris%C3%A9_DES%20MODphase%20approfondissement%20Aortites/p45_00.jpeg)
 
 ## VII — Entités exceptionnelles
 

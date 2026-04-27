@@ -25,7 +25,7 @@ La cytopathologie mammaire, **lorsqu'elle est correctement utilisée**, rend de 
 
 C'est l'examen diagnostique le **plus simple, le moins invasif**, peu coûteux, facilement renouvelable et permettant un **diagnostic rapide**.
 
-![[assets/cytopathologie/mammaire/PlaceActuelleCytoMammaire 11.1010/p01_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/PlaceActuelleCytoMammaire%2011.1010/p01_01.png)
 
 ## Technique de la cytoponction
 
@@ -93,9 +93,9 @@ Pour de très bons résultats : **concordance** entre :
 
 ⚠️ **Limite** : ce schéma vaut pour les cancers **traités en première intention par chirurgie**. Si **chimiothérapie néoadjuvante** envisagée → **microbiopsie obligatoire** pour grade histopronostique + facteurs prédictifs.
 
-![[assets/cytopathologie/mammaire/PlaceActuelleCytoMammaire 11.1010/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/PlaceActuelleCytoMammaire%2011.1010/p03_00.jpeg)
 
-![[assets/cytopathologie/mammaire/PlaceActuelleCytoMammaire 11.1010/p03_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/PlaceActuelleCytoMammaire%2011.1010/p03_01.png)
 
 ## Organisation du diagnostic rapide (modèle Gustave Roussy)
 
@@ -117,9 +117,9 @@ Pour de très bons résultats : **concordance** entre :
 | Cyto **bénigne concordante** | Reclassement ACR 2 — pas de suivi si kyste évacué, sinon contrôle 4 mois |
 | Cyto bénigne **discordante (ACR 4B/4C/5)** | **Microbiopsie le même jour** |
 
-![[assets/cytopathologie/mammaire/PlaceActuelleCytoMammaire 11.1010/p05_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/PlaceActuelleCytoMammaire%2011.1010/p05_01.png)
 
-![[assets/cytopathologie/mammaire/PlaceActuelleCytoMammaire 11.1010/p05_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/PlaceActuelleCytoMammaire%2011.1010/p05_02.png)
 
 ## Cas cliniques illustratifs
 
@@ -135,7 +135,7 @@ Pour de très bons résultats : **concordance** entre :
 
 → **Aspect de fibroadénome** = triple test concordant bénin → reclassement **ACR 2** → surveillance habituelle.
 
-![[assets/cytopathologie/mammaire/PlaceActuelleCytoMammaire 11.1010/p08_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/PlaceActuelleCytoMammaire%2011.1010/p08_00.png)
 
 ### Cas 2 — Adénocarcinome (femme 65 ans)
 
@@ -148,9 +148,9 @@ Pour de très bons résultats : **concordance** entre :
 
 → **Adénocarcinome**, triple test concordant malin → tumorectomie + ganglion sentinelle. RCP préopératoire et chirurgie programmées **le jour même**.
 
-![[assets/cytopathologie/mammaire/PlaceActuelleCytoMammaire 11.1010/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/PlaceActuelleCytoMammaire%2011.1010/p11_01.jpeg)
 
-![[assets/cytopathologie/mammaire/PlaceActuelleCytoMammaire 11.1010/p12_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/PlaceActuelleCytoMammaire%2011.1010/p12_00.png)
 
 ## Stadification ganglionnaire — cytoponction d'un ganglion axillaire
 
@@ -170,11 +170,11 @@ Une cytoponction d'un ganglion axillaire **échographiquement suspect** (cortex 
 
 → **Adénocarcinome mammaire + métastase ganglionnaire axillaire** (T1N1) → bilan d'extension, RCP et chirurgie 1ʳᵉ (curage d'emblée, pas de sentinelle) programmés le jour même.
 
-![[assets/cytopathologie/mammaire/PlaceActuelleCytoMammaire 11.1010/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/PlaceActuelleCytoMammaire%2011.1010/p13_00.jpeg)
 
-![[assets/cytopathologie/mammaire/PlaceActuelleCytoMammaire 11.1010/p15_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/PlaceActuelleCytoMammaire%2011.1010/p15_00.png)
 
-![[assets/cytopathologie/mammaire/PlaceActuelleCytoMammaire 11.1010/p15_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/PlaceActuelleCytoMammaire%2011.1010/p15_02.png)
 
 ## Suivi des patientes traitées
 
@@ -190,9 +190,9 @@ Les patientes traitées peuvent présenter des **images radiologiques atypiques*
 - **Cytoponction** des 2 nodules : récidive carcinomateuse confirmée pour les 2 sites
 - Scanner : autres localisations médiastinales et osseuses → RCP
 
-![[assets/cytopathologie/mammaire/PlaceActuelleCytoMammaire 11.1010/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/PlaceActuelleCytoMammaire%2011.1010/p16_01.jpeg)
 
-![[assets/cytopathologie/mammaire/PlaceActuelleCytoMammaire 11.1010/p16_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/PlaceActuelleCytoMammaire%2011.1010/p16_02.jpeg)
 
 ### Cas 2 — Métastase mammaire vs cancer pulmonaire primitif
 
@@ -202,9 +202,9 @@ Les patientes traitées peuvent présenter des **images radiologiques atypiques*
 - **IHC TTF-1 sur cytobloc → négatif** → confirme **métastase de carcinome mammaire**
 - Évite un geste chirurgical mammaire inutile (traitement = chimiothérapie)
 
-![[assets/cytopathologie/mammaire/PlaceActuelleCytoMammaire 11.1010/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/PlaceActuelleCytoMammaire%2011.1010/p19_01.jpeg)
 
-![[assets/cytopathologie/mammaire/PlaceActuelleCytoMammaire 11.1010/p19_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/PlaceActuelleCytoMammaire%2011.1010/p19_02.jpeg)
 
 ### Cas 3 — Cytostéatonécrose (femme 60 ans)
 
@@ -215,9 +215,9 @@ Les patientes traitées peuvent présenter des **images radiologiques atypiques*
   - **Adipocytes altérés**
 - Pas de récidive
 
-![[assets/cytopathologie/mammaire/PlaceActuelleCytoMammaire 11.1010/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/PlaceActuelleCytoMammaire%2011.1010/p20_01.jpeg)
 
-![[assets/cytopathologie/mammaire/PlaceActuelleCytoMammaire 11.1010/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/PlaceActuelleCytoMammaire%2011.1010/p21_01.jpeg)
 
 ## Facteurs prédictifs et pronostiques sur cytoponction
 
@@ -238,13 +238,13 @@ Les patientes traitées peuvent présenter des **images radiologiques atypiques*
 - **Comparable** au matériel de microbiopsie
 - ⭐ **Cyto plus riche en cellules tumorales** que la microbiopsie pour les **tumeurs à stroma fibreux dense** (canalaire infiltrant)
 
-![[assets/cytopathologie/mammaire/PlaceActuelleCytoMammaire 11.1010/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/PlaceActuelleCytoMammaire%2011.1010/p22_00.jpeg)
 
-![[assets/cytopathologie/mammaire/PlaceActuelleCytoMammaire 11.1010/p22_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/PlaceActuelleCytoMammaire%2011.1010/p22_01.png)
 
-![[assets/cytopathologie/mammaire/PlaceActuelleCytoMammaire 11.1010/p22_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/PlaceActuelleCytoMammaire%2011.1010/p22_02.jpeg)
 
-![[assets/cytopathologie/mammaire/PlaceActuelleCytoMammaire 11.1010/p22_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/PlaceActuelleCytoMammaire%2011.1010/p22_04.jpeg)
 
 ## Système de Yokohama (IAC) — terminologie standardisée
 
@@ -266,9 +266,9 @@ Rédigé par l'**International Academy of Cytology (IAC)**.
 - Indications sur les **tests diagnostiques ancillaires** (IHC, BM)
 - **Corrélation avec algorithmes thérapeutiques**
 
-![[assets/cytopathologie/mammaire/PlaceActuelleCytoMammaire 11.1010/p23_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/PlaceActuelleCytoMammaire%2011.1010/p23_02.jpeg)
 
-![[assets/cytopathologie/mammaire/PlaceActuelleCytoMammaire 11.1010/p24_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/PlaceActuelleCytoMammaire%2011.1010/p24_01.png)
 
 ## Conclusions
 

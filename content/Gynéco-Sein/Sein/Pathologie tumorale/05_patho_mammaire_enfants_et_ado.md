@@ -98,15 +98,15 @@ source: DES ACP - Cours de gynéco-pathologie (sein tumoral)
 
 ### Histologie
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/pdf Chapitre 04-10-10 COULOMB SEIN PED/p11_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/pdf Chapitre 04-10-10 COULOMB SEIN PED/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/pdf%20Chapitre%2004-10-10%20COULOMB%20SEIN%20PED/p11_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/pdf%20Chapitre%2004-10-10%20COULOMB%20SEIN%20PED/p11_01.jpeg)
 
 - Prolifération **épithéliale + mésenchymateuse**.
 - Architecture **intracanaliculaire** (mésenchyme dans structures épithéliales) ou **péricanaliculaire** (autour des canaux).
 
 ### Forme géante juvénile
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/pdf Chapitre 04-10-10 COULOMB SEIN PED/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/pdf%20Chapitre%2004-10-10%20COULOMB%20SEIN%20PED/p13_00.jpeg)
 
 - Tumeur **> 5 cm** (jusqu’à plusieurs cm), affecte tout le sein, douloureuse.
 - Adolescente (parfois plus jeune).
@@ -124,14 +124,14 @@ source: DES ACP - Cours de gynéco-pathologie (sein tumoral)
 
 ### Tumeur phyllode de haut grade (très rare)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/pdf Chapitre 04-10-10 COULOMB SEIN PED/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/pdf%20Chapitre%2004-10-10%20COULOMB%20SEIN%20PED/p15_00.jpeg)
 
 - Stroma **sarcomateux** : mitoses, atypies, bordure infiltrante.
 - **Récidives locales** + **métastases** (souvent pulmonaires).
 
 ## 7. Hamartome intra-mammaire
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/pdf Chapitre 04-10-10 COULOMB SEIN PED/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/pdf%20Chapitre%2004-10-10%20COULOMB%20SEIN%20PED/p17_00.jpeg)
 
 - Tous âges, possible chez l’adolescente.
 - **Asymptomatique** : « **sein dans le sein** ».
@@ -200,8 +200,8 @@ source: DES ACP - Cours de gynéco-pathologie (sein tumoral)
 
 ## 10. Papillomatose juvénile
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/pdf Chapitre 04-10-10 COULOMB SEIN PED/p21_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/pdf Chapitre 04-10-10 COULOMB SEIN PED/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/pdf%20Chapitre%2004-10-10%20COULOMB%20SEIN%20PED/p21_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/pdf%20Chapitre%2004-10-10%20COULOMB%20SEIN%20PED/p22_00.jpeg)
 
 - ≈ **2 %** des séries pédiatriques.
 - **Jeune fille < 20 ans**, région **aréolaire**.

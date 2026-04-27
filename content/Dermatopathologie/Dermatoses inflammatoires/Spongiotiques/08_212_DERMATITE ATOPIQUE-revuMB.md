@@ -36,7 +36,7 @@ source: DES ACP - Cours de Dermatopathologie
 - Aspect fissuraire, hyperkératosique
 - Le prurit chronique → épaississement, plaques brunâtres quadrillées de sillons (= **lichénification** = "eczéma à lien")
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212 DERMATITE ATOPIQUE/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212%20DERMATITE%20ATOPIQUE/p05_01.jpeg)
 
 ## Histologie de l'eczéma — 3 stades (= classification des dermatoses spongiotiques)
 
@@ -48,7 +48,7 @@ source: DES ACP - Cours de Dermatopathologie
 - Si vésicule non visible → **réaliser des niveaux supplémentaires**, surtout si décrite cliniquement
 - Dans le derme : infiltrat **périvasculaire** lympho-histiocytaire ± PNE
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212 DERMATITE ATOPIQUE/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212%20DERMATITE%20ATOPIQUE/p06_01.jpeg)
 
 ### Eczéma subaigu
 
@@ -58,7 +58,7 @@ source: DES ACP - Cours de Dermatopathologie
 - **Plages de parakératose ± humide** → **PAS systématique** (DD mycose)
 - Cellules endothéliales **turgescentes**, infiltrat périvasculaire, œdème dermique papillaire discret
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212 DERMATITE ATOPIQUE/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212%20DERMATITE%20ATOPIQUE/p09_01.jpeg)
 
 ### Eczéma chronique (lichénification)
 
@@ -68,9 +68,9 @@ source: DES ACP - Cours de Dermatopathologie
 - **Fibrose du derme papillaire**
 - Infiltrat périvasculaire moindre
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212 DERMATITE ATOPIQUE/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212%20DERMATITE%20ATOPIQUE/p11_01.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212 DERMATITE ATOPIQUE/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212%20DERMATITE%20ATOPIQUE/p13_01.jpeg)
 
 ## Dermatite atopique
 
@@ -90,7 +90,7 @@ source: DES ACP - Cours de Dermatopathologie
 - Atteinte du tronc et des plis possible
 - DD : dermatite séborrhéique, gale eczématisée, **psoriasis du nourrisson**
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212 DERMATITE ATOPIQUE/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212%20DERMATITE%20ATOPIQUE/p16_01.jpeg)
 
 #### Enfant > 2 ans
 - Prédominance dans les **plis** (coudes, genoux)
@@ -99,14 +99,14 @@ source: DES ACP - Cours de Dermatopathologie
 - Excoriations, **lichénification**
 - Xérose constante
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212 DERMATITE ATOPIQUE/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212%20DERMATITE%20ATOPIQUE/p17_01.jpeg)
 
 #### Adolescent / adulte
 - Mêmes localisations qu'enfant > 2 ans
 - Possibles : **prurigo**, atteinte visage/cou, **érythrodermie** → biopsie pour éliminer **psoriasis** ou **lymphome T cutané (mycosis fongoïde, syndrome de Sézary)**
 - DD : eczéma de contact, gale
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212 DERMATITE ATOPIQUE/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212%20DERMATITE%20ATOPIQUE/p18_01.jpeg)
 
 ## Eczéma de contact allergique
 
@@ -116,13 +116,13 @@ source: DES ACP - Cours de Dermatopathologie
 - Topographie évocatrice de l'allergène (cuir/chaussure, nickel/montre, cosmétiques…)
 - 2 formes cliniques particulières : **eczéma nummulaire** et **eczéma dysidrosique**
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212 DERMATITE ATOPIQUE/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212%20DERMATITE%20ATOPIQUE/p21_01.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212 DERMATITE ATOPIQUE/p21_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212%20DERMATITE%20ATOPIQUE/p21_02.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212 DERMATITE ATOPIQUE/p21_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212%20DERMATITE%20ATOPIQUE/p21_03.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212 DERMATITE ATOPIQUE/p21_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212%20DERMATITE%20ATOPIQUE/p21_04.jpeg)
 
 ### Eczéma nummulaire
 - Lésions prurigineuses en **pièces de monnaie/disques**
@@ -131,7 +131,7 @@ source: DES ACP - Cours de Dermatopathologie
 - Histologie : eczéma subaigu ou chronique
 - **DD : dermatophytie** (PAS)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212 DERMATITE ATOPIQUE/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212%20DERMATITE%20ATOPIQUE/p23_01.jpeg)
 
 ### Eczéma dysidrosique
 - Vésicules/bulles prurigineuses des **paumes, faces latérales des doigts/orteils, plantes**
@@ -139,7 +139,7 @@ source: DES ACP - Cours de Dermatopathologie
 - DD secondaire = dermatophytie
 - Histologie : vésicules de grande taille sous une couche cornée épaisse (extrémités)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212 DERMATITE ATOPIQUE/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212%20DERMATITE%20ATOPIQUE/p24_01.jpeg)
 
 ## Dermatite irritative de contact
 
@@ -147,7 +147,7 @@ source: DES ACP - Cours de Dermatopathologie
 - Histologie : spongiose + **images d'apoptose kératinocytaire** + exocytose de **PNN**
 - Permet de la distinguer de l'eczéma de contact allergique
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212 DERMATITE ATOPIQUE/p25_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212%20DERMATITE%20ATOPIQUE/p25_01.jpeg)
 
 ## Diagnostics différentiels selon la topographie
 
@@ -167,7 +167,7 @@ source: DES ACP - Cours de Dermatopathologie
 | **Psoriasis palmoplantaire** | Hyperplasie régulière, microabcès de Munro |
 | **Dermatophytie** | PAS + |
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212 DERMATITE ATOPIQUE/p26_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-212%20DERMATITE%20ATOPIQUE/p26_01.jpeg)
 
 ## Pronostic / Traitement
 

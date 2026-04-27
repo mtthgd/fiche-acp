@@ -44,11 +44,11 @@ date: 2024
 - Polymorphisme cytologique fréquent
 - Diagnostic difficile si **fibrose importante** (écrasement cellulaire)
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-332_Lymphomes diffus à grandes cellules extraganglionnaires/p04_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-332_Lymphomes%20diffus%20%C3%A0%20grandes%20cellules%20extraganglionnaires/p04_03.jpeg)
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-332_Lymphomes diffus à grandes cellules extraganglionnaires/p05_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-332_Lymphomes%20diffus%20%C3%A0%20grandes%20cellules%20extraganglionnaires/p05_04.jpeg)
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-332_Lymphomes diffus à grandes cellules extraganglionnaires/p05_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-332_Lymphomes%20diffus%20%C3%A0%20grandes%20cellules%20extraganglionnaires/p05_06.jpeg)
 
 ### Phénotype
 
@@ -65,9 +65,9 @@ date: 2024
 | CD15 | − |
 | BOB1, OCT2 | + (utile DD Hodgkin) |
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-332_Lymphomes diffus à grandes cellules extraganglionnaires/p07_13.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-332_Lymphomes%20diffus%20%C3%A0%20grandes%20cellules%20extraganglionnaires/p07_13.jpeg)
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-332_Lymphomes diffus à grandes cellules extraganglionnaires/p07_14.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-332_Lymphomes%20diffus%20%C3%A0%20grandes%20cellules%20extraganglionnaires/p07_14.jpeg)
 
 ### Génétique
 - Activation caractéristique des voies **NF-κB et JAK/STAT**
@@ -114,11 +114,11 @@ date: 2024
 - Apoptose marquée
 - CD20 utile pour souligner les cellules dispersées
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-332_Lymphomes diffus à grandes cellules extraganglionnaires/p11_17.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-332_Lymphomes%20diffus%20%C3%A0%20grandes%20cellules%20extraganglionnaires/p11_17.jpeg)
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-332_Lymphomes diffus à grandes cellules extraganglionnaires/p12_18.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-332_Lymphomes%20diffus%20%C3%A0%20grandes%20cellules%20extraganglionnaires/p12_18.jpeg)
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-332_Lymphomes diffus à grandes cellules extraganglionnaires/p13_19.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-332_Lymphomes%20diffus%20%C3%A0%20grandes%20cellules%20extraganglionnaires/p13_19.jpeg)
 
 ### Pronostic
 - Plus **péjoratif** que DLBCL systémique
@@ -140,11 +140,11 @@ date: 2024
 - Cellules tumorales peu nombreuses, difficilement visibles sur HES
 - **CD20** indispensable pour les révéler
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-332_Lymphomes diffus à grandes cellules extraganglionnaires/p16_24.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-332_Lymphomes%20diffus%20%C3%A0%20grandes%20cellules%20extraganglionnaires/p16_24.jpeg)
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-332_Lymphomes diffus à grandes cellules extraganglionnaires/p17_25.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-332_Lymphomes%20diffus%20%C3%A0%20grandes%20cellules%20extraganglionnaires/p17_25.jpeg)
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-332_Lymphomes diffus à grandes cellules extraganglionnaires/p18_29.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-332_Lymphomes%20diffus%20%C3%A0%20grandes%20cellules%20extraganglionnaires/p18_29.jpeg)
 
 ### Phénotype et moléculaire
 - **Phénotype ABC** : BCL6+, MUM1+, CD10− le plus souvent

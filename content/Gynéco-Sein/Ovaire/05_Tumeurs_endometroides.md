@@ -55,9 +55,9 @@ Tumeurs ovariennes composées d’un **contingent épithélial** et d’un **con
 - Glandes dilatées bordées d’un épithélium **non prolifératif**, **non cilié**, **non mucineux**
 - **Pas de chorion cytogène, pas d’hémosidérine, pas de sidérophages, pas d’histiocytes spumeux** (≠ kyste d’endométriose)
 
-![[assets/gyneco-sein/ovaire/04_54_03 m tumeurs mucineuse de lovaire FPL/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03%20m%20tumeurs%20mucineuse%20de%20lovaire%20FPL/p07_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_03 m tumeurs mucineuse de lovaire FPL/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03%20m%20tumeurs%20mucineuse%20de%20lovaire%20FPL/p08_00.jpeg)
 
 ## Tumeur endométrioïde borderline (TML endométrioïde)
 
@@ -83,7 +83,7 @@ L’**architecture cribriforme seule n’est pas un argument d’invasion**.
 
 L’invasion stromale = **réaction desmoplastique** + aspect **désorganisé** de la prolifération glandulaire.
 
-![[assets/gyneco-sein/ovaire/04_54_03 m tumeurs mucineuse de lovaire FPL/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03%20m%20tumeurs%20mucineuse%20de%20lovaire%20FPL/p11_00.jpeg)
 
 
 ### Pronostic
@@ -104,7 +104,7 @@ L’invasion stromale = **réaction desmoplastique** + aspect **désorganisé** 
 ### Macroscopie
 - Tumeurs **solides** ou plus souvent **kystiques** avec projections papillaires et bourgeons intrakystiques
 
-![[assets/gyneco-sein/ovaire/04_54_03 m tumeurs mucineuse de lovaire FPL/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03%20m%20tumeurs%20mucineuse%20de%20lovaire%20FPL/p13_00.jpeg)
 
 ### Histologie
 
@@ -126,9 +126,9 @@ Aspect identique au **carcinome endométrioïde de l’endomètre**.
 - Ou véritable **carcinome épidermoïde** (kératinisation, ponts d’union, ébauches de globes cornés)
 - Classé dans l’OMS comme **« adénocarcinome endométrioïde avec différenciation malpighienne »** (suivi du grade FIGO de l’adénocarcinome)
 
-![[assets/gyneco-sein/ovaire/04_54_03 m tumeurs mucineuse de lovaire FPL/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03%20m%20tumeurs%20mucineuse%20de%20lovaire%20FPL/p14_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_03 m tumeurs mucineuse de lovaire FPL/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03%20m%20tumeurs%20mucineuse%20de%20lovaire%20FPL/p15_00.jpeg)
 
 ### Variantes morphologiques
 
@@ -140,9 +140,9 @@ Aspect identique au **carcinome endométrioïde de l’endomètre**.
 | **Cellules sécrétoires** | Vacuolisation cytoplasmique = endomètre en milieu de cycle |
 | **Type cordons sexuels** | Architecture micro-glandulaire (mime granulosa adulte) ; tubes pleins, certiformes (mime Sertoli-Leydig) ; lutéinisation stromale |
 
-![[assets/gyneco-sein/ovaire/04_54_03 m tumeurs mucineuse de lovaire FPL/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03%20m%20tumeurs%20mucineuse%20de%20lovaire%20FPL/p16_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_03 m tumeurs mucineuse de lovaire FPL/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03%20m%20tumeurs%20mucineuse%20de%20lovaire%20FPL/p16_01.jpeg)
 
 ### Grading FIGO (identique à celui de l’endomètre)
 

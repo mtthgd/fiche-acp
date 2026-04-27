@@ -25,9 +25,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - IRM : **hypersignal T1 modéré**, **signaux vides de flux** (gros vaisseaux) T2, rehaussement intense/homogène au gadolinium
 
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p06_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p06_01.jpeg)
 
 ## Histologie
 
@@ -37,32 +37,32 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Trousseaux de collagène **pseudo-chéloïdiens** hyalinisés
 - Remaniements myxoïdes, kystisés (pseudo-alvéolaires) possibles
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p07_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p07_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p07_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p07_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p07_03.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p07_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p07_04.jpeg)
 
 ### Cytologie
 - Cellules rondes à **fusiformes courtes**
 - Noyaux **anguleux, triangulaires**, chromatine fine, nucléole discret
 - **Peu de mitoses**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p09_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p10_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p11_00.jpeg)
 
 ### Variants
 - **TFS riche en adipocytes** → DD liposarcome
 - **Angiofibrome à cellules géantes** : cellules géantes multinucléées autour d'espaces pseudo-vasculaires
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p12_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p13_00.jpeg)
 
 ## IHC
 
@@ -76,11 +76,11 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 > **STAT6 nucléaire** = révèle le réarrangement **NAB2-STAT6** (inversion paracentrique sur **12q** — indétectable en FISH)
 > Attention : STAT6+ possible dans certains **liposarcomes dédifférenciés**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p14_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p15_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p17_00.jpeg)
 
 ## Biologie moléculaire
 - **Fusion NAB2-STAT6** (inversion paracentrique 12q)
@@ -115,15 +115,15 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Dédifférenciation** : nodule hypercellulaire basophile
 - Cellules sarcomatoïdes pléomorphes, nids dissociés, nécrose
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p22_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p23_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p24_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p25_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p26_00.jpeg)
 
 ## Traitement
 - **Exérèse chirurgicale R0** primordiale
@@ -131,9 +131,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **IRM cérébrale systématique** (TFS osseuse = souvent métastase de TFS méningée)
 - **Localisation méningée = plus agressive**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p27_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p27_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p27_01.jpeg)
 
 ---
 
@@ -150,9 +150,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Masse **lobulée, plurinodulaire**, charnue, gélatineuse, grisâtre
 - Rougeâtre si hémorragie, calcifications possibles
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p32_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p32_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p32_01.jpeg)
 
 ## Histologie
 - Cellules **fibroblastiques, fusiformes, stellaires**, faisceaux lâches ou compacts
@@ -162,17 +162,17 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Mitoses peu nombreuses, **pas de nécrose ni d'emboles**
 - Métaplasie osseuse possible
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p34_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p35_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p36_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p36_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p37_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p37_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p38_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p38_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p39_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p39_00.jpeg)
 
 ## IHC
 
@@ -189,20 +189,20 @@ Profil ALK selon partenaire :
 
 Accompagné de macrophages réactifs CD163+, infiltrat lymphocytaire polyclonal.
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p42_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p42_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p42_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p42_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p42_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p42_02.jpeg)
 
 ## Biologie moléculaire
 - **Réarrangement ALK ~50%** (FISH **indispensable**, ne pas se contenter de l'IHC)
 - **ROS1 et PDGFRβ** : ~1/3 des cas restants
 - **ROS1** : sujet jeune, TMI pulmonaires/intra-abdominales fusocellulaires
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p43_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p43_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p43_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p43_01.jpeg)
 
 ## Diagnostics différentiels
 
@@ -226,7 +226,7 @@ Accompagné de macrophages réactifs CD163+, infiltrat lymphocytaire polyclonal.
 - **Réarrangement ALK-RANBP2** → ALK membranaire nucléaire/périnucléaire
 - **Agressif** : récidives fréquentes, **25% métastases**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560 Tumeur fibreuse solitaire extrapleurale, tumeur myofibroblastique inflammatoire/p44_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-560%20Tumeur%20fibreuse%20solitaire%20extrapleurale%2C%20tumeur%20myofibroblastique%20inflammatoire/p44_00.jpeg)
 
 ---
 

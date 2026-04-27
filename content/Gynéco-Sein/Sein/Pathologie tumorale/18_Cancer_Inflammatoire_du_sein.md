@@ -30,7 +30,7 @@ Le **cancer inflammatoire du sein** (IBC = *Inflammatory Breast Cancer*) est une
 - Plus fréquent dans la population **afro-américaine**
 - Survie globale à 5 ans : **~ 40 %** (très basse pour un cancer du sein)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_4 Cours Inflammatoire DES  EJC V2(1)/p01_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_4%20Cours%20Inflammatoire%20DES%20%20EJC%20V2%281%29/p01_00.jpeg)
 
 ## Clinique — diagnostic clinique avant tout
 
@@ -108,9 +108,9 @@ Le **cancer inflammatoire du sein** (IBC = *Inflammatory Breast Cancer*) est une
 
 > **Pas de signature moléculaire spécifique** : tous les sous-types sont représentés, l’IBC n’est **pas une entité moléculaire** propre.
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_4 Cours Inflammatoire DES  EJC V2(1)/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_4%20Cours%20Inflammatoire%20DES%20%20EJC%20V2%281%29/p12_00.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_4 Cours Inflammatoire DES  EJC V2(1)/p12_07.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_4%20Cours%20Inflammatoire%20DES%20%20EJC%20V2%281%29/p12_07.jpeg)
 
 
 ## Immunohistochimie

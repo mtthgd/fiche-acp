@@ -30,7 +30,7 @@ source: DES ACP - Cours d'urologie
   2. **Fort grossissement** (×20-×40) → critères cytologiques
   3. **IHC** (P63 + AMACR/P504S) uniquement en cas de doute (microfoyer suspect)
 
-![[assets/urologie/prostate/05-331-Critères du diagnostic de cancer de prostate/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-331-Crit%C3%A8res%20du%20diagnostic%20de%20cancer%20de%20prostate/p05_00.jpeg)
 
 ## Critères architecturaux (faible grossissement)
 
@@ -43,13 +43,13 @@ source: DES ACP - Cours d'urologie
   - **Lumière rigide**
   - Souvent soulignées par des **espaces de rétraction** péri-glandulaires
 
-![[assets/urologie/prostate/05-331-Critères du diagnostic de cancer de prostate/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-331-Crit%C3%A8res%20du%20diagnostic%20de%20cancer%20de%20prostate/p06_00.jpeg)
 
-![[assets/urologie/prostate/05-331-Critères du diagnostic de cancer de prostate/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-331-Crit%C3%A8res%20du%20diagnostic%20de%20cancer%20de%20prostate/p07_00.jpeg)
 
-![[assets/urologie/prostate/05-331-Critères du diagnostic de cancer de prostate/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-331-Crit%C3%A8res%20du%20diagnostic%20de%20cancer%20de%20prostate/p08_00.jpeg)
 
-![[assets/urologie/prostate/05-331-Critères du diagnostic de cancer de prostate/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-331-Crit%C3%A8res%20du%20diagnostic%20de%20cancer%20de%20prostate/p09_00.jpeg)
 
 ## Critères cytologiques (fort grossissement)
 
@@ -63,13 +63,13 @@ source: DES ACP - Cours d'urologie
 | Cytoplasme | Amphophile ou basophile (parfois pâle en cancer bien différencié) |
 | **Perte des cellules basales** | Une seule assise de cellules tumorales (vs double assise normale) |
 
-![[assets/urologie/prostate/05-331-Critères du diagnostic de cancer de prostate/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-331-Crit%C3%A8res%20du%20diagnostic%20de%20cancer%20de%20prostate/p10_00.jpeg)
 
-![[assets/urologie/prostate/05-331-Critères du diagnostic de cancer de prostate/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-331-Crit%C3%A8res%20du%20diagnostic%20de%20cancer%20de%20prostate/p11_00.jpeg)
 
-![[assets/urologie/prostate/05-331-Critères du diagnostic de cancer de prostate/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-331-Crit%C3%A8res%20du%20diagnostic%20de%20cancer%20de%20prostate/p12_00.jpeg)
 
-![[assets/urologie/prostate/05-331-Critères du diagnostic de cancer de prostate/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-331-Crit%C3%A8res%20du%20diagnostic%20de%20cancer%20de%20prostate/p13_00.jpeg)
 
 ### Critères mineurs (accessoires, bonne orientation)
 
@@ -79,15 +79,15 @@ source: DES ACP - Cours d'urologie
 - **Rétraction péri-glandulaire** du stroma (signe important dans les foyers de petite taille)
 - Stroma **fibreux collagénique** au contact des glandes tumorales
 
-![[assets/urologie/prostate/05-331-Critères du diagnostic de cancer de prostate/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-331-Crit%C3%A8res%20du%20diagnostic%20de%20cancer%20de%20prostate/p16_00.jpeg)
 
-![[assets/urologie/prostate/05-331-Critères du diagnostic de cancer de prostate/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-331-Crit%C3%A8res%20du%20diagnostic%20de%20cancer%20de%20prostate/p17_00.jpeg)
 
-![[assets/urologie/prostate/05-331-Critères du diagnostic de cancer de prostate/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-331-Crit%C3%A8res%20du%20diagnostic%20de%20cancer%20de%20prostate/p18_00.jpeg)
 
-![[assets/urologie/prostate/05-331-Critères du diagnostic de cancer de prostate/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-331-Crit%C3%A8res%20du%20diagnostic%20de%20cancer%20de%20prostate/p19_00.jpeg)
 
-![[assets/urologie/prostate/05-331-Critères du diagnostic de cancer de prostate/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-331-Crit%C3%A8res%20du%20diagnostic%20de%20cancer%20de%20prostate/p20_00.jpeg)
 
 ## Critères spécifiques (pathognomoniques)
 
@@ -99,15 +99,15 @@ source: DES ACP - Cours d'urologie
 
 > L'infiltration péri-nerveuse au contact de filets > 1 mm ou de cellules ganglionnaires → **extension extra-prostatique probable**
 
-![[assets/urologie/prostate/05-331-Critères du diagnostic de cancer de prostate/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-331-Crit%C3%A8res%20du%20diagnostic%20de%20cancer%20de%20prostate/p21_00.jpeg)
 
-![[assets/urologie/prostate/05-331-Critères du diagnostic de cancer de prostate/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-331-Crit%C3%A8res%20du%20diagnostic%20de%20cancer%20de%20prostate/p22_00.jpeg)
 
-![[assets/urologie/prostate/05-331-Critères du diagnostic de cancer de prostate/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-331-Crit%C3%A8res%20du%20diagnostic%20de%20cancer%20de%20prostate/p23_00.jpeg)
 
-![[assets/urologie/prostate/05-331-Critères du diagnostic de cancer de prostate/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-331-Crit%C3%A8res%20du%20diagnostic%20de%20cancer%20de%20prostate/p24_00.jpeg)
 
-![[assets/urologie/prostate/05-331-Critères du diagnostic de cancer de prostate/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-331-Crit%C3%A8res%20du%20diagnostic%20de%20cancer%20de%20prostate/p25_00.jpeg)
 
 ## Immunohistochimie
 
@@ -121,9 +121,9 @@ Indiquée seulement devant un **foyer de microprolifération suspecte**.
 
 Cocktail combiné **P63/AMACR** = standard.
 
-![[assets/urologie/prostate/05-331-Critères du diagnostic de cancer de prostate/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-331-Crit%C3%A8res%20du%20diagnostic%20de%20cancer%20de%20prostate/p26_00.jpeg)
 
-![[assets/urologie/prostate/05-331-Critères du diagnostic de cancer de prostate/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-331-Crit%C3%A8res%20du%20diagnostic%20de%20cancer%20de%20prostate/p27_00.jpeg)
 
 ## Variantes morphologiques (critères identiques)
 

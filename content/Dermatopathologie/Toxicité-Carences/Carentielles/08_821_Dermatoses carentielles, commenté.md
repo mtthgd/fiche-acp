@@ -41,7 +41,7 @@ En dehors de la **dénutrition** (rare en pays industrialisés), deux situations
 | **Zinc (Zn)** | Carence d'apport ou **acrodermatite entéropathique** (génétique) | **Érythème nécrolytique** péri-orificiel et acral, parakératose pâle |
 | **Tryptophane** | **Maladie de Hartnup** | Pellagroïde par défaut de synthèse de PP |
 
-![[assets/dermato/toxicite-carences/dermatoses-carentielles/08-821 Dermatoses carentielles/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/dermatoses-carentielles/08-821%20Dermatoses%20carentielles/p06_01.jpeg)
 
 ## Quatre grands tableaux anatomo-cliniques
 
@@ -58,7 +58,7 @@ En dehors de la **dénutrition** (rare en pays industrialisés), deux situations
 - **Extravasation érythrocytaire péri-folliculaire** (autour des annexes pilo-sébacées)
 - Atrophie cutanée associée
 
-![[assets/dermato/toxicite-carences/dermatoses-carentielles/08-821 Dermatoses carentielles/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/dermatoses-carentielles/08-821%20Dermatoses%20carentielles/p08_01.jpeg)
 
 ### 2. Ulcérations cutanéo-muqueuses
 **Carences en folates (B9), B12** ; superposable aux toxicités de chimiothérapie
@@ -70,7 +70,7 @@ En dehors de la **dénutrition** (rare en pays industrialisés), deux situations
 - Quelques **apoptoses** isolées
 - **Mitoses** présentes
 
-![[assets/dermato/toxicite-carences/dermatoses-carentielles/08-821 Dermatoses carentielles/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/dermatoses-carentielles/08-821%20Dermatoses%20carentielles/p11_01.jpeg)
 
 ### 3. Érythèmes nécrolytiques (3 entités)
 
@@ -104,7 +104,7 @@ En dehors de la **dénutrition** (rare en pays industrialisés), deux situations
 | **Moyenne** | **Nécrose des kératinocytes** des assises superficielles de l'épiderme (kératinocytes **vacuolisés**) |
 | **Profonde** | **Épaississement acanthosique**, voire **papillomateux** |
 
-![[assets/dermato/toxicite-carences/dermatoses-carentielles/08-821 Dermatoses carentielles/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/dermatoses-carentielles/08-821%20Dermatoses%20carentielles/p12_01.jpeg)
 
 ### 4. Tableau pellagroïde
 **= Pellagre** (carence en vitamine **PP/B3 = niacine**) ou **maladie de Hartnup** (défaut d'absorption du tryptophane, précurseur de la PP)

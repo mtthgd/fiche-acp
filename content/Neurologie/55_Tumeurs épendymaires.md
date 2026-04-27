@@ -29,7 +29,7 @@ source: DES ACP - Cours de Neurologie
   - **Enfant** : intracrâniens, surtout **fosse postérieure**
   - **Adulte** : **médullaire** > fosse postérieure
 
-![[assets/neurologie/tumeurs_snc/15-750-06 Tumeurs épendymaires/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-06%20Tumeurs%20%C3%A9pendymaires/p03_01.jpeg)
 
 ## Classification OMS 2021 — Principes
 
@@ -57,9 +57,9 @@ Quel que soit le compartiment :
 - **Rosettes épendymaires vraies** : organisation glandulaire avec **lumière centrale EMA+**
 - **Dots intracytoplasmiques EMA+** : témoin des **cils** (objectivables en microscopie électronique)
 
-![[assets/neurologie/tumeurs_snc/15-750-06 Tumeurs épendymaires/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-06%20Tumeurs%20%C3%A9pendymaires/p04_01.jpeg)
 
-![[assets/neurologie/tumeurs_snc/15-750-06 Tumeurs épendymaires/p04_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-06%20Tumeurs%20%C3%A9pendymaires/p04_02.jpeg)
 
 > ⚠️ Pseudo-rosettes et rosettes peuvent s'observer dans d'autres tumeurs → distinction par **histologie fine** et **IHC**.
 
@@ -73,9 +73,9 @@ Quel que soit le compartiment :
 | **p65 (NFκB)** | + nucléaire si **ZFTA-RELA** |
 | **H3K27me3** | Perdu dans **EPEN-PFA** |
 
-![[assets/neurologie/tumeurs_snc/15-750-06 Tumeurs épendymaires/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-06%20Tumeurs%20%C3%A9pendymaires/p05_01.jpeg)
 
-![[assets/neurologie/tumeurs_snc/15-750-06 Tumeurs épendymaires/p05_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-06%20Tumeurs%20%C3%A9pendymaires/p05_02.jpeg)
 
 ## 1. Sous-épendymome
 
@@ -90,9 +90,9 @@ Quel que soit le compartiment :
   - **Pas de prolifération endothélio-capillaire**
   - Parois vasculaires **hyalinisées** → dissection → **micro-hémorragies / nécrose ischémique** possibles
 
-![[assets/neurologie/tumeurs_snc/15-750-06 Tumeurs épendymaires/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-06%20Tumeurs%20%C3%A9pendymaires/p07_01.jpeg)
 
-![[assets/neurologie/tumeurs_snc/15-750-06 Tumeurs épendymaires/p07_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-06%20Tumeurs%20%C3%A9pendymaires/p07_03.jpeg)
 
 ## 2. Épendymome myxopapillaire
 
@@ -118,9 +118,9 @@ Quel que soit le compartiment :
   - **FISH MYCN**
   - **Profil de méthylation** (avantage : donne la classe de méthylation + profil CNV/CGH complet)
 
-![[assets/neurologie/tumeurs_snc/15-750-06 Tumeurs épendymaires/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-06%20Tumeurs%20%C3%A9pendymaires/p13_01.jpeg)
 
-![[assets/neurologie/tumeurs_snc/15-750-06 Tumeurs épendymaires/p13_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-06%20Tumeurs%20%C3%A9pendymaires/p13_02.jpeg)
 
 ### Autres épendymomes spinaux (MYCN non amplifiés)
 
@@ -140,13 +140,13 @@ Deux sous-types **histologiquement similaires** mais distincts par le profil mol
 - **Perte** dans EPEN-PFA (cellules gliales normales et endothélium restent +)
 - **Conservation** dans EPEN-PFB
 
-![[assets/neurologie/tumeurs_snc/15-750-06 Tumeurs épendymaires/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-06%20Tumeurs%20%C3%A9pendymaires/p18_01.jpeg)
 
-![[assets/neurologie/tumeurs_snc/15-750-06 Tumeurs épendymaires/p18_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-06%20Tumeurs%20%C3%A9pendymaires/p18_02.jpeg)
 
-![[assets/neurologie/tumeurs_snc/15-750-06 Tumeurs épendymaires/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-06%20Tumeurs%20%C3%A9pendymaires/p19_01.jpeg)
 
-![[assets/neurologie/tumeurs_snc/15-750-06 Tumeurs épendymaires/p19_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-06%20Tumeurs%20%C3%A9pendymaires/p19_03.jpeg)
 
 ## 5. Épendymomes supratentoriels
 
@@ -175,9 +175,9 @@ Deux sous-types **histologiquement similaires** mais distincts par le profil mol
   - **Dots EMA nombreux**
 - **Pronostic nettement meilleur** que ZFTA-RELA (PFS et OS).
 
-![[assets/neurologie/tumeurs_snc/15-750-06 Tumeurs épendymaires/p32_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-06%20Tumeurs%20%C3%A9pendymaires/p32_01.jpeg)
 
-![[assets/neurologie/tumeurs_snc/15-750-06 Tumeurs épendymaires/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-06%20Tumeurs%20%C3%A9pendymaires/p33_00.jpeg)
 
 ## Classification OMS 2021 synthétique
 

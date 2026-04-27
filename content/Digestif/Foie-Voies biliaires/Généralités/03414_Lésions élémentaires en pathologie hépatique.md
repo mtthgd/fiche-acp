@@ -26,7 +26,7 @@ L'analyse d'une biopsie hépatique repose sur l'examen **systématique et séque
 4. **Sinusoïdes** → modifications, infiltration
 5. **Pigments anormaux** → **Perls** (hémosidérine) systématique
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.4 Lésions élémentaires en pathologie hépatique/p01_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.4%20L%C3%A9sions%20%C3%A9l%C3%A9mentaires%20en%20pathologie%20h%C3%A9patique/p01_00.jpeg)
 
 ---
 
@@ -50,7 +50,7 @@ Présentation clinique :
 - **Compensée** = asymptomatique
 - **Décompensée** = ascite, ictère, hémorragie digestive, encéphalopathie
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.4 Lésions élémentaires en pathologie hépatique/p05_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.4%20L%C3%A9sions%20%C3%A9l%C3%A9mentaires%20en%20pathologie%20h%C3%A9patique/p05_00.png)
 
 
 #### Cirrhose macronodulaire — diagnostic difficile
@@ -62,7 +62,7 @@ Si nodules circonscrits non visibles sur la biopsie, le diagnostic repose sur :
 - Travées hépatocytaires **désorganisées et élargies** (≥ 2 hépatocytes)
 - Si vraiment incertain → **rendre le doute**
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.4 Lésions élémentaires en pathologie hépatique/p07_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.4%20L%C3%A9sions%20%C3%A9l%C3%A9mentaires%20en%20pathologie%20h%C3%A9patique/p07_00.png)
 
 
 ### Fibrose à point de départ portal
@@ -71,7 +71,7 @@ Si nodules circonscrits non visibles sur la biopsie, le diagnostic repose sur :
 - **Maladies biliaires** (bords chevelus, irréguliers liés à la **réaction ductulaire**)
 - Évolution : EP épaissi → ponts **porte-porte**
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.4 Lésions élémentaires en pathologie hépatique/p10_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.4%20L%C3%A9sions%20%C3%A9l%C3%A9mentaires%20en%20pathologie%20h%C3%A9patique/p10_00.png)
 
 
 ### Fibrose à point de départ centrolobulaire
@@ -98,7 +98,7 @@ Si nodules circonscrits non visibles sur la biopsie, le diagnostic repose sur :
 | Infiltrat respectant la lame bordante | **Pas d'hépatite d'interface** |
 | Lymphocytes débordant sur les hépatocytes péri-portaux | **Hépatite d'interface** (= piecemeal necrosis, nécrose parcellaire) |
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.4 Lésions élémentaires en pathologie hépatique/p16_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.4%20L%C3%A9sions%20%C3%A9l%C3%A9mentaires%20en%20pathologie%20h%C3%A9patique/p16_00.png)
 
 
 ### Modifications portales en cas d'**obstacle biliaire**
@@ -122,7 +122,7 @@ Si nodules circonscrits non visibles sur la biopsie, le diagnostic repose sur :
 - **Absence de branche veineuse portale** (vénopathie portale oblitérante)
 - Dilatations sinusoïdales périportales (**angiomatose périportale**)
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.4 Lésions élémentaires en pathologie hépatique/p21_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.4%20L%C3%A9sions%20%C3%A9l%C3%A9mentaires%20en%20pathologie%20h%C3%A9patique/p21_00.png)
 
 ---
 
@@ -136,7 +136,7 @@ Si nodules circonscrits non visibles sur la biopsie, le diagnostic repose sur :
 | **Microvacuolaire** | Multiples microvacuoles, noyau central conservé | — | Maladie alcoolique du foie, Reye, médicaments |
 
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.4 Lésions élémentaires en pathologie hépatique/p23_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.4%20L%C3%A9sions%20%C3%A9l%C3%A9mentaires%20en%20pathologie%20h%C3%A9patique/p23_01.png)
 
 ### Mégamitochondries
 - Petites structures rondes ou allongées, **rouges sur HES**, dans le cytoplasme
@@ -183,14 +183,14 @@ Triade :
 | **Hépatite avec nécrose centrolobulaire** | Disparition des hépatocytes systématisée à la zone centrolobulaire (médicaments ++) |
 | **Hépatite granulomateuse** | Granulomes (sarcoïdose, BK, médicaments...) |
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.4 Lésions élémentaires en pathologie hépatique/p32_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.4%20L%C3%A9sions%20%C3%A9l%C3%A9mentaires%20en%20pathologie%20h%C3%A9patique/p32_00.png)
 
 
 ### Granulomes particuliers
 - Granulomes épithélioïdes péri-kystiques ou micro-granulomes (10 cellules)
 - **Fibrin-ring granuloma** = vacuole stéatosique au centre + anneau de fibrine (**fièvre Q ++**, certaines causes systémiques)
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.4 Lésions élémentaires en pathologie hépatique/p34_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.4%20L%C3%A9sions%20%C3%A9l%C3%A9mentaires%20en%20pathologie%20h%C3%A9patique/p34_00.png)
 
 ---
 
@@ -200,7 +200,7 @@ Triade :
 - Sinusoïdes dilatés, systématisés en **zone centrolobulaire**
 - = obstacle au retour veineux (**foie cardiaque**, **syndrome de Budd-Chiari**, **SOS**)
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.4 Lésions élémentaires en pathologie hépatique/p35_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.4%20L%C3%A9sions%20%C3%A9l%C3%A9mentaires%20en%20pathologie%20h%C3%A9patique/p35_00.png)
 
 ### Péliose
 - Lésion **focale**, non systématisée
@@ -230,9 +230,9 @@ Triade :
 - Topographie clé : **petit bouchon canaliculaire** entre 2 hépatocytes
 - Possible cholestase intrahépatocytaire diffuse
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.4 Lésions élémentaires en pathologie hépatique/p40_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.4%20L%C3%A9sions%20%C3%A9l%C3%A9mentaires%20en%20pathologie%20h%C3%A9patique/p40_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.4 Lésions élémentaires en pathologie hépatique/p41_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.4%20L%C3%A9sions%20%C3%A9l%C3%A9mentaires%20en%20pathologie%20h%C3%A9patique/p41_01.jpeg)
 
 ---
 

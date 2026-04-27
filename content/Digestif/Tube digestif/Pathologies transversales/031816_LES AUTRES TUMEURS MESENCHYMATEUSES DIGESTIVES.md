@@ -40,7 +40,7 @@ Toutes les tumeurs mésenchymateuses (bénignes et malignes) peuvent siéger dan
 
 > **Léiomyomatose œsophagienne** : multiples léiomyomes œsophagiens dans le **syndrome d'Alport** (mutation germinale Xq22).
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.16 Les autres tumeurs mésenchymateuses digestives (hors GIST)/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.16%20Les%20autres%20tumeurs%20m%C3%A9senchymateuses%20digestives%20%28hors%20GIST%29/p05_00.jpeg)
 
 ### Léiomyosarcome digestif
 
@@ -50,7 +50,7 @@ Toutes les tumeurs mésenchymateuses (bénignes et malignes) peuvent siéger dan
 - IHC : actine+, desmine+, caldesmone+, KIT−, DOG1−
 - ⚠️ DD : **métastase de léiomyosarcome utérin ou des tissus mous**
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.16 Les autres tumeurs mésenchymateuses digestives (hors GIST)/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.16%20Les%20autres%20tumeurs%20m%C3%A9senchymateuses%20digestives%20%28hors%20GIST%29/p07_00.jpeg)
 
 ---
 
@@ -69,7 +69,7 @@ Toutes les tumeurs mésenchymateuses (bénignes et malignes) peuvent siéger dan
   - Vaisseaux à parois épaisses dystrophiques
 - IHC : **S100+, GFAP+**, KIT−, DOG1−, CD34−
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.16 Les autres tumeurs mésenchymateuses digestives (hors GIST)/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.16%20Les%20autres%20tumeurs%20m%C3%A9senchymateuses%20digestives%20%28hors%20GIST%29/p09_00.jpeg)
 
 ### Schwannome microkystique / réticulaire
 - Variante rare, < 20 cas TD (estomac, grêle, recto-côlon)
@@ -83,9 +83,9 @@ Toutes les tumeurs mésenchymateuses (bénignes et malignes) peuvent siéger dan
   - Cellules périneurales en faisceaux, **disposition concentrique** autour des glandes
 - IHC périneuriome : **EMA+, claudine 1+, GLUT1+, collagène IV+**
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.16 Les autres tumeurs mésenchymateuses digestives (hors GIST)/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.16%20Les%20autres%20tumeurs%20m%C3%A9senchymateuses%20digestives%20%28hors%20GIST%29/p10_00.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.16 Les autres tumeurs mésenchymateuses digestives (hors GIST)/p10_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.16%20Les%20autres%20tumeurs%20m%C3%A9senchymateuses%20digestives%20%28hors%20GIST%29/p10_02.jpeg)
 
 ### Tumeur à cellules granuleuses
 - **Œsophage distal** et **côlon**, souvent fortuite
@@ -100,10 +100,10 @@ Toutes les tumeurs mésenchymateuses (bénignes et malignes) peuvent siéger dan
 - Histochimie : **PAS+**
 - IHC : **S100+**, inhibine+, calrétinine+, CD56+, CD68+
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.16 Les autres tumeurs mésenchymateuses digestives (hors GIST)/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.16%20Les%20autres%20tumeurs%20m%C3%A9senchymateuses%20digestives%20%28hors%20GIST%29/p14_00.jpeg)
 
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.16 Les autres tumeurs mésenchymateuses digestives (hors GIST)/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.16%20Les%20autres%20tumeurs%20m%C3%A9senchymateuses%20digestives%20%28hors%20GIST%29/p15_00.jpeg)
 
 ### Ganglioneurome
 - Rare, **côlon gauche**, sex-ratio 1/1
@@ -137,9 +137,9 @@ Toutes les tumeurs mésenchymateuses (bénignes et malignes) peuvent siéger dan
 - **Bénigne** ; rares cas malins (grande taille, nécrose, atypies, > 5 mitoses/50 HPF)
 - IHC : **actine+** (pancellulaire), **collagène IV péricellulaire**, KIT−, DOG1−, CD34−, desmine−
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.16 Les autres tumeurs mésenchymateuses digestives (hors GIST)/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.16%20Les%20autres%20tumeurs%20m%C3%A9senchymateuses%20digestives%20%28hors%20GIST%29/p19_01.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.16 Les autres tumeurs mésenchymateuses digestives (hors GIST)/p19_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.16%20Les%20autres%20tumeurs%20m%C3%A9senchymateuses%20digestives%20%28hors%20GIST%29/p19_03.jpeg)
 
 ### Angiosarcome
 - Très rare, **grêle++**, estomac, côlon
@@ -149,9 +149,9 @@ Toutes les tumeurs mésenchymateuses (bénignes et malignes) peuvent siéger dan
 - ± aspects épithélioïdes / fusiformes
 - IHC : **CD31+, CD34+, facteur VIII+** ; ⚠️ **pancytokératine+** dans les variantes épithélioïdes (piège diagnostique)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.16 Les autres tumeurs mésenchymateuses digestives (hors GIST)/p20_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.16%20Les%20autres%20tumeurs%20m%C3%A9senchymateuses%20digestives%20%28hors%20GIST%29/p20_02.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.16 Les autres tumeurs mésenchymateuses digestives (hors GIST)/p20_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.16%20Les%20autres%20tumeurs%20m%C3%A9senchymateuses%20digestives%20%28hors%20GIST%29/p20_03.jpeg)
 
 ### Sarcome de Kaposi
 - **Sujets immunodéprimés** (VIH/SIDA : 30 %, atteinte digestive 30-50 % d'entre eux)
@@ -165,11 +165,11 @@ Toutes les tumeurs mésenchymateuses (bénignes et malignes) peuvent siéger dan
   - Hématies extravasées, sidérophages, infiltrat lympho-plasmocytaire
 - IHC : **CD31+, CD34+, podoplanine+, HHV8+**, parfois faiblement CD117
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.16 Les autres tumeurs mésenchymateuses digestives (hors GIST)/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.16%20Les%20autres%20tumeurs%20m%C3%A9senchymateuses%20digestives%20%28hors%20GIST%29/p21_00.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.16 Les autres tumeurs mésenchymateuses digestives (hors GIST)/p21_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.16%20Les%20autres%20tumeurs%20m%C3%A9senchymateuses%20digestives%20%28hors%20GIST%29/p21_03.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.16 Les autres tumeurs mésenchymateuses digestives (hors GIST)/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.16%20Les%20autres%20tumeurs%20m%C3%A9senchymateuses%20digestives%20%28hors%20GIST%29/p22_00.jpeg)
 
 ---
 
@@ -201,11 +201,11 @@ Toutes les tumeurs mésenchymateuses (bénignes et malignes) peuvent siéger dan
 - IHC : **CD34+ focal**, AML focal+, **KIT−, DOG1−**
 - Moléculaire : **mutation PDGFRA exon 12** dans **> 50 %** des cas
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.16 Les autres tumeurs mésenchymateuses digestives (hors GIST)/p23_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.16%20Les%20autres%20tumeurs%20m%C3%A9senchymateuses%20digestives%20%28hors%20GIST%29/p23_02.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.16 Les autres tumeurs mésenchymateuses digestives (hors GIST)/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.16%20Les%20autres%20tumeurs%20m%C3%A9senchymateuses%20digestives%20%28hors%20GIST%29/p24_01.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.16 Les autres tumeurs mésenchymateuses digestives (hors GIST)/p24_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.16%20Les%20autres%20tumeurs%20m%C3%A9senchymateuses%20digestives%20%28hors%20GIST%29/p24_02.jpeg)
 
 ### Tumeur fibreuse calcifiante
 - Bénigne, **estomac++**, péritoine, grêle
@@ -214,9 +214,9 @@ Toutes les tumeurs mésenchymateuses (bénignes et malignes) peuvent siéger dan
 - Histologie : **fibrose hyaline épaisse**, fibroblastes réguliers, **calcifications**, ± amas inflammatoires
 - IHC : **vimentine+**, parfois facteur XIIIa+
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.16 Les autres tumeurs mésenchymateuses digestives (hors GIST)/p26_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.16%20Les%20autres%20tumeurs%20m%C3%A9senchymateuses%20digestives%20%28hors%20GIST%29/p26_01.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.16 Les autres tumeurs mésenchymateuses digestives (hors GIST)/p26_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.16%20Les%20autres%20tumeurs%20m%C3%A9senchymateuses%20digestives%20%28hors%20GIST%29/p26_02.jpeg)
 
 ### Fibromyxome plexiforme
 - Entité rare (Miettinen 2009), exclusivement **gastrique** (antre, bulbe)
@@ -230,13 +230,13 @@ Toutes les tumeurs mésenchymateuses (bénignes et malignes) peuvent siéger dan
 - IHC : actine+, CD10 focal, **KIT−, DOG1−, CD34−**, desmine−, S100−, pan-CK−
 - Origine probable : **myofibroblastique**
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.16 Les autres tumeurs mésenchymateuses digestives (hors GIST)/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.16%20Les%20autres%20tumeurs%20m%C3%A9senchymateuses%20digestives%20%28hors%20GIST%29/p28_00.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.16 Les autres tumeurs mésenchymateuses digestives (hors GIST)/p28_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.16%20Les%20autres%20tumeurs%20m%C3%A9senchymateuses%20digestives%20%28hors%20GIST%29/p28_02.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.16 Les autres tumeurs mésenchymateuses digestives (hors GIST)/p29_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.16%20Les%20autres%20tumeurs%20m%C3%A9senchymateuses%20digestives%20%28hors%20GIST%29/p29_01.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.16 Les autres tumeurs mésenchymateuses digestives (hors GIST)/p29_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.16%20Les%20autres%20tumeurs%20m%C3%A9senchymateuses%20digestives%20%28hors%20GIST%29/p29_06.jpeg)
 
 ---
 
@@ -261,9 +261,9 @@ Toutes les tumeurs mésenchymateuses (bénignes et malignes) peuvent siéger dan
 - Génétique : mutations **TSC1, TSC2** (voie mTOR), parfois **TFE3**
 - **Pronostic incertain** : 40 % de métastases, 10 % de décès ; péjoratifs si atypies marquées + **mitoses > 2/10 HPF**
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.16 Les autres tumeurs mésenchymateuses digestives (hors GIST)/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.16%20Les%20autres%20tumeurs%20m%C3%A9senchymateuses%20digestives%20%28hors%20GIST%29/p33_00.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.16 Les autres tumeurs mésenchymateuses digestives (hors GIST)/p43_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.16%20Les%20autres%20tumeurs%20m%C3%A9senchymateuses%20digestives%20%28hors%20GIST%29/p43_00.png)
 
 ### Tumeur du TD apparentée au sarcome à cellules claires (GNET)
 
@@ -283,7 +283,7 @@ Toutes les tumeurs mésenchymateuses (bénignes et malignes) peuvent siéger dan
 - Pour certains auteurs : "**tumeur maligne neuroectodermique du tractus digestif**"
 
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.16 Les autres tumeurs mésenchymateuses digestives (hors GIST)/p49_07.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.16%20Les%20autres%20tumeurs%20m%C3%A9senchymateuses%20digestives%20%28hors%20GIST%29/p49_07.jpeg)
 
 ---
 

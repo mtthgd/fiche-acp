@@ -31,7 +31,7 @@ Classification des **vascularites primitives** selon le **calibre des vaisseaux*
 | **Vaisseaux variables** | **Behçet**, **Cogan** | Oui |
 | **Mono-organe** | **Vascularite leucocytoclasique cutanée isolée** | **Oui** (la plus fréquente) |
 
-![[assets/dermato/vasculopathies-cutanees/08-312 Vascularites cutanées et classification de Chapell Hill/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-312%20Vascularites%20cutan%C3%A9es%20et%20classification%20de%20Chapell%20Hill/p04_00.jpeg)
 
 ### Topographie selon l'entité
 
@@ -48,9 +48,9 @@ Classification des **vascularites primitives** selon le **calibre des vaisseaux*
 - **Purpura infiltré, déclive, palpable**, prédominant aux **membres inférieurs**
 - Évolution possible vers **nécrose cutanée + décollement** dans les formes sévères
 
-![[assets/dermato/vasculopathies-cutanees/08-312 Vascularites cutanées et classification de Chapell Hill/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-312%20Vascularites%20cutan%C3%A9es%20et%20classification%20de%20Chapell%20Hill/p06_00.jpeg)
 
-![[assets/dermato/vasculopathies-cutanees/08-312 Vascularites cutanées et classification de Chapell Hill/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-312%20Vascularites%20cutan%C3%A9es%20et%20classification%20de%20Chapell%20Hill/p06_01.jpeg)
 
 ### Physiopathologie
 **Hypersensibilité de type III** (Gell et Coombs) :
@@ -59,7 +59,7 @@ Classification des **vascularites primitives** selon le **calibre des vaisseaux*
 3. Recrutement de **PNN** → dégranulation → **leucocytoclasie**
 4. Lésion pariétale (PNN + complexe d'attaque membranaire)
 
-![[assets/dermato/vasculopathies-cutanees/08-312 Vascularites cutanées et classification de Chapell Hill/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-312%20Vascularites%20cutan%C3%A9es%20et%20classification%20de%20Chapell%20Hill/p07_00.jpeg)
 
 ### Étiologies (très nombreuses)
 - **Idiopathique**
@@ -76,19 +76,19 @@ Classification des **vascularites primitives** selon le **calibre des vaisseaux*
 - **Extravasation érythrocytaire**
 - Aspect parfois trompeur : **fausse image de micro-abcès papillaires** (mime une dermatose bulleuse auto-immune)
 
-![[assets/dermato/vasculopathies-cutanees/08-312 Vascularites cutanées et classification de Chapell Hill/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-312%20Vascularites%20cutan%C3%A9es%20et%20classification%20de%20Chapell%20Hill/p08_00.jpeg)
 
-![[assets/dermato/vasculopathies-cutanees/08-312 Vascularites cutanées et classification de Chapell Hill/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-312%20Vascularites%20cutan%C3%A9es%20et%20classification%20de%20Chapell%20Hill/p08_01.jpeg)
 
-![[assets/dermato/vasculopathies-cutanees/08-312 Vascularites cutanées et classification de Chapell Hill/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-312%20Vascularites%20cutan%C3%A9es%20et%20classification%20de%20Chapell%20Hill/p10_00.jpeg)
 
-![[assets/dermato/vasculopathies-cutanees/08-312 Vascularites cutanées et classification de Chapell Hill/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-312%20Vascularites%20cutan%C3%A9es%20et%20classification%20de%20Chapell%20Hill/p10_01.jpeg)
 
 ### Immunofluorescence directe (IFD)
 **Toujours réalisée** : recherche systématique de **dépôts d'IgA** (argument pour purpura rhumatoïde).
 - **IFD constamment positive** : IgM, IgG, **IgA** + C3 (proportions variables)
 
-![[assets/dermato/vasculopathies-cutanees/08-312 Vascularites cutanées et classification de Chapell Hill/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-312%20Vascularites%20cutan%C3%A9es%20et%20classification%20de%20Chapell%20Hill/p11_00.jpeg)
 
 > Voir [[08_312 IFD]] et techniques IFD du chapitre D1.
 
@@ -111,7 +111,7 @@ Classification des **vascularites primitives** selon le **calibre des vaisseaux*
 - **Œdème** dermique (comme urticaire)
 - Agression vasculaire débutante par endroits, **sans nécrose fibrinoïde franche**, extravasation érythrocytaire minime
 
-![[assets/dermato/vasculopathies-cutanees/08-312 Vascularites cutanées et classification de Chapell Hill/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-312%20Vascularites%20cutan%C3%A9es%20et%20classification%20de%20Chapell%20Hill/p15_00.jpeg)
 
 ## Lésions élémentaires associées (orientation étiologique)
 
@@ -127,9 +127,9 @@ Classification des **vascularites primitives** selon le **calibre des vaisseaux*
 
 Thromboses **éosinophiles PAS+** très évocatrices. **Immuno-marquage des chaînes légères** d'Ig démontrant la **monotypie** (dépôt monoclonal d'Ig).
 
-![[assets/dermato/vasculopathies-cutanees/08-312 Vascularites cutanées et classification de Chapell Hill/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-312%20Vascularites%20cutan%C3%A9es%20et%20classification%20de%20Chapell%20Hill/p17_00.jpeg)
 
-![[assets/dermato/vasculopathies-cutanees/08-312 Vascularites cutanées et classification de Chapell Hill/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-312%20Vascularites%20cutan%C3%A9es%20et%20classification%20de%20Chapell%20Hill/p17_01.jpeg)
 
 ## Vascularites des vaisseaux à paroi musculaire lisse
 
@@ -149,7 +149,7 @@ Atteinte des **artérioles/vénules** du derme profond et hypoderme.
 - **Nouures douloureuses** des jambes
 - **Panniculite granulomateuse** + atteinte artériolaire profonde **thrombosante**
 
-![[assets/dermato/vasculopathies-cutanees/08-312 Vascularites cutanées et classification de Chapell Hill/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-312%20Vascularites%20cutan%C3%A9es%20et%20classification%20de%20Chapell%20Hill/p21_00.jpeg)
 
 ### Stades évolutifs (4 stades) — atteinte artériolaire
 
@@ -161,7 +161,7 @@ Atteinte des **artérioles/vénules** du derme profond et hypoderme.
 ### PAN cutanée
 Vaisseau hypodermique **complètement dissocié** par infiltrat dense **mononucléé** + quelques PNN, **oblitération quasi complète** de la lumière, plages d'extravasation érythrocytaire.
 
-![[assets/dermato/vasculopathies-cutanees/08-312 Vascularites cutanées et classification de Chapell Hill/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-312%20Vascularites%20cutan%C3%A9es%20et%20classification%20de%20Chapell%20Hill/p23_00.jpeg)
 
 > **Artérite maculeuse lymphocytaire** = forme particulière de PAN à infiltrat essentiellement **lymphocytaire**.
 
@@ -171,7 +171,7 @@ Vaisseau hypodermique **complètement dissocié** par infiltrat dense **mononucl
 - **Évolution chronique**, dépôts visibles à la **coloration de Perls**
 - **PAS de complexes immuns** → **IFD négative** ++
 
-![[assets/dermato/vasculopathies-cutanees/08-312 Vascularites cutanées et classification de Chapell Hill/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-312%20Vascularites%20cutan%C3%A9es%20et%20classification%20de%20Chapell%20Hill/p25_00.jpeg)
 
 ### GPA (Wegener) cutanée
 - Inflammation massive de la paroi d'une artériole hypodermique
@@ -181,22 +181,22 @@ Vaisseau hypodermique **complètement dissocié** par infiltrat dense **mononucl
 - Parfois **granulomes épithélioïdes extra- ou endo-vasculaires**
 - Retentissement ischémique épidermique → **faux aspect d'acantholyse**
 
-![[assets/dermato/vasculopathies-cutanees/08-312 Vascularites cutanées et classification de Chapell Hill/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-312%20Vascularites%20cutan%C3%A9es%20et%20classification%20de%20Chapell%20Hill/p27_00.jpeg)
 
-![[assets/dermato/vasculopathies-cutanees/08-312 Vascularites cutanées et classification de Chapell Hill/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-312%20Vascularites%20cutan%C3%A9es%20et%20classification%20de%20Chapell%20Hill/p28_00.jpeg)
 
-![[assets/dermato/vasculopathies-cutanees/08-312 Vascularites cutanées et classification de Chapell Hill/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-312%20Vascularites%20cutan%C3%A9es%20et%20classification%20de%20Chapell%20Hill/p29_00.jpeg)
 
-![[assets/dermato/vasculopathies-cutanees/08-312 Vascularites cutanées et classification de Chapell Hill/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-312%20Vascularites%20cutan%C3%A9es%20et%20classification%20de%20Chapell%20Hill/p30_00.jpeg)
 
 ### Érythème induré de Bazin (DD)
 - **Adultes en bonne santé**, nouures jambières douloureuses
 - **Panniculite granulomateuse** + lésions vasculaires thrombosantes
 - Aspect rappelant la GPA
 
-![[assets/dermato/vasculopathies-cutanees/08-312 Vascularites cutanées et classification de Chapell Hill/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-312%20Vascularites%20cutan%C3%A9es%20et%20classification%20de%20Chapell%20Hill/p31_00.jpeg)
 
-![[assets/dermato/vasculopathies-cutanees/08-312 Vascularites cutanées et classification de Chapell Hill/p31_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-312%20Vascularites%20cutan%C3%A9es%20et%20classification%20de%20Chapell%20Hill/p31_01.jpeg)
 
 ## Tableau récapitulatif
 

@@ -37,9 +37,9 @@ L’**IHC** est un **outil complémentaire** des techniques de biologie molécul
 - **interprétation** toujours fonction du **contexte**
 - nécessité fréquente de **confirmation** par FISH ou BM
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p01_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p01_00.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p01_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p01_01.jpeg)
 
 
 # Application 1 — Détection d’une amplification
@@ -54,26 +54,26 @@ L’**IHC** est un **outil complémentaire** des techniques de biologie molécul
 
 ⚠️ Application **identique** dans les **adénocarcinomes gastriques** (test compagnon trastuzumab).
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p03_00.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p03_01.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p03_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p03_02.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p03_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p03_03.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p03_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p03_04.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p04_00.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p04_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p04_02.jpeg)
 
 ## EGFR (glioblastome)
 
 - Surexpression de **EGFR** secondaire à l’**amplification du gène EGFR**
 - Score basé sur **% cellules marquées + intensité**
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p05_00.jpeg)
 
 ## MDM2 (liposarcome)
 
@@ -81,9 +81,9 @@ L’**IHC** est un **outil complémentaire** des techniques de biologie molécul
 - **Bonne sensibilité** mais **spécificité limitée** (surexpression possible sans amplification dans d’autres tumeurs)
 - Confirmation par **FISH MDM2**
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p06_00.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p06_01.jpeg)
 
 # Application 2 — Détection d’un réarrangement de gènes
 
@@ -96,11 +96,11 @@ Le gène cible passe sous le contrôle du **promoteur** du partenaire. Deux scé
 | **Échange promoteur faible → fort** | t(11;14) **CCND1-IGH** : cycline D1 sous promoteur fort IGH | **Surexpression diffuse** |
 | **Échange promoteur tissu-spécifique → ubiquitaire** | t(15;19) **NUT-BRD4** : NUT (testicule-spécifique) sous promoteur ubiquitaire | **Expression aberrante** dans tissu inhabituel |
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p07_00.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p07_01.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p07_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p07_02.jpeg)
 
 
 
@@ -118,31 +118,31 @@ Le gène cible passe sous le contrôle du **promoteur** du partenaire. Deux scé
 - **Diagnostic** du LF : BCL2+ centres germinatifs (vs BCL2− dans CG normaux)
 - **Faible spécificité** : surexpression possible dans d’autres lymphomes sans réarrangement
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p11_00.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p11_01.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p11_02.jpeg)
 
 ## c-MYC — lymphome de Burkitt
 
 - **t(8;14) MYC-IGH** → surexpression nucléaire de MYC
 - **Sensibilité et spécificité limitées** → confirmation par **FISH break-apart MYC** indispensable
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p12_00.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p12_01.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p12_02.jpeg)
 
 ## STAT6 — tumeur fibreuse solitaire
 
 - Réarrangement **NAB2-STAT6** → **expression nucléaire forte** de STAT6
 - Pathognomonique → confirmation FISH possible
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p13_00.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p13_01.jpeg)
 
 ## NUT — carcinomes de la ligne médiane (NUT carcinoma)
 
@@ -150,9 +150,9 @@ Le gène cible passe sous le contrôle du **promoteur** du partenaire. Deux scé
 - IHC anti-NUT : **marquage tacheté/piqueté nucléaire** caractéristique
 - Mécanisme : promoteur ubiquitaire BRD → expression de NUT (normalement testicule-spécifique)
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p14_00.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p14_01.jpeg)
 
 ## TFE3
 
@@ -177,14 +177,14 @@ Réarrangement **TFE3** → **expression nucléaire forte** dans :
 → **Indication thérapeutique** : ALK+ dans CBNPC → **crizotinib** (inhibiteur ALK).
 
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p17_00.jpeg)
 
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p18_00.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p18_01.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p19_00.jpeg)
 
 # Application 3 — Distribution subcellulaire anormale
 
@@ -193,9 +193,9 @@ Réarrangement **TFE3** → **expression nucléaire forte** dans :
 - Mutation du gène **CTNNB1** (β-caténine) → **translocation nucléaire** anormale (vs membranaire normalement)
 - Sensible et spécifique pour le diagnostic des **fibromatoses desmoïdes**
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p20_00.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p20_01.jpeg)
 
 # Application 4 — Détection d’une mutation (anticorps non spécifique)
 
@@ -204,7 +204,7 @@ Réarrangement **TFE3** → **expression nucléaire forte** dans :
 - IHC CD117+ dans les **GIST** → recherche d’une **mutation KIT** (cible de l’**imatinib**)
 - Également **mastocytoses** (mutation KIT, exons différents : exon 17 D816V)
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p21_00.jpeg)
 
 
 ## p53
@@ -212,9 +212,9 @@ Réarrangement **TFE3** → **expression nucléaire forte** dans :
 - Surexpression nucléaire diffuse **OU perte complète** = mutation **TP53** probable
 - Profil mutationnel parmi les plus fréquents (cancers du sein notamment)
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p22_00.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p22_01.jpeg)
 
 # Application 5 — Détection d’une mutation par anticorps spécifique
 
@@ -228,9 +228,9 @@ Réarrangement **TFE3** → **expression nucléaire forte** dans :
 | **Histiocytose de Langerhans** | ~50 % des cas |
 | **Maladie d’Erdheim-Chester** | Quasi systématique |
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p23_00.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p23_01.jpeg)
 
 ## IDH1 R132H — gliomes infiltrants
 
@@ -238,9 +238,9 @@ Réarrangement **TFE3** → **expression nucléaire forte** dans :
 - Marquage cytoplasmique
 - **Pas de détection** des mutations IDH1 non-R132H ni IDH2 → BM nécessaire si négatif
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p24_00.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p24_01.jpeg)
 
 # Application 6 — Perte d’expression par inactivation génique
 
@@ -251,9 +251,9 @@ Réarrangement **TFE3** → **expression nucléaire forte** dans :
 - **CCR sporadique** : 15 % avec **méthylation du promoteur MLH1**
 - **Phénotype RER+** confirmé par **PCR multiplex pentaplex** (5 marqueurs mononucléotidiques)
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p25_00.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil complémentaire de la biologie moléculaire V4/p25_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-935_Limmunohistochimie_outil%20compl%C3%A9mentaire%20de%20la%20biologie%20mol%C3%A9culaire%20V4/p25_01.jpeg)
 
 ## INI1 (SMARCB1) — sarcomes épithélioïdes
 

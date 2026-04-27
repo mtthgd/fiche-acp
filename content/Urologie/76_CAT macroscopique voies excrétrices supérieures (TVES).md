@@ -46,11 +46,11 @@ Du haut vers le bas :
 
 **Conséquence pour le pTNM** : absence de muscularis mucosae + musculeuse parfois fine → **infiltration rapide** ; classification TNM **spécifique TVES**.
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie lésions voies excretrices supérieures/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie%20l%C3%A9sions%20voies%20excretrices%20sup%C3%A9rieures/p03_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie lésions voies excretrices supérieures/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie%20l%C3%A9sions%20voies%20excretrices%20sup%C3%A9rieures/p04_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie lésions voies excretrices supérieures/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie%20l%C3%A9sions%20voies%20excretrices%20sup%C3%A9rieures/p05_00.jpeg)
 
 ---
 
@@ -66,9 +66,9 @@ Exigences : pièce **entière, non morcelée, orientée** (haut/bas), avec colle
 - **Hématurie** ++ (motif diagnostique principal)
 - Contexte **HNPCC / syndrome de Lynch** : TVES associée aux cancers du côlon, endomètre (rechercher chez sujet jeune / antécédents familiaux)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie lésions voies excretrices supérieures/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie%20l%C3%A9sions%20voies%20excretrices%20sup%C3%A9rieures/p06_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie lésions voies excretrices supérieures/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie%20l%C3%A9sions%20voies%20excretrices%20sup%C3%A9rieures/p07_00.jpeg)
 
 ---
 
@@ -86,7 +86,7 @@ Tumeur urothéliale → **exophytique** le plus souvent, parfois **multifocale**
   1. **Ouvrir** l'uretère et l'**épingler sur une planche** (photographie possible)
   2. Le garder **fermé** et fixer tel quel, éventuellement avec **cathéter** dans la lumière
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie lésions voies excretrices supérieures/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie%20l%C3%A9sions%20voies%20excretrices%20sup%C3%A9rieures/p08_00.jpeg)
 
 ## Étapes macroscopiques
 
@@ -102,9 +102,9 @@ Tumeur urothéliale → **exophytique** le plus souvent, parfois **multifocale**
 2. **Tumeur** : coupe transversale incluant la plus grande profondeur
 3. **Prélèvements étagés** transversaux du reste de l'uretère → rechercher **CIS** et **lésions planes**
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie lésions voies excretrices supérieures/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie%20l%C3%A9sions%20voies%20excretrices%20sup%C3%A9rieures/p09_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie lésions voies excretrices supérieures/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie%20l%C3%A9sions%20voies%20excretrices%20sup%C3%A9rieures/p10_00.jpeg)
 
 ---
 
@@ -121,9 +121,9 @@ Tumeur urothéliale → **exophytique** le plus souvent, parfois **multifocale**
 - **Lésions** : localisation (rein / bassinet / calices / uretère), taille, profondeur, multifocalité
 - **Retentissement d'amont** : **hydronéphrose** fréquente
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie lésions voies excretrices supérieures/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie%20l%C3%A9sions%20voies%20excretrices%20sup%C3%A9rieures/p11_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie lésions voies excretrices supérieures/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie%20l%C3%A9sions%20voies%20excretrices%20sup%C3%A9rieures/p12_00.jpeg)
 
 ## Prélèvements (ordre)
 
@@ -135,17 +135,17 @@ Tumeur urothéliale → **exophytique** le plus souvent, parfois **multifocale**
 6. **Parenchyme rénal sain** + **urothélium sain**
 7. **Curage ganglionnaire** : tous les ganglions, nombre + taille
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie lésions voies excretrices supérieures/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie%20l%C3%A9sions%20voies%20excretrices%20sup%C3%A9rieures/p13_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie lésions voies excretrices supérieures/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie%20l%C3%A9sions%20voies%20excretrices%20sup%C3%A9rieures/p14_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie lésions voies excretrices supérieures/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie%20l%C3%A9sions%20voies%20excretrices%20sup%C3%A9rieures/p15_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie lésions voies excretrices supérieures/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie%20l%C3%A9sions%20voies%20excretrices%20sup%C3%A9rieures/p16_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie lésions voies excretrices supérieures/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie%20l%C3%A9sions%20voies%20excretrices%20sup%C3%A9rieures/p17_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie lésions voies excretrices supérieures/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie%20l%C3%A9sions%20voies%20excretrices%20sup%C3%A9rieures/p18_00.jpeg)
 
 ---
 
@@ -162,10 +162,10 @@ Tumeur urothéliale → **exophytique** le plus souvent, parfois **multifocale**
 | **T4** | Organes adjacents / graisse péri-rénale |
 
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie lésions voies excretrices supérieures/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie%20l%C3%A9sions%20voies%20excretrices%20sup%C3%A9rieures/p20_00.jpeg)
 
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie lésions voies excretrices supérieures/p22_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-252-Macrocopie%20l%C3%A9sions%20voies%20excretrices%20sup%C3%A9rieures/p22_00.png)
 
 ---
 

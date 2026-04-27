@@ -25,7 +25,7 @@ source: DES ACP - Cours de Cytopathologie des séreuses
 - Concerne les **épanchements** : pleural, péritonéal, péricardique
 - Objectif : **consensus terminologique** + stratification du **risque de malignité (ROM)**
 
-![[assets/cytopathologie/sereuse/V2 11.7-0/p01_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/sereuse/V2%2011.7-0/p01_03.jpeg)
 
 ## Cinq catégories TIS 2020
 
@@ -54,7 +54,7 @@ source: DES ACP - Cours de Cytopathologie des séreuses
 6. Pour adénocarcinome : **site primitif** présumé
 7. **Pourcentage de cellules tumorales** (utile pour la biologie moléculaire)
 
-![[assets/cytopathologie/sereuse/V2 11.7-0/p02_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/sereuse/V2%2011.7-0/p02_01.png)
 
 ## Convenance du prélèvement
 

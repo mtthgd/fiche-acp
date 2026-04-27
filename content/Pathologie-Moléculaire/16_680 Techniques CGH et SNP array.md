@@ -36,11 +36,11 @@ source: DES ACP - Pathologie moléculaire
 | **Comparative** | Comparaison **quantitative** ADN tumoral vs ADN témoin |
 | **Array (puce)** | Cible = micro-réseau d’ADN sur lame de verre, milliers de **spots** d’ADN couvrant tout le génome (chr 1 → 22 + X + Y) |
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-680 Tecniques de CGH-SNP-pdf/p01_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-680%20Tecniques%20de%20CGH-SNP-pdf/p01_00.png)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-680 Tecniques de CGH-SNP-pdf/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-680%20Tecniques%20de%20CGH-SNP-pdf/p02_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-680 Tecniques de CGH-SNP-pdf/p03_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-680%20Tecniques%20de%20CGH-SNP-pdf/p03_00.png)
 
 ### Caractéristiques de la CGH-array
 
@@ -74,9 +74,9 @@ source: DES ACP - Pathologie moléculaire
 
 > Les séquences identiques **rentrent en compétition** pour s’hybrider sur leur spot cible. La séquence la plus représentée a plus de chances de fixer son spot → couleur dominante locale.
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-680 Tecniques de CGH-SNP-pdf/p05_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-680%20Tecniques%20de%20CGH-SNP-pdf/p05_00.png)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-680 Tecniques de CGH-SNP-pdf/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-680%20Tecniques%20de%20CGH-SNP-pdf/p06_00.jpeg)
 
 ### Étape 3 — Détection par numérisation
 
@@ -105,11 +105,11 @@ Représentation graphique :
 - Ordonnée : log ratio
 - Ligne noire = log ratio ; nuage bleu/rouge = variations non significatives
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-680 Tecniques de CGH-SNP-pdf/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-680%20Tecniques%20de%20CGH-SNP-pdf/p07_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-680 Tecniques de CGH-SNP-pdf/p08_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-680%20Tecniques%20de%20CGH-SNP-pdf/p08_00.png)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-680 Tecniques de CGH-SNP-pdf/p09_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-680%20Tecniques%20de%20CGH-SNP-pdf/p09_00.png)
 
 ## Workflow technique illustré
 
@@ -135,11 +135,11 @@ Log ratio = 0 sur tous les chromosomes.
 - **Amplification EGFR** (7p11) → éligibilité à thérapie ciblée
 
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-680 Tecniques de CGH-SNP-pdf/p11_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-680%20Tecniques%20de%20CGH-SNP-pdf/p11_00.png)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-680 Tecniques de CGH-SNP-pdf/p12_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-680%20Tecniques%20de%20CGH-SNP-pdf/p12_00.png)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-680 Tecniques de CGH-SNP-pdf/p13_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-680%20Tecniques%20de%20CGH-SNP-pdf/p13_00.png)
 
 ## Lecture / Interprétation — Limites de la CGH
 
@@ -169,7 +169,7 @@ Log ratio = 0 sur tous les chromosomes.
 
 > Plusieurs **centaines de milliers** de SNPs identifiés et caractérisés (locus, allèles, fréquences).
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-680 Tecniques de CGH-SNP-pdf/p15_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-680%20Tecniques%20de%20CGH-SNP-pdf/p15_00.png)
 
 
 ## Acteurs / Sondes / Réactifs
@@ -192,9 +192,9 @@ Log ratio = 0 sur tous les chromosomes.
    - **Données quantitatives** → intensité du signal (comme CGH)
    - **Données qualitatives** → hybridation ou non sur les spots A vs B → détection des **LOH**
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-680 Tecniques de CGH-SNP-pdf/p18_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-680%20Tecniques%20de%20CGH-SNP-pdf/p18_00.png)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-680 Tecniques de CGH-SNP-pdf/p19_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-680%20Tecniques%20de%20CGH-SNP-pdf/p19_00.png)
 
 ## Lecture / Interprétation
 
@@ -226,7 +226,7 @@ Log ratio = 0 sur tous les chromosomes.
 - **Mais** : LOH du chromosome 10 détectée par SNP-array (BAF à 0/1, allele difference -1/+1) → anomalie classique du glioblastome (perte chr 10) **masquée par duplication compensatrice**
 
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-680 Tecniques de CGH-SNP-pdf/p21_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-680%20Tecniques%20de%20CGH-SNP-pdf/p21_00.png)
 
 ## Indications cliniques majeures
 

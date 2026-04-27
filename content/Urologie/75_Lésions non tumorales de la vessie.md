@@ -24,7 +24,7 @@ source: DES ACP - Cours d'urologie
 - Reconnaître les lésions non tumorales vésicales pouvant être prises à tort pour une tumeur (par l'urologue OU le pathologiste).
 - Connaître les pathologies vésicales inflammatoires.
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-244 lésions non tumorales de la vessie/p01_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-244%20l%C3%A9sions%20non%20tumorales%20de%20la%20vessie/p01_00.jpeg)
 
 
 ---
@@ -38,7 +38,7 @@ source: DES ACP - Cours d'urologie
 - **Base large** → cystite **polypoïde** ; **pied fin** → cystite **papillaire**
 
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-244 lésions non tumorales de la vessie/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-244%20l%C3%A9sions%20non%20tumorales%20de%20la%20vessie/p04_00.jpeg)
 
 ## 2. Adénome / métaplasie néphrogénique
 
@@ -46,9 +46,9 @@ source: DES ACP - Cours d'urologie
 - Architecture **papillaire, tubulaire ou kystique** ; bordée par une seule couche de cellules **cubiques** ou **en clou de tapissier** (hobnail), noyaux nucléolés
 - **IHC** : **PAX8+**, **CK7+** ; **AMACR +** (piège vs adénocarcinome prostatique, mais **PSA−**, **P504S nucléaire** cellule cible)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-244 lésions non tumorales de la vessie/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-244%20l%C3%A9sions%20non%20tumorales%20de%20la%20vessie/p05_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-244 lésions non tumorales de la vessie/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-244%20l%C3%A9sions%20non%20tumorales%20de%20la%20vessie/p06_00.jpeg)
 
 ## 3. Polype fibroépithélial
 
@@ -57,7 +57,7 @@ source: DES ACP - Cours d'urologie
 - Axe papillaire épais **directement implanté** sur la paroi, projections secondaires digitiformes ; revêtement régulier (parfois métaplasie cylindrique)
 - Bénin, **ne récidive pas** (probable anomalie développementale)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-244 lésions non tumorales de la vessie/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-244%20l%C3%A9sions%20non%20tumorales%20de%20la%20vessie/p07_00.jpeg)
 
 ## 4. Amyloïdose vésicale
 
@@ -66,7 +66,7 @@ source: DES ACP - Cours d'urologie
 - **Rouge Congo** : rouge brique, **biréfringence jaune-vert pomme** en lumière polarisée
 - Infiltrat lymphocytaire et macrophagique périphérique
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-244 lésions non tumorales de la vessie/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-244%20l%C3%A9sions%20non%20tumorales%20de%20la%20vessie/p08_00.jpeg)
 
 ---
 
@@ -79,9 +79,9 @@ source: DES ACP - Cours d'urologie
 - Si **métaplasie intestinale** → **cystite glandulaire**
 - **DD** : variante nichée du carcinome urothélial (limitation à la surface et légères atypies ≠ nichée)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-244 lésions non tumorales de la vessie/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-244%20l%C3%A9sions%20non%20tumorales%20de%20la%20vessie/p09_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-244 lésions non tumorales de la vessie/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-244%20l%C3%A9sions%20non%20tumorales%20de%20la%20vessie/p10_00.jpeg)
 
 ## 2. Reliquats de l'ouraque
 
@@ -90,7 +90,7 @@ source: DES ACP - Cours d'urologie
 - Revêtement **intestinal** ou **urothélial**
 - Point de départ possible : **kyste, adénome, adénocarcinome de l'ouraque** (tumeur vésicale non urothéliale)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-244 lésions non tumorales de la vessie/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-244%20l%C3%A9sions%20non%20tumorales%20de%20la%20vessie/p11_00.jpeg)
 
 ## 3. Lésions müllériennes (endométriose vésicale)
 
@@ -102,16 +102,16 @@ source: DES ACP - Cours d'urologie
 
 Aspect macroscopique : **congestif, rouge-bleuté, œdémacié**.
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-244 lésions non tumorales de la vessie/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-244%20l%C3%A9sions%20non%20tumorales%20de%20la%20vessie/p12_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-244 lésions non tumorales de la vessie/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-244%20l%C3%A9sions%20non%20tumorales%20de%20la%20vessie/p13_00.jpeg)
 
 ## 4. Métaplasie néphrogénique tubulaire
 
 - **DD critique** : adénocarcinome prostatique envahissant la vessie (tous deux **AMACR+**, **P63−**)
 - **IHC clé** : **CK7+**, **PAX8+** nucléaire (néphrogénique) ≠ **PSA+/NKX3.1+** (prostate)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-244 lésions non tumorales de la vessie/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-244%20l%C3%A9sions%20non%20tumorales%20de%20la%20vessie/p14_00.jpeg)
 
 ---
 
@@ -126,7 +126,7 @@ Aspect macroscopique : **congestif, rouge-bleuté, œdémacié**.
 - Microscopie : **hémorragies sous-muqueuses**, dilatations vasculaires, œdème, infiltrat diffus **périnerveux**
 - **Mastocytes** : seuil discuté (~28/mm²), intérêt diagnostique limité ; particularité = mastocytes présents dans **chorion ET musculeuse**
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-244 lésions non tumorales de la vessie/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-244%20l%C3%A9sions%20non%20tumorales%20de%20la%20vessie/p15_00.jpeg)
 
 ## 3. Cystite à éosinophiles
 
@@ -134,7 +134,7 @@ Aspect macroscopique : **congestif, rouge-bleuté, œdémacié**.
 - **DD endoscopique** : CIS
 - Infiltrat éosinophile **dense** dans le chorion
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-244 lésions non tumorales de la vessie/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-244%20l%C3%A9sions%20non%20tumorales%20de%20la%20vessie/p16_00.jpeg)
 
 ## 4. Cystite bilharzienne
 
@@ -143,7 +143,7 @@ Aspect macroscopique : **congestif, rouge-bleuté, œdémacié**.
 - Œufs calcifiés à **éperon**, entourés de granulomes histiocytaires et polynucléaires éosinophiles → **fibrose**
 - **Favorise métaplasie épidermoïde** → **facteur de risque** du **carcinome épidermoïde**
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-244 lésions non tumorales de la vessie/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-244%20l%C3%A9sions%20non%20tumorales%20de%20la%20vessie/p17_00.jpeg)
 
 ## 5. Granulome post-BCG thérapie
 
@@ -151,7 +151,7 @@ Aspect macroscopique : **congestif, rouge-bleuté, œdémacié**.
 - **Plus petits** que les granulomes du BK vrai
 - Siège dans le **chorion**
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-244 lésions non tumorales de la vessie/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-244%20l%C3%A9sions%20non%20tumorales%20de%20la%20vessie/p18_00.jpeg)
 
 ## 6. Cystite radique
 
@@ -160,7 +160,7 @@ Aspect macroscopique : **congestif, rouge-bleuté, œdémacié**.
 - Urothélium : atypies **limitées aux cellules superficielles** (≠ CIS)
 - **Fibroblastes atypiques** dans le chorion
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-244 lésions non tumorales de la vessie/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-244%20l%C3%A9sions%20non%20tumorales%20de%20la%20vessie/p19_00.jpeg)
 
 ## 7. Cystite incrustée
 
@@ -168,7 +168,7 @@ Aspect macroscopique : **congestif, rouge-bleuté, œdémacié**.
 - Macroscopie : aspect **encroûté cristallin**
 - Microscopie : dépôts calciques **bleutés** + inflammation chronique péri-calcique
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-244 lésions non tumorales de la vessie/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-244%20l%C3%A9sions%20non%20tumorales%20de%20la%20vessie/p20_00.jpeg)
 
 ## 8. Malakoplakie
 

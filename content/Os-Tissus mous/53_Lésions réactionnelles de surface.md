@@ -35,9 +35,9 @@ Sous l'action de stimuli (traumatiques, inflammatoires, endocriniens, tumoraux) 
 | **Non agressive** / solide | Processus lent, bénin (ex : ostéome ostéoïde) |
 | **Agressive** plurilamellaire / spiculée | Évocatrice de malignité (ex : **sarcome d'Ewing**, ostéosarcome) |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260 Lésions réactionnelles de surface/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260%20L%C3%A9sions%20r%C3%A9actionnelles%20de%20surface/p03_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260 Lésions réactionnelles de surface/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260%20L%C3%A9sions%20r%C3%A9actionnelles%20de%20surface/p03_01.jpeg)
 
 ## Caractéristiques communes des lésions réactionnelles de surface
 
@@ -47,9 +47,9 @@ Sous l'action de stimuli (traumatiques, inflammatoires, endocriniens, tumoraux) 
 - **Corticale intacte** (critère majeur du DD)
 - Séquence physiopathologique : hématome sous-périosté → organisation → formation progressive d'**os et cartilage**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260 Lésions réactionnelles de surface/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260%20L%C3%A9sions%20r%C3%A9actionnelles%20de%20surface/p04_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260 Lésions réactionnelles de surface/p04_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260%20L%C3%A9sions%20r%C3%A9actionnelles%20de%20surface/p04_02.jpeg)
 
 ### Séquence évolutive (analogue myosite ossifiante)
 
@@ -57,11 +57,11 @@ Sous l'action de stimuli (traumatiques, inflammatoires, endocriniens, tumoraux) 
 2. Organisation avec **cartilage métaplasique** et os immature prédominants
 3. **Ossification trabéculaire, lamellaire mature** fusionnant avec la corticale, coiffe cartilagineuse superficielle
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260 Lésions réactionnelles de surface/p04_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260%20L%C3%A9sions%20r%C3%A9actionnelles%20de%20surface/p04_03.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260 Lésions réactionnelles de surface/p04_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260%20L%C3%A9sions%20r%C3%A9actionnelles%20de%20surface/p04_06.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260 Lésions réactionnelles de surface/p04_07.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260%20L%C3%A9sions%20r%C3%A9actionnelles%20de%20surface/p04_07.jpeg)
 
 ## Périostite ossifiante floride (Florid reactive periostitis)
 
@@ -72,13 +72,13 @@ Sous l'action de stimuli (traumatiques, inflammatoires, endocriniens, tumoraux) 
 - Post-traumatique, inflammation locale initiale puis masse indurée
 - Radio : lésion de surface, corticale intacte, **pas de continuité cortico-médullaire** (≠ ostéochondrome), pédiculée ou circonférentielle, croissance rapide
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260 Lésions réactionnelles de surface/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260%20L%C3%A9sions%20r%C3%A9actionnelles%20de%20surface/p06_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260 Lésions réactionnelles de surface/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260%20L%C3%A9sions%20r%C3%A9actionnelles%20de%20surface/p06_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260 Lésions réactionnelles de surface/p06_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260%20L%C3%A9sions%20r%C3%A9actionnelles%20de%20surface/p06_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260 Lésions réactionnelles de surface/p06_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260%20L%C3%A9sions%20r%C3%A9actionnelles%20de%20surface/p06_03.jpeg)
 
 ### Microscopie
 
@@ -88,11 +88,11 @@ Sous l'action de stimuli (traumatiques, inflammatoires, endocriniens, tumoraux) 
 - Réaction fibroblastique mitotique, cellules géantes, suffusions hémorragiques
 - Piège : **évoque à tort un ostéosarcome** → contexte clinique + corticale intacte + absence d'atypies sévères
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260 Lésions réactionnelles de surface/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260%20L%C3%A9sions%20r%C3%A9actionnelles%20de%20surface/p08_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260 Lésions réactionnelles de surface/p08_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260%20L%C3%A9sions%20r%C3%A9actionnelles%20de%20surface/p08_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260 Lésions réactionnelles de surface/p08_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260%20L%C3%A9sions%20r%C3%A9actionnelles%20de%20surface/p08_03.jpeg)
 
 ## Lésion de Nora (BPOP : bizarre parosteal osteochondromatous proliferation)
 
@@ -105,9 +105,9 @@ Sous l'action de stimuli (traumatiques, inflammatoires, endocriniens, tumoraux) 
 - **Calcifications linéaires** ou éparses
 - Pas de continuité cortico-médullaire
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260 Lésions réactionnelles de surface/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260%20L%C3%A9sions%20r%C3%A9actionnelles%20de%20surface/p09_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260 Lésions réactionnelles de surface/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260%20L%C3%A9sions%20r%C3%A9actionnelles%20de%20surface/p09_01.jpeg)
 
 ### Microscopie
 - **Cartilage et os métaplasiques** issus du périoste
@@ -117,15 +117,15 @@ Sous l'action de stimuli (traumatiques, inflammatoires, endocriniens, tumoraux) 
 - Interface os/cartilage irrégulière
 - Tissu fibreux cellulaire mitotique → DD avec ostéosarcome de surface (exceptionnel aux extrémités, pas d'effraction corticale, atypies moindres)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260 Lésions réactionnelles de surface/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260%20L%C3%A9sions%20r%C3%A9actionnelles%20de%20surface/p11_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260 Lésions réactionnelles de surface/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260%20L%C3%A9sions%20r%C3%A9actionnelles%20de%20surface/p12_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260 Lésions réactionnelles de surface/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260%20L%C3%A9sions%20r%C3%A9actionnelles%20de%20surface/p13_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260 Lésions réactionnelles de surface/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260%20L%C3%A9sions%20r%C3%A9actionnelles%20de%20surface/p14_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260 Lésions réactionnelles de surface/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260%20L%C3%A9sions%20r%C3%A9actionnelles%20de%20surface/p14_02.jpeg)
 
 ## Exostose périostée acquise (turret exostosis)
 
@@ -135,13 +135,13 @@ Sous l'action de stimuli (traumatiques, inflammatoires, endocriniens, tumoraux) 
 - Microscopie : architecture **zonale** marquée — coiffe cartilagineuse périphérique peu floride (chondrocytes peu atypiques) + os central trabéculaire fin, anastomosé, fusionné à la corticale
 - DD : ostéochondrome (confrontation clinique/imagerie)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260 Lésions réactionnelles de surface/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260%20L%C3%A9sions%20r%C3%A9actionnelles%20de%20surface/p15_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260 Lésions réactionnelles de surface/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260%20L%C3%A9sions%20r%C3%A9actionnelles%20de%20surface/p16_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260 Lésions réactionnelles de surface/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260%20L%C3%A9sions%20r%C3%A9actionnelles%20de%20surface/p17_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260 Lésions réactionnelles de surface/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260%20L%C3%A9sions%20r%C3%A9actionnelles%20de%20surface/p17_01.jpeg)
 
 ## Exostose sous-unguéale (exostose de Dupuytren)
 
@@ -150,7 +150,7 @@ Sous l'action de stimuli (traumatiques, inflammatoires, endocriniens, tumoraux) 
 - **Translocation t(X;6)** impliquant *COL12A1* et *COL4A5* → nature **néoplasique**
 - Clinique : douleurs, gonflement, **soulèvement / perte de l'ongle**, ulcération possible
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260 Lésions réactionnelles de surface/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260%20L%C3%A9sions%20r%C3%A9actionnelles%20de%20surface/p20_01.jpeg)
 
 ### Imagerie
 - Face dorsale de la dernière phalange, sous l'ongle
@@ -158,7 +158,7 @@ Sous l'action de stimuli (traumatiques, inflammatoires, endocriniens, tumoraux) 
 - **Pas de communication médullaire** (≠ ostéochondrome)
 - Limites périphériques irrégulières
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260 Lésions réactionnelles de surface/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260%20L%C3%A9sions%20r%C3%A9actionnelles%20de%20surface/p21_00.jpeg)
 
 ### Microscopie — architecture zonale (3 zones centripètes)
 
@@ -166,11 +166,11 @@ Sous l'action de stimuli (traumatiques, inflammatoires, endocriniens, tumoraux) 
 2. **Couche cartilagineuse** intermédiaire (corps de l'exostose) : cartilage cellulaire, chondrocytes volumineux bi/multinucléés (piège : aspect inquiétant sur biopsie)
 3. **Zone centrale osseuse** (base) : travées d'**ossification enchondrale** immatures → lamellaires, raccordées à la corticale
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260 Lésions réactionnelles de surface/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260%20L%C3%A9sions%20r%C3%A9actionnelles%20de%20surface/p23_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260 Lésions réactionnelles de surface/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260%20L%C3%A9sions%20r%C3%A9actionnelles%20de%20surface/p24_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260 Lésions réactionnelles de surface/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-260%20L%C3%A9sions%20r%C3%A9actionnelles%20de%20surface/p25_00.jpeg)
 
 ### Évolution / traitement
 - Processus auto-limité (semaines-mois)

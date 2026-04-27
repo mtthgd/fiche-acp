@@ -38,7 +38,7 @@ Définition histologique :
 - En regard : **interruption de la couche granuleuse**
 - Cellules **vacuolisées ou dyskératosiques** du corps muqueux sous-jacent
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243 DBAI intra-épidermiques/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243%20DBAI%20intra-%C3%A9pidermiques/p03_00.jpeg)
 
 ### Lésion clinique élémentaire
 
@@ -67,11 +67,11 @@ Définition histologique :
 - **Multiplier les niveaux de coupe** pour mieux la visualiser
 - **Infiltrat inflammatoire** sous-lésionnel **fréquent** (utile au diagnostic)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-222-Lichen plan/p06_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-222-Lichen%20plan/p06_02.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-222-Lichen plan/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-222-Lichen%20plan/p07_01.jpeg)
 
-![[assets/dermato/autres-maladies-epidermiques/trouble-maturation-keratinocytaire/08-513-Porokératoses/p07_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/autres-maladies-epidermiques/trouble-maturation-keratinocytaire/08-513-Porok%C3%A9ratoses/p07_03.jpeg)
 
 #### Centre lésionnel
 - **Épiderme atrophique**
@@ -79,9 +79,9 @@ Définition histologique :
 - **Infiltrat inflammatoire lymphocytaire lichénoïde**
 - ⚠ Une **atrophie épidermique avec discrète vacuolisation** de la DEJ doit faire **rechercher les autres signes** des porokératoses → la porokératose est intégrée dans l'algorithme des **dermatoses lichénoïdes vacuolaires**
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-222-Lichen plan/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-222-Lichen%20plan/p08_01.jpeg)
 
-![[assets/dermato/autres-maladies-epidermiques/trouble-maturation-keratinocytaire/08-513-Porokératoses/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/autres-maladies-epidermiques/trouble-maturation-keratinocytaire/08-513-Porok%C3%A9ratoses/p09_02.jpeg)
 
 ### Diagnostics différentiels
 
@@ -116,7 +116,7 @@ Définition histologique :
   - **Hypercératose épaisse** sus-jacente
   - **Dense infiltrat lichénoïde** sous-épidermique pouvant **mimer un mycosis fongoïde** mais de **phénotype CD8+**
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221 - Dermatoses lichénoïdes - approche diagnostique/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221%20-%20Dermatoses%20lich%C3%A9no%C3%AFdes%20-%20approche%20diagnostique/p11_02.jpeg)
 
 ### Maladie de Kyrle
 
@@ -126,7 +126,7 @@ Définition histologique :
 - Papules kératosiques **centrées par un bouchon corné**
 - Classée dans les **dermatoses perforantes** : le **bouchon corné perfore l'épiderme** et atteint le derme
 
-![[assets/dermato/autres-maladies-epidermiques/trouble-maturation-keratinocytaire/08-513-Porokératoses/p12_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/autres-maladies-epidermiques/trouble-maturation-keratinocytaire/08-513-Porok%C3%A9ratoses/p12_03.jpeg)
 
 ## III. Hyperkératoses épidermolytiques
 
@@ -136,7 +136,7 @@ Définition histologique :
 - **Granulations** basophiles ou éosinophiles **de taille et forme variables**
 - ± Cellules dyskératosiques
 
-![[assets/dermato/autres-maladies-epidermiques/trouble-maturation-keratinocytaire/08-513-Porokératoses/p13_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/autres-maladies-epidermiques/trouble-maturation-keratinocytaire/08-513-Porok%C3%A9ratoses/p13_02.jpeg)
 
 ### Classification clinique
 

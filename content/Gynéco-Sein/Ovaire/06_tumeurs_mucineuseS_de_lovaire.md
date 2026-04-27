@@ -57,9 +57,9 @@ Les tumeurs mucineuses primitives de l’ovaire (depuis OMS 2014) **= type intes
 ### Association
 Très fréquente avec **tumeurs de Brenner** ou **tératomes / kystes dermoïdes** : composante mucineuse en interconnexion avec la composante de Brenner (théorie de Seidman, 2008 : origine commune).
 
-![[assets/gyneco-sein/ovaire/04_54_03 m tumeurs mucineuse de lovaire FPL/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03%20m%20tumeurs%20mucineuse%20de%20lovaire%20FPL/p07_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_03 m tumeurs mucineuse de lovaire FPL/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03%20m%20tumeurs%20mucineuse%20de%20lovaire%20FPL/p08_00.jpeg)
 
 ## Tumeur mucineuse borderline (TML mucineuse intestinale)
 
@@ -80,9 +80,9 @@ Très fréquente avec **tumeurs de Brenner** ou **tératomes / kystes dermoïdes
 - Recherche de zones végétantes endokystiques **mamelonnées** (foyers à malignité limite)
 - **Prélèvements systématiques tous les 1-2 cm** (compte-tenu de la taille parfois énorme)
 
-![[assets/gyneco-sein/ovaire/04_54_03 m tumeurs mucineuse de lovaire FPL/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03%20m%20tumeurs%20mucineuse%20de%20lovaire%20FPL/p11_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_03 m tumeurs mucineuse de lovaire FPL/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03%20m%20tumeurs%20mucineuse%20de%20lovaire%20FPL/p12_00.jpeg)
 
 ### Histologie
 - Cellules en **gobelet** stratifiées sur **2-3 couches**
@@ -100,11 +100,11 @@ Très fréquente avec **tumeurs de Brenner** ou **tératomes / kystes dermoïdes
 
 ⚠️ Attention au **pseudomyxome ovarien** : mucine extracellulaire dans le stroma (rupture glandulaire), parfois avec granulome à corps étranger (« granulome mucineux ») = **PAS un signe d’infiltration**.
 
-![[assets/gyneco-sein/ovaire/04_54_03 m tumeurs mucineuse de lovaire FPL/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03%20m%20tumeurs%20mucineuse%20de%20lovaire%20FPL/p13_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_03 m tumeurs mucineuse de lovaire FPL/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03%20m%20tumeurs%20mucineuse%20de%20lovaire%20FPL/p14_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_03 m tumeurs mucineuse de lovaire FPL/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03%20m%20tumeurs%20mucineuse%20de%20lovaire%20FPL/p15_00.jpeg)
 
 ### Pronostic
 - **Excellent**, récidives uniquement si geste chirurgical incomplet
@@ -122,7 +122,7 @@ Très fréquente avec **tumeurs de Brenner** ou **tératomes / kystes dermoïdes
 - Contenu mucineux, alternance zones solides / végétations **internes** (≠ métastase = végétations externes)
 - Remaniements hémorragiques / nécrotiques possibles
 
-![[assets/gyneco-sein/ovaire/04_54_03 m tumeurs mucineuse de lovaire FPL/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03%20m%20tumeurs%20mucineuse%20de%20lovaire%20FPL/p20_00.jpeg)
 
 ### Deux modes d’invasion (histologique)
 
@@ -133,11 +133,11 @@ Très fréquente avec **tumeurs de Brenner** ou **tératomes / kystes dermoïdes
 
 → Dans la forme expansive : donner le **grade nucléaire** comme pour un endomètre.
 
-![[assets/gyneco-sein/ovaire/04_54_03 m tumeurs mucineuse de lovaire FPL/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03%20m%20tumeurs%20mucineuse%20de%20lovaire%20FPL/p21_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_03 m tumeurs mucineuse de lovaire FPL/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03%20m%20tumeurs%20mucineuse%20de%20lovaire%20FPL/p22_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_03 m tumeurs mucineuse de lovaire FPL/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03%20m%20tumeurs%20mucineuse%20de%20lovaire%20FPL/p25_00.jpeg)
 
 ## Immunohistochimie
 

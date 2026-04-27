@@ -108,11 +108,11 @@ Aspects variables selon le primitif. Toujours évoquer une métastase devant :
 - Une **morphologie atypique** pour le site
 - Un **contexte clinique évocateur** (antécédent de cancer)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.18 Les métastases du tube digestif/p10_01.jpeg]]
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.18 Les métastases du tube digestif/p10_02.jpeg]]
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.18 Les métastases du tube digestif/p10_03.jpeg]]
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.18 Les métastases du tube digestif/p10_04.jpeg]]
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.18 Les métastases du tube digestif/p10_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.18%20Les%20m%C3%A9tastases%20du%20tube%20digestif/p10_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.18%20Les%20m%C3%A9tastases%20du%20tube%20digestif/p10_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.18%20Les%20m%C3%A9tastases%20du%20tube%20digestif/p10_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.18%20Les%20m%C3%A9tastases%20du%20tube%20digestif/p10_04.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.18%20Les%20m%C3%A9tastases%20du%20tube%20digestif/p10_06.jpeg)
 
 ## Immunohistochimie
 
@@ -159,7 +159,7 @@ Aspects variables selon le primitif. Toujours évoquer une métastase devant :
 
 → **Métastase révélatrice** du cancer mammaire. Si diagnostic posé sur les biopsies, **gastrectomie totale évitée**.
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.18 Les métastases du tube digestif/p12_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.18%20Les%20m%C3%A9tastases%20du%20tube%20digestif/p12_00.png)
 
 ## Diagnostics différentiels
 

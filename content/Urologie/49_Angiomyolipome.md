@@ -52,7 +52,7 @@ source: DES ACP - Cours d'urologie
 3. **Vasculaire** : vaisseaux à paroi épaisse avec **prolifération péri-vasculaire** caractéristique (cellules HMB45+)
 
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-132-Angiomyolipome/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-132-Angiomyolipome/p12_00.jpeg)
 
 
 - Diagnostic histologique **facile** sur la forme triphasique
@@ -75,15 +75,15 @@ source: DES ACP - Cours d'urologie
 - Évoque en 1re intention un **carcinome de haut grade inclassable**
 
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-132-Angiomyolipome/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-132-Angiomyolipome/p17_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-132-Angiomyolipome/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-132-Angiomyolipome/p18_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-132-Angiomyolipome/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-132-Angiomyolipome/p19_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-132-Angiomyolipome/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-132-Angiomyolipome/p20_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-132-Angiomyolipome/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-132-Angiomyolipome/p21_00.jpeg)
 
 ## IHC — **clé diagnostique**
 
@@ -100,10 +100,10 @@ source: DES ACP - Cours d'urologie
 
 > **Devant une tumeur rénale inclassée de haut grade PAX8−** → demander **HMB45 + Melan-A** sur plusieurs blocs.
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-132-Angiomyolipome/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-132-Angiomyolipome/p22_00.jpeg)
 
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-132-Angiomyolipome/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-132-Angiomyolipome/p24_00.jpeg)
 
 ## Score prédictif de progression (AML épithélioïde) — 6 critères
 
@@ -122,17 +122,17 @@ source: DES ACP - Cours d'urologie
 | 2-3 | **~64 %** |
 | ≥ 4 | **~100 %** |
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-132-Angiomyolipome/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-132-Angiomyolipome/p25_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-132-Angiomyolipome/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-132-Angiomyolipome/p26_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-132-Angiomyolipome/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-132-Angiomyolipome/p27_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-132-Angiomyolipome/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-132-Angiomyolipome/p28_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-132-Angiomyolipome/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-132-Angiomyolipome/p29_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-132-Angiomyolipome/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-132-Angiomyolipome/p30_00.jpeg)
 
 ---
 

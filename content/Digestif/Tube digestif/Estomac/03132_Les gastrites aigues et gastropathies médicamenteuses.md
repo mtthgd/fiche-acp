@@ -25,7 +25,7 @@ source: DES ACP - Cours de digestif (D. Châtelain)
 - **Mauvaise corrélation endoscopie / histologie** : < 1/3 des aspects endoscopiques de gastrite ont une histologie normale ; 2/3 des endoscopies normales ont des lésions histologiques
 - Les gastrites aiguës sont **rarement biopsiées** sauf pour éliminer une origine néoplasique ou infectieuse
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.2 Les gastrites aigues et gastropathies médicamenteuses/p03_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.2%20Les%20gastrites%20aigues%20et%20gastropathies%20m%C3%A9dicamenteuses/p03_05.jpeg)
 
 ## Histologie générale (peu spécifique)
 
@@ -53,7 +53,7 @@ source: DES ACP - Cours de digestif (D. Châtelain)
 - Lésions à l'**alcool** : prédominent au **fundus**
 - Lésions aux **AINS** : prédominent à l'**antre**
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.2 Les gastrites aigues et gastropathies médicamenteuses/p04_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.2%20Les%20gastrites%20aigues%20et%20gastropathies%20m%C3%A9dicamenteuses/p04_06.jpeg)
 
 ### Gastrite caustique
 
@@ -69,7 +69,7 @@ source: DES ACP - Cours de digestif (D. Châtelain)
 - **2 premières semaines** : gastrite érosive régénérative, atypies nucléaires marquées
 - **Tardivement** : chorion fibreux, fibroblastes atypiques hyperchromatiques, **vasculopathie radique** (parois épaissies, dépôts fibrinoïdes éosinophiles, endartérite fibreuse) — surtout sous-muqueuse
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.2 Les gastrites aigues et gastropathies médicamenteuses/p07_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.2%20Les%20gastrites%20aigues%20et%20gastropathies%20m%C3%A9dicamenteuses/p07_02.jpeg)
 
 ### Gastrite gangreneuse
 
@@ -101,9 +101,9 @@ source: DES ACP - Cours de digestif (D. Châtelain)
 - **Ascension de fibres musculaires lisses** entre les cryptes (issue de la musculaire-muqueuse hyperplasique)
 - Pas d'***Helicobacter pylori*** aux colorations spéciales
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.2 Les gastrites aigues et gastropathies médicamenteuses/p10_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.2%20Les%20gastrites%20aigues%20et%20gastropathies%20m%C3%A9dicamenteuses/p10_03.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.2 Les gastrites aigues et gastropathies médicamenteuses/p10_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.2%20Les%20gastrites%20aigues%20et%20gastropathies%20m%C3%A9dicamenteuses/p10_04.jpeg)
 
 ### Gastropathie aux IPP (inhibiteurs de la pompe à protons)
 
@@ -116,9 +116,9 @@ source: DES ACP - Cours de digestif (D. Châtelain)
 - Apparition de **corps apoptotiques antraux** (DD avec GVH gastrique)
 - **Hyperplasie linéaire/micronodulaire des cellules ECL** par hypergastrinémie réactionnelle (mais **pas de TNE** induite par les IPP)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.2 Les gastrites aigues et gastropathies médicamenteuses/p13_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.2%20Les%20gastrites%20aigues%20et%20gastropathies%20m%C3%A9dicamenteuses/p13_04.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.2 Les gastrites aigues et gastropathies médicamenteuses/p13_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.2%20Les%20gastrites%20aigues%20et%20gastropathies%20m%C3%A9dicamenteuses/p13_05.jpeg)
 
 ### Gastropathie aux thérapies ferriques
 
@@ -126,7 +126,7 @@ source: DES ACP - Cours de digestif (D. Châtelain)
 - Endoscopie : muqueuse érodée, hémorragique, dépôts noirâtres
 - Histologie : ulcérations + **dépôts cristallins brun-marron** colorés en **bleu par le Perls**, cryptes régénératives, infiltrat polymorphe
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.2 Les gastrites aigues et gastropathies médicamenteuses/p14_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.2%20Les%20gastrites%20aigues%20et%20gastropathies%20m%C3%A9dicamenteuses/p14_03.jpeg)
 
 ### Gastropathie au Kayexalate (polystyrène sulfonate de Na)
 
@@ -135,11 +135,11 @@ source: DES ACP - Cours de digestif (D. Châtelain)
 - Histologie : ulcérations + cristaux **bleutés/violacés quadrangulaires géométriques**, colorés en **rouge par le PAS et le Ziehl**
 - Présence des cristaux ≠ responsabilité dans l'ulcère (peut témoigner de la simple prise médicamenteuse)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.2 Les gastrites aigues et gastropathies médicamenteuses/p15_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.2%20Les%20gastrites%20aigues%20et%20gastropathies%20m%C3%A9dicamenteuses/p15_03.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.2 Les gastrites aigues et gastropathies médicamenteuses/p15_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.2%20Les%20gastrites%20aigues%20et%20gastropathies%20m%C3%A9dicamenteuses/p15_04.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.2 Les gastrites aigues et gastropathies médicamenteuses/p15_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.2%20Les%20gastrites%20aigues%20et%20gastropathies%20m%C3%A9dicamenteuses/p15_05.jpeg)
 
 ### Gastropathie à la colchicine
 
@@ -151,9 +151,9 @@ source: DES ACP - Cours de digestif (D. Châtelain)
   - Cellules apoptotiques avec débris nucléaires intracytoplasmiques
 - Pathologiste = **rôle d'alerte** clinique en cas de surdosage
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.2 Les gastrites aigues et gastropathies médicamenteuses/p17_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.2%20Les%20gastrites%20aigues%20et%20gastropathies%20m%C3%A9dicamenteuses/p17_03.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.2 Les gastrites aigues et gastropathies médicamenteuses/p17_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.2%20Les%20gastrites%20aigues%20et%20gastropathies%20m%C3%A9dicamenteuses/p17_04.jpeg)
 
 ### Gastropathie aux taxanes
 
@@ -161,9 +161,9 @@ source: DES ACP - Cours de digestif (D. Châtelain)
 - Aspect **identique à la colchicine** (mitoses en anneau)
 - Présence des mitoses en anneau ≠ surdosage (témoin de la prise du traitement)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.2 Les gastrites aigues et gastropathies médicamenteuses/p18_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.2%20Les%20gastrites%20aigues%20et%20gastropathies%20m%C3%A9dicamenteuses/p18_03.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.2 Les gastrites aigues et gastropathies médicamenteuses/p18_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.2%20Les%20gastrites%20aigues%20et%20gastropathies%20m%C3%A9dicamenteuses/p18_04.jpeg)
 
 ### Gastrite après radioembolisation (microsphères à l'**Yttrium-90**)
 
@@ -171,9 +171,9 @@ source: DES ACP - Cours de digestif (D. Châtelain)
 - Cathétérisme de l'artère hépatique → dissémination accidentelle dans l'artère gastrique
 - Histologie : muqueuse régénérative ulcérée, atypies radiques, **microsphères arrondies noirâtres** (~ dizaines de microns) dans le chorion
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.2 Les gastrites aigues et gastropathies médicamenteuses/p19_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.2%20Les%20gastrites%20aigues%20et%20gastropathies%20m%C3%A9dicamenteuses/p19_04.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.2 Les gastrites aigues et gastropathies médicamenteuses/p19_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.2%20Les%20gastrites%20aigues%20et%20gastropathies%20m%C3%A9dicamenteuses/p19_05.jpeg)
 
 ### Calcinose gastrique
 

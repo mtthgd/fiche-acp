@@ -25,7 +25,7 @@ Trois grands types de prélèvements en pathologie mammaire :
 2. **Biopsies** (microbiopsie 14G, macrobiopsie sous vide)
 3. **Pièces opératoires** (tumorectomie, mastectomie partielle/totale, ganglions)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/Les différents types de prélèvements-jh1/p01_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/Les%20diff%C3%A9rents%20types%20de%20pr%C3%A9l%C3%A8vements-jh1/p01_00.jpeg)
 
 ---
 
@@ -44,7 +44,7 @@ Trois grands types de prélèvements en pathologie mammaire :
 - **Étalement fixé** (éthanol 95° ou laque fixante) → coloration **Papanicolaou**
 - **Liquide en flacon** (milieu de conservation) → cytocentrifugation + Papanicolaou
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/Les différents types de prélèvements-jh1/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/Les%20diff%C3%A9rents%20types%20de%20pr%C3%A9l%C3%A8vements-jh1/p02_00.jpeg)
 
 ---
 
@@ -73,7 +73,7 @@ Associer une **image radiologique** ou une **masse palpable** à un **diagnostic
 - Surfixation > 48 h tolérée
 - **Sous-fixation** = dommages **irréversibles de l'ADN** → compromet **FISH** et hybridation in situ
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/Les différents types de prélèvements-jh1/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/Les%20diff%C3%A9rents%20types%20de%20pr%C3%A9l%C3%A8vements-jh1/p09_00.jpeg)
 
 ## Déroulé technique
 
@@ -85,9 +85,9 @@ Associer une **image radiologique** ou une **masse palpable** à un **diagnostic
 - Puis fixation au formol
 - **Toujours fournir la radiographie** au pathologiste
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/Les différents types de prélèvements-jh1/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/Les%20diff%C3%A9rents%20types%20de%20pr%C3%A9l%C3%A8vements-jh1/p10_00.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/Les différents types de prélèvements-jh1/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/Les%20diff%C3%A9rents%20types%20de%20pr%C3%A9l%C3%A8vements-jh1/p10_01.jpeg)
 
 ## Mise en cassette
 - **Plusieurs cassettes** : économiser le matériel pour CTN éventuelle, IHC, biologie moléculaire, essais
@@ -97,7 +97,7 @@ Associer une **image radiologique** ou une **masse palpable** à un **diagnostic
 - **Microbiopsies** : minimum **2-3 niveaux**
 - **Macrobiopsies** : minimum **4-5 niveaux**
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/Les différents types de prélèvements-jh1/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/Les%20diff%C3%A9rents%20types%20de%20pr%C3%A9l%C3%A8vements-jh1/p11_00.jpeg)
 
 ## CAS PARTICULIER : macrobiopsies pour microcalcifications
 
@@ -109,7 +109,7 @@ Le pathologiste doit préciser **à quelle lésion les microcalcifications sont 
    - Présentes → recouper en niveaux supplémentaires
 2. Ultime recours : **radiographier les blocs** pour identifier les fragments contenant les microcalcifications
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/Les différents types de prélèvements-jh1/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/Les%20diff%C3%A9rents%20types%20de%20pr%C3%A9l%C3%A8vements-jh1/p13_00.jpeg)
 
 
 ---
@@ -135,7 +135,7 @@ La macroscopie s'**adapte** à :
 | Mastectomie avec PAM | Avec plaque aréolo-mamelonnaire |
 | Mastectomie totale | Glande mammaire complète |
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/Les différents types de prélèvements-jh1/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/Les%20diff%C3%A9rents%20types%20de%20pr%C3%A9l%C3%A8vements-jh1/p16_00.jpeg)
 
 ## Étapes communes
 
@@ -148,7 +148,7 @@ La macroscopie s'**adapte** à :
 7. Examen extemporané ± **tumorothèque**
 8. **Fixation** au formol
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/Les différents types de prélèvements-jh1/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/Les%20diff%C3%A9rents%20types%20de%20pr%C3%A9l%C3%A8vements-jh1/p18_00.jpeg)
 
 ## Description de la tumeur
 - **Palper** : consistance, limites
@@ -170,7 +170,7 @@ Deux méthodes (pas de consensus) :
 - Tranches **parallèles** au plan superficiel/profond
 - Tranches **perpendiculaires** au plan superficiel/profond
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/Les différents types de prélèvements-jh1/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/Les%20diff%C3%A9rents%20types%20de%20pr%C3%A9l%C3%A8vements-jh1/p20_00.jpeg)
 
 ## Fixation
 - **Formol tamponné**, **10× le volume** de la pièce
@@ -191,9 +191,9 @@ Deux méthodes (pas de consensus) :
 - Mesure tumeur 3 axes, distance au mamelon
 - **Pas d'évaluation des berges** (chirurgien enlève toute la glande, sauf atteinte macroscopique du muscle pectoral)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/Les différents types de prélèvements-jh1/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/Les%20diff%C3%A9rents%20types%20de%20pr%C3%A9l%C3%A8vements-jh1/p21_00.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/Les différents types de prélèvements-jh1/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/Les%20diff%C3%A9rents%20types%20de%20pr%C3%A9l%C3%A8vements-jh1/p21_01.jpeg)
 
 ## Tumorectomie / mastectomie partielle
 
@@ -209,7 +209,7 @@ Deux méthodes (pas de consensus) :
 - **Ne doit pas compromettre le diagnostic** : refuser si lésion atypique, in situ, papillaire
 - Ne pas intéresser le foyer infiltrant principal
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/Les différents types de prélèvements-jh1/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/Les%20diff%C3%A9rents%20types%20de%20pr%C3%A9l%C3%A8vements-jh1/p25_00.jpeg)
 
 ---
 
@@ -231,9 +231,9 @@ Deux méthodes (pas de consensus) :
 **Pièce petite** : tranches parallèles + inclusion totale
 **Pièce volumineuse** : tranches de section, inclusion totale si possible, sinon 1 tranche complète + prélèvements orientés sur les berges
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/Les différents types de prélèvements-jh1/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/Les%20diff%C3%A9rents%20types%20de%20pr%C3%A9l%C3%A8vements-jh1/p28_00.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/Les différents types de prélèvements-jh1/p28_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/Les%20diff%C3%A9rents%20types%20de%20pr%C3%A9l%C3%A8vements-jh1/p28_01.jpeg)
 
 ### Mastectomie partielle, lésions atypiques / in situ / microcalcifications
 
@@ -257,7 +257,7 @@ Deux méthodes (pas de consensus) :
 - Inclusion en totalité
 - **Coupes perpendiculaires** à l'axe des canaux galactophoriques
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/Les différents types de prélèvements-jh1/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/Les%20diff%C3%A9rents%20types%20de%20pr%C3%A9l%C3%A8vements-jh1/p35_00.jpeg)
 
 ### Mastectomie totale en contexte de cancer
 - **Mamelon** prélevé systématiquement
@@ -269,9 +269,9 @@ Deux méthodes (pas de consensus) :
 - **Région rétro-aréolaire en totalité**
 - Au moins **2 prélèvements par cadran**
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/Les différents types de prélèvements-jh1/p44_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/Les%20diff%C3%A9rents%20types%20de%20pr%C3%A9l%C3%A8vements-jh1/p44_00.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/Les différents types de prélèvements-jh1/p44_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/Les%20diff%C3%A9rents%20types%20de%20pr%C3%A9l%C3%A8vements-jh1/p44_01.jpeg)
 
 ---
 
@@ -285,7 +285,7 @@ Deux méthodes (pas de consensus) :
   - **Petite taille** → coupé en 2, 1 bloc
   - **Très petits** → plusieurs dans un même bloc
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/Les différents types de prélèvements-jh1/p46_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/Les%20diff%C3%A9rents%20types%20de%20pr%C3%A9l%C3%A8vements-jh1/p46_00.jpeg)
 
 ## Ganglion sentinelle
 - Décrire, mesurer
@@ -295,7 +295,7 @@ Deux méthodes (pas de consensus) :
 
 > Voir [[04_10_4_04_les ganglions prise en charge stadification ganglion sentinelle]]
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/Les différents types de prélèvements-jh1/p47_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/Les%20diff%C3%A9rents%20types%20de%20pr%C3%A9l%C3%A8vements-jh1/p47_00.jpeg)
 
 ---
 

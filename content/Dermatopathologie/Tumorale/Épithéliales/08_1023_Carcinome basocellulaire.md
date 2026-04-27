@@ -33,7 +33,7 @@ source: DES ACP - Cours de Dermatopathologie
 | **Xeroderma pigmentosum** | Système BER (Base Excision Repair) | Multiples cancers cutanés (CBC, CE, mélanome) |
 | **Naevomatose basocellulaire** (Gorlin / NBCCS) | **PTCH1** (germinal) | CBC multiples précoces, kystes mandibulaires, médulloblastome, calcifications faux du cerveau |
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1023 Carcinome basocellulaire/p06_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1023%20Carcinome%20basocellulaire/p06_00.png)
 
 ## Recommandations / classifications
 
@@ -50,7 +50,7 @@ Faible accord interobservateur entre sous-types histologiques (terminologie hét
 | **CBC superficiel** | Plaque rouge plane, bien limitée, centrifuge, microulcérations |
 | **CBC sclérodermiforme** (anglais : *morpheaform*) | Plaque dure scléreuse, **mal limitée**, brillante, déprimée |
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1023 Carcinome basocellulaire/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1023%20Carcinome%20basocellulaire/p10_00.jpeg)
 
 ## Formes histologiques (recommandations actuelles)
 
@@ -65,7 +65,7 @@ Quatre sous-types principaux à utiliser :
 
 > Plusieurs sous-types peuvent coexister → **on retient la composante de plus mauvais pronostic**.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1023 Carcinome basocellulaire/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1023%20Carcinome%20basocellulaire/p13_00.jpeg)
 
 ---
 
@@ -79,14 +79,14 @@ Quatre sous-types principaux à utiliser :
 - Stroma : **fente de rétraction artefactuelle** entre cellules tumorales et stroma (**rétraction tumeur-stroma** = signe diagnostique majeur).
 - **Stroma fibromyxoïde** avec cellules fusiformes et infiltrat lymphocytaire/plasmocytaire.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1023 Carcinome basocellulaire/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1023%20Carcinome%20basocellulaire/p15_00.jpeg)
 
 ### CBC superficiel
 
 - **Nodules tumoraux appendus à l'épiderme** ou en contact avec l'ostium folliculaire.
 - Situés dans le **derme papillaire**, sans séparation entre lobules tumoraux et épiderme.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1023 Carcinome basocellulaire/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1023%20Carcinome%20basocellulaire/p14_00.jpeg)
 
 ### CBC nodulaire
 
@@ -95,9 +95,9 @@ Quatre sous-types principaux à utiliser :
 - **Cavités kystiques** intratumorales fréquentes → aspects pseudo-glandulaires.
 - Foyers de kératinisation épidermoïde possibles dans tous les types de CBC.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1023 Carcinome basocellulaire/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1023%20Carcinome%20basocellulaire/p17_00.jpeg)
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1023 Carcinome basocellulaire/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1023%20Carcinome%20basocellulaire/p18_00.jpeg)
 
 ### CBC infiltrant
 
@@ -106,7 +106,7 @@ Quatre sous-types principaux à utiliser :
 - **Mauvaise limitation**, aspect invasif.
 - **Engainements périnerveux** possibles ; embols vasculaires beaucoup plus rares.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1023 Carcinome basocellulaire/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1023%20Carcinome%20basocellulaire/p20_00.jpeg)
 
 ### CBC sclérodermiforme
 
@@ -116,9 +116,9 @@ Quatre sous-types principaux à utiliser :
   - **Stroma très abondant, scléreux, peu inflammatoire**
 - **Très mal limitée**, extension souvent bien au-delà de l'apparence clinique.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1023 Carcinome basocellulaire/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1023%20Carcinome%20basocellulaire/p21_00.jpeg)
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1023 Carcinome basocellulaire/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1023%20Carcinome%20basocellulaire/p22_00.jpeg)
 
 ---
 
@@ -136,7 +136,7 @@ Quatre sous-types principaux à utiliser :
 - Dos, **région lombaire** ; nodule érythémateux à surface lisse, bien limité.
 - Histologie : lésion très **connectée à l'épiderme**, **travées grêles ramifiées anastomosées** formant **un aspect en dentelle**, cellules basaloïdes peu atypiques, **stroma fibreux dense et abondant**.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1023 Carcinome basocellulaire/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1023%20Carcinome%20basocellulaire/p26_00.jpeg)
 
 ### Carcinome basosquameux (= métatypique)
 
@@ -145,7 +145,7 @@ Quatre sous-types principaux à utiliser :
 - IHC : **BerEP4 hétérogène** (+ dans les zones basaloïdes, − dans les zones squamoïdes).
 - Lésions plus évoluées, **risque métastatique plus important**, **oreille = site fréquent**.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1023 Carcinome basocellulaire/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1023%20Carcinome%20basocellulaire/p28_00.jpeg)
 
 ---
 
@@ -178,7 +178,7 @@ Quatre sous-types principaux à utiliser :
 
 - **Inhibiteurs de SMO** : **Vismodégib**, **Sonidégib** (CBC localement avancé ou métastatique).
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1023 Carcinome basocellulaire/p30_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1023%20Carcinome%20basocellulaire/p30_00.png)
 
 ---
 

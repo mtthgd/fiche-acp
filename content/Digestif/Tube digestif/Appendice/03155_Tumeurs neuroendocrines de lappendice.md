@@ -61,7 +61,7 @@ source: DES ACP - Cours de Digestif
 - **Non visibles ou mal visibles** selon la taille
 - Sinon : petit **nodule ferme blanc-jaunâtre**
 
-![[assets/digestif/tube_digestif/appendice/03.1.5.5 Tumeurs neuroendocrines de lappendice/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/appendice/03.1.5.5%20Tumeurs%20neuroendocrines%20de%20lappendice/p06_00.jpeg)
 
 ### Histologie
 
@@ -75,15 +75,15 @@ source: DES ACP - Cours de Digestif
 - Noyaux réguliers, classiquement **sans mitose, sans nécrose, sans embols**
 - **Engagements périnerveux dans 30 %** des cas
 
-![[assets/digestif/tube_digestif/appendice/03.1.5.5 Tumeurs neuroendocrines de lappendice/p07_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/appendice/03.1.5.5%20Tumeurs%20neuroendocrines%20de%20lappendice/p07_02.jpeg)
 
-![[assets/digestif/tube_digestif/appendice/03.1.5.5 Tumeurs neuroendocrines de lappendice/p07_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/appendice/03.1.5.5%20Tumeurs%20neuroendocrines%20de%20lappendice/p07_03.jpeg)
 
-![[assets/digestif/tube_digestif/appendice/03.1.5.5 Tumeurs neuroendocrines de lappendice/p07_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/appendice/03.1.5.5%20Tumeurs%20neuroendocrines%20de%20lappendice/p07_04.jpeg)
 
-![[assets/digestif/tube_digestif/appendice/03.1.5.5 Tumeurs neuroendocrines de lappendice/p08_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/appendice/03.1.5.5%20Tumeurs%20neuroendocrines%20de%20lappendice/p08_02.jpeg)
 
-![[assets/digestif/tube_digestif/appendice/03.1.5.5 Tumeurs neuroendocrines de lappendice/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/appendice/03.1.5.5%20Tumeurs%20neuroendocrines%20de%20lappendice/p09_00.jpeg)
 
 ### Variante : tumeur carcinoïde tubulée
 
@@ -93,9 +93,9 @@ source: DES ACP - Cours de Digestif
 - Possibles **dépôts mucoïdes** dans les glandes
 - DD : **adénocarcinome ou tumeur adénocarcinoïde / GCA**
 
-![[assets/digestif/tube_digestif/appendice/03.1.5.5 Tumeurs neuroendocrines de lappendice/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/appendice/03.1.5.5%20Tumeurs%20neuroendocrines%20de%20lappendice/p10_00.jpeg)
 
-![[assets/digestif/tube_digestif/appendice/03.1.5.5 Tumeurs neuroendocrines de lappendice/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/appendice/03.1.5.5%20Tumeurs%20neuroendocrines%20de%20lappendice/p10_01.jpeg)
 
 ### Immunohistochimie
 
@@ -109,9 +109,9 @@ source: DES ACP - Cours de Digestif
 | **CDX2** | **+** (souvent) |
 | Sérotonine, substance P, glucagon, somatostatine | + (focal possible) |
 
-![[assets/digestif/tube_digestif/appendice/03.1.5.5 Tumeurs neuroendocrines de lappendice/p12_07.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/appendice/03.1.5.5%20Tumeurs%20neuroendocrines%20de%20lappendice/p12_07.jpeg)
 
-![[assets/digestif/tube_digestif/appendice/03.1.5.5 Tumeurs neuroendocrines de lappendice/p13_08.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/appendice/03.1.5.5%20Tumeurs%20neuroendocrines%20de%20lappendice/p13_08.jpeg)
 
 ### Grading histopronostique (OMS)
 
@@ -165,9 +165,9 @@ Carcinome neuroendocrine **à petites cellules** appendiculaire chez une femme d
 - Atteinte ou non de la **sous-séreuse** (≤ 3 mm vs > 3 mm)
 - Atteinte de la **séreuse**, du **mésoappendice**, des organes adjacents
 
-![[assets/digestif/tube_digestif/appendice/03.1.5.5 Tumeurs neuroendocrines de lappendice/p15_12.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/appendice/03.1.5.5%20Tumeurs%20neuroendocrines%20de%20lappendice/p15_12.jpeg)
 
-![[assets/digestif/tube_digestif/appendice/03.1.5.5 Tumeurs neuroendocrines de lappendice/p15_13.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/appendice/03.1.5.5%20Tumeurs%20neuroendocrines%20de%20lappendice/p15_13.jpeg)
 
 ---
 

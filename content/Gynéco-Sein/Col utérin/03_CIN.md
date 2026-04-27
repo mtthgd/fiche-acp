@@ -75,7 +75,7 @@ Trois signes :
 
 > Pièges = **pseudo-koïlocytes / faux koïlocytes** : atrophie ménopausique, métaplasies, infections. Halo seul **insuffisant** ; noyaux restent réguliers, clarifications **diffuses** (intéressant les parabasales).
 
-![[assets/gyneco-sein/col_uterin/04_32_01CIN HENNO/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_32_01CIN%20HENNO/p04_00.jpeg)
 
 ### LSIL (CIN1)
 - Toutes les couches sont lésionnelles, mais perte de maturation **limitée au tiers inférieur**.
@@ -84,15 +84,15 @@ Trois signes :
 - **Mitoses ascensionnées** possibles mais limitées au tiers inférieur.
 - Possible **parachératose**, papillomatose.
 
-![[assets/gyneco-sein/col_uterin/04_32_01CIN HENNO/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_32_01CIN%20HENNO/p10_00.jpeg)
 
 ### HSIL CIN2
 - Perte de maturation intéressant les **deux tiers inférieurs** ; persistance d’un certain degré de maturation superficielle.
 - Souvent **signes viraux superficiels visibles**.
 - Densité cellulaire élevée, **verticalisation des noyaux**.
 
-![[assets/gyneco-sein/col_uterin/04_32_01CIN HENNO/p11_00.jpeg]]
-![[assets/gyneco-sein/col_uterin/04_32_01CIN HENNO/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_32_01CIN%20HENNO/p11_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_32_01CIN%20HENNO/p12_00.jpeg)
 
 ### HSIL CIN3
 - Perte de maturation sur **toute la hauteur** du revêtement.
@@ -100,23 +100,23 @@ Trois signes :
 - Cytologie : noyaux ronds/allongés, **densité nucléaire augmentée**, chevauchements, membrane irrégulière, **hyperchromatisme intense**, chromatine granuleuse irrégulière.
 - Plus rarement : noyaux clarifiés vésiculeux.
 
-![[assets/gyneco-sein/col_uterin/04_32_01CIN HENNO/p13_00.jpeg]]
-![[assets/gyneco-sein/col_uterin/04_32_01CIN HENNO/p13_01.jpeg]]
-![[assets/gyneco-sein/col_uterin/04_32_01CIN HENNO/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_32_01CIN%20HENNO/p13_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_32_01CIN%20HENNO/p13_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_32_01CIN%20HENNO/p14_00.jpeg)
 
 ### Mitoses — élément clé
 - Normalement **uniquement parabasales**.
 - Dans les LIEM : **mitoses ascensionnées** classiques, parfois nombreuses.
 - **Mitoses atypiques** (tripolaires, en boules) → évocatrices de **HSIL**.
 
-![[assets/gyneco-sein/col_uterin/04_32_01CIN HENNO/p15_00.jpeg]]
-![[assets/gyneco-sein/col_uterin/04_32_01CIN HENNO/p15_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_32_01CIN%20HENNO/p15_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_32_01CIN%20HENNO/p15_03.jpeg)
 
 ### Extension aux glandes endocervicales
 - LSIL et HSIL peuvent **coloniser** le revêtement des glandes.
 - Sur pièce de conisation, en cas d’extension importante d’HSIL aux glandes : rechercher attentivement une **micro-infiltration** du chorion (multiplier les niveaux de coupe).
 
-![[assets/gyneco-sein/col_uterin/04_32_01CIN HENNO/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_32_01CIN%20HENNO/p16_00.jpeg)
 
 ## Immunohistochimie / Biomarqueurs
 
@@ -134,7 +134,7 @@ Trois signes :
   - marquage **focal/patchy** de cellules isolées ou petits amas, n’intéressant pas/peu basales,
   - marquage **uniquement cytoplasmique**.
 
-![[assets/gyneco-sein/col_uterin/04_32_01CIN HENNO/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_32_01CIN%20HENNO/p18_00.jpeg)
 
 ### p16 selon la lésion
 | Lésion | p16 |
@@ -174,7 +174,7 @@ Trois signes :
   - **Tout aspect morphologique de CIN2** (variabilité importante) → IHC systématique recommandée.
 - En cas de doute, **coupler p16 + Ki-67** (ou + ProExC).
 
-![[assets/gyneco-sein/col_uterin/04_32_01CIN HENNO/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_32_01CIN%20HENNO/p19_00.jpeg)
 
 ## Pronostic / Traitement
 

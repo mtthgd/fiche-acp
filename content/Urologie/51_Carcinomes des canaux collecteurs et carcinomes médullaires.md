@@ -31,7 +31,7 @@ source: DES ACP - Cours d'urologie
   - **Carcinomes fumarate-hydratase déficients** (HLRCC)
   - **Carcinomes à réarrangement ALK** (très rares)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-141 Carcinomes des canaux collecteurs et carcinomes médullaires/p01_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-141%20Carcinomes%20des%20canaux%20collecteurs%20et%20carcinomes%20m%C3%A9dullaires/p01_00.jpeg)
 
 
 ---
@@ -56,9 +56,9 @@ source: DES ACP - Cours d'urologie
 - Ganglions métastatiques dans **~40 %** des curages
 - **Examiner +++ les cavités pyélocalicielles** pour exclure un carcinome urothélial envahissant
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-141 Carcinomes des canaux collecteurs et carcinomes médullaires/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-141%20Carcinomes%20des%20canaux%20collecteurs%20et%20carcinomes%20m%C3%A9dullaires/p04_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-141 Carcinomes des canaux collecteurs et carcinomes médullaires/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-141%20Carcinomes%20des%20canaux%20collecteurs%20et%20carcinomes%20m%C3%A9dullaires/p05_00.jpeg)
 
 ## Histologie — critères diagnostiques (tous requis)
 
@@ -72,15 +72,15 @@ source: DES ACP - Cours d'urologie
 - **PAS** d'autre type histologique associé ni de carcinome urothélial
 - Diagnostic **d'exclusion**
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-141 Carcinomes des canaux collecteurs et carcinomes médullaires/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-141%20Carcinomes%20des%20canaux%20collecteurs%20et%20carcinomes%20m%C3%A9dullaires/p06_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-141 Carcinomes des canaux collecteurs et carcinomes médullaires/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-141%20Carcinomes%20des%20canaux%20collecteurs%20et%20carcinomes%20m%C3%A9dullaires/p07_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-141 Carcinomes des canaux collecteurs et carcinomes médullaires/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-141%20Carcinomes%20des%20canaux%20collecteurs%20et%20carcinomes%20m%C3%A9dullaires/p08_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-141 Carcinomes des canaux collecteurs et carcinomes médullaires/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-141%20Carcinomes%20des%20canaux%20collecteurs%20et%20carcinomes%20m%C3%A9dullaires/p10_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-141 Carcinomes des canaux collecteurs et carcinomes médullaires/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-141%20Carcinomes%20des%20canaux%20collecteurs%20et%20carcinomes%20m%C3%A9dullaires/p11_00.jpeg)
 
 ## IHC — phénotype (pas constant)
 
@@ -97,7 +97,7 @@ source: DES ACP - Cours d'urologie
 | E-cadhérine | + |
 | **P63, GATA3, CK5/6** | **−** (≠ urothélial) |
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-141 Carcinomes des canaux collecteurs et carcinomes médullaires/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-141%20Carcinomes%20des%20canaux%20collecteurs%20et%20carcinomes%20m%C3%A9dullaires/p12_00.jpeg)
 
 ## DD principaux
 
@@ -137,11 +137,11 @@ source: DES ACP - Cours d'urologie
 
 - Perte SMARCB1 = perte de matériel génétique + translocation interruptrice sur l'autre allèle
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-141 Carcinomes des canaux collecteurs et carcinomes médullaires/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-141%20Carcinomes%20des%20canaux%20collecteurs%20et%20carcinomes%20m%C3%A9dullaires/p16_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-141 Carcinomes des canaux collecteurs et carcinomes médullaires/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-141%20Carcinomes%20des%20canaux%20collecteurs%20et%20carcinomes%20m%C3%A9dullaires/p17_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-141 Carcinomes des canaux collecteurs et carcinomes médullaires/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-141%20Carcinomes%20des%20canaux%20collecteurs%20et%20carcinomes%20m%C3%A9dullaires/p18_00.jpeg)
 
 ---
 

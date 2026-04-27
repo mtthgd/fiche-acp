@@ -28,7 +28,7 @@ source: DES ACP - Cours d’hématologie (Marie-Christine Rousselet, Antoine Mar
 - Le terme **« myélome multiple »** (clinique) doit être remplacé par celui officiel OMS de **myélome plasmocytaire**
 - Diagnostic **multidisciplinaire**
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-540_B0M_neo plasmocytaires/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-540_B0M_neo%20plasmocytaires/p02_00.jpeg)
 
 ## Critères diagnostiques OMS du myélome (révisés 2014/2016)
 
@@ -78,13 +78,13 @@ Un myélome est défini par :
 
 → L’**IHC est systématique** pour quantifier l’infiltration et démontrer la **monotypie**.
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-540_B0M_neo plasmocytaires/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-540_B0M_neo%20plasmocytaires/p08_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-540_B0M_neo plasmocytaires/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-540_B0M_neo%20plasmocytaires/p08_01.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-540_B0M_neo plasmocytaires/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-540_B0M_neo%20plasmocytaires/p09_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-540_B0M_neo plasmocytaires/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-540_B0M_neo%20plasmocytaires/p09_01.jpeg)
 
 > **Coloration de Rouge-Congo systématique** : recherche d’une **amylose** associée.
 
@@ -94,9 +94,9 @@ Un myélome est défini par :
 - Plasmocytes reconnaissables (noyau excentré, halo périnucléaire)
 - **Anisocytose**, rapport N/C variable, **plasmocytes nucléolés**
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-540_B0M_neo plasmocytaires/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-540_B0M_neo%20plasmocytaires/p10_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-540_B0M_neo plasmocytaires/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-540_B0M_neo%20plasmocytaires/p11_00.jpeg)
 
 ### Variations liées à l’accumulation d’immunoglobulines
 
@@ -110,9 +110,9 @@ Un myélome est défini par :
 
 > Ces aspects peuvent aussi survenir dans des plasmocytes **non tumoraux**.
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-540_B0M_neo plasmocytaires/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-540_B0M_neo%20plasmocytaires/p12_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-540_B0M_neo plasmocytaires/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-540_B0M_neo%20plasmocytaires/p12_01.jpeg)
 
 ### Myélome lymphocytoïde
 - **Petites cellules à peu de cytoplasme**, mimant un **lymphome**
@@ -124,17 +124,17 @@ Un myélome est défini par :
 - **Mauvais pronostic**
 - DD : **lymphome plasmoblastique** (VIH, EBV+)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-540_B0M_neo plasmocytaires/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-540_B0M_neo%20plasmocytaires/p13_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-540_B0M_neo plasmocytaires/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-540_B0M_neo%20plasmocytaires/p13_01.jpeg)
 
 ### Myélome très atypique / bizarre
 - Noyau très irrégulier, cytoplasme variable
 - Diagnostic morphologique difficile → **IHC + clinique** indispensables
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-540_B0M_neo plasmocytaires/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-540_B0M_neo%20plasmocytaires/p14_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-540_B0M_neo plasmocytaires/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-540_B0M_neo%20plasmocytaires/p14_01.jpeg)
 
 ## Immunophénotype
 
@@ -166,11 +166,11 @@ Un myélome est défini par :
 - En IHC : si bruit de fond plasmatique gênant → **hybridation in situ** (sondes ARNm κ/λ) plus spécifique
 - Recherche **chaîne lourde** possible (mais 15-20 % des myélomes sont à **chaîne légère uniquement**)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-540_B0M_neo plasmocytaires/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-540_B0M_neo%20plasmocytaires/p16_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-540_B0M_neo plasmocytaires/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-540_B0M_neo%20plasmocytaires/p17_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-540_B0M_neo plasmocytaires/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-540_B0M_neo%20plasmocytaires/p17_01.jpeg)
 
 ### Pièges immunohistochimiques
 
@@ -253,7 +253,7 @@ En faveur du **lymphome** :
 - Chaîne lourde plus souvent **IgM** que IgA/IgG
 - Souvent en site MALT typique
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-540_B0M_neo plasmocytaires/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-540_B0M_neo%20plasmocytaires/p22_00.jpeg)
 
 ## MGUS (gammapathie monoclonale de signification indéterminée)
 
@@ -283,9 +283,9 @@ En faveur du **lymphome** :
 - **Hyperplasie mégacaryocytaire** parfois marquée → peut **mimer une néoplasie myéloproliférative**
 - **Stroma fibreux** déformant les plasmocytes (aspect **fusiforme**) en zone d’ostéosclérose
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-540_B0M_neo plasmocytaires/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-540_B0M_neo%20plasmocytaires/p28_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-540_B0M_neo plasmocytaires/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-540_B0M_neo%20plasmocytaires/p29_00.jpeg)
 
 ## Amylose AL
 

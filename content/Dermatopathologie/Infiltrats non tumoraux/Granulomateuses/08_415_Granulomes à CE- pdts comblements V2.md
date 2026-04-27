@@ -30,31 +30,31 @@ source: DES ACP - Cours de Dermatopathologie
 - Normalement séparées du derme par l'épithélium folliculaire
 - En cas de **folliculite** ou **kyste épidermique rompu** → kératine en contact avec le derme → **réaction à cellules géantes**
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415 Granulomes à CE- pdts comblements/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415%20Granulomes%20%C3%A0%20CE-%20pdts%20comblements/p04_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415 Granulomes à CE- pdts comblements/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415%20Granulomes%20%C3%A0%20CE-%20pdts%20comblements/p05_00.jpeg)
 
 ### 2. Tiges pilaires
 - Folliculites, **kyste pilonidal**
 - Tiges pilaires libres dans le derme avec réaction gigantocellulaire
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415 Granulomes à CE- pdts comblements/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415%20Granulomes%20%C3%A0%20CE-%20pdts%20comblements/p06_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415 Granulomes à CE- pdts comblements/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415%20Granulomes%20%C3%A0%20CE-%20pdts%20comblements/p06_01.jpeg)
 
 ### 3. Cristaux de cholestérol
 - Origine : lyse des membranes cellulaires en site inflammatoire ancien
 - **Dissous par les fixateurs** → **empreintes lancéolées** caractéristiques
 - Réaction à cellules géantes en périphérie
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415 Granulomes à CE- pdts comblements/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415%20Granulomes%20%C3%A0%20CE-%20pdts%20comblements/p07_00.jpeg)
 
 ### 4. Cristaux d'acide urique (tophus goutteux)
 - **Goutte chronique** : dépôts sous-cutanés
 - Cristaux entourés d'éléments inflammatoires
 - Lésions des points de pression (oreilles, IPP)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415 Granulomes à CE- pdts comblements/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415%20Granulomes%20%C3%A0%20CE-%20pdts%20comblements/p08_00.jpeg)
 
 ## II. Causes EXOGÈNES
 
@@ -62,16 +62,16 @@ source: DES ACP - Cours de Dermatopathologie
 - Échardes (rosier, ronces…), épines, particules métalliques
 - Réaction inflammatoire en périphérie
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415 Granulomes à CE- pdts comblements/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415%20Granulomes%20%C3%A0%20CE-%20pdts%20comblements/p09_00.jpeg)
 
 ### 2. Fil de suture
 - Très fréquent sur **reprises de cicatrice**
 - Matériel **biréfringent en lumière polarisée**
 - Granulome à cellules géantes
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415 Granulomes à CE- pdts comblements/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415%20Granulomes%20%C3%A0%20CE-%20pdts%20comblements/p10_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415 Granulomes à CE- pdts comblements/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415%20Granulomes%20%C3%A0%20CE-%20pdts%20comblements/p11_00.jpeg)
 
 ### 3. Produits de comblement (effets indésirables) ++
 
@@ -86,7 +86,7 @@ Historique : **paraffine** (1ère génération) → **collagène bovin** → **s
 
 > Référence : article de revue de **Luis Requena** sur les effets indésirables des produits de comblement.
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415 Granulomes à CE- pdts comblements/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415%20Granulomes%20%C3%A0%20CE-%20pdts%20comblements/p13_01.jpeg)
 
 ### Tableau des produits de comblement
 
@@ -104,20 +104,20 @@ Historique : **paraffine** (1ère génération) → **collagène bovin** → **s
 - Histologie : matériel **basophile** extracellulaire + **réaction granulomateuse à cellules géantes**
 - **Bleu alcian +**
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415 Granulomes à CE- pdts comblements/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415%20Granulomes%20%C3%A0%20CE-%20pdts%20comblements/p17_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415 Granulomes à CE- pdts comblements/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415%20Granulomes%20%C3%A0%20CE-%20pdts%20comblements/p18_00.jpeg)
 
 ### Acide poly-L-lactique (New-Fill / Sculptra)
 - Effets secondaires **fréquents**
 - Granulomes à cellules géantes développés autour de **particules translucides**, fusiformes, ovalaires ou **spiculées**
 - **Biréfringentes en lumière polarisée**
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415 Granulomes à CE- pdts comblements/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415%20Granulomes%20%C3%A0%20CE-%20pdts%20comblements/p19_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415 Granulomes à CE- pdts comblements/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415%20Granulomes%20%C3%A0%20CE-%20pdts%20comblements/p21_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415 Granulomes à CE- pdts comblements/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415%20Granulomes%20%C3%A0%20CE-%20pdts%20comblements/p22_00.jpeg)
 
 ### Silicone
 - Largement utilisé aujourd'hui
@@ -130,13 +130,13 @@ Historique : **paraffine** (1ère génération) → **collagène bovin** → **s
 - Vacuoles / lésions kystiques de taille variable
 - Stade **chronique** : **fibrose majeure** → vacuoles peuvent **mimer des adipocytes** résiduels (piège diagnostique)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415 Granulomes à CE- pdts comblements/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415%20Granulomes%20%C3%A0%20CE-%20pdts%20comblements/p24_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415 Granulomes à CE- pdts comblements/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415%20Granulomes%20%C3%A0%20CE-%20pdts%20comblements/p25_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415 Granulomes à CE- pdts comblements/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415%20Granulomes%20%C3%A0%20CE-%20pdts%20comblements/p26_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415 Granulomes à CE- pdts comblements/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-415%20Granulomes%20%C3%A0%20CE-%20pdts%20comblements/p27_00.jpeg)
 
 ### Tableau récapitulatif aspects au microscope
 

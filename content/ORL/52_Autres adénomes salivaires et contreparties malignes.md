@@ -43,8 +43,8 @@ Les principaux adénomes :
 - Tumeur ferme, bien limitée, < 3 cm.
 - Mutation **CTNNB1** (β-caténine) caractéristique.
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p04_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p04_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p04_01.jpeg)
 
 ### Histologie : double contingent
 
@@ -55,9 +55,9 @@ Les principaux adénomes :
 
 Matériel de **type membrane basale** abluminal possible → aspect **pseudo-cylindromateux**.
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p05_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p06_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p05_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p06_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p06_01.jpeg)
 
 ### Patterns architecturaux (4 sous-types)
 
@@ -68,10 +68,10 @@ Matériel de **type membrane basale** abluminal possible → aspect **pseudo-cyl
 | **Trabéculaire** | Cordons fins |
 | **Membraneux** | Aspect **« en puzzle »** par stroma hyalin, ressemble au cylindrome dermique → multi-nodulaire, **récidive +**, **transformation +**, association au **syndrome de Brooke-Spiegler** (trichoépithéliomes familiaux) |
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p06_02.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p06_03.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p08_01.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p06_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p06_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p08_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p09_00.jpeg)
 
 ### Métaplasies
 
@@ -99,8 +99,8 @@ Autres DD basaloïdes :
 - Carcinome de **bas grade**.
 - Récidive ≈ **1/3 des cas**, métastases ganglionnaires possibles, métastases à distance rares.
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p10_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p10_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p11_00.jpeg)
 
 ---
 
@@ -112,8 +112,8 @@ Autres DD basaloïdes :
 - Architecture **trabéculaire**, aspect **« en collier de perles »** : travées qui s'anastomosent puis se séparent en englobant des billes de tissu conjonctif **vascularisé** (différencie du stroma chondromyxoïde de l'adénome pléomorphe, non vasculaire).
 - **Tumeur épithéliale pure** : pas de contingent myoépithélial → **actine négative**.
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p12_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p12_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p13_00.jpeg)
 
 ---
 
@@ -125,9 +125,9 @@ Autres DD basaloïdes :
 - Cytologie variée des cellules myoépithéliales : **épithélioïdes, fusiformes, plasmocytoïdes, claires**.
 - Synthèse de matériel de type membrane basale → cylindres possibles.
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p16_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p16_01.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p16_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p16_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p17_00.jpeg)
 
 ### Différence myoépithéliome vs adénome pléomorphe à contingent myoépithélial prédominant
 
@@ -141,7 +141,7 @@ Autres DD basaloïdes :
 - Critère diagnostique : **infiltration** du tissu adjacent (angles aigus, travées qui s'émiettent dans le corion).
 - Atypies, mitoses augmentées le plus souvent ; mais l'**architecture** prime.
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p18_00.jpeg)
 
 ---
 
@@ -158,8 +158,8 @@ Autres DD basaloïdes :
 - **Adénocarcinome sébacé** (architecture agressive).
 - **Lymphadénocarcinome sébacé** (très rare).
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p20_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p20_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p21_00.jpeg)
 
 ---
 
@@ -169,9 +169,9 @@ Autres DD basaloïdes :
 - Tumeur bénigne **bien délimitée**, uniquement composée d'**oncocytes** : cellules polyhédriques à limites nettes, cytoplasme **éosinophile abondant granuleux** (= **mitochondries en surnombre** ; immunomarquage **anti-mitochondrie+**), noyau rond, nucléole régulier.
 - **Variant à cellules claires** existe.
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p22_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p23_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p22_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p23_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p24_00.jpeg)
 
 ### Pièges
 
@@ -185,9 +185,9 @@ Autres DD basaloïdes :
 
 - Diagnostic devant **mitoses, nécrose, invasion vasculaire** = signes francs de malignité.
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p25_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p25_01.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p25_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p25_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p26_00.jpeg)
 
 ---
 
@@ -197,8 +197,8 @@ Autres DD basaloïdes :
 - Aspect kystique avec projections papillaires, souvent oncocytaires.
 - Surtout **glandes salivaires accessoires**, plus rarement parotide.
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p28_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p28_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p29_00.jpeg)
 
 ---
 
@@ -209,8 +209,8 @@ Autres DD basaloïdes :
   - Composante **exophytique** « en chou-fleur » (épithélium malpighien).
   - Composante **endophytique** glandulaire avec myoépithéliales et rares cellules muco-sécrétantes.
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p30_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p30_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p31_00.jpeg)
 
 ---
 
@@ -221,10 +221,10 @@ Autres DD basaloïdes :
 | **Papillome intraductal** | Canal collecteur d'une glande accessoire dilaté | Papilles intra-kystiques bordées de cellules cylindriques, malpighiennes ou rares muco-sécrétantes |
 | **Papillome ductal inversé** | **Lèvre inférieure** ++ | Bien délimité, ressemble au papillome inversé nasal ; **non lié à HPV** |
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p32_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p32_01.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p33_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_333 autres adenomes et contreparties malignes audio pdf/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p32_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p32_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p33_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_333%20autres%20adenomes%20et%20contreparties%20malignes%20audio%20pdf/p34_00.jpeg)
 
 ---
 

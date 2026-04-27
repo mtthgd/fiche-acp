@@ -54,9 +54,9 @@ date: 2024
 - Nodules monomorphes, **sans centre clair** ni aspect en cocarde
 - Infiltration capsulaire et du tissu adipeux péri-ganglionnaire
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-325_Lymphomes du manteau formes usuelles et agressives/p11_11.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-325_Lymphomes%20du%20manteau%20formes%20usuelles%20et%20agressives/p11_11.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-325_Lymphomes du manteau formes usuelles et agressives/p11_12.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-325_Lymphomes%20du%20manteau%20formes%20usuelles%20et%20agressives/p11_12.jpeg)
 
 ### Cytologie
 - Cellules de taille **petite à moyenne**
@@ -70,7 +70,7 @@ date: 2024
 - Rares amas histiocytes/plasmocytes possibles
 - **Mitoses fréquentes** (> 10-37/15 CFG ou > 50/mm²)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-325_Lymphomes du manteau formes usuelles et agressives/p16_16.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-325_Lymphomes%20du%20manteau%20formes%20usuelles%20et%20agressives/p16_16.jpeg)
 
 ## Variants agressifs
 
@@ -82,7 +82,7 @@ date: 2024
 - DD : LAL-B, LAL-T, LAM
 - **Panel IHC systématique : CD20 + CD5 en 1ère intention**
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-325_Lymphomes du manteau formes usuelles et agressives/p22_25.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-325_Lymphomes%20du%20manteau%20formes%20usuelles%20et%20agressives/p22_25.jpeg)
 
 ### Variant pléomorphe
 
@@ -91,9 +91,9 @@ date: 2024
 - Aspects proches d'un DLBCL → **systématiquement faire CD5 sur tout DLBCL**
 - Si CD5+ → cycline D1 + SOX11
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-325_Lymphomes du manteau formes usuelles et agressives/p24_27.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-325_Lymphomes%20du%20manteau%20formes%20usuelles%20et%20agressives/p24_27.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-325_Lymphomes du manteau formes usuelles et agressives/p25_29.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-325_Lymphomes%20du%20manteau%20formes%20usuelles%20et%20agressives/p25_29.jpeg)
 
 ## Immunophénotype
 
@@ -108,11 +108,11 @@ date: 2024
 | **SOX11** (nucléaire) | **+++** (> 90%, y compris MCL cyclD1−) |
 | Ki67 | Variable — **facteur pronostique majeur** |
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-325_Lymphomes du manteau formes usuelles et agressives/p26_33.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-325_Lymphomes%20du%20manteau%20formes%20usuelles%20et%20agressives/p26_33.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-325_Lymphomes du manteau formes usuelles et agressives/p27_36.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-325_Lymphomes%20du%20manteau%20formes%20usuelles%20et%20agressives/p27_36.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-325_Lymphomes du manteau formes usuelles et agressives/p27_38.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-325_Lymphomes%20du%20manteau%20formes%20usuelles%20et%20agressives/p27_38.jpeg)
 
 > ⚠️ Cycline D1 faible/hétérogène possible dans : **myélome**, HCL, rares LLC — ne pas s'y tromper avec la confrontation phénotypique complète.
 
@@ -121,7 +121,7 @@ date: 2024
 - **< 10%** : évolution indolente
 - Intégré dans le score **MIPI** (Mantle cell lymphoma International Prognostic Index)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-325_Lymphomes du manteau formes usuelles et agressives/p28_39.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-325_Lymphomes%20du%20manteau%20formes%20usuelles%20et%20agressives/p28_39.jpeg)
 
 ## Génétique
 
@@ -131,7 +131,7 @@ date: 2024
 - Mise en évidence par **FISH break-apart CCND1** : split signal vert/rouge
 - En routine non nécessaire si architecture + cytologie + IHC typiques
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-325_Lymphomes du manteau formes usuelles et agressives/p31_44.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-325_Lymphomes%20du%20manteau%20formes%20usuelles%20et%20agressives/p31_44.png)
 
 ### MCL cycline D1−
 
@@ -152,7 +152,7 @@ date: 2024
 - Évolution très indolente, surveillance
 - Si extension → MCL pattern zone du manteau
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-325_Lymphomes du manteau formes usuelles et agressives/p30_42.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-325_Lymphomes%20du%20manteau%20formes%20usuelles%20et%20agressives/p30_42.jpeg)
 
 ## Diagnostics différentiels
 

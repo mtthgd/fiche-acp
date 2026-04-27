@@ -40,7 +40,7 @@ source: DES ACP - Cours d'hématologie
 - Entités très **hétérogènes** clinique/biologique/cytogénétique
 
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-570_MDS, LA et SG  PP/p04_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-570_MDS%2C%20LA%20et%20SG%20%20PP/p04_00.png)
 
 ## Démarche diagnostique
 
@@ -63,9 +63,9 @@ source: DES ACP - Cours d'hématologie
 - Recherche de **clusters CD34+** (argument évolution LAM)
 - Élimination d’autres pathologies (lymphome, métastase, hémopathie non myéloïde)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-570_MDS, LA et SG  PP/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-570_MDS%2C%20LA%20et%20SG%20%20PP/p06_00.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-570_MDS, LA et SG  PP/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-570_MDS%2C%20LA%20et%20SG%20%20PP/p06_01.jpeg)
 
 ## Histologie BOM dans les MDS
 
@@ -87,17 +87,17 @@ source: DES ACP - Cours d'hématologie
 
 > Signes de dysmégacaryopoïèse = les **plus faciles à voir sur BOM**, dysérythro/granulopoïèse beaucoup plus délicats.
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-570_MDS, LA et SG  PP/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-570_MDS%2C%20LA%20et%20SG%20%20PP/p08_00.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-570_MDS, LA et SG  PP/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-570_MDS%2C%20LA%20et%20SG%20%20PP/p08_01.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-570_MDS, LA et SG  PP/p08_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-570_MDS%2C%20LA%20et%20SG%20%20PP/p08_02.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-570_MDS, LA et SG  PP/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-570_MDS%2C%20LA%20et%20SG%20%20PP/p09_00.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-570_MDS, LA et SG  PP/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-570_MDS%2C%20LA%20et%20SG%20%20PP/p09_01.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-570_MDS, LA et SG  PP/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-570_MDS%2C%20LA%20et%20SG%20%20PP/p09_02.jpeg)
 
 ### Fibrose médullaire dans les MDS
 
@@ -118,7 +118,7 @@ source: DES ACP - Cours d'hématologie
 - Rechercher des **clusters de ≥ 5 cellules CD34+** = argument fort d’évolution vers LAM
 - Hétérogénéité de répartition fréquente → **myélogramme = examen de référence pour le compte**
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-570_MDS, LA et SG  PP/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-570_MDS%2C%20LA%20et%20SG%20%20PP/p10_00.jpeg)
 
 
 ## Classification OMS 2017 des MDS
@@ -215,13 +215,13 @@ L’**OMS 2022** réorganise les MDS en :
 
 > Toujours penser à faire des **marqueurs lymphoïdes** pour ne pas méconnaître une **LA de phénotype mixte** (MPAL).
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-570_MDS, LA et SG  PP/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-570_MDS%2C%20LA%20et%20SG%20%20PP/p17_00.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-570_MDS, LA et SG  PP/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-570_MDS%2C%20LA%20et%20SG%20%20PP/p17_01.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-570_MDS, LA et SG  PP/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-570_MDS%2C%20LA%20et%20SG%20%20PP/p18_00.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-570_MDS, LA et SG  PP/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-570_MDS%2C%20LA%20et%20SG%20%20PP/p18_01.jpeg)
 
 ## Classification OMS 2017 des LAM
 
@@ -256,7 +256,7 @@ L’**OMS 2022** réorganise les MDS en :
 
 - Classification résiduelle (FAB-like) : LAM avec/sans maturation, LAM myélomono, monoblastique, érythroïde pure, mégacaryoblastique, basophile, panmyélose aiguë avec myélofibrose
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-570_MDS, LA et SG  PP/p19_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-570_MDS%2C%20LA%20et%20SG%20%20PP/p19_00.png)
 
 
 
@@ -303,9 +303,9 @@ L’**OMS 2022** réorganise les MDS en :
 
 
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-570_MDS, LA et SG  PP/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-570_MDS%2C%20LA%20et%20SG%20%20PP/p23_00.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-570_MDS, LA et SG  PP/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-570_MDS%2C%20LA%20et%20SG%20%20PP/p23_01.jpeg)
 
 ## Immunohistochimie (panel = LAM)
 
@@ -321,7 +321,7 @@ L’**OMS 2022** réorganise les MDS en :
 | **CD3, CD20** | − (élimine lymphome) |
 | **Cytokératines** | − (élimine carcinome) |
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-570_MDS, LA et SG  PP/p23_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-570_MDS%2C%20LA%20et%20SG%20%20PP/p23_02.jpeg)
 
 ## Diagnostics différentiels
 

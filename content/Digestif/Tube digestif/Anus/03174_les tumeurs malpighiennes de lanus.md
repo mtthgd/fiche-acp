@@ -35,7 +35,7 @@ source: DES ACP - Cours de digestif
 
 La **zone de transition** joue un rôle central dans les processus inflammatoires et néoplasiques.
 
-![[assets/digestif/tube_digestif/anus/03.1.7.4 les tumeurs malpighiennes de lanus/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/03.1.7.4%20les%20tumeurs%20malpighiennes%20de%20lanus/p03_00.jpeg)
 
 ## Épidémiologie du cancer du canal anal
 
@@ -79,7 +79,7 @@ La **zone de transition** joue un rôle central dans les processus inflammatoire
   - **HPV à bas risque** : infections asymptomatiques ou lésions bénignes (condylomes)
   - **HPV à haut risque** : potentiel néoplasique
 
-![[assets/digestif/tube_digestif/anus/03.1.7.4 les tumeurs malpighiennes de lanus/p06_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/03.1.7.4%20les%20tumeurs%20malpighiennes%20de%20lanus/p06_00.png)
 
 ### Cycle viral et infection
 1. Infection des **kératinocytes des couches basales** à la faveur de **micro-lésions**
@@ -89,7 +89,7 @@ La **zone de transition** joue un rôle central dans les processus inflammatoire
 5. **E6 et E7** : **dérégulation du cycle cellulaire** → cellules en cours de différenciation entrent en phase S → amplification virale
 6. Expression de **L1, L2** dans les couches superficielles → encapsidation des virions → libération
 
-![[assets/digestif/tube_digestif/anus/03.1.7.4 les tumeurs malpighiennes de lanus/p07_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/03.1.7.4%20les%20tumeurs%20malpighiennes%20de%20lanus/p07_02.png)
 
 ### Clairance virale
 
@@ -107,7 +107,7 @@ La **zone de transition** joue un rôle central dans les processus inflammatoire
   - **E7** → dégradation de la protéine du **rétinoblastome (Rb)** → **surexpression compensatrice de p16** (inhibiteur de CDK)
 - **Surexpression de p16** corrélée au **grade** des lésions intra-épithéliales → **biomarqueur clé** en immunohistochimie
 
-![[assets/digestif/tube_digestif/anus/03.1.7.4 les tumeurs malpighiennes de lanus/p09_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/03.1.7.4%20les%20tumeurs%20malpighiennes%20de%20lanus/p09_01.png)
 
 ## Classification OMS des tumeurs du canal anal
 
@@ -139,7 +139,7 @@ La **zone de transition** joue un rôle central dans les processus inflammatoire
   - **Augmentation de la taille des noyaux**, irréguliers, hyperchromatiques
 - = **Koïlocytes**
 
-![[assets/digestif/tube_digestif/anus/03.1.7.4 les tumeurs malpighiennes de lanus/p10_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/03.1.7.4%20les%20tumeurs%20malpighiennes%20de%20lanus/p10_02.png)
 
 #### Dysplasies (AIN/SIL)
 
@@ -149,7 +149,7 @@ La **zone de transition** joue un rôle central dans les processus inflammatoire
 | **AIN 2 / HSIL** | Anomalies cyto-nucléaires sur les **2/3 inférieurs** |
 | **AIN 3 / HSIL** | Anomalies sur **toute la hauteur** de l'épithélium |
 
-![[assets/digestif/tube_digestif/anus/03.1.7.4 les tumeurs malpighiennes de lanus/p11_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/03.1.7.4%20les%20tumeurs%20malpighiennes%20de%20lanus/p11_02.png)
 
 ### Progression vers carcinome invasif
 
@@ -174,9 +174,9 @@ Aspect identique aux carcinomes épidermoïdes d'autres sites :
 - Sous-type du CE selon OMS actuelle
 - Différencier du **carcinome basocellulaire de la marge anale** (HPV-, indolent)
 
-![[assets/digestif/tube_digestif/anus/03.1.7.4 les tumeurs malpighiennes de lanus/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/03.1.7.4%20les%20tumeurs%20malpighiennes%20de%20lanus/p15_00.jpeg)
 
-![[assets/digestif/tube_digestif/anus/03.1.7.4 les tumeurs malpighiennes de lanus/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/03.1.7.4%20les%20tumeurs%20malpighiennes%20de%20lanus/p14_00.jpeg)
 
 ## Immunohistochimie
 
@@ -204,11 +204,11 @@ Aspect identique aux carcinomes épidermoïdes d'autres sites :
 | **Classer une ancienne CIN/AIN 2** : LSIL si p16− / HSIL si p16+ | **Oui** |
 | Lésion d'aspect **LSIL / condylome / AIN 1** | **Non recommandé** |
 
-![[assets/digestif/tube_digestif/anus/03.1.7.4 les tumeurs malpighiennes de lanus/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/03.1.7.4%20les%20tumeurs%20malpighiennes%20de%20lanus/p16_00.jpeg)
 
-![[assets/digestif/tube_digestif/anus/03.1.7.4 les tumeurs malpighiennes de lanus/p16_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/03.1.7.4%20les%20tumeurs%20malpighiennes%20de%20lanus/p16_02.jpeg)
 
-![[assets/digestif/tube_digestif/anus/03.1.7.4 les tumeurs malpighiennes de lanus/p16_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/03.1.7.4%20les%20tumeurs%20malpighiennes%20de%20lanus/p16_04.jpeg)
 
 ## Pronostic et traitement
 

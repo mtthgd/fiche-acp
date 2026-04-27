@@ -74,7 +74,7 @@ L’OMS référencie de nombreuses entités au niveau du vagin et de la vulve. C
   - **Rhabdomyoblastes atypiques**.
   - IHC : **desmine +, myogénine forte +**.
 
-![[assets/gyneco-sein/vulve-vagin/04_21_03vulvePathologie Bénigne PR/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21_03vulvePathologie%20B%C3%A9nigne%20PR/p06_00.jpeg)
 
 ---
 
@@ -280,7 +280,7 @@ L’OMS référencie de nombreuses entités au niveau du vagin et de la vulve. C
 - **Couche cambiale** sous-épithéliale (densification cellulaire), **rhabdomyoblastes atypiques**.
 - IHC : **desmine +**, **myogénine ++ nucléaire**.
 
-![[assets/gyneco-sein/vulve-vagin/04_21_03vulvePathologie Bénigne PR/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21_03vulvePathologie%20B%C3%A9nigne%20PR/p09_00.jpeg)
 
 ---
 

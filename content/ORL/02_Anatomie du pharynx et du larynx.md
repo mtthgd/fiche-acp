@@ -59,7 +59,7 @@ Contient :
 - Piliers antérieurs et postérieurs
 - Face inférieure du palais mou, luette (uvule)
 
-![[assets/ORL/VADS/introduction/10-207 COurs Cécile anatomie pharynx larynx okcbdicté/p08_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/10-207%20COurs%20C%C3%A9cile%20anatomie%20pharynx%20larynx%20okcbdict%C3%A9/p08_02.jpeg)
 
 La base de langue et les tonsilles palatines sont toutes deux constituées de **tissu lympho-épithélial**.
 
@@ -67,9 +67,9 @@ La base de langue et les tonsilles palatines sont toutes deux constituées de **
 
 Cavité latérale souvent difficile à visualiser. Contient principalement les **sinus piriformes**, invaginations situées latéralement au larynx de chaque côté.
 
-![[assets/ORL/VADS/introduction/10-207 COurs Cécile anatomie pharynx larynx okcbdicté/p10_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/10-207%20COurs%20C%C3%A9cile%20anatomie%20pharynx%20larynx%20okcbdict%C3%A9/p10_02.jpeg)
 
-![[assets/ORL/VADS/introduction/10-207 COurs Cécile anatomie pharynx larynx okcbdicté/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/10-207%20COurs%20C%C3%A9cile%20anatomie%20pharynx%20larynx%20okcbdict%C3%A9/p12_00.jpeg)
 
 Exemples de localisations tumorales : cancers du sinus piriforme.
 
@@ -83,9 +83,9 @@ Trois étages :
 | **Glottique** | **Cordes vocales**, commissures antérieure et postérieure |
 | **Sous-glottique** | Région sous les cordes vocales, jusqu'au bord inférieur du cartilage cricoïde, se poursuit dans la trachée |
 
-![[assets/ORL/VADS/introduction/10-207 COurs Cécile anatomie pharynx larynx okcbdicté/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/10-207%20COurs%20C%C3%A9cile%20anatomie%20pharynx%20larynx%20okcbdict%C3%A9/p13_00.jpeg)
 
-![[assets/ORL/VADS/introduction/10-207 COurs Cécile anatomie pharynx larynx okcbdicté/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/10-207%20COurs%20C%C3%A9cile%20anatomie%20pharynx%20larynx%20okcbdict%C3%A9/p14_00.jpeg)
 
 ## Cartilages du larynx
 
@@ -100,9 +100,9 @@ Trois étages :
 ### Os
 - **Os hyoïde**
 
-![[assets/ORL/VADS/introduction/10-207 COurs Cécile anatomie pharynx larynx okcbdicté/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/10-207%20COurs%20C%C3%A9cile%20anatomie%20pharynx%20larynx%20okcbdict%C3%A9/p16_00.jpeg)
 
-![[assets/ORL/VADS/introduction/10-207 COurs Cécile anatomie pharynx larynx okcbdicté/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/10-207%20COurs%20C%C3%A9cile%20anatomie%20pharynx%20larynx%20okcbdict%C3%A9/p17_00.jpeg)
 
 ## Articulations fondamentales
 
@@ -111,7 +111,7 @@ Trois étages :
 | **Cricothyroïdienne** | Thyroïde + cricoïde (axes de rotation) |
 | **Crico-aryténoïdienne** | Cricoïde + aryténoïdes → **vibration des cordes vocales** |
 
-![[assets/ORL/VADS/introduction/10-207 COurs Cécile anatomie pharynx larynx okcbdicté/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/10-207%20COurs%20C%C3%A9cile%20anatomie%20pharynx%20larynx%20okcbdict%C3%A9/p18_01.jpeg)
 
 ## Éléments fibreux et élastiques
 
@@ -130,13 +130,13 @@ Trois étages :
 - **Aryténoïdes** saillants
 - **Hypopharynx** et œsophage en arrière
 
-![[assets/ORL/VADS/introduction/10-207 COurs Cécile anatomie pharynx larynx okcbdicté/p23_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/10-207%20COurs%20C%C3%A9cile%20anatomie%20pharynx%20larynx%20okcbdict%C3%A9/p23_00.png)
 
 ## Vue ouverte du pharynx — rapports
 
 Ouverture de la paroi dorsale : on retrouve successivement coanes, cavum, uvule, oropharynx, puis margelle laryngée (2 faces : oropharyngée et laryngée), œsophage cervical, cartilages aryténoïdes et cordes vocales.
 
-![[assets/ORL/VADS/introduction/10-207 COurs Cécile anatomie pharynx larynx okcbdicté/p21_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/10-207%20COurs%20C%C3%A9cile%20anatomie%20pharynx%20larynx%20okcbdict%C3%A9/p21_00.png)
 
 ## Macroscopie — pièces opératoires
 
@@ -152,11 +152,11 @@ Pièces variables selon l'exérèse :
 | **Laryngectomie totale** | Pièce la plus fréquente |
 | **Pharyngolaryngectomie verticale sus-cricoïdienne** | Rare |
 
-![[assets/ORL/VADS/introduction/10-207 COurs Cécile anatomie pharynx larynx okcbdicté/p26_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/10-207%20COurs%20C%C3%A9cile%20anatomie%20pharynx%20larynx%20okcbdict%C3%A9/p26_02.jpeg)
 
-![[assets/ORL/VADS/introduction/10-207 COurs Cécile anatomie pharynx larynx okcbdicté/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/10-207%20COurs%20C%C3%A9cile%20anatomie%20pharynx%20larynx%20okcbdict%C3%A9/p27_00.jpeg)
 
-![[assets/ORL/VADS/introduction/10-207 COurs Cécile anatomie pharynx larynx okcbdicté/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/10-207%20COurs%20C%C3%A9cile%20anatomie%20pharynx%20larynx%20okcbdict%C3%A9/p28_00.jpeg)
 
 ---
 

@@ -28,7 +28,7 @@ Le lymphome de Hodgkin (LH) regroupe dans la classification **OMS** deux entité
 
 Le LH représente **0,5 % des cancers** (≈ **1 840 nouveaux cas/an** en France, 2011), soit **15-30 % des lymphomes**. Incidence **plus élevée dans les pays industrialisés**.
 
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-361_Hodgkin clinique épidémio/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-361_Hodgkin%20clinique%20%C3%A9pid%C3%A9mio/p03_01.jpeg)
 
 ## Épidémiologie
 
@@ -42,8 +42,8 @@ Le LH représente **0,5 % des cancers** (≈ **1 840 nouveaux cas/an** en France
   - Quelques cas familiaux
   - Polymorphisme **6p21.32** (HLA)
 
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-361_Hodgkin clinique épidémio/p08_00.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-361_Hodgkin clinique épidémio/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-361_Hodgkin%20clinique%20%C3%A9pid%C3%A9mio/p08_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-361_Hodgkin%20clinique%20%C3%A9pid%C3%A9mio/p08_01.jpeg)
 
 ## Présentation clinique
 
@@ -54,9 +54,9 @@ Le LH représente **0,5 % des cancers** (≈ **1 840 nouveaux cas/an** en France
 - Atteintes **extra-ganglionnaires exceptionnelles**
 - **Symptômes B** (fièvre, sueurs nocturnes, amaigrissement > 10 %), prurit, hyperéosinophilie possibles
 
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-361_Hodgkin clinique épidémio/p09_00.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-361_Hodgkin clinique épidémio/p09_01.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-361_Hodgkin clinique épidémio/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-361_Hodgkin%20clinique%20%C3%A9pid%C3%A9mio/p09_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-361_Hodgkin%20clinique%20%C3%A9pid%C3%A9mio/p09_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-361_Hodgkin%20clinique%20%C3%A9pid%C3%A9mio/p09_02.jpeg)
 
 ### Présentation selon le sous-type histologique
 
@@ -82,8 +82,8 @@ Caractéristiques générales :
 - **Cellules de Hodgkin / Reed-Sternberg (HRS)** : grandes cellules atypiques, parfois **binucléées en miroir**, **nucléoles éosinophiles** volumineux
 - **Micro-environnement réactionnel** très polymorphe (lymphocytes, polynucléaires éosinophiles, histiocytes, plasmocytes)
 
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-361_Hodgkin clinique épidémio/p10_01.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-361_Hodgkin clinique épidémio/p10_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-361_Hodgkin%20clinique%20%C3%A9pid%C3%A9mio/p10_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-361_Hodgkin%20clinique%20%C3%A9pid%C3%A9mio/p10_02.jpeg)
 
 ## Immunohistochimie (rappel)
 

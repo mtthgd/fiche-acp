@@ -20,7 +20,7 @@ source: DES ACP - Cours d'ORL
 
 Les fosses nasales et sinus forment un ensemble complexe situé au centre du massif facial, séparés par le **septum nasal**.
 
-![[assets/ORL/VADS/introduction/10-201et205 histoanatoFNS/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/10-201et205%20histoanatoFNS/p03_01.jpeg)
 
 ### Cavités principales
 - **Fosses nasales** : chaque fosse contient trois cornets (supérieur, moyen, inférieur)
@@ -31,7 +31,7 @@ Les fosses nasales et sinus forment un ensemble complexe situé au centre du mas
 
 Les sinus communiquent avec les fosses nasales par les **ostia**, petits canaux facilement obstrués — clé de la physiopathologie des rhinosinusites.
 
-![[assets/ORL/VADS/introduction/10-201et205 histoanatoFNS/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/10-201et205%20histoanatoFNS/p04_01.jpeg)
 
 ### Rapports
 En arrière des fosses nasales : **nasopharynx** (riche en tissu lympho-épithélial), puis **oropharynx** en arrière de la base de langue.
@@ -48,13 +48,13 @@ Origine embryologique double :
 ### Muqueuse Schneiderienne
 Épithélium **pseudo-stratifié cylindrique cilié**, avec cellules caliciformes mucosécrétantes, reposant sur un chorion riche en **glandes séromuqueuses**.
 
-![[assets/ORL/VADS/introduction/10-201et205 histoanatoFNS/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/10-201et205%20histoanatoFNS/p05_01.jpeg)
 
 - **1 cellule à mucus pour 5 cellules ciliées** dans la cavité nasale
 - Rapport plus faible dans les cavités sinusiennes
 - Augmente en pathologie inflammatoire
 
-![[assets/ORL/VADS/introduction/10-201et205 histoanatoFNS/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/10-201et205%20histoanatoFNS/p06_01.jpeg)
 
 ### Épithélium transitionnel
 Intermédiaire entre épithélium respiratoire et malpighien :
@@ -63,7 +63,7 @@ Intermédiaire entre épithélium respiratoire et malpighien :
 - Parfois maturation discrète pavimenteuse
 - Persistance en surface de quelques cellules ciliées et cellules à mucus dispersées
 
-![[assets/ORL/VADS/introduction/10-201et205 histoanatoFNS/p06_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/10-201et205%20histoanatoFNS/p06_02.jpeg)
 
 ## Structures spécialisées
 
@@ -72,7 +72,7 @@ Mis en évidence par **immunohistochimie**. À l'origine de pathologies exceptio
 - Mélanoses, naevi (découverte fortuite)
 - **Mélanomes malins** : la topographie des fosses nasales est l'une des plus fréquentes des mélanomes des muqueuses
 
-![[assets/ORL/VADS/introduction/10-201et205 histoanatoFNS/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/10-201et205%20histoanatoFNS/p07_01.jpeg)
 
 ### Muqueuse olfactive
 Tapisse la **fente olfactive** (portion haute des fosses nasales). Associe :
@@ -80,9 +80,9 @@ Tapisse la **fente olfactive** (portion haute des fosses nasales). Associe :
 - **Cellules de soutien** (cellules sustentaculaires)
 - **Cellules basales**
 
-![[assets/ORL/VADS/introduction/10-201et205 histoanatoFNS/p07_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/10-201et205%20histoanatoFNS/p07_02.jpeg)
 
-![[assets/ORL/VADS/introduction/10-201et205 histoanatoFNS/p07_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/10-201et205%20histoanatoFNS/p07_03.jpeg)
 
 ### Plans osseux
 Particularité : **ossification de membrane** avec **corticales discontinues**.
@@ -90,7 +90,7 @@ Particularité : **ossification de membrane** avec **corticales discontinues**.
 - Fréquence des **ostéomes**
 - Une **ostéolyse** n'est pas forcément synonyme de malignité — peut se voir en pathologie inflammatoire
 
-![[assets/ORL/VADS/introduction/10-201et205 histoanatoFNS/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/10-201et205%20histoanatoFNS/p08_01.jpeg)
 
 ## Vascularisation
 
@@ -103,29 +103,29 @@ Deux systèmes vasculaires :
 
 Ces deux réseaux se rejoignent en avant du septum au niveau de la **tache vasculaire** — zone richement vascularisée, responsable des épistaxis bénignes (mouchage, écorchure).
 
-![[assets/ORL/VADS/introduction/10-201et205 histoanatoFNS/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/10-201et205%20histoanatoFNS/p09_01.jpeg)
 
 ### Climatiseur muqueux
 Portion des cornets très riche en **artères musculeuses** — piège diagnostique à connaître pour ne pas porter à tort un diagnostic d'angiome.
 
-![[assets/ORL/VADS/introduction/10-201et205 histoanatoFNS/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/10-201et205%20histoanatoFNS/p09_02.jpeg)
 
 Ces artères musculeuses :
 - Se dilatent ou se contractent pour moduler le flux sanguin
 - Stimuli : température de l'air, humidité, moutarde…
 - Autres localisations à artères musculeuses abondantes : **organes génitaux** (pénis, clitoris)
 
-![[assets/ORL/VADS/introduction/10-201et205 histoanatoFNS/p09_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/10-201et205%20histoanatoFNS/p09_03.jpeg)
 
 ## Histologie — points spécifiques
 
-![[assets/ORL/VADS/introduction/10-201et205 histoanatoFNS/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/10-201et205%20histoanatoFNS/p10_01.jpeg)
 
 - Chorion richement vascularisé (parois parfois impressionnantes d'épaisseur)
 - Nombreuses **glandes séreuses et muqueuses**
 - Présence possible de 2 cornets cartilagineux (moyen, supérieur) et 1 cornet osseux (inférieur), recouverts de muqueuse respiratoire
 
-![[assets/ORL/VADS/introduction/10-201et205 histoanatoFNS/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/10-201et205%20histoanatoFNS/p11_01.jpeg)
 
 ## Fonctions des fosses nasales et sinus
 

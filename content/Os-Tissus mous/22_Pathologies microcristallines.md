@@ -25,7 +25,7 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 3. Connaître les différentes arthropathies microcristallines
 
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p03_00.jpeg)
 
 ---
 
@@ -44,7 +44,7 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 | **Aiguë** | Crise très douloureuse, **nocturne**, déclenchée par traumatisme, écart alimentaire, médicaments ; localisation préférentielle **gros orteil** (MTP) |
 | **Chronique** | Surcharge de cristaux dans tissus sous-cutanés (**tophi**), articulaires, rénaux |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p05_00.jpeg)
 
 
 ## Physiopathologie
@@ -71,17 +71,17 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **MGG** : persistance possible des cristaux
 - **Écrasé de tophus** sous-cutané = excellente source
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p07_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p08_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p08_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p08_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p08_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p09_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p09_01.jpeg)
 
 ## Tophus (histologie)
 
@@ -90,19 +90,19 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Fibrose** accentuée
 - Liquide synovial : souvent **magma de PNN** au contact des cristaux
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p10_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p10_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p10_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p10_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p10_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p10_03.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p11_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p11_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p11_02.jpeg)
 
 ---
 
@@ -121,9 +121,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 
 **Chondrocalcinose** = calcification du cartilage, très fréquemment due à ces dépôts cristallins, visible en radiologie.
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p12_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p12_01.jpeg)
 
 ## Morphologie des cristaux de PPCa
 
@@ -141,27 +141,27 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Coloration MGG : identifiables en lumière polarisée
 - Biopsie synoviale (formol tamponné) : **dépôts cristallins biréfringents** persistants
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p13_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p13_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p15_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p15_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p16_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p17_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p18_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p18_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p18_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p18_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p19_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p19_01.jpeg)
 
 ---
 
@@ -170,9 +170,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Coexistence possible** (~10% des cas)
 - Visualisation simultanée de cristaux **rhomboïdes (PPCa) + aiguilles (urate)** dans le même liquide
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p20_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p20_01.jpeg)
 
 ---
 
@@ -185,39 +185,39 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 | **Hématoïdine** | Précipitations d'hémoglobine, plaques **jaunes** à double feuillage |
 | **Hydroxyapatite** | Microcristaux **trop petits** pour être vus en microscopie optique classique → **coloration au rouge d'alizarine** nécessaire |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p21_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p21_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p22_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p22_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p22_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p22_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p24_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p24_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p25_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p25_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p25_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p25_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p25_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p25_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p25_03.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p26_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p26_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p26_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p27_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p27_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p27_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p28_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166 Pathologies microcristallines/p28_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-166%20Pathologies%20microcristallines/p28_01.jpeg)
 
 ---
 

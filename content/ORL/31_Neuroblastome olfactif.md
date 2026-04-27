@@ -58,7 +58,7 @@ source: DES ACP - Cours d'ORL
 
 ## Histologie
 
-![[assets/ORL/VADS/autres_tumeurs/NBO definitif enregistrement.pptx/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/autres_tumeurs/NBO%20definitif%20enregistrement.pptx/p05_00.jpeg)
 
 ### NBO de bas grade (Hyams 1-2) — aspect typique
 
@@ -71,13 +71,13 @@ source: DES ACP - Cours d'ORL
 - Stroma œdémateux ou hyalin avec **vaisseaux en bouquets glomérulloïdes**
 - **Pas de nécrose**
 
-![[assets/ORL/VADS/autres_tumeurs/NBO definitif enregistrement.pptx/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/autres_tumeurs/NBO%20definitif%20enregistrement.pptx/p05_01.jpeg)
 
-![[assets/ORL/VADS/autres_tumeurs/NBO definitif enregistrement.pptx/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/autres_tumeurs/NBO%20definitif%20enregistrement.pptx/p07_00.jpeg)
 
-![[assets/ORL/VADS/autres_tumeurs/NBO definitif enregistrement.pptx/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/autres_tumeurs/NBO%20definitif%20enregistrement.pptx/p07_01.jpeg)
 
-![[assets/ORL/VADS/autres_tumeurs/NBO definitif enregistrement.pptx/p07_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/autres_tumeurs/NBO%20definitif%20enregistrement.pptx/p07_02.jpeg)
 
 ### NBO de haut grade (Hyams 3-4)
 
@@ -88,11 +88,11 @@ source: DES ACP - Cours d'ORL
 - Noyaux plus **volumineux, nucléolés**, atypies et **pléomorphisme marqués**
 - **Mitoses, apoptose**, foyers de **nécrose tumorale**
 
-![[assets/ORL/VADS/autres_tumeurs/NBO definitif enregistrement.pptx/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/autres_tumeurs/NBO%20definitif%20enregistrement.pptx/p08_00.jpeg)
 
-![[assets/ORL/VADS/autres_tumeurs/NBO definitif enregistrement.pptx/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/autres_tumeurs/NBO%20definitif%20enregistrement.pptx/p08_01.jpeg)
 
-![[assets/ORL/VADS/autres_tumeurs/NBO definitif enregistrement.pptx/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/autres_tumeurs/NBO%20definitif%20enregistrement.pptx/p09_00.jpeg)
 
 ### Aspects particuliers
 
@@ -113,7 +113,7 @@ source: DES ACP - Cours d'ORL
 
 ## Immunohistochimie
 
-![[assets/ORL/VADS/autres_tumeurs/NBO definitif enregistrement.pptx/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/autres_tumeurs/NBO%20definitif%20enregistrement.pptx/p10_00.jpeg)
 
 | Marqueur | Résultat |
 |----------|:---:|
@@ -131,9 +131,9 @@ source: DES ACP - Cours d'ORL
 
 **Cellules sustentaculaires PS100+** : réseau de cellules fusiformes/étoilées à l'**interface lobule-stroma** → souvent **discontinu ou absent dans les hauts grades**.
 
-![[assets/ORL/VADS/autres_tumeurs/NBO definitif enregistrement.pptx/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/autres_tumeurs/NBO%20definitif%20enregistrement.pptx/p10_01.jpeg)
 
-![[assets/ORL/VADS/autres_tumeurs/NBO definitif enregistrement.pptx/p10_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/autres_tumeurs/NBO%20definitif%20enregistrement.pptx/p10_02.jpeg)
 
 ## Biologie moléculaire
 
@@ -146,7 +146,7 @@ source: DES ACP - Cours d'ORL
 
 Surtout pour les **NBO de haut grade** où le point de départ ethmoïdal peut être masqué — diagnostic différentiel des **tumeurs malignes à petites cellules rondes et bleues** des cavités nasosinusiennes.
 
-![[assets/ORL/VADS/autres_tumeurs/NBO definitif enregistrement.pptx/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/autres_tumeurs/NBO%20definitif%20enregistrement.pptx/p12_00.jpeg)
 
 | DD | Points de distinction |
 |----|-----------------------|

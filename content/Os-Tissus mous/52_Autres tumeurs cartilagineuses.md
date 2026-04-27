@@ -43,11 +43,11 @@ Deux tumeurs rares mais de morphologie caractéristique : le **fibrome chondromy
 - **Côté cortical : destruction, interruption** sans véritable extension des tissus mous, pas de réaction périostée
 - → Aspect **paradoxal** (bien limité en os / destructeur sur corticale) **très évocateur**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258 Autres tumeurs cartilagineuses/p05_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258%20Autres%20tumeurs%20cartilagineuses/p05_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258 Autres tumeurs cartilagineuses/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258%20Autres%20tumeurs%20cartilagineuses/p06_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258 Autres tumeurs cartilagineuses/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258%20Autres%20tumeurs%20cartilagineuses/p06_01.jpeg)
 
 ## Macroscopie
 
@@ -55,9 +55,9 @@ Deux tumeurs rares mais de morphologie caractéristique : le **fibrome chondromy
 - **Pas de nodule cartilagineux** hyalin bien différencié
 - Très **bien limitée** de l'os et du périoste adjacents → **s'énuclée facilement**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258 Autres tumeurs cartilagineuses/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258%20Autres%20tumeurs%20cartilagineuses/p07_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258 Autres tumeurs cartilagineuses/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258%20Autres%20tumeurs%20cartilagineuses/p08_00.jpeg)
 
 ## Histologie
 
@@ -66,9 +66,9 @@ Deux tumeurs rares mais de morphologie caractéristique : le **fibrome chondromy
 - **Architecture lobulée** (pseudo-lobulée, microlobulée) = lobules mal formés, plages **serpigineuses** paucicellulaires séparées par des **cloisons hypercellulaires**
 - **Gradient de densité** : plus cellulaire en **périphérie / cloisons**, s'amenuisant vers le **centre**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258 Autres tumeurs cartilagineuses/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258%20Autres%20tumeurs%20cartilagineuses/p09_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258 Autres tumeurs cartilagineuses/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258%20Autres%20tumeurs%20cartilagineuses/p09_01.jpeg)
 
 ### Cellules
 
@@ -82,13 +82,13 @@ Deux tumeurs rares mais de morphologie caractéristique : le **fibrome chondromy
 
 **Remaniements possibles** : fibrose dans les lobules, calcifications denses.
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258 Autres tumeurs cartilagineuses/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258%20Autres%20tumeurs%20cartilagineuses/p10_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258 Autres tumeurs cartilagineuses/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258%20Autres%20tumeurs%20cartilagineuses/p12_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258 Autres tumeurs cartilagineuses/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258%20Autres%20tumeurs%20cartilagineuses/p13_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258 Autres tumeurs cartilagineuses/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258%20Autres%20tumeurs%20cartilagineuses/p14_00.jpeg)
 
 ## Diagnostics différentiels
 
@@ -104,9 +104,9 @@ Deux tumeurs rares mais de morphologie caractéristique : le **fibrome chondromy
 - **Curetage** ou **résection**
 - **~15 % de récidive** après curetage
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258 Autres tumeurs cartilagineuses/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258%20Autres%20tumeurs%20cartilagineuses/p15_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258 Autres tumeurs cartilagineuses/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258%20Autres%20tumeurs%20cartilagineuses/p16_00.jpeg)
 
 # II. CHONDROSARCOME MÉSENCHYMATEUX
 
@@ -131,9 +131,9 @@ Deux tumeurs rares mais de morphologie caractéristique : le **fibrome chondromy
 - **Hypervascularisée** en IRM (rehaussement gadolinium intense) ← caractéristique
 - IRM : discret hypersignal T1, hypersignal T2 modéré
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258 Autres tumeurs cartilagineuses/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258%20Autres%20tumeurs%20cartilagineuses/p18_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258 Autres tumeurs cartilagineuses/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258%20Autres%20tumeurs%20cartilagineuses/p19_00.jpeg)
 
 ## Macroscopie
 
@@ -142,9 +142,9 @@ Deux tumeurs rares mais de morphologie caractéristique : le **fibrome chondromy
 - **Foyers cartilagineux grisâtres** en quantité variable (souvent minoritaires)
 - Calcifications / ossifications variables
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258 Autres tumeurs cartilagineuses/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258%20Autres%20tumeurs%20cartilagineuses/p25_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258 Autres tumeurs cartilagineuses/p25_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258%20Autres%20tumeurs%20cartilagineuses/p25_01.jpeg)
 
 ## Histologie — aspect BIPHASIQUE
 
@@ -154,9 +154,9 @@ Deux tumeurs rares mais de morphologie caractéristique : le **fibrome chondromy
 - **Noyaux monomorphes**, petits, hyperchromatiques (comme sarcomes à translocation)
 - **Vascularisation hémangiopéricytaire** (staghorn) → très évocatrice
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258 Autres tumeurs cartilagineuses/p25_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258%20Autres%20tumeurs%20cartilagineuses/p25_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258 Autres tumeurs cartilagineuses/p26_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258%20Autres%20tumeurs%20cartilagineuses/p26_01.jpeg)
 
 
 ### Composante cartilagineuse
@@ -168,11 +168,11 @@ Deux tumeurs rares mais de morphologie caractéristique : le **fibrome chondromy
 - **Transition abrupte ou graduelle** avec la composante indifférenciée
 - ⚠️ **Foyers d'ossification** possibles (ostéoïde) → piège vers ostéosarcome
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258 Autres tumeurs cartilagineuses/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258%20Autres%20tumeurs%20cartilagineuses/p27_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258 Autres tumeurs cartilagineuses/p27_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258%20Autres%20tumeurs%20cartilagineuses/p27_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258 Autres tumeurs cartilagineuses/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258%20Autres%20tumeurs%20cartilagineuses/p28_00.jpeg)
 
 ## Immunohistochimie
 
@@ -189,7 +189,7 @@ Deux tumeurs rares mais de morphologie caractéristique : le **fibrome chondromy
 - **Translocation / fusion** spécifique : **HEY1-NCOA2**
 - Détection : **RT-PCR**, RNA-seq, ou **FISH avec sonde NCOA2** (break-apart)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258 Autres tumeurs cartilagineuses/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258%20Autres%20tumeurs%20cartilagineuses/p29_00.jpeg)
 
 ## Diagnostics différentiels
 
@@ -200,11 +200,11 @@ Deux tumeurs rares mais de morphologie caractéristique : le **fibrome chondromy
 | **Sarcome d'Ewing** (si biopsie ne montre que petites cellules) | EWSR1 ; CD99 diffus membranaire |
 | **Sarcome CIC-rearranged**, **mésothéliome à petites cellules** | Marqueurs spécifiques / translocations propres |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258 Autres tumeurs cartilagineuses/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258%20Autres%20tumeurs%20cartilagineuses/p30_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258 Autres tumeurs cartilagineuses/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258%20Autres%20tumeurs%20cartilagineuses/p31_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258 Autres tumeurs cartilagineuses/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258%20Autres%20tumeurs%20cartilagineuses/p32_00.jpeg)
 
 ## Pronostic et traitement
 
@@ -214,7 +214,7 @@ Deux tumeurs rares mais de morphologie caractéristique : le **fibrome chondromy
 - Facteurs plus favorables : jeune âge, localisations mandibulaires et oculaires
 - Traitement : **résection carcinologique monobloc à marges larges** + chimiothérapie souvent administrée (rôle discuté)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258 Autres tumeurs cartilagineuses/p33_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-258%20Autres%20tumeurs%20cartilagineuses/p33_01.jpeg)
 
 ---
 

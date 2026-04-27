@@ -71,7 +71,7 @@ Lésion du **podocyte**, cellule s'entrelaçant autour des capillaires glomérul
 - Coloration **argentique** : parois capillaires fines, sans spicules ni double contour
 
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/214-14 LGM/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/214-14%20LGM/p08_01.jpeg)
 
 
 ### Modifications tubulo-interstitielles secondaires à la protéinurie
@@ -97,7 +97,7 @@ Lésion du **podocyte**, cellule s'entrelaçant autour des capillaires glomérul
 - Pas de dépôts denses
 
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/214-14 LGM/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/214-14%20LGM/p12_01.jpeg)
 
 ## Diagnostics différentiels
 
@@ -108,7 +108,7 @@ Lésion du **podocyte**, cellule s'entrelaçant autour des capillaires glomérul
 | Glomérulopathies prolifératives | Hypercellularité absente dans la LGM |
 
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/214-14 LGM/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/214-14%20LGM/p13_01.jpeg)
 
 > **Piège** : la HSF étant focale, sa méconnaissance peut amener à porter un diagnostic erroné de LGM. Il faut s'assurer d'un **échantillonnage biopsique satisfaisant** et **multiplier les niveaux de coupe**.
 

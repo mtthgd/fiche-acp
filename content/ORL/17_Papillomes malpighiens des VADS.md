@@ -57,7 +57,7 @@ Pour mémoire — variantes des fosses nasales et sinus :
 - **Tumeurs sessiles ou pédiculées**, souvent **friables**
 - Lésion polypoïde sur la corde vocale → **DD macroscopique** : polype de la corde vocale **vs** papillome (tranchera l'histologie)
 
-![[assets/ORL/VADS/tumeurs_benignes/10.225 Papillomes malpighiens/p05_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/tumeurs_benignes/10.225%20Papillomes%20malpighiens/p05_01.png)
 
 ## Histologie
 
@@ -74,7 +74,7 @@ Pour mémoire — variantes des fosses nasales et sinus :
 - Assises basales et **parabasales hyperplasiques** et régénératives
 - ⚠️ **Ces aspects ne sont PAS interprétés comme dysplasiques** (atypies "réactionnelles")
 
-![[assets/ORL/VADS/tumeurs_benignes/10.225 Papillomes malpighiens/p08_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/tumeurs_benignes/10.225%20Papillomes%20malpighiens/p08_01.png)
 
 ### Maturation
 - Maturation conservée des cellules malpighiennes vers la surface
@@ -119,7 +119,7 @@ Pour mémoire — variantes des fosses nasales et sinus :
 - Devant atypies + **mitoses augmentées** dans une lésion virale → évoquer **dysplasie associée**
 - Toujours **chercher des koïlocytes** pour confirmer la nature virale et **évaluer la sévérité** des atypies
 
-![[assets/ORL/VADS/tumeurs_benignes/10.225 Papillomes malpighiens/p17_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/tumeurs_benignes/10.225%20Papillomes%20malpighiens/p17_01.png)
 
 ## Évolution / Pronostic
 

@@ -132,7 +132,7 @@ source: DES ACP - Cours de Digestif (C. Boulagnon-Rombi)
 
 > Au niveau œsophagien, **léiomyomes >> GIST** (cf. [[03126_Tumeurs benignes de loesophage]])
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.14 Tumeurs malignes rares de loesophage/p09_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.14%20Tumeurs%20malignes%20rares%20de%20loesophage/p09_03.jpeg)
 
 ## Sarcomes œsophagiens
 
@@ -159,7 +159,7 @@ source: DES ACP - Cours de Digestif (C. Boulagnon-Rombi)
   - Marqueurs de carcinome (CK, p63, p40) : **négatifs**
 
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.14 Tumeurs malignes rares de loesophage/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.14%20Tumeurs%20malignes%20rares%20de%20loesophage/p11_01.jpeg)
 
 ## Mélanome primitif œsophagien
 
@@ -224,7 +224,7 @@ Souvent asymptomatiques, donc rarement biopsées (cf. [[03126_Tumeurs benignes d
 
 
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.14 Tumeurs malignes rares de loesophage/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.14%20Tumeurs%20malignes%20rares%20de%20loesophage/p17_01.jpeg)
 
 ## Diagnostics différentiels — récapitulatif
 

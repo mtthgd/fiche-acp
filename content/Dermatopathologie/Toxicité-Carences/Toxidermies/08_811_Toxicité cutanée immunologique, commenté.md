@@ -28,7 +28,7 @@ Les toxidermies sont les manifestations cutanées en rapport avec une **sensibil
 | **Lymphocytes T cytotoxiques** spécifiques du médicament | Hypersensibilité retardée (type IV de Gell et Coombs) | **EMP**, **SJS/NET**, **DRESS**, **AGEP**, **EPF**, érythème polymorphe médicamenteux |
 | **Complexes immuns** avec le médicament/métabolites | Hypersensibilité type III (vascularite) ou IgE-médiée (type I) | **Vascularite leucocytoclasique** médicamenteuse, urticaire, choc anaphylactique |
 
-![[assets/dermato/toxicite-carences/toxidermies/08-811 Toxicité cutanée immunologique/p06_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-811%20Toxicit%C3%A9%20cutan%C3%A9e%20immunologique/p06_02.jpeg)
 
 ## I. Exanthème maculopapuleux (EMP)
 
@@ -42,11 +42,11 @@ Les toxidermies sont les manifestations cutanées en rapport avec une **sensibil
 - Souvent **peu spécifique** : 1/3 des cas = simple infiltrat lymphocytaire périvasculaire
 - Orientation : **PNN ou PNE**, petits foyers de **dermatite d'interface** lichénoïde, ou lésions **eczématiformes**
 
-![[assets/dermato/toxicite-carences/toxidermies/08-811 Toxicité cutanée immunologique/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-811%20Toxicit%C3%A9%20cutan%C3%A9e%20immunologique/p08_00.jpeg)
 
-![[assets/dermato/toxicite-carences/toxidermies/08-811 Toxicité cutanée immunologique/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-811%20Toxicit%C3%A9%20cutan%C3%A9e%20immunologique/p09_00.jpeg)
 
-![[assets/dermato/toxicite-carences/toxidermies/08-811 Toxicité cutanée immunologique/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-811%20Toxicit%C3%A9%20cutan%C3%A9e%20immunologique/p09_01.jpeg)
 
 ### Diagnostics différentiels
 - **Exanthèmes viraux**
@@ -66,11 +66,11 @@ Les toxidermies sont les manifestations cutanées en rapport avec une **sensibil
 - DD : **psoriasis pustuleux** (parfois indissociable)
 - Stade tardif (biopsie plus tardive habituelle) : pustules en voie d'élimination dans une **squame parakératosique**
 
-![[assets/dermato/toxicite-carences/toxidermies/08-811 Toxicité cutanée immunologique/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-811%20Toxicit%C3%A9%20cutan%C3%A9e%20immunologique/p11_02.jpeg)
 
-![[assets/dermato/toxicite-carences/toxidermies/08-811 Toxicité cutanée immunologique/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-811%20Toxicit%C3%A9%20cutan%C3%A9e%20immunologique/p12_00.jpeg)
 
-![[assets/dermato/toxicite-carences/toxidermies/08-811 Toxicité cutanée immunologique/p12_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-811%20Toxicit%C3%A9%20cutan%C3%A9e%20immunologique/p12_03.jpeg)
 
 ## III. Syndrome de Stevens-Johnson (SJS) et nécrolyse épidermique toxique de Lyell (NET)
 
@@ -85,11 +85,11 @@ Les toxidermies sont les manifestations cutanées en rapport avec une **sensibil
 - Atteintes extracutanées **respiratoires** (pronostic vital), viscérales
 - **Mortalité 10-15 %** (centres spécialisés) à **30 %** (classique)
 
-![[assets/dermato/toxicite-carences/toxidermies/08-811 Toxicité cutanée immunologique/p15_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-811%20Toxicit%C3%A9%20cutan%C3%A9e%20immunologique/p15_02.jpeg)
 
-![[assets/dermato/toxicite-carences/toxidermies/08-811 Toxicité cutanée immunologique/p15_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-811%20Toxicit%C3%A9%20cutan%C3%A9e%20immunologique/p15_03.jpeg)
 
-![[assets/dermato/toxicite-carences/toxidermies/08-811 Toxicité cutanée immunologique/p15_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-811%20Toxicit%C3%A9%20cutan%C3%A9e%20immunologique/p15_04.jpeg)
 
 ### Histologie
 
@@ -106,11 +106,11 @@ Les toxidermies sont les manifestations cutanées en rapport avec une **sensibil
 - **Derme mis à nu**, relief papillaire préservé
 - Infiltrat inflammatoire toujours **peu abondant**
 
-![[assets/dermato/toxicite-carences/toxidermies/08-811 Toxicité cutanée immunologique/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-811%20Toxicit%C3%A9%20cutan%C3%A9e%20immunologique/p16_01.jpeg)
 
-![[assets/dermato/toxicite-carences/toxidermies/08-811 Toxicité cutanée immunologique/p16_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-811%20Toxicit%C3%A9%20cutan%C3%A9e%20immunologique/p16_02.jpeg)
 
-![[assets/dermato/toxicite-carences/toxidermies/08-811 Toxicité cutanée immunologique/p16_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-811%20Toxicit%C3%A9%20cutan%C3%A9e%20immunologique/p16_03.jpeg)
 
 ### Profil lésionnel "nécrolyse épidermique" : DD
 
@@ -152,17 +152,17 @@ L'image SJS/NET est en réalité un **profil lésionnel partagé** par :
 ### Diagnostic différentiel
 - **Lymphome cutané** : lymphome lymphoblastique, **syndrome de Sézary**
 
-![[assets/dermato/toxicite-carences/toxidermies/08-811 Toxicité cutanée immunologique/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-811%20Toxicit%C3%A9%20cutan%C3%A9e%20immunologique/p21_00.jpeg)
 
-![[assets/dermato/toxicite-carences/toxidermies/08-811 Toxicité cutanée immunologique/p21_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-811%20Toxicit%C3%A9%20cutan%C3%A9e%20immunologique/p21_02.jpeg)
 
 ### Pronostic
 - Engage le **pronostic vital** (moins fréquent que NET)
 - Causes : **hépatite fulminante**, **colite ulcéreuse à éosinophiles**, **myocardite sévère**
 
-![[assets/dermato/toxicite-carences/toxidermies/08-811 Toxicité cutanée immunologique/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-811%20Toxicit%C3%A9%20cutan%C3%A9e%20immunologique/p23_00.jpeg)
 
-![[assets/dermato/toxicite-carences/toxidermies/08-811 Toxicité cutanée immunologique/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-811%20Toxicit%C3%A9%20cutan%C3%A9e%20immunologique/p23_01.jpeg)
 
 ## V. Érythème pigmenté fixe (EPF / fixed drug eruption)
 
@@ -181,11 +181,11 @@ L'image SJS/NET est en réalité un **profil lésionnel partagé** par :
 - **Infiltrat inflammatoire peu abondant**
 - **Lésion séquellaire** : **mélanophages** accumulés dans le derme superficiel
 
-![[assets/dermato/toxicite-carences/toxidermies/08-811 Toxicité cutanée immunologique/p25_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-811%20Toxicit%C3%A9%20cutan%C3%A9e%20immunologique/p25_01.jpeg)
 
-![[assets/dermato/toxicite-carences/toxidermies/08-811 Toxicité cutanée immunologique/p25_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-811%20Toxicit%C3%A9%20cutan%C3%A9e%20immunologique/p25_03.jpeg)
 
-![[assets/dermato/toxicite-carences/toxidermies/08-811 Toxicité cutanée immunologique/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/toxicite-carences/toxidermies/08-811%20Toxicit%C3%A9%20cutan%C3%A9e%20immunologique/p26_00.jpeg)
 
 ## Tableau récapitulatif
 

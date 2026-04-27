@@ -36,18 +36,18 @@ source: DES ACP - Cours de Neurologie
 - Oligodendrogliome IDH-muté 1p/19q codélété **grade 2 ou 3**
 - Astrocytome IDH-muté **grade 2, 3 ou 4**
 
-![[assets/neurologie/tumeurs_snc/15-750-01b Gliomes infiltrants de ladulte IDH muté-Histopathologie/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01b%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-Histopathologie/p03_00.jpeg)
 
 ## Étape 1 — Diagnostic histologique de gliome diffus
 
-![[assets/neurologie/tumeurs_snc/15-750-01b Gliomes infiltrants de ladulte IDH muté-Histopathologie/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01b%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-Histopathologie/p03_01.jpeg)
 
 ### Architecture à faible grossissement
 - **Gradient décroissant de cellularité** du centre vers la périphérie
 - **Pas de limite nette** entre tissu tumoral et parenchyme
 - En périphérie : **cellules tumorales atypiques infiltrantes isolées**, entourées de cellules normales (neurones, glie, neuropile)
 
-![[assets/neurologie/tumeurs_snc/15-750-01b Gliomes infiltrants de ladulte IDH muté-Histopathologie/p03_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01b%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-Histopathologie/p03_02.jpeg)
 
 ### Description à fort grossissement
 À comparer avec les cellules gliales normales :
@@ -57,9 +57,9 @@ source: DES ACP - Cours de Neurologie
 | **Oligodendroglial** | Arrondi, chromatine **mouchetée**, petits nucléoles | **Halo clair** péri-nucléaire (aspect en « œuf au plat ») |
 | **Astrocytaire** | Ovoïde | **Éosinophile**, globuleux ou **fibrillaire** |
 
-![[assets/neurologie/tumeurs_snc/15-750-01b Gliomes infiltrants de ladulte IDH muté-Histopathologie/p03_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01b%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-Histopathologie/p03_05.jpeg)
 
-![[assets/neurologie/tumeurs_snc/15-750-01b Gliomes infiltrants de ladulte IDH muté-Histopathologie/p03_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01b%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-Histopathologie/p03_06.jpeg)
 
 ### Critères d'agressivité à rechercher
 1. **Hypercellularité**
@@ -68,13 +68,13 @@ source: DES ACP - Cours de Neurologie
 4. **Prolifération endothélio-capillaire**
 5. **Nécrose**
 
-![[assets/neurologie/tumeurs_snc/15-750-01b Gliomes infiltrants de ladulte IDH muté-Histopathologie/p03_11.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01b%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-Histopathologie/p03_11.jpeg)
 
 ### Définition de la prolifération endothélio-capillaire
 - **Circonférentielle** : deux couches de cellules endothéliales ou plus
 - À différencier de la simple **turgescence endothéliale** (une seule couche de cellules endothéliales épaisses)
 
-![[assets/neurologie/tumeurs_snc/15-750-01b Gliomes infiltrants de ladulte IDH muté-Histopathologie/p03_13.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01b%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-Histopathologie/p03_13.jpeg)
 
 ## Étape 2 — Identification de la voie moléculaire
 
@@ -87,7 +87,7 @@ source: DES ACP - Cours de Neurologie
 | **TP53** | ≥ 10 % de noyaux intensément positifs = **astrocytome** |
 | **Ki67** | Évaluation de la prolifération (complément de grade) |
 
-![[assets/neurologie/tumeurs_snc/15-750-01b Gliomes infiltrants de ladulte IDH muté-Histopathologie/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01b%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-Histopathologie/p04_00.jpeg)
 
 ### Algorithme d'orientation
 
@@ -107,13 +107,13 @@ Gliome diffus
                        └── non codélété → ASTROCYTOME IDH-muté
 ```
 
-![[assets/neurologie/tumeurs_snc/15-750-01b Gliomes infiltrants de ladulte IDH muté-Histopathologie/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01b%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-Histopathologie/p05_00.jpeg)
 
 ## Étape 3 — Critères de grade
 
 ### Oligodendrogliomes IDH-mutés et 1p/19q codélétés
 
-![[assets/neurologie/tumeurs_snc/15-750-01b Gliomes infiltrants de ladulte IDH muté-Histopathologie/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01b%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-Histopathologie/p07_00.jpeg)
 
 #### Clinique / Épidémiologie
 - **Âge médian ≈ 46 ans**
@@ -132,7 +132,7 @@ Gliome diffus
 - **Calcifications** fréquentes
 - Noyaux **micro-gemistocytaires** parfois (cytoplasme éosinophile excentré)
 
-![[assets/neurologie/tumeurs_snc/15-750-01b Gliomes infiltrants de ladulte IDH muté-Histopathologie/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01b%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-Histopathologie/p07_01.jpeg)
 
 #### Critères de grade
 
@@ -145,7 +145,7 @@ Gliome diffus
 
 ### Astrocytomes IDH-mutés
 
-![[assets/neurologie/tumeurs_snc/15-750-01b Gliomes infiltrants de ladulte IDH muté-Histopathologie/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01b%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-Histopathologie/p08_00.jpeg)
 
 #### Clinique / Épidémiologie
 - **Grade 2** : âge médian **≈ 36 ans**
@@ -163,9 +163,9 @@ Gliome diffus
 - Parfois **gemistocytes** (cytoplasme éosinophile globuleux abondant)
 - Pas de halo clair caractéristique
 
-![[assets/neurologie/tumeurs_snc/15-750-01b Gliomes infiltrants de ladulte IDH muté-Histopathologie/p08_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01b%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-Histopathologie/p08_04.jpeg)
 
-![[assets/neurologie/tumeurs_snc/15-750-01b Gliomes infiltrants de ladulte IDH muté-Histopathologie/p08_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01b%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-Histopathologie/p08_05.jpeg)
 
 #### Critères de grade OMS 2021
 
@@ -175,11 +175,11 @@ Gliome diffus
 | **3** | Augmentation de la **cellularité**, des **atypies** et de l'**activité mitotique** |
 | **4** | **Prolifération endothélio-capillaire** **OU** **nécrose** **OU** **délétion homozygote CDKN2A/B** |
 
-![[assets/neurologie/tumeurs_snc/15-750-01b Gliomes infiltrants de ladulte IDH muté-Histopathologie/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01b%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-Histopathologie/p09_00.jpeg)
 
-![[assets/neurologie/tumeurs_snc/15-750-01b Gliomes infiltrants de ladulte IDH muté-Histopathologie/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01b%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-Histopathologie/p09_01.jpeg)
 
-![[assets/neurologie/tumeurs_snc/15-750-01b Gliomes infiltrants de ladulte IDH muté-Histopathologie/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01b%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-Histopathologie/p09_02.jpeg)
 
 ## Diagnostics différentiels
 
@@ -194,7 +194,7 @@ Gliome diffus
 
 ## Pronostic et chimiosensibilité
 
-![[assets/neurologie/tumeurs_snc/15-750-01b Gliomes infiltrants de ladulte IDH muté-Histopathologie/p13_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01b%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-Histopathologie/p13_00.png)
 
 | Entité | Pronostic global | Chimiosensibilité |
 |--------|------------------|-------------------|
@@ -204,7 +204,7 @@ Gliome diffus
 
 Les **gliomes IDH-mutés** ont globalement un pronostic meilleur que les **glioblastomes IDH-WT**.
 
-![[assets/neurologie/tumeurs_snc/15-750-01b Gliomes infiltrants de ladulte IDH muté-Histopathologie/p13_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/15-750-01b%20Gliomes%20infiltrants%20de%20ladulte%20IDH%20mut%C3%A9-Histopathologie/p13_01.png)
 
 ## Traitement (principes)
 

@@ -48,7 +48,7 @@ La cavité péritonéale est un **site favorable à la survie cellulaire** (mod�
 | **Müllérien primaire** | 1/3 sup vagin, col, corps utérin, trompes | Malpighien, mucosécrétant, endométrial, tubaire cilié |
 | **Müllérien secondaire** | **Péritoine** et **ovaires** (revêtement cœlomique) | Mêmes possibilités de différenciation que le primaire |
 
-![[assets/gyneco-sein/peritoine/04_71 PERITOINE gynéco jcs/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/peritoine/04_71%20PERITOINE%20gyn%C3%A9co%20jcs/p06_00.jpeg)
 
 ---
 
@@ -66,9 +66,9 @@ La cavité péritonéale est un **site favorable à la survie cellulaire** (mod�
 - Histo : épithélium endométrial + **stroma endométrial CD10+**, sensible au cycle hormonal
 - ⚠️ **Possibilité de dégénérescence** en carcinome **endométrioïde** ou **à cellules claires**
 
-![[assets/gyneco-sein/peritoine/04_71 PERITOINE gynéco jcs/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/peritoine/04_71%20PERITOINE%20gyn%C3%A9co%20jcs/p07_00.jpeg)
 
-![[assets/gyneco-sein/peritoine/04_71 PERITOINE gynéco jcs/p08_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/peritoine/04_71%20PERITOINE%20gyn%C3%A9co%20jcs/p08_00.png)
 
 ---
 
@@ -102,9 +102,9 @@ Localisation dans la cavité péritonéale d’**épithélium tubaire bien diff�
 - En l’absence de tumeur ovarienne associée : **bénin**, sans valeur péjorative
 - Problème diagnostique en contexte de tumeur ovarienne borderline ou maligne (cf. § 3)
 
-![[assets/gyneco-sein/peritoine/04_71 PERITOINE gynéco jcs/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/peritoine/04_71%20PERITOINE%20gyn%C3%A9co%20jcs/p10_00.jpeg)
 
-![[assets/gyneco-sein/peritoine/04_71 PERITOINE gynéco jcs/p11_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/peritoine/04_71%20PERITOINE%20gyn%C3%A9co%20jcs/p11_00.png)
 
 ---
 
@@ -133,12 +133,12 @@ Extensions extra-ovariennes fréquentes (**16-46 %** des tumeurs séreuses borde
 - Dénomination OMS 2014 : NE PLUS dire "implant invasif" → **"foyer péritonéal de carcinome séreux de bas grade"**
 - Conséquence pratique : **chimiothérapie adjuvante**
 
-![[assets/gyneco-sein/peritoine/04_71 PERITOINE gynéco jcs/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/peritoine/04_71%20PERITOINE%20gyn%C3%A9co%20jcs/p13_00.jpeg)
 
-![[assets/gyneco-sein/peritoine/04_71 PERITOINE gynéco jcs/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/peritoine/04_71%20PERITOINE%20gyn%C3%A9co%20jcs/p14_00.jpeg)
 
 
-![[assets/gyneco-sein/peritoine/04_71 PERITOINE gynéco jcs/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/peritoine/04_71%20PERITOINE%20gyn%C3%A9co%20jcs/p17_00.jpeg)
 
 ## Localisations ganglionnaires (rares, OMS 2014)
 
@@ -165,7 +165,7 @@ Extensions extra-ovariennes fréquentes (**16-46 %** des tumeurs séreuses borde
 - **CK7+**, CK20−, **WT1+**, **RH ±**, **P53 muté**
 - ⚠️ **Génotypage BRCA1/BRCA2 obligatoire** (PARP + prise en charge familiale)
 
-![[assets/gyneco-sein/peritoine/04_71 PERITOINE gynéco jcs/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/peritoine/04_71%20PERITOINE%20gyn%C3%A9co%20jcs/p18_00.jpeg)
 
 
 ---
@@ -202,9 +202,9 @@ Extensions extra-ovariennes fréquentes (**16-46 %** des tumeurs séreuses borde
 - Autres transcrits rares : EWS-ERG, EWS-FLI
 - **Confirmation moléculaire indispensable** : FISH ou RT-PCR
 
-![[assets/gyneco-sein/peritoine/04_71 PERITOINE gynéco jcs/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/peritoine/04_71%20PERITOINE%20gyn%C3%A9co%20jcs/p20_00.jpeg)
 
-![[assets/gyneco-sein/peritoine/04_71 PERITOINE gynéco jcs/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/peritoine/04_71%20PERITOINE%20gyn%C3%A9co%20jcs/p21_00.jpeg)
 
 ---
 
@@ -224,7 +224,7 @@ Extensions extra-ovariennes fréquentes (**16-46 %** des tumeurs séreuses borde
 - **ADK mucineux digestif** peut **mimer un pseudomyxome** (qui est lui appendiculaire)
 - **Tumeurs mucineuses primitives ovariennes** métastasent **EXTRÊMEMENT RAREMENT** au péritoine
 
-![[assets/gyneco-sein/peritoine/04_71 PERITOINE gynéco jcs/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/peritoine/04_71%20PERITOINE%20gyn%C3%A9co%20jcs/p22_00.jpeg)
 
 ---
 
@@ -246,7 +246,7 @@ Extensions extra-ovariennes fréquentes (**16-46 %** des tumeurs séreuses borde
 ## Point clé
 > Toute tumeur mucineuse péritonéale → **éliminer une origine appendiculaire**.
 
-![[assets/gyneco-sein/peritoine/04_71 PERITOINE gynéco jcs/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/peritoine/04_71%20PERITOINE%20gyn%C3%A9co%20jcs/p23_00.jpeg)
 
 ---
 
@@ -273,9 +273,9 @@ Extensions extra-ovariennes fréquentes (**16-46 %** des tumeurs séreuses borde
   - Extension péritonéale du tératome (la plus admise)
   - Origine **métaplasique**
 
-![[assets/gyneco-sein/peritoine/04_71 PERITOINE gynéco jcs/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/peritoine/04_71%20PERITOINE%20gyn%C3%A9co%20jcs/p24_00.jpeg)
 
-![[assets/gyneco-sein/peritoine/04_71 PERITOINE gynéco jcs/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/peritoine/04_71%20PERITOINE%20gyn%C3%A9co%20jcs/p25_00.jpeg)
 
 ---
 
@@ -310,9 +310,9 @@ HES → caractérisation morphologique
     └─ TUMEUR MIXTE MÜLLÉRIENNE → aspect histologique
 ```
 
-![[assets/gyneco-sein/peritoine/04_71 PERITOINE gynéco jcs/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/peritoine/04_71%20PERITOINE%20gyn%C3%A9co%20jcs/p26_00.jpeg)
 
-![[assets/gyneco-sein/peritoine/04_71 PERITOINE gynéco jcs/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/peritoine/04_71%20PERITOINE%20gyn%C3%A9co%20jcs/p27_00.jpeg)
 
 ---
 

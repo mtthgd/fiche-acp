@@ -39,11 +39,11 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
   - **Monostotique** : **crâne, fémur, tibia**, côtes
   - **Polyostotique** : **fémur, tibia, pelvis**, côtes, crâne, face (peut être monomélique, hémicorporelle ou diffuse)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p04_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p04_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p04_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p04_02.jpeg)
 
 ## Clinique
 
@@ -56,9 +56,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Syndrome de Mazabraud** : dysplasie fibreuse + **myxome(s) intramusculaire(s)**
 - Dysplasie fibreuse + **ostéomalacie** par hypersécrétion de **FGF23**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p06_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p06_00.jpeg)
 
 ## Imagerie
 
@@ -70,11 +70,11 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - TDM : densité non spécifique, utile pour bilan topographique (thorax/rachis)
 - IRM : hyposignal T1 et T2
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p07_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p07_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p07_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p07_02.jpeg)
 
 ## Macroscopie / microscopie
 
@@ -85,21 +85,21 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
   - **Tissu fibreux** de cellules fusiformes **sans atypies** ni mitoses anormales
   - Possibles remaniements : anévrismaux, kystiques, myxoïdes ; travées réduites à des spicules
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p08_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p08_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p09_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p09_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p10_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p10_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p10_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p10_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p10_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p10_03.jpeg)
 
 ## Génétique
 
@@ -108,7 +108,7 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Détection : **HRM + séquençage** (très spécifique, faible sensibilité)
 - Physiopath : défaut de remodelage → impossibilité de transformer l'os embryonnaire en os mature (défaut de minéralisation)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p11_01.jpeg)
 
 ## Pronostic
 
@@ -134,36 +134,36 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 ## Clinique / imagerie
 - Révélée par douleurs ou fracture, **déformation en arc antérieur du tibia**, pseudarthroses possibles
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p14_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p15_01.jpeg)
 
 - Topographie : **tibia tiers moyen/proximal, intracortical, excentré**
 - Lésions bilatérales parfois, **fibula** atteinte dans **20%**
 - Radio : lésion **ostéolytique intracorticale**, **multiloculée**, **importante ostéosclérose périphérique** (peu évolutive)
 - Atteinte médullaire inhabituelle
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p16_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p16_00.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p16_01.jpeg)
 
 ## Microscopie — architecture **zonale**
 
 - **Périphérie** : travées d'os immatures irrégulières bordées de **cellules ostéoblastiques PROÉMINENTES** (≠ dysplasie fibreuse) fusionnant avec l'os lamellaire cortical
 - **Centre** : contingent fibreux **storiforme** de cellules fusiformes sans atypies ; stroma fibreux ou myxoïde ; possibles cellules géantes pluri-nucléées
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p17_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p17_01.jpeg)
 
 ## IHC caractéristique
 
 - **Cellules cytokératines AE1/AE3 + dispersées et isolées** dans le stroma, dans **90%** des cas
 - → Marquage épithélial sporadique = signature de l'OFD
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p18_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p18_01.jpeg)
 
 ## Évolution / traitement
 - **Stabilisation à 15 ans**, cicatrisation / régression
@@ -182,9 +182,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 | **Adamantinome type OFD** (bas grade, bien différencié) | Sujet plus âgé | **Amas** de cellules épithéliales |
 | **Adamantinome classique** (haut grade, dédifférencié) | > 20 ans | **Contingent épithélial majeur** |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p19_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p19_01.jpeg)
 
 ## Généralités
 - Tumeur **maligne** comportant un contingent **épithélial** et un contingent **ostéofibreux**
@@ -200,9 +200,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Atteinte **fibula homolatérale** possible
 - Réaction périostée
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p23_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p23_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p23_02.jpeg)
 
 ## Microscopie — adamantinome classique (haut grade)
 
@@ -217,19 +217,19 @@ Contingent **ostéofibreux** associé :
 - Cellules fusiformes storiformes, activité mitotique faible
 - Macrophages spumeux, remaniements myxoïdes, mastocytes, cellules géantes possibles
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p24_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p24_00.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p24_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p24_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p24_02.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p24_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p24_03.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p24_04.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p24_04.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p24_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p24_05.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p24_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p24_06.jpeg)
 
 ## Microscopie — adamantinome type OFD (bas grade)
 
@@ -237,11 +237,11 @@ Contingent **ostéofibreux** associé :
 - Contingent épithélial révélé principalement par l'**IHC** : amas de cellules épithéliales
 - Contingent fibro-osseux d'OFD : travées immatures bordées d'ostéoblastes proéminents + stroma storiforme
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p25_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p25_00.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p25_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p25_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p25_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p25_02.jpeg)
 
 ## IHC — adamantinome
 
@@ -266,13 +266,13 @@ Contingent **ostéofibreux** associé :
 2. OFD = résultat d'un processus de **réparation / régression** d'un adamantinome
 3. Conversion de cellules mésenchymateuses vers un **phénotype épithélial** (vs origine épithéliale accidentelle embryonnaire)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p26_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p26_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p26_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p26_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p26_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p26_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p26_03.jpeg)
 
 ## Évolution / traitement
 - **Résection chirurgicale** (seule option)
@@ -289,13 +289,13 @@ Contingent **ostéofibreux** associé :
 | **Tumeur épithéliale cutanée** (annexielle / baso-cellulaire) | Tibia proche de la peau — contexte clinique |
 | **Synoviosarcome** (rare) | Tissu mou plus fréquent, **fusion SS18-SSX** |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p27_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p27_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p27_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p31_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272 Lésions fibro-osseuses des os longs et apparentées/p31_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-272%20L%C3%A9sions%20fibro-osseuses%20des%20os%20longs%20et%20apparent%C3%A9es/p31_01.jpeg)
 
 ---
 

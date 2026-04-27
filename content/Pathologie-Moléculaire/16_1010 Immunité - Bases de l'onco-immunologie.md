@@ -36,7 +36,7 @@ Dysfonctionnements :
 - **rupture de tolérance** → maladies auto-immunes
 - **réactivité exagérée** → allergie
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1010 immunité Audio/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1010%20immunit%C3%A9%20Audio/p06_00.jpeg)
 
 ## Composants du système immunitaire
 
@@ -62,9 +62,9 @@ Toutes les cellules immunitaires dérivent d’une **cellule hématopoïétique 
 | Cellules | Macrophages, polynucléaires (PNN, PNB, PNE), **NK** | **Lymphocytes T et B** |
 | Effecteurs solubles | **Complément**, lysozyme, CRP | **Anticorps**, cytokines T |
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1010 immunité Audio/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1010%20immunit%C3%A9%20Audio/p08_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1010 immunité Audio/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1010%20immunit%C3%A9%20Audio/p08_01.jpeg)
 
 ## Immunité innée
 
@@ -83,9 +83,9 @@ Triple rôle :
 2. **Lyse** : formation du **complexe d’attaque membranaire (C5b-C6-C7-C8-C9)**
 3. **Recrutement leucocytaire** (réponse inflammatoire)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1010 immunité Audio/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1010%20immunit%C3%A9%20Audio/p09_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1010 immunité Audio/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1010%20immunit%C3%A9%20Audio/p09_01.jpeg)
 
 L’immunité innée fait également le lien avec l’immunité adaptative via les **cellules présentatrices d’antigènes (CPA)** (macrophages, cellules dendritiques).
 
@@ -102,9 +102,9 @@ L’immunité innée fait également le lien avec l’immunité adaptative via l
   - **CD8+** cytotoxiques : lyse cellulaire directe
   - **CD4+** auxiliaires (helper) : **chefs d’orchestre** de la réponse immunitaire (sécrétion de cytokines), pas de cytotoxicité
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1010 immunité Audio/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1010%20immunit%C3%A9%20Audio/p10_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1010 immunité Audio/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1010%20immunit%C3%A9%20Audio/p10_01.jpeg)
 
 ## Cellules présentatrices d’antigènes & CMH
 
@@ -117,9 +117,9 @@ Elles phagocytent → **apprêtent** les antigènes → présentation via les mo
 | **CMH classe I** | HLA-**A, B, C** | Chaîne lourde α + **β2-microglobuline** | **Toutes les cellules nucléées** | Peptides **endogènes** | **CD8+** |
 | **CMH classe II** | HLA-**DP, DQ, DR** | Chaînes α + β | **CPA** (uniquement) | Peptides **exogènes** | **CD4+** |
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1010 immunité Audio/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1010%20immunit%C3%A9%20Audio/p11_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1010 immunité Audio/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1010%20immunit%C3%A9%20Audio/p11_01.jpeg)
 
 ## Activation lymphocytaire — les 3 signaux
 
@@ -135,9 +135,9 @@ Elles phagocytent → **apprêtent** les antigènes → présentation via les mo
 
 → Cibles thérapeutiques majeures : **anti-CTLA-4, anti-PD-1, anti-PD-L1** (mélanome, carcinome pulmonaire, etc.) — voir [[16_1020 Rationnel de l'immunothérapie]].
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1010 immunité Audio/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1010%20immunit%C3%A9%20Audio/p12_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1010 immunité Audio/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1010%20immunit%C3%A9%20Audio/p12_01.jpeg)
 
 ## Polarisation des CD4+ — sous-populations effectrices
 
@@ -148,12 +148,12 @@ Elles phagocytent → **apprêtent** les antigènes → présentation via les mo
 | **Treg** | Cytokines immunosuppressives | **TGF-β, IL-10** | Expression de **FoxP3** ; tolérance immunitaire ; **inhibition de la réponse anti-tumorale** |
 | **Th17** | **TGF-β** | IL-17 | Inflammation locale, maladies auto-immunes |
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1010 immunité Audio/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1010%20immunit%C3%A9%20Audio/p13_00.jpeg)
 
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1010 immunité Audio/p14_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1010%20immunit%C3%A9%20Audio/p14_04.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1010 immunité Audio/p14_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1010%20immunit%C3%A9%20Audio/p14_05.jpeg)
 
 ## Implications en onco-immunologie
 
@@ -161,13 +161,13 @@ Elles phagocytent → **apprêtent** les antigènes → présentation via les mo
 - **Treg** : inhibent la réponse anti-tumorale → cible des immunothérapies (anti-CTLA-4)
 - **Macrophages M2** : pro-tumoraux (vs M1 anti-tumoraux)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1010 immunité Audio/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1010%20immunit%C3%A9%20Audio/p15_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1010 immunité Audio/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1010%20immunit%C3%A9%20Audio/p15_01.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1010 immunité Audio/p19_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1010%20immunit%C3%A9%20Audio/p19_04.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1010 immunité Audio/p19_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1010%20immunit%C3%A9%20Audio/p19_05.jpeg)
 
 ## Pièges / Limites
 

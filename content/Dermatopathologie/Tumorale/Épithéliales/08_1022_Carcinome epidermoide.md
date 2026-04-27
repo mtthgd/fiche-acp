@@ -35,7 +35,7 @@ Spectre lésionnel :
 - Lésions **multiples** en zone photo-exposée. Vaste extension = **champ de cancérisation**.
 - Aspect clinique : plaques érythématosquameuses ± papuleuses ± kératosiques.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1022 - Carcinome epidermoide/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1022%20-%20Carcinome%20epidermoide/p06_00.jpeg)
 
 ### Histologie
 
@@ -46,11 +46,11 @@ Spectre lésionnel :
 - Anomalies de maturation : cytoplasme plus clair, **disparition de la couche granuleuse**, **foyers de parakératose** discontinus.
 - **Épargne caractéristique des abouchements folliculaires et sudoraux** (qui conservent une maturation normale, granuleuse + kératinisation orthokératosique tranchant avec la parakératose adjacente).
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1022 - Carcinome epidermoide/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1022%20-%20Carcinome%20epidermoide/p10_00.jpeg)
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1022 - Carcinome epidermoide/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1022%20-%20Carcinome%20epidermoide/p11_00.jpeg)
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1022 - Carcinome epidermoide/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1022%20-%20Carcinome%20epidermoide/p13_00.jpeg)
 
 ### Spectre dysplasique
 
@@ -62,9 +62,9 @@ Spectre lésionnel continu : KA légère → KA marquée → carcinome in situ.
 - KA **inflammatoire/lichénoïde** : infiltrat lymphocytaire obscurcissant la jonction → mime une dermatose lichénoïde, contexte clinique redresse le diagnostic.
 - KA **acantholytique**, **hypertrophique** (kératose en corne cutanée).
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1022 - Carcinome epidermoide/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1022%20-%20Carcinome%20epidermoide/p18_00.jpeg)
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1022 - Carcinome epidermoide/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1022%20-%20Carcinome%20epidermoide/p20_00.jpeg)
 
 ### Invasion débutante
 
@@ -72,7 +72,7 @@ Spectre lésionnel continu : KA légère → KA marquée → carcinome in situ.
 - Souvent associée à une **stroma-réaction lymphocytaire** marquée → bon indice pour rechercher l'invasion.
 - En cas de doute → **CK 5/6** pour révéler les cellules tumorales infiltrantes.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1022 - Carcinome epidermoide/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1022%20-%20Carcinome%20epidermoide/p21_00.jpeg)
 
 ---
 
@@ -85,7 +85,7 @@ Spectre lésionnel continu : KA légère → KA marquée → carcinome in situ.
 - Prédilection : visage et jambes des femmes ; oreilles, cuir chevelu des hommes.
 - Clinique : macaron érythémateux ou érythématosquameux à croissance lente, **bien limité**, ± ulcérations, croûtes, squames.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1022 - Carcinome epidermoide/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1022%20-%20Carcinome%20epidermoide/p23_00.jpeg)
 
 ### Histologie
 
@@ -102,11 +102,11 @@ Spectre lésionnel continu : KA légère → KA marquée → carcinome in situ.
 - **Signe de l'eyeliner** ("eyeliner sign") : épargne possible des assises basales, distinguant Bowen de la KA (où les atypies prédominent à la base).
 - **Épargne fréquente des canaux sudoraux**.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1022 - Carcinome epidermoide/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1022%20-%20Carcinome%20epidermoide/p29_00.jpeg)
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1022 - Carcinome epidermoide/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1022%20-%20Carcinome%20epidermoide/p30_00.jpeg)
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1022 - Carcinome epidermoide/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1022%20-%20Carcinome%20epidermoide/p31_00.jpeg)
 
 ---
 
@@ -147,13 +147,13 @@ Spectre lésionnel continu : KA légère → KA marquée → carcinome in situ.
 - Épiderme de surface souvent ulcéré ; lésions associées : KA ou Bowen débordant en périphérie.
 - Architecture variable : travées, lobules, coulées verticales, massifs cratériformes.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1022 - Carcinome epidermoide/p36_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1022%20-%20Carcinome%20epidermoide/p36_00.jpeg)
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1022 - Carcinome epidermoide/p38_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1022%20-%20Carcinome%20epidermoide/p38_00.jpeg)
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1022 - Carcinome epidermoide/p41_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1022%20-%20Carcinome%20epidermoide/p41_00.jpeg)
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1022 - Carcinome epidermoide/p43_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1022%20-%20Carcinome%20epidermoide/p43_00.jpeg)
 
 ### Cytologie
 
@@ -162,11 +162,11 @@ Spectre lésionnel continu : KA légère → KA marquée → carcinome in situ.
 - Foyers de **maturation, dyskératoses**, mitoses.
 - Front d'invasion souvent inflammatoire (lymphocytaire ± lichénoïde, parfois micro-abcès à PNN).
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1022 - Carcinome epidermoide/p47_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1022%20-%20Carcinome%20epidermoide/p47_00.jpeg)
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1022 - Carcinome epidermoide/p49_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1022%20-%20Carcinome%20epidermoide/p49_00.jpeg)
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1022 - Carcinome epidermoide/p51_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1022%20-%20Carcinome%20epidermoide/p51_00.jpeg)
 
 ---
 
@@ -177,7 +177,7 @@ Spectre lésionnel continu : KA légère → KA marquée → carcinome in situ.
 - **Acantholyse prédominante** = mauvais pronostic.
 - DD : **angiosarcome épithélioïde** (s'il existe des phénomènes hémorragiques mimant des fentes vasculaires) → IHC + recherche de zones plus classiques.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1022 - Carcinome epidermoide/p55_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1022%20-%20Carcinome%20epidermoide/p55_00.jpeg)
 
 ### Carcinome épidermoïde sarcomatoïde (à cellules fusiformes)
 
@@ -185,7 +185,7 @@ Spectre lésionnel continu : KA légère → KA marquée → carcinome in situ.
 - Zones de transition entre épithélium de surface et cellules fusiformes.
 - Cf. fiche fibroxanthome atypique / sarcomes cutanés.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1022 - Carcinome epidermoide/p57_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1022%20-%20Carcinome%20epidermoide/p57_00.jpeg)
 
 ### Variante à cellules claires
 
@@ -221,9 +221,9 @@ Spectre lésionnel continu : KA légère → KA marquée → carcinome in situ.
 
 
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1022 - Carcinome epidermoide/p67_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1022%20-%20Carcinome%20epidermoide/p67_00.jpeg)
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1022 - Carcinome epidermoide/p68_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1022%20-%20Carcinome%20epidermoide/p68_00.jpeg)
 
 ### Kératoacanthome (KA) — variante de CE
 
@@ -246,13 +246,13 @@ Spectre lésionnel continu : KA légère → KA marquée → carcinome in situ.
 - **Front d'invasion** : zone la plus inquiétante, kératinocytes plus atypiques, mitoses, infiltrat lymphocytaire lichénoïde, micro-abcès intracornés, granulomes (régression).
 - Stade involutif : aplatissement, ouverture du cratère, **kystes épidermiques d'inclusion** = grains de milium superficiels.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1022 - Carcinome epidermoide/p70_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1022%20-%20Carcinome%20epidermoide/p70_00.jpeg)
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1022 - Carcinome epidermoide/p71_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1022%20-%20Carcinome%20epidermoide/p71_00.jpeg)
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1022 - Carcinome epidermoide/p72_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1022%20-%20Carcinome%20epidermoide/p72_00.jpeg)
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1022 - Carcinome epidermoide/p73_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1022%20-%20Carcinome%20epidermoide/p73_00.jpeg)
 
 ---
 

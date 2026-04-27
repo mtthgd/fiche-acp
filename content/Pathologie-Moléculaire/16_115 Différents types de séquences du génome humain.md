@@ -31,7 +31,7 @@ source: DES ACP - Pathologie moléculaire
 | Taille | Très petite | **3 milliards** de paires de bases |
 | Séquences peu conservées | Très peu | **Majoritaires** |
 
-![[assets/pathologie-moleculaire/rappels-adn/16-115 Différents types de séquences du génome humain NON SONORISE/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-115%20Diff%C3%A9rents%20types%20de%20s%C3%A9quences%20du%20g%C3%A9nome%20humain%20NON%20SONORISE/p02_00.jpeg)
 
 ## Génome nucléaire — chiffres clés
 
@@ -48,9 +48,9 @@ source: DES ACP - Pathologie moléculaire
 | Bases dans **introns + UTR** | 38,2 % |
 | Variants distinguant 2 individus | ~ **1 million** |
 
-![[assets/pathologie-moleculaire/rappels-adn/16-115 Différents types de séquences du génome humain NON SONORISE/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-115%20Diff%C3%A9rents%20types%20de%20s%C3%A9quences%20du%20g%C3%A9nome%20humain%20NON%20SONORISE/p03_00.jpeg)
 
-![[assets/pathologie-moleculaire/rappels-adn/16-115 Différents types de séquences du génome humain NON SONORISE/p03_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-115%20Diff%C3%A9rents%20types%20de%20s%C3%A9quences%20du%20g%C3%A9nome%20humain%20NON%20SONORISE/p03_02.jpeg)
 
 ## Séquence consensus — versions du génome
 
@@ -65,7 +65,7 @@ source: DES ACP - Pathologie moléculaire
 
 Format de stockage standard = **FASTA** (fichier texte).
 
-![[assets/pathologie-moleculaire/rappels-adn/16-115 Différents types de séquences du génome humain NON SONORISE/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-115%20Diff%C3%A9rents%20types%20de%20s%C3%A9quences%20du%20g%C3%A9nome%20humain%20NON%20SONORISE/p04_00.jpeg)
 
 ## Systèmes de coordonnées
 
@@ -75,9 +75,9 @@ Format de stockage standard = **FASTA** (fichier texte).
 | **Coordonnées génomiques** | **1 base** | Décrit précisément les mutations (ex : substitution C>G en chr1:position) |
 | **Coordonnées exoniques** | 1 base, repère gène | **+1** = a du codon ATG initiateur ; **−1, −2…** avant ATG ; **+1\*, +2\*…** après codon stop ; **+1, +2…** au début d’intron |
 
-![[assets/pathologie-moleculaire/rappels-adn/16-115 Différents types de séquences du génome humain NON SONORISE/p06_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-115%20Diff%C3%A9rents%20types%20de%20s%C3%A9quences%20du%20g%C3%A9nome%20humain%20NON%20SONORISE/p06_00.png)
 
-![[assets/pathologie-moleculaire/rappels-adn/16-115 Différents types de séquences du génome humain NON SONORISE/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-115%20Diff%C3%A9rents%20types%20de%20s%C3%A9quences%20du%20g%C3%A9nome%20humain%20NON%20SONORISE/p08_00.jpeg)
 
 ## Polymorphismes du génome
 
@@ -92,9 +92,9 @@ Format de stockage standard = **FASTA** (fichier texte).
 - Implications pathologiques potentielles : **autisme, schizophrénie, cancer**
 - Peuvent être soumises à la **sélection** (modulation de la quantité de protéines)
 
-![[assets/pathologie-moleculaire/rappels-adn/16-115 Différents types de séquences du génome humain NON SONORISE/p09_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-115%20Diff%C3%A9rents%20types%20de%20s%C3%A9quences%20du%20g%C3%A9nome%20humain%20NON%20SONORISE/p09_00.png)
 
-![[assets/pathologie-moleculaire/rappels-adn/16-115 Différents types de séquences du génome humain NON SONORISE/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-115%20Diff%C3%A9rents%20types%20de%20s%C3%A9quences%20du%20g%C3%A9nome%20humain%20NON%20SONORISE/p10_00.jpeg)
 
 ## Gènes — distribution
 
@@ -135,9 +135,9 @@ Format de stockage standard = **FASTA** (fichier texte).
 - Souvent regroupés en **familles** (mécanismes de duplication)
 - Peuvent être **chevauchants** ou **nichés**
 
-![[assets/pathologie-moleculaire/rappels-adn/16-115 Différents types de séquences du génome humain NON SONORISE/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-115%20Diff%C3%A9rents%20types%20de%20s%C3%A9quences%20du%20g%C3%A9nome%20humain%20NON%20SONORISE/p13_00.jpeg)
 
-![[assets/pathologie-moleculaire/rappels-adn/16-115 Différents types de séquences du génome humain NON SONORISE/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-115%20Diff%C3%A9rents%20types%20de%20s%C3%A9quences%20du%20g%C3%A9nome%20humain%20NON%20SONORISE/p14_01.jpeg)
 
 ### Pseudogènes
 - **Copies non fonctionnelles** d’un gène, séquence partiellement/fortement tronquée
@@ -145,7 +145,7 @@ Format de stockage standard = **FASTA** (fichier texte).
 - Observés au sein des **familles de gènes**
 - Potentiellement transcriptibles (et traduits en protéines aberrantes) s’ils ne possèdent pas de **codon-stop prématuré**
 
-![[assets/pathologie-moleculaire/rappels-adn/16-115 Différents types de séquences du génome humain NON SONORISE/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-115%20Diff%C3%A9rents%20types%20de%20s%C3%A9quences%20du%20g%C3%A9nome%20humain%20NON%20SONORISE/p15_00.jpeg)
 
 ## ADN intergénique
 
@@ -168,9 +168,9 @@ Origine : **transposons** capables de se déplacer (gènes "sauteurs"). Très pe
 | Séquences répétitives | – | **3 %** |
 | **Transposons (ADN)** | "Copier-coller" via **transposase**, sans intermédiaire ARN | **Aucun actif chez l’homme** (vestiges) |
 
-![[assets/pathologie-moleculaire/rappels-adn/16-115 Différents types de séquences du génome humain NON SONORISE/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-115%20Diff%C3%A9rents%20types%20de%20s%C3%A9quences%20du%20g%C3%A9nome%20humain%20NON%20SONORISE/p16_00.jpeg)
 
-![[assets/pathologie-moleculaire/rappels-adn/16-115 Différents types de séquences du génome humain NON SONORISE/p17_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-115%20Diff%C3%A9rents%20types%20de%20s%C3%A9quences%20du%20g%C3%A9nome%20humain%20NON%20SONORISE/p17_00.png)
 
 ### ADN hautement répété (non codant)
 
@@ -187,9 +187,9 @@ Origine : **transposons** capables de se déplacer (gènes "sauteurs"). Très pe
 - **Maladies à répétition de triplets** (ex : Huntington, X fragile)
 - **Cancers** (ex : **syndrome de Lynch** = instabilité microsatellite)
 
-![[assets/pathologie-moleculaire/rappels-adn/16-115 Différents types de séquences du génome humain NON SONORISE/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-115%20Diff%C3%A9rents%20types%20de%20s%C3%A9quences%20du%20g%C3%A9nome%20humain%20NON%20SONORISE/p18_00.jpeg)
 
-![[assets/pathologie-moleculaire/rappels-adn/16-115 Différents types de séquences du génome humain NON SONORISE/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-115%20Diff%C3%A9rents%20types%20de%20s%C3%A9quences%20du%20g%C3%A9nome%20humain%20NON%20SONORISE/p20_00.jpeg)
 
 ## Séquences uniques conservées
 
@@ -201,7 +201,7 @@ Origine : **transposons** capables de se déplacer (gènes "sauteurs"). Très pe
 
 L’**ADN non répété** correspond essentiellement aux **gènes codant pour des protéines**.
 
-![[assets/pathologie-moleculaire/rappels-adn/16-115 Différents types de séquences du génome humain NON SONORISE/p22_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-115%20Diff%C3%A9rents%20types%20de%20s%C3%A9quences%20du%20g%C3%A9nome%20humain%20NON%20SONORISE/p22_00.png)
 
 ---
 

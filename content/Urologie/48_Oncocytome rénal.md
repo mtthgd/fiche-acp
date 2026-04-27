@@ -38,7 +38,7 @@ source: DES ACP - Cours d'urologie
 - Forte captation en **TEP-TDM** (mitochondries, glycogène)
 
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p04_00.jpeg)
 
 ## Macroscopie
 
@@ -47,13 +47,13 @@ source: DES ACP - Cours d'urologie
 - **Cicatrice centrale** stellaire (1/3 des cas), surtout si grande taille
 - Respect de la capsule rénale (effraction possible après biopsie, mais minime)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p05_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p06_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p07_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p08_00.jpeg)
 
 ## Histologie
 
@@ -65,25 +65,25 @@ source: DES ACP - Cours d'urologie
 - **JAMAIS** : architecture papillaire, atypie pseudo-cœlocaire, inclusions intranucléaires, noyaux incisurés, nécrose tumorale
 - Cicatrice centrale = stroma œdémateux + tubes rénaux résiduels ± microcalcifications
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p09_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p10_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p11_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p12_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p13_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p14_00.jpeg)
 
 
 - Protrusions vénulaires possibles, **embols vasculaires rarissimes**
 - **Pas de grade nucléolaire ISUP** (tumeur bénigne)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p16_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p17_00.jpeg)
 
 ## IHC
 
@@ -97,11 +97,11 @@ source: DES ACP - Cours d'urologie
 | CD10 / CA9 / AMACR (P504S) | **Négatifs** |
 | HMB45 | Négatif (exclut AML) |
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p18_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p19_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p20_00.jpeg)
 
 ## DD principal : carcinome chromophobe variante éosinophile
 
@@ -118,11 +118,11 @@ source: DES ACP - Cours d'urologie
 
 Autres DD : carcinome à cellules claires éosinophile (haut grade), **angiomyolipome épithélioïde** (HMB45+), **carcinome à translocation** (TFE3+/TFEB+), **carcinome papillaire type 2 oncocytaire**.
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p21_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p22_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-131-Oncocytome/p24_00.jpeg)
 
 ## Génétique
 

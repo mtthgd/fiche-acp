@@ -42,18 +42,18 @@ L'atteinte vasculaire est causée par une **agression lymphocytaire** au 1er ou 
 - Histologie : infiltrat lymphocytaire dermique sup. + lésions capillaires + extravasation érythrocytaire
 - Stade tardif : **dépôts d'hémosidérine** brunâtres (mieux vus à la **coloration de Perls**)
 
-![[assets/dermato/vasculopathies-cutanees/08-314 Autres vascularites cutanées et vasculopathies thrombosantes/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-314%20Autres%20vascularites%20cutan%C3%A9es%20et%20vasculopathies%20thrombosantes/p06_00.jpeg)
 
-![[assets/dermato/vasculopathies-cutanees/08-314 Autres vascularites cutanées et vasculopathies thrombosantes/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-314%20Autres%20vascularites%20cutan%C3%A9es%20et%20vasculopathies%20thrombosantes/p06_01.jpeg)
 
 ### Engelures lupiques
 - Lésions distales (doigts, orteils) ressemblant aux engelures induites par le froid
 - **Infiltrat lymphocytaire dense** sur toute la hauteur du derme + extension péri-glandes sudorales
 - **Agression capillaire lymphocytaire** + foyers de **nécrose fibrinoïde** ou **thromboses**
 
-![[assets/dermato/vasculopathies-cutanees/08-314 Autres vascularites cutanées et vasculopathies thrombosantes/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-314%20Autres%20vascularites%20cutan%C3%A9es%20et%20vasculopathies%20thrombosantes/p07_00.jpeg)
 
-![[assets/dermato/vasculopathies-cutanees/08-314 Autres vascularites cutanées et vasculopathies thrombosantes/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-314%20Autres%20vascularites%20cutan%C3%A9es%20et%20vasculopathies%20thrombosantes/p08_00.jpeg)
 
 ### Papulose atrophiante de Degos (rare, gravissime)
 - Rattachement au lupus / SAPL discuté
@@ -61,9 +61,9 @@ L'atteinte vasculaire est causée par une **agression lymphocytaire** au 1er ou 
 - Histologie : **vascularite lymphocytaire thrombosante** d'une artériole dermique profonde / hypodermique
 - Territoire : **nécrose ischémique** + dépôts de **mucopolysaccharides** (mucinose dermique)
 
-![[assets/dermato/vasculopathies-cutanees/08-314 Autres vascularites cutanées et vasculopathies thrombosantes/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-314%20Autres%20vascularites%20cutan%C3%A9es%20et%20vasculopathies%20thrombosantes/p09_00.jpeg)
 
-![[assets/dermato/vasculopathies-cutanees/08-314 Autres vascularites cutanées et vasculopathies thrombosantes/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-314%20Autres%20vascularites%20cutan%C3%A9es%20et%20vasculopathies%20thrombosantes/p11_00.jpeg)
 
 ### Lymphomes avec agression vasculaire
 
@@ -76,11 +76,11 @@ L'atteinte vasculaire est causée par une **agression lymphocytaire** au 1er ou 
 | **Lymphome NK/T nasal** | **Le + agressif** : angiocentrisme + angiodestruction, **EBV+** (EBER ISH) |
 | Lymphoproliférations EBV+ | Ulcères mucocutanés, post-transplantation, DLBCL EBV+ |
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221 - Dermatoses lichénoïdes - approche diagnostique/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221%20-%20Dermatoses%20lich%C3%A9no%C3%AFdes%20-%20approche%20diagnostique/p13_00.jpeg)
 
-![[assets/dermato/vasculopathies-cutanees/08-314 Autres vascularites cutanées et vasculopathies thrombosantes/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-314%20Autres%20vascularites%20cutan%C3%A9es%20et%20vasculopathies%20thrombosantes/p15_00.jpeg)
 
-![[assets/dermato/vasculopathies-cutanees/08-314 Autres vascularites cutanées et vasculopathies thrombosantes/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-314%20Autres%20vascularites%20cutan%C3%A9es%20et%20vasculopathies%20thrombosantes/p16_00.jpeg)
 
 ## II. Vascularites accompagnatrices
 
@@ -100,9 +100,9 @@ Dans ces 2 entités : il n'est **pas rare** d'observer des lésions de **vascula
 | **Granulome facial de Lever** | Visage, 1 ou plusieurs lésions | Vascularite/périvascularite leucocytoclasique + éosinophiles → fibrose en **bulbe d'oignon** + dépôts d'hémosidérine |
 | **Erythema elevatum diutinum (EED)** | Phases d'extension des bandes, multiple | Idem, fibrose **storiforme**, parfois histiocytes anomiques |
 
-![[assets/dermato/vasculopathies-cutanees/08-314 Autres vascularites cutanées et vasculopathies thrombosantes/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-314%20Autres%20vascularites%20cutan%C3%A9es%20et%20vasculopathies%20thrombosantes/p18_00.jpeg)
 
-![[assets/dermato/vasculopathies-cutanees/08-314 Autres vascularites cutanées et vasculopathies thrombosantes/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-314%20Autres%20vascularites%20cutan%C3%A9es%20et%20vasculopathies%20thrombosantes/p20_00.jpeg)
 
 ### Vascularites infectieuses
 
@@ -112,7 +112,7 @@ Dans ces 2 entités : il n'est **pas rare** d'observer des lésions de **vascula
 3. **CIVD**
 4. **Invasion/propagation vasculaire** du pathogène + réaction inflammatoire
 
-![[assets/dermato/vasculopathies-cutanees/08-314 Autres vascularites cutanées et vasculopathies thrombosantes/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-314%20Autres%20vascularites%20cutan%C3%A9es%20et%20vasculopathies%20thrombosantes/p23_00.jpeg)
 
 #### Érysipèle (exemple)
 Vascularite intéressant un vaisseau à paroi musculaire lisse (vénule/artériole), infiltrat neutrophilique + foyers de nécrose fibrinoïde + amas de **cocci** (coloration de **Gram**).
@@ -122,9 +122,9 @@ Vascularite intéressant un vaisseau à paroi musculaire lisse (vénule/artério
 - Présentation cutanée : **livedo extensif**
 - Histologie : **vascularite dermohypodermique avec thromboses** + filaments de **diamètre inégal** caractéristiques des **mucorales** (PAS, **Grocott**)
 
-![[assets/dermato/vasculopathies-cutanees/08-314 Autres vascularites cutanées et vasculopathies thrombosantes/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-314%20Autres%20vascularites%20cutan%C3%A9es%20et%20vasculopathies%20thrombosantes/p24_01.jpeg)
 
-![[assets/dermato/vasculopathies-cutanees/08-314 Autres vascularites cutanées et vasculopathies thrombosantes/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-314%20Autres%20vascularites%20cutan%C3%A9es%20et%20vasculopathies%20thrombosantes/p25_00.jpeg)
 
 ## III. Vasculopathies thrombosantes
 
@@ -146,9 +146,9 @@ Les thromboses cutanées peuvent se développer dans plusieurs contextes :
 - **Thrombose complète** de la lumière d'une artériole du derme profond
 - **PAS d'infiltrat inflammatoire pariétal primitif**
 
-![[assets/dermato/vasculopathies-cutanees/08-314 Autres vascularites cutanées et vasculopathies thrombosantes/p28_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-314%20Autres%20vascularites%20cutan%C3%A9es%20et%20vasculopathies%20thrombosantes/p28_01.jpeg)
 
-![[assets/dermato/vasculopathies-cutanees/08-314 Autres vascularites cutanées et vasculopathies thrombosantes/p28_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-314%20Autres%20vascularites%20cutan%C3%A9es%20et%20vasculopathies%20thrombosantes/p28_02.jpeg)
 
 ### Embols de cristaux de cholestérol
 
@@ -156,9 +156,9 @@ Les thromboses cutanées peuvent se développer dans plusieurs contextes :
 - Faible grossissement : peau d'allure presque normale
 - Vaisseaux profonds artériolaires : **empreintes lancéolées** (cristaux dissous par les fixateurs) + thrombose plus ou moins organisée
 
-![[assets/dermato/vasculopathies-cutanees/08-314 Autres vascularites cutanées et vasculopathies thrombosantes/p29_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-314%20Autres%20vascularites%20cutan%C3%A9es%20et%20vasculopathies%20thrombosantes/p29_01.jpeg)
 
-![[assets/dermato/vasculopathies-cutanees/08-314 Autres vascularites cutanées et vasculopathies thrombosantes/p29_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-314%20Autres%20vascularites%20cutan%C3%A9es%20et%20vasculopathies%20thrombosantes/p29_02.jpeg)
 
 ## Tableau de synthèse
 

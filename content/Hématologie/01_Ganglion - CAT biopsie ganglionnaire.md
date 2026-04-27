@@ -35,7 +35,7 @@ Le diagnostic optimal repose sur la coordination entre :
 
 > ⚠️ Acheminement **en moins de 30 min à l'état frais et stérile**, heure du prélèvement notée. Caryotype n'est **plus** nécessaire en 1ère intention.
 
-![[assets/hematologie/ganglion_lymphatique_generalites/Diaporama 07-110_CAT biopsie ganglionnaire 0812 tjm/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/ganglion_lymphatique_generalites/Diaporama%2007-110_CAT%20biopsie%20ganglionnaire%200812%20tjm/p09_00.jpeg)
 
 ## Examen macroscopique
 
@@ -43,7 +43,7 @@ Le diagnostic optimal repose sur la coordination entre :
 - Évaluation : nombre, taille (3D), **présence de nécrose** → envoi en bactériologie
 - Couleur, consistance, nodularité, remaniements hémorragiques/nécrotiques
 
-![[assets/hematologie/ganglion_lymphatique_generalites/Diaporama 07-110_CAT biopsie ganglionnaire 0812 tjm/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/ganglion_lymphatique_generalites/Diaporama%2007-110_CAT%20biopsie%20ganglionnaire%200812%20tjm/p09_01.jpeg)
 
 ## Cas particulier : biopsies à l'aiguille (microbiopsie)
 
@@ -54,7 +54,7 @@ Le diagnostic optimal repose sur la coordination entre :
 - 2/3 pour examen paraffine, 1 cylindre pour cytométrie, 0,5 cm pour moléculaire
 - Les appositions (3-5 lames) gardent toute leur valeur
 
-![[assets/hematologie/ganglion_lymphatique_generalites/Diaporama 07-110_CAT biopsie ganglionnaire 0812 tjm/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/ganglion_lymphatique_generalites/Diaporama%2007-110_CAT%20biopsie%20ganglionnaire%200812%20tjm/p09_00.jpeg)
 
 ## Colorations utiles pour le ganglion
 

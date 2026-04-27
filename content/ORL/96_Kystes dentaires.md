@@ -46,7 +46,7 @@ Les kystes odontogènes dérivent des **restes embryonnaires du germe dentaire**
 | **Kystes congénitaux (développementaux)** | Kyste folliculaire (dentigère), kératokyste odontogène (OKC), kyste orthokératinisant | Variable |
 | **Tumeurs odontogènes kystiques** | Améloblastome unikystique | Plus rare |
 
-![[assets/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621 Kystes dentaires/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621%20Kystes%20dentaires/p04_00.jpeg)
 
 # I. KYSTES INFLAMMATOIRES
 
@@ -77,15 +77,15 @@ Les kystes odontogènes dérivent des **restes embryonnaires du germe dentaire**
 | **Amalgame dentaire** | Particules **noires**, **réfringentes** en lumière polarisée |
 | **Gutta-percha** (latex obturant les canaux) | Dépôts **granuleux**, **brunâtres**, **peu réfringents** en LP |
 
-![[assets/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621 Kystes dentaires/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621%20Kystes%20dentaires/p06_00.jpeg)
 
-![[assets/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621 Kystes dentaires/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621%20Kystes%20dentaires/p07_00.jpeg)
 
-![[assets/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621 Kystes dentaires/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621%20Kystes%20dentaires/p07_01.jpeg)
 
-![[assets/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621 Kystes dentaires/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621%20Kystes%20dentaires/p10_00.jpeg)
 
-![[assets/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621 Kystes dentaires/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621%20Kystes%20dentaires/p11_00.jpeg)
 
 ### Traitement / Pronostic
 - **Énucléation** ou **curetage**
@@ -126,11 +126,11 @@ Les kystes odontogènes dérivent des **restes embryonnaires du germe dentaire**
 ### Pronostic
 - **Pas de récidive** ; énucléation = traitement de choix
 
-![[assets/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621 Kystes dentaires/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621%20Kystes%20dentaires/p13_00.jpeg)
 
-![[assets/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621 Kystes dentaires/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621%20Kystes%20dentaires/p14_00.jpeg)
 
-![[assets/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621 Kystes dentaires/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621%20Kystes%20dentaires/p15_00.jpeg)
 
 ## Kératokyste odontogène (OKC)
 
@@ -156,17 +156,17 @@ Caractéristiques majeures :
 - **Vésicules filles / kystes satellites** : invaginations de l'épithélium
 - Remaniements inflammatoires possibles (macrophages spumeux)
 
-![[assets/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621 Kystes dentaires/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621%20Kystes%20dentaires/p17_00.jpeg)
 
-![[assets/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621 Kystes dentaires/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621%20Kystes%20dentaires/p18_00.jpeg)
 
-![[assets/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621 Kystes dentaires/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621%20Kystes%20dentaires/p18_01.jpeg)
 
-![[assets/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621 Kystes dentaires/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621%20Kystes%20dentaires/p19_00.jpeg)
 
-![[assets/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621 Kystes dentaires/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621%20Kystes%20dentaires/p20_00.jpeg)
 
-![[assets/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621 Kystes dentaires/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621%20Kystes%20dentaires/p20_01.jpeg)
 
 ### Pronostic
 - **Récidive possible** (à la différence du kyste folliculaire)
@@ -218,17 +218,17 @@ L'aspect peut être trompeur : kyste à paroi en grande partie revêtue par un *
 
 Ces critères permettent de reconnaître la **différenciation améloblastique**.
 
-![[assets/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621 Kystes dentaires/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621%20Kystes%20dentaires/p23_00.jpeg)
 
-![[assets/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621 Kystes dentaires/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621%20Kystes%20dentaires/p24_00.jpeg)
 
-![[assets/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621 Kystes dentaires/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621%20Kystes%20dentaires/p25_00.jpeg)
 
-![[assets/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621 Kystes dentaires/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621%20Kystes%20dentaires/p26_00.jpeg)
 
-![[assets/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621 Kystes dentaires/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621%20Kystes%20dentaires/p27_00.jpeg)
 
-![[assets/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621 Kystes dentaires/p27_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/os_de_la_face-dent/pathologie_non_tumorale/10-621%20Kystes%20dentaires/p27_01.jpeg)
 
 ### Immunohistochimie (en cas de doute)
 

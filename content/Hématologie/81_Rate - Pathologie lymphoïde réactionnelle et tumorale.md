@@ -28,7 +28,7 @@ La pathologie lymphoïde splénique se divise en :
 
 > ⚠️ **Tout lymphome peut affecter la rate** : penser systématiquement à un lymphome ganglionnaire en localisation splénique secondaire.
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-730_pathologie lymphoide réactionnelle et tumorale/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-730_pathologie%20lymphoide%20r%C3%A9actionnelle%20et%20tumorale/p02_00.jpeg)
 
 ---
 
@@ -54,9 +54,9 @@ La pathologie lymphoïde splénique se divise en :
 - **Atrophie complète de la pulpe blanche**, réduite au manchon lymphoïde péri-artériolaire (PALS) **CD3+**
 - **Absence complète de marquage à l’anti-CD20** (déplétion B)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-730_pathologie lymphoide réactionnelle et tumorale/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-730_pathologie%20lymphoide%20r%C3%A9actionnelle%20et%20tumorale/p03_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-730_pathologie lymphoide réactionnelle et tumorale/p03_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-730_pathologie%20lymphoide%20r%C3%A9actionnelle%20et%20tumorale/p03_03.jpeg)
 
 ### DD : anémies corpusculaires
 | Entité | Particularité splénique |
@@ -64,9 +64,9 @@ La pathologie lymphoïde splénique se divise en :
 | **Drépanocytose** | Remaniements pulpe rouge ++, infarctus, **nodules de Gandy-Gamna**, sinus gorgés d’hématies à contour irrégulier (falciformes) |
 | **Sphérocytose héréditaire (Minkowski-Chauffard)** | Hyperplasie marquée pulpe blanche, pulpe rouge dense (cordons +), **nombreux sidérophages** |
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-730_pathologie lymphoide réactionnelle et tumorale/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-730_pathologie%20lymphoide%20r%C3%A9actionnelle%20et%20tumorale/p04_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-730_pathologie lymphoide réactionnelle et tumorale/p04_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-730_pathologie%20lymphoide%20r%C3%A9actionnelle%20et%20tumorale/p04_03.jpeg)
 
 ## 1.2 Purpura thrombopénique idiopathique (PTI)
 
@@ -84,9 +84,9 @@ La pathologie lymphoïde splénique se divise en :
 ### IHC utile
 - **CD20** (follicules), **CD3 / CD5** (couronne T péri-folliculaire = **signe de dysimmunité**), **Ki-67** (CG réactionnels polarisés), **CD61** (mégacaryocytes)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-730_pathologie lymphoide réactionnelle et tumorale/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-730_pathologie%20lymphoide%20r%C3%A9actionnelle%20et%20tumorale/p06_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-730_pathologie lymphoide réactionnelle et tumorale/p06_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-730_pathologie%20lymphoide%20r%C3%A9actionnelle%20et%20tumorale/p06_03.jpeg)
 
 ## 1.3 DICV (Déficit Immunitaire Commun Variable)
 
@@ -104,9 +104,9 @@ La pathologie lymphoïde splénique se divise en :
 ### IHC conseillée
 **CD20, CD3, Ki-67, CD30, EBV (EBER)** — éviter de porter à tort un diagnostic de lymphome
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-730_pathologie lymphoide réactionnelle et tumorale/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-730_pathologie%20lymphoide%20r%C3%A9actionnelle%20et%20tumorale/p08_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-730_pathologie lymphoide réactionnelle et tumorale/p08_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-730_pathologie%20lymphoide%20r%C3%A9actionnelle%20et%20tumorale/p08_02.jpeg)
 
 ## 1.4 Mononucléose infectieuse (MI)
 
@@ -135,11 +135,11 @@ La pathologie lymphoïde splénique se divise en :
 | EBV : latence III (EBNA2+, LMP1+) | Latence II (LMP1+, EBNA2−) | Variable |
 | Architecture conservée | Effacement architectural | Effacement |
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-730_pathologie lymphoide réactionnelle et tumorale/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-730_pathologie%20lymphoide%20r%C3%A9actionnelle%20et%20tumorale/p09_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-730_pathologie lymphoide réactionnelle et tumorale/p09_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-730_pathologie%20lymphoide%20r%C3%A9actionnelle%20et%20tumorale/p09_03.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-730_pathologie lymphoide réactionnelle et tumorale/p09_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-730_pathologie%20lymphoide%20r%C3%A9actionnelle%20et%20tumorale/p09_06.jpeg)
 
 ---
 
@@ -168,13 +168,13 @@ Cf. fiche dédiée : [[27_Lymphome splénique zone marginale]]
 - Reste de centre germinatif **colonisé** par le lymphome
 - Cellules sanguines circulantes : **lymphocytes villeux** (expansions trapues)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-730_pathologie lymphoide réactionnelle et tumorale/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-730_pathologie%20lymphoide%20r%C3%A9actionnelle%20et%20tumorale/p13_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-730_pathologie lymphoide réactionnelle et tumorale/p13_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-730_pathologie%20lymphoide%20r%C3%A9actionnelle%20et%20tumorale/p13_03.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-730_pathologie lymphoide réactionnelle et tumorale/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-730_pathologie%20lymphoide%20r%C3%A9actionnelle%20et%20tumorale/p14_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-730_pathologie lymphoide réactionnelle et tumorale/p14_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-730_pathologie%20lymphoide%20r%C3%A9actionnelle%20et%20tumorale/p14_03.jpeg)
 
 #### Phénotype
 | Marqueur | Résultat |
@@ -253,9 +253,9 @@ Cf. fiche dédiée : [[27_Lymphome splénique zone marginale]]
 | **Cycline D1** | + (faible/hétérogène — attention !) |
 | **BRAF V600E** | + (IHC clone VE1, PCR) |
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-730_pathologie lymphoide réactionnelle et tumorale/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-730_pathologie%20lymphoide%20r%C3%A9actionnelle%20et%20tumorale/p17_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-730_pathologie lymphoide réactionnelle et tumorale/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-730_pathologie%20lymphoide%20r%C3%A9actionnelle%20et%20tumorale/p18_00.jpeg)
 
 ### 2.1.4 HCL-variant (HCL-V) et lymphome B du manteau leucémique non-ganglionnaire indolent
 
@@ -282,13 +282,13 @@ Cf. fiche dédiée : [[27_Lymphome splénique zone marginale]]
 - Si SOX11−, passage par le CG → cellule mémoire splénique → forme indolente
 - Mutations additionnelles (*TP53*, del 17p) → progression vers forme agressive
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-730_pathologie lymphoide réactionnelle et tumorale/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-730_pathologie%20lymphoide%20r%C3%A9actionnelle%20et%20tumorale/p20_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-730_pathologie lymphoide réactionnelle et tumorale/p20_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-730_pathologie%20lymphoide%20r%C3%A9actionnelle%20et%20tumorale/p20_03.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-730_pathologie lymphoide réactionnelle et tumorale/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-730_pathologie%20lymphoide%20r%C3%A9actionnelle%20et%20tumorale/p22_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-730_pathologie lymphoide réactionnelle et tumorale/p22_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-730_pathologie%20lymphoide%20r%C3%A9actionnelle%20et%20tumorale/p22_03.jpeg)
 
 ## 2.2 Lymphomes T spléniques (pulpe rouge +++)
 
@@ -326,13 +326,13 @@ Cf. fiche dédiée : [[27_Lymphome splénique zone marginale]]
 #### NB médullaire
 **CD3 systématique** sur toute moelle pour ne pas méconnaître l’infiltration sinusale.
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-730_pathologie lymphoide réactionnelle et tumorale/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-730_pathologie%20lymphoide%20r%C3%A9actionnelle%20et%20tumorale/p23_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-730_pathologie lymphoide réactionnelle et tumorale/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-730_pathologie%20lymphoide%20r%C3%A9actionnelle%20et%20tumorale/p25_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-730_pathologie lymphoide réactionnelle et tumorale/p25_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-730_pathologie%20lymphoide%20r%C3%A9actionnelle%20et%20tumorale/p25_03.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-730_pathologie lymphoide réactionnelle et tumorale/p25_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-730_pathologie%20lymphoide%20r%C3%A9actionnelle%20et%20tumorale/p25_06.jpeg)
 
 ### 2.2.2 Autres lymphomes T spléniques (mention)
 - **Leucémie à grands lymphocytes granuleux (T-LGL)** — diagnostic sur sang/moelle

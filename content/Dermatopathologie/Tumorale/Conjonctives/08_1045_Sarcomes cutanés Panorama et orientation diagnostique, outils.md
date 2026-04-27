@@ -60,7 +60,7 @@ source: DES ACP - Cours de dermatopathologie
 - **Angiosarcome** : faible survie globale
 - Autres : intermédiaire
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1045 Sarcomes cutanés Panorama et orientation diagnostique, outils/p06_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1045%20Sarcomes%20cutan%C3%A9s%20Panorama%20et%20orientation%20diagnostique%2C%20outils/p06_00.png)
 
 ## Tumeurs conjonctives de malignité intermédiaire
 
@@ -74,7 +74,7 @@ Les sarcomes cutanés sont particulièrement riches en **tumeurs de malignité i
 - **Fibroxanthome atypique** (FXA)
 - **Léiomyosarcome dermique** (méta exceptionnelles vs profonds)
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1045 Sarcomes cutanés Panorama et orientation diagnostique, outils/p07_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1045%20Sarcomes%20cutan%C3%A9s%20Panorama%20et%20orientation%20diagnostique%2C%20outils/p07_00.png)
 
 ## Recommandations ESMO — prise en charge initiale
 
@@ -161,7 +161,7 @@ DD essentiel devant une tumeur ulcérée du cuir chevelu en zone photo-exposée 
 
 > ATTENTION : interpréter ces marqueurs avec critique — **expressions aberrantes ou focales** fréquentes dans les sarcomes.
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1045 Sarcomes cutanés Panorama et orientation diagnostique, outils/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1045%20Sarcomes%20cutan%C3%A9s%20Panorama%20et%20orientation%20diagnostique%2C%20outils/p13_00.jpeg)
 
 ## Outils moléculaires / cytogénétiques
 
@@ -175,7 +175,7 @@ DD essentiel devant une tumeur ulcérée du cuir chevelu en zone photo-exposée 
 
 > **CGH** : peu d'indications en sarcomes cutanés
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p14_00.jpeg)
 
 ## Outils pronostiques
 
@@ -193,7 +193,7 @@ DD essentiel devant une tumeur ulcérée du cuir chevelu en zone photo-exposée 
 ### Type histologique
 - **Principal facteur pronostique** dans les sarcomes superficiels (étude française)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p15_00.jpeg)
 
 ## TNM AJCC v8 — particularités
 
@@ -203,7 +203,7 @@ DD essentiel devant une tumeur ulcérée du cuir chevelu en zone photo-exposée 
   - DFSP de la tête et du cou
 - **Valeur pronostique non testée** sur cohorte indépendante pour : DFSP, léiomyosarcomes cutanés, FXA / sarcome dermique pléomorphe
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221 - Dermatoses lichénoïdes - approche diagnostique/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221%20-%20Dermatoses%20lich%C3%A9no%C3%AFdes%20-%20approche%20diagnostique/p17_00.jpeg)
 
 ## Traitement (recommandations ESMO)
 
@@ -218,7 +218,7 @@ DD essentiel devant une tumeur ulcérée du cuir chevelu en zone photo-exposée 
 - Métastase unique : chirurgie + chimiothérapie
 - Métastases multiples/synchrones : chimiothérapie de 1ère ligne
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT Dermatoses psoriasiformes/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT%20Dermatoses%20psoriasiformes/p18_00.jpeg)
 
 ## Tableau de synthèse — orientation par cytologie
 

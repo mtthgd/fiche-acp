@@ -39,7 +39,7 @@ source: DES ACP - Pathologie moléculaire
 - Transmission le plus souvent **autosomique dominante**, parfois **récessive**
 
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-770 Notion de cancers famililaux. Gènes candidats. Pénétrance-expressivité/p05_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-770%20Notion%20de%20cancers%20famililaux.%20G%C3%A8nes%20candidats.%20P%C3%A9n%C3%A9trance-expressivit%C3%A9/p05_00.png)
 
 ### Histoire emblématique
 Patiente de **26 ans** avec dermatomyosite + adénocarcinome colique non franchissable, décédée à 1 an. Reprise de l’arbre familial → père avec cancer colique à **49 ans**, grand-père à **70 ans**. Test oncogénétique chez le père → **mutation MSH6** = **syndrome de Lynch**. Une analyse familiale plus précoce aurait permis une **surveillance coloscopique** et un diagnostic plus précoce.
@@ -49,7 +49,7 @@ Patiente de **26 ans** avec dermatomyosite + adénocarcinome colique non franchi
 L’oncogénétique cible les gènes **rares** dans la population générale et de **risque relatif élevé** (≠ SNP de susceptibilité polygénique).
 
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-770 Notion de cancers famililaux. Gènes candidats. Pénétrance-expressivité/p06_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-770%20Notion%20de%20cancers%20famililaux.%20G%C3%A8nes%20candidats.%20P%C3%A9n%C3%A9trance-expressivit%C3%A9/p06_00.png)
 
 ## Double dimension de l’information génétique
 
@@ -69,7 +69,7 @@ L’oncogénétique cible les gènes **rares** dans la population générale et 
 - **Type tumoral** évocateur de prédisposition (ex : carcinome rénal jeune, pic de cancers du sein triple négatif)
 - **Signes cliniques non tumoraux** évocateurs (ex : périmètre crânien augmenté → mutation **PTEN**)
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-770 Notion de cancers famililaux. Gènes candidats. Pénétrance-expressivité/p08_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-770%20Notion%20de%20cancers%20famililaux.%20G%C3%A8nes%20candidats.%20P%C3%A9n%C3%A9trance-expressivit%C3%A9/p08_00.png)
 
 
 ## Test constitutionnel vs test somatique
@@ -83,11 +83,11 @@ L’oncogénétique cible les gènes **rares** dans la population générale et 
 
 → Si mutation tumorale suspecte : **profondeur de séquençage** + **fréquence allélique** orientent vers un possible test constitutionnel.
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-770 Notion de cancers famililaux. Gènes candidats. Pénétrance-expressivité/p11_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-770%20Notion%20de%20cancers%20famililaux.%20G%C3%A8nes%20candidats.%20P%C3%A9n%C3%A9trance-expressivit%C3%A9/p11_00.png)
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-770 Notion de cancers famililaux. Gènes candidats. Pénétrance-expressivité/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-770%20Notion%20de%20cancers%20famililaux.%20G%C3%A8nes%20candidats.%20P%C3%A9n%C3%A9trance-expressivit%C3%A9/p11_01.jpeg)
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-770 Notion de cancers famililaux. Gènes candidats. Pénétrance-expressivité/p11_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-770%20Notion%20de%20cancers%20famililaux.%20G%C3%A8nes%20candidats.%20P%C3%A9n%C3%A9trance-expressivit%C3%A9/p11_04.jpeg)
 
 ## Réseau national d’oncogénétique (INCa)
 
@@ -95,9 +95,9 @@ L’oncogénétique cible les gènes **rares** dans la population générale et 
 - Couverture : consultations + **laboratoires constitutionnels** sur l’ensemble du territoire
 - Avantages : **homogénéisation des pratiques**, groupes de réflexion, études nationales
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-770 Notion de cancers famililaux. Gènes candidats. Pénétrance-expressivité/p12_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-770%20Notion%20de%20cancers%20famililaux.%20G%C3%A8nes%20candidats.%20P%C3%A9n%C3%A9trance-expressivit%C3%A9/p12_00.png)
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-770 Notion de cancers famililaux. Gènes candidats. Pénétrance-expressivité/p12_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-770%20Notion%20de%20cancers%20famililaux.%20G%C3%A8nes%20candidats.%20P%C3%A9n%C3%A9trance-expressivit%C3%A9/p12_04.jpeg)
 
 ## Cadre légal (lois de bioéthique)
 
@@ -119,7 +119,7 @@ Le patient cas-index est **légalement obligé** d’informer ses apparentés en
 
 
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-770 Notion de cancers famililaux. Gènes candidats. Pénétrance-expressivité/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-770%20Notion%20de%20cancers%20famililaux.%20G%C3%A8nes%20candidats.%20P%C3%A9n%C3%A9trance-expressivit%C3%A9/p15_00.jpeg)
 
 ## Principaux syndromes de prédisposition
 
@@ -173,11 +173,11 @@ Le patient cas-index est **légalement obligé** d’informer ses apparentés en
 | **Biopsies étagées endométriales** (pipelle de Cornier) | 1 an sur 2 dès **30 ans** |
 | **Hystérectomie totale + annexectomie bilatérale prophylactique** | À discuter dès **40 ans** (RCP) |
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-770 Notion de cancers famililaux. Gènes candidats. Pénétrance-expressivité/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-770%20Notion%20de%20cancers%20famililaux.%20G%C3%A8nes%20candidats.%20P%C3%A9n%C3%A9trance-expressivit%C3%A9/p21_00.jpeg)
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-770 Notion de cancers famililaux. Gènes candidats. Pénétrance-expressivité/p21_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-770%20Notion%20de%20cancers%20famililaux.%20G%C3%A8nes%20candidats.%20P%C3%A9n%C3%A9trance-expressivit%C3%A9/p21_03.jpeg)
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-770 Notion de cancers famililaux. Gènes candidats. Pénétrance-expressivité/p21_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-770%20Notion%20de%20cancers%20famililaux.%20G%C3%A8nes%20candidats.%20P%C3%A9n%C3%A9trance-expressivit%C3%A9/p21_06.jpeg)
 
 ## Prédisposition sein-ovaire BRCA1/BRCA2
 
@@ -198,7 +198,7 @@ Le patient cas-index est **légalement obligé** d’informer ses apparentés en
 → **Risque de tumeurs secondaires** chez les femmes ayant déjà eu un cancer du sein.
 
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-770 Notion de cancers famililaux. Gènes candidats. Pénétrance-expressivité/p23_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-770%20Notion%20de%20cancers%20famililaux.%20G%C3%A8nes%20candidats.%20P%C3%A9n%C3%A9trance-expressivit%C3%A9/p23_00.png)
 
 ### Surveillance et chirurgie prophylactique
 
@@ -216,11 +216,11 @@ Le patient cas-index est **légalement obligé** d’informer ses apparentés en
 - **Autopalpation** régulière, examen sénologique annuel par MT
 - **Toucher rectal + PSA** annuel dès **45 ans** (BRCA2 surtout)
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-770 Notion de cancers famililaux. Gènes candidats. Pénétrance-expressivité/p24_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-770%20Notion%20de%20cancers%20famililaux.%20G%C3%A8nes%20candidats.%20P%C3%A9n%C3%A9trance-expressivit%C3%A9/p24_00.png)
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-770 Notion de cancers famililaux. Gènes candidats. Pénétrance-expressivité/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-770%20Notion%20de%20cancers%20famililaux.%20G%C3%A8nes%20candidats.%20P%C3%A9n%C3%A9trance-expressivit%C3%A9/p25_00.jpeg)
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-770 Notion de cancers famililaux. Gènes candidats. Pénétrance-expressivité/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-770%20Notion%20de%20cancers%20famililaux.%20G%C3%A8nes%20candidats.%20P%C3%A9n%C3%A9trance-expressivit%C3%A9/p26_00.jpeg)
 
 ## Démarche pratique : cas-index → apparentés
 

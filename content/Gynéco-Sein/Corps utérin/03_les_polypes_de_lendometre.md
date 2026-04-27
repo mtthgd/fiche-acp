@@ -23,7 +23,7 @@ source: DES ACP - Cours de gynéco-pathologie (corps utérin)
 
 Définition OMS : **protrusion nodulaire de la surface endométriale**, composée d’une prolifération désorganisée de **glandes endométriales bénignes** dans un **stroma plus ou moins fibreux** = polype fibro-muqueux ou muqueux.
 
-![[assets/gyneco-sein/corps_uterin/04_41_05 Les polypes de l’endomètre MDS/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_41_05%20Les%20polypes%20de%20l%E2%80%99endom%C3%A8tre%20MDS/p06_00.jpeg)
 
 ## Clinique / Épidémio
 
@@ -41,8 +41,8 @@ Définition OMS : **protrusion nodulaire de la surface endométriale**, composé
 
 ## Histologie — le « trépied » diagnostique
 
-![[assets/gyneco-sein/corps_uterin/04_41_05 Les polypes de l’endomètre MDS/p08_00.jpeg]]
-![[assets/gyneco-sein/corps_uterin/04_41_05 Les polypes de l’endomètre MDS/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_41_05%20Les%20polypes%20de%20l%E2%80%99endom%C3%A8tre%20MDS/p08_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_41_05%20Les%20polypes%20de%20l%E2%80%99endom%C3%A8tre%20MDS/p09_00.jpeg)
 
 | Critère | Description |
 |---------|-------------|
@@ -60,14 +60,14 @@ Définition OMS : **protrusion nodulaire de la surface endométriale**, composé
 - Glandes hyperplasiques simples au sein du polype, architecture +/- complexe, **sans atypie**.
 - Revêtement stratifié de type prolifératif.
 
-![[assets/gyneco-sein/corps_uterin/04_41_05 Les polypes de l’endomètre MDS/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_41_05%20Les%20polypes%20de%20l%E2%80%99endom%C3%A8tre%20MDS/p10_00.jpeg)
 
 ### 2. Polype atrophique / glandulokystique
 - Femme **âgée**.
 - Glandes dilatées kystiques bordées d’épithélium **cubique atrophique**.
 - Sécrétion éosinophile intra-luminale possible. Axe fibreux.
 
-![[assets/gyneco-sein/corps_uterin/04_41_05 Les polypes de l’endomètre MDS/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_41_05%20Les%20polypes%20de%20l%E2%80%99endom%C3%A8tre%20MDS/p12_00.jpeg)
 
 ### 3. Polype fonctionnel
 - Glandes de **type sécrétoire** sur endomètre lui-même sécrétoire.
@@ -89,7 +89,7 @@ Définition OMS : **protrusion nodulaire de la surface endométriale**, composé
   - **métaplasie malpighienne** des glandes
   - **fibres musculaires lisses** dans le stroma
 
-![[assets/gyneco-sein/corps_uterin/04_41_05 Les polypes de l’endomètre MDS/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_41_05%20Les%20polypes%20de%20l%E2%80%99endom%C3%A8tre%20MDS/p16_00.jpeg)
 
 ## Immunohistochimie
 
@@ -119,8 +119,8 @@ Définition OMS : **protrusion nodulaire de la surface endométriale**, composé
 | **Adénosarcome müllérien** | architecture **foliacée / phyllode**, hypercellularité **péri-glandulaire**, atypies stromales, mitoses, > 3 cm souvent ; récidives répétées |
 | **Carcinome polypoïde** | atypies architecturales et cytonucléaires majeures |
 
-![[assets/gyneco-sein/corps_uterin/04_41_05 Les polypes de l’endomètre MDS/p27_00.jpeg]]
-![[assets/gyneco-sein/corps_uterin/04_41_05 Les polypes de l’endomètre MDS/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_41_05%20Les%20polypes%20de%20l%E2%80%99endom%C3%A8tre%20MDS/p27_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_41_05%20Les%20polypes%20de%20l%E2%80%99endom%C3%A8tre%20MDS/p29_00.jpeg)
 
 ### Adénosarcome — pièges
 - Architecture **foliacée et phyllode** (rappelle la tumeur phyllode du sein).

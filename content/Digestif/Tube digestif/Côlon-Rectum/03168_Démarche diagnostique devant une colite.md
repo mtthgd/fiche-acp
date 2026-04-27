@@ -45,7 +45,7 @@ source: DES ACP - Cours de digestif
 - Muciphages, hémosidérine peuvent être présents
 - **Pseudolipomatose** = artefact d'insufflation = pas une colite
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.8 Démarche diagnostique devant une colite/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.8%20D%C3%A9marche%20diagnostique%20devant%20une%20colite/p06_00.jpeg)
 
 ## Affirmer une colite
 
@@ -79,7 +79,7 @@ source: DES ACP - Cours de digestif
 - Sous-muqueuse intacte, musculaire muqueuse intacte
 - **PAS de signe de chronicité** : pas de plasmocytose basale, pas de désordre architectural, pas d'atrophie
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.8 Démarche diagnostique devant une colite/p11_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.8%20D%C3%A9marche%20diagnostique%20devant%20une%20colite/p11_03.jpeg)
 
 > ⚠️ *Campylobacter*, *Salmonella* peuvent donner des **diarrhées prolongées** > 6 semaines avec quelques signes de chronicité.
 
@@ -103,7 +103,7 @@ Pas spécifique d'un agent. Plusieurs bactéries (par sécrétion d'endotoxines)
 | **Collagène** | **Bande basale ≥ 10 µm** (HES + safran ou trichrome) |
 | Lymphocytaire paucicellulaire | 10-20 LIE/100 + diarrhée |
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.8 Démarche diagnostique devant une colite/p13_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.8%20D%C3%A9marche%20diagnostique%20devant%20une%20colite/p13_02.jpeg)
 
 
 ### Pièges
@@ -117,7 +117,7 @@ Pas spécifique d'un agent. Plusieurs bactéries (par sécrétion d'endotoxines)
 
 Si diarrhée chronique + endoscopie normale + histologie normale → penser à la **spirochétose** : bactéries fusiformes plantées dans l'épithélium de surface, **mieux vues au PAS**, contexte HSH ou HIV, traitement uniquement si symptomatique.
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.8 Démarche diagnostique devant une colite/p16_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.8%20D%C3%A9marche%20diagnostique%20devant%20une%20colite/p16_03.png)
 
 ## Colite chronique active (MICI)
 
@@ -127,7 +127,7 @@ Si diarrhée chronique + endoscopie normale + histologie normale → penser à l
 1. **Distorsion glandulaire** (cryptes branchées, dilatées, horizontalisées, atrophiques, hiatus, surface festonnée/villeuse)
 2. **Plasmocytose basale** (perte du gradient plasmocytaire normal, plasmocytes denses contre la musculaire muqueuse)
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.8 Démarche diagnostique devant une colite/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.8%20D%C3%A9marche%20diagnostique%20devant%20une%20colite/p20_01.jpeg)
 
 ### Activité
 
@@ -169,7 +169,7 @@ Si diarrhée chronique + endoscopie normale + histologie normale → penser à l
 3. **DICV**
 4. Entérocolite auto-immune (rare, adulte)
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.8 Démarche diagnostique devant une colite/p23_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.8%20D%C3%A9marche%20diagnostique%20devant%20une%20colite/p23_03.jpeg)
 
 ## Colite de pattern ischémique
 
@@ -183,9 +183,9 @@ Si diarrhée chronique + endoscopie normale + histologie normale → penser à l
 - Athrophie / nécrose glandulaire selon sévérité
 - Phase chronique : **fibrose profonde**, hémosidérine (Perls +), microthrombi
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.8 Démarche diagnostique devant une colite/p26_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.8%20D%C3%A9marche%20diagnostique%20devant%20une%20colite/p26_04.jpeg)
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.8 Démarche diagnostique devant une colite/p27_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.8%20D%C3%A9marche%20diagnostique%20devant%20une%20colite/p27_04.jpeg)
 
 > **Colite radique chronique** = pattern ischémique chronique avec fibrose profonde, dystrophie glandulaire, angiogenèse.
 

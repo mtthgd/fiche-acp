@@ -52,7 +52,7 @@ S'insère depuis l'annexe pilaire jusqu'à la basale épidermique. Contraction �
 L'épiderme repose sur la **jonction dermo-épidermique** (lame basale, **PAS+**, collagène IV+).
 
 
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p03_01.jpeg)
 
 
 ## Cellules non-kératinocytaires de l'épiderme
@@ -67,7 +67,7 @@ L'épiderme repose sur la **jonction dermo-épidermique** (lame basale, **PAS+**
 - Ratio : **1 mélanocyte / 5 à 10 kératinocytes** basaux (constant quel que soit le phototype)
 
 
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p04_01.jpeg)
 
 
 ### 2. Cellules de Langerhans
@@ -78,7 +78,7 @@ L'épiderme repose sur la **jonction dermo-épidermique** (lame basale, **PAS+**
 - Vésicules endosomales caractéristiques en **forme de raquette** (granules de **Birbeck**) en microscopie électronique
 - Captent les antigènes traversant la barrière cutanée → présentation aux lymphocytes T
 
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p05_00.jpeg)
 
 
 
@@ -91,9 +91,9 @@ L'épiderme repose sur la **jonction dermo-épidermique** (lame basale, **PAS+**
 - Fonction sensorielle (mécanoréception fine) — précise encore débattue
 - À l'origine du **carcinome de Merkel** (rare mais agressif)
 
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p06_00.jpeg)
 
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p06_01.jpeg)
 
 
 
@@ -113,9 +113,9 @@ Cheveux, poils pubiens / axillaires post-pubertaires.
 Distinction poil mature vs **duvet** = développement de la portion profonde sous le muscle arrecteur.
 
 
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p07_01.jpeg)
 
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p07_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p07_02.jpeg)
 
 
 ### Glandes sébacées
@@ -125,9 +125,9 @@ Distinction poil mature vs **duvet** = développement de la portion profonde sou
 - Sébum éliminé par le **pore folliculaire**
 - Régions séborrhéiques abondantes : front, nez, joues, menton, tronc (faces antérieure et postérieure) — siège de l'**acné**
 
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p08_00.jpeg)
 
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p08_01.jpeg)
 
 
 
@@ -140,7 +140,7 @@ Distinction poil mature vs **duvet** = développement de la portion profonde sou
 - Pore sudoral à la surface — rôle dans la **thermorégulation**
 - Marqueur : **cytokératine 7** (CK7), **non exprimée dans l'épiderme ni dans les gaines pilaires**
 
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p09_00.jpeg)
 
 
 
@@ -157,9 +157,9 @@ Régions axillaires, périnéales, aréolaires. Sécrétion par décapitation ce
 | **Fibroblaste** | **Procollagène I** | Production de collagène |
 | **Mastocyte** | **Tryptase**, **CD117** (KIT) | Mucopolysaccharides de la substance fondamentale, médiateurs |
 
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p10_00.jpeg)
 
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p10_01.jpeg)
 
 
 
@@ -177,17 +177,17 @@ Régions axillaires, périnéales, aréolaires. Sécrétion par décapitation ce
 | **Corpuscule de Meissner** | Papilles dermiques | Tact fin |
 | **Glomus périvasculaire** | Peau acrale (extrémités) | Thermorégulation : cellules contractiles fermant les shunts vasculaires en cas de froid |
 
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p11_00.jpeg)
 
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p11_01.jpeg]]
-
-
-
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p11_01.jpeg)
 
 
 
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p12_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p12_00.jpeg)
+
+
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p12_03.jpeg)
 
 ## Variations physiologiques
 
@@ -201,9 +201,9 @@ Régions axillaires, périnéales, aréolaires. Sécrétion par décapitation ce
 - Topographie privilégiée des **glomus périvasculaires**
 
 
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p13_01.jpeg)
 
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p13_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p13_02.jpeg)
 
 
 ### Selon le phototype
@@ -219,9 +219,9 @@ La couleur de la peau résulte de :
 - Pigmentation brune nette des coupes histologiques, prédominant dans la **couche basale**, distribuée secondairement aux cellules plus matures
 
 
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p14_01.jpeg)
 
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p14_02.jpeg)
 
 
 ### Vieillissement cutané
@@ -232,9 +232,9 @@ La couleur de la peau résulte de :
 
 
 
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p16_01.jpeg)
 
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p16_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p16_02.jpeg)
 
 
 ## Sémiologie histologique élémentaire — exemples illustratifs
@@ -247,7 +247,7 @@ Maladie auto-immune à médiation lymphocytaire :
 - **Acanthose** (épaississement du corps muqueux)
 - Infiltrat lichénoïde (interface) lymphocytaire dermique
 
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p17_00.jpeg)
 
 
 
@@ -257,7 +257,7 @@ Maladie auto-immune à médiation lymphocytaire :
 - Formation de cavités sous-cornées contenant **lymphocytes** et **cellules de Langerhans**
 
 
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p18_01.jpeg)
 
 
 ### Psoriasis pustuleux
@@ -274,28 +274,28 @@ Maladie auto-immune à médiation lymphocytaire :
 - **Sans lésion de vascularite**
 
 
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p20_01.jpeg)
 
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p20_02.jpeg]]
-
-
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p21_00.jpeg]]
-
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p21_01.jpeg]]
-
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p21_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p20_02.jpeg)
 
 
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p21_00.jpeg)
 
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p21_01.jpeg)
 
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p21_02.jpeg)
 
 
 
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p22_00.jpeg)
 
-![[assets/dermato/introduction/08-111 Peau normale et sémiologie élémentaire/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p22_01.jpeg)
+
+
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p23_00.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-111%20Peau%20normale%20et%20s%C3%A9miologie%20%C3%A9l%C3%A9mentaire/p23_01.jpeg)
 
 
 

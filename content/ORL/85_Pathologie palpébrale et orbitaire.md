@@ -29,8 +29,8 @@ source: DES ACP - Cours d'ORL
 3. **Tarse** — tissu conjonctif dense rigide (abusivement appelé « cartilage ») contenant les **glandes sébacées de Meibomius**
 4. **Conjonctive palpébrale**
 
-![[assets/ORL/oeil/pathologie_palpebrale_orbite/10.441 Paupière - orbite-Relu EF/p04_04.jpeg]]
-![[assets/ORL/oeil/pathologie_palpebrale_orbite/10.441 Paupière - orbite-Relu EF/p04_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_palpebrale_orbite/10.441%20Paupi%C3%A8re%20-%20orbite-Relu%20EF/p04_04.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_palpebrale_orbite/10.441%20Paupi%C3%A8re%20-%20orbite-Relu%20EF/p04_05.jpeg)
 
 ### Richesse en annexes glandulaires (particularité palpébrale)
 - Glandes **écrines** (autour de l'orbicularis)
@@ -51,7 +51,7 @@ source: DES ACP - Cours d'ORL
 - Corion : tissu fibreux vascularisé, qq lymphocytes, glandes mucosécrétantes, glandes lacrymales accessoires
 - **Pas de poils, pas de glande sudorale**
 
-![[assets/ORL/oeil/pathologie_palpebrale_orbite/10.441 Paupière - orbite-Relu EF/p08_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_palpebrale_orbite/10.441%20Paupi%C3%A8re%20-%20orbite-Relu%20EF/p08_05.jpeg)
 
 ### Orbite : contenu
 - Tissu **fibroadipeux**
@@ -60,8 +60,8 @@ source: DES ACP - Cours d'ORL
 - **Voies lacrymales** (canaux, sac lacrymal) : épithélium cylindrique avec cellules mucosécrétantes
 - Contenant : osseux, en relation étroite avec les sinus de la face et la cavité crânienne
 
-![[assets/ORL/oeil/pathologie_palpebrale_orbite/10.441 Paupière - orbite-Relu EF/p15_00.jpeg]]
-![[assets/ORL/oeil/pathologie_palpebrale_orbite/10.441 Paupière - orbite-Relu EF/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_palpebrale_orbite/10.441%20Paupi%C3%A8re%20-%20orbite-Relu%20EF/p15_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_palpebrale_orbite/10.441%20Paupi%C3%A8re%20-%20orbite-Relu%20EF/p15_01.jpeg)
 
 ## Pathologie palpébrale
 
@@ -71,8 +71,8 @@ source: DES ACP - Cours d'ORL
 - **Kystes épidermiques**, **hidrocystomes** (dilatations kystiques de glandes écrines/apocrines)
 - **Chalazion** : infiltrat inflammatoire **granulomateux** (type corps étranger) au contact des glandes de Meibomius, avec vacuoles optiquement vides (acides gras libérés par les sébocytes). Peut mimer cliniquement une tumeur
 
-![[assets/ORL/oeil/pathologie_palpebrale_orbite/10.441 Paupière - orbite-Relu EF/p16_00.jpeg]]
-![[assets/ORL/oeil/pathologie_palpebrale_orbite/10.441 Paupière - orbite-Relu EF/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_palpebrale_orbite/10.441%20Paupi%C3%A8re%20-%20orbite-Relu%20EF/p16_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_palpebrale_orbite/10.441%20Paupi%C3%A8re%20-%20orbite-Relu%20EF/p16_01.jpeg)
 
 ### Lésions malignes — hiérarchie de fréquence
 | Ordre | Tumeur | Particularité |
@@ -84,8 +84,8 @@ source: DES ACP - Cours d'ORL
 
 Patients âgés (si jeune patient 20-30 ans avec apparence maligne → penser lésion bénigne annexielle !).
 
-![[assets/ORL/oeil/pathologie_palpebrale_orbite/10.441 Paupière - orbite-Relu EF/p20_00.jpeg]]
-![[assets/ORL/oeil/pathologie_palpebrale_orbite/10.441 Paupière - orbite-Relu EF/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_palpebrale_orbite/10.441%20Paupi%C3%A8re%20-%20orbite-Relu%20EF/p20_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_palpebrale_orbite/10.441%20Paupi%C3%A8re%20-%20orbite-Relu%20EF/p21_01.jpeg)
 
 ### Carcinome sébacé — à NE PAS méconnaître
 
@@ -102,9 +102,9 @@ Patients âgés (si jeune patient 20-30 ans avec apparence maligne → penser l�
 - Aspect médullaire indifférencié possible (DD métastase)
 - **Sécrétion holocrine** typique
 
-![[assets/ORL/oeil/pathologie_palpebrale_orbite/10.441 Paupière - orbite-Relu EF/p21_02.jpeg]]
-![[assets/ORL/oeil/pathologie_palpebrale_orbite/10.441 Paupière - orbite-Relu EF/p22_00.jpeg]]
-![[assets/ORL/oeil/pathologie_palpebrale_orbite/10.441 Paupière - orbite-Relu EF/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_palpebrale_orbite/10.441%20Paupi%C3%A8re%20-%20orbite-Relu%20EF/p21_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_palpebrale_orbite/10.441%20Paupi%C3%A8re%20-%20orbite-Relu%20EF/p22_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_palpebrale_orbite/10.441%20Paupi%C3%A8re%20-%20orbite-Relu%20EF/p22_01.jpeg)
 
 **Immunohistochimie**
 | Marqueur | Résultat |
@@ -120,7 +120,7 @@ Patients âgés (si jeune patient 20-30 ans avec apparence maligne → penser l�
 - Pas de classification OMS dédiée : utiliser **OMS tumeurs cutanées 2018**
 - **TNM spécifique** pour les carcinomes palpébraux basé sur la **taille** et l'**extension anatomique** (infiltration du tarse, de toute l'épaisseur jusqu'à la conjonctive) → **bonne inclusion et bonne connaissance de l'histologie indispensables**
 
-![[assets/ORL/oeil/pathologie_palpebrale_orbite/10.441 Paupière - orbite-Relu EF/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_palpebrale_orbite/10.441%20Paupi%C3%A8re%20-%20orbite-Relu%20EF/p27_00.jpeg)
 
 ## Pathologie orbitaire
 
@@ -134,8 +134,8 @@ Patients âgés (si jeune patient 20-30 ans avec apparence maligne → penser l�
 | Inflammation chronique non granulomateuse (« pseudo-tumeur ») | Lymphocytes, plasmocytes ; rechercher **maladie à IgG4** |
 | Inflammation chronique granulomateuse | Sarcoïdose, vascularites, infections (tuberculose, mycoses, parasitoses) |
 
-![[assets/ORL/oeil/pathologie_palpebrale_orbite/10.441 Paupière - orbite-Relu EF/p34_00.jpeg]]
-![[assets/ORL/oeil/pathologie_palpebrale_orbite/10.441 Paupière - orbite-Relu EF/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_palpebrale_orbite/10.441%20Paupi%C3%A8re%20-%20orbite-Relu%20EF/p34_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_palpebrale_orbite/10.441%20Paupi%C3%A8re%20-%20orbite-Relu%20EF/p35_00.jpeg)
 
 ### Maladie liée aux IgG4 — triade histologique
 1. **Fibrose storiforme**
@@ -149,9 +149,9 @@ Atteinte préférentielle : **glande lacrymale** (cadran supéro-externe).
 - **> 100 plasmocytes IgG4+/HPF** (selon le site — réf. Modern Pathology)
 - **Ratio IgG4/IgG totales > 40 %**
 
-![[assets/ORL/oeil/pathologie_palpebrale_orbite/10.441 Paupière - orbite-Relu EF/p38_00.jpeg]]
-![[assets/ORL/oeil/pathologie_palpebrale_orbite/10.441 Paupière - orbite-Relu EF/p38_01.jpeg]]
-![[assets/ORL/oeil/pathologie_palpebrale_orbite/10.441 Paupière - orbite-Relu EF/p38_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_palpebrale_orbite/10.441%20Paupi%C3%A8re%20-%20orbite-Relu%20EF/p38_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_palpebrale_orbite/10.441%20Paupi%C3%A8re%20-%20orbite-Relu%20EF/p38_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_palpebrale_orbite/10.441%20Paupi%C3%A8re%20-%20orbite-Relu%20EF/p38_02.jpeg)
 
 ### Pathologie tumorale orbitaire : raisonner selon l'ÂGE
 
@@ -171,9 +171,9 @@ Atteinte préférentielle : **glande lacrymale** (cadran supéro-externe).
 
 IHC : **desmine +, myogénine +, MyoD1 +**.
 
-![[assets/ORL/oeil/pathologie_palpebrale_orbite/10.441 Paupière - orbite-Relu EF/p39_00.jpeg]]
-![[assets/ORL/oeil/pathologie_palpebrale_orbite/10.441 Paupière - orbite-Relu EF/p39_02.jpeg]]
-![[assets/ORL/oeil/pathologie_palpebrale_orbite/10.441 Paupière - orbite-Relu EF/p39_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_palpebrale_orbite/10.441%20Paupi%C3%A8re%20-%20orbite-Relu%20EF/p39_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_palpebrale_orbite/10.441%20Paupi%C3%A8re%20-%20orbite-Relu%20EF/p39_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_palpebrale_orbite/10.441%20Paupi%C3%A8re%20-%20orbite-Relu%20EF/p39_04.jpeg)
 
 ### Chez l'adulte — Lymphomes orbitaires
 
@@ -186,7 +186,7 @@ IHC : **desmine +, myogénine +, MyoD1 +**.
 - Extension par contiguïté : **CBC palpébral** agressif, mélanome
 - Métastases à distance : **sein** (lobulaire ++), **poumon**, **mélanome**, rein
 
-![[assets/ORL/oeil/pathologie_palpebrale_orbite/10.441 Paupière - orbite-Relu EF/p40_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_palpebrale_orbite/10.441%20Paupi%C3%A8re%20-%20orbite-Relu%20EF/p40_00.jpeg)
 
 ### Tumeurs de la glande lacrymale
 **Histologie proche des glandes salivaires** → classification OMS 2018 commune.
@@ -202,8 +202,8 @@ IHC : **desmine +, myogénine +, MyoD1 +**.
 - Adénocarcinomes de type glandes salivaires
 - Lésions inflammatoires chroniques (dacryocystites chroniques)
 
-![[assets/ORL/oeil/pathologie_palpebrale_orbite/10.441 Paupière - orbite-Relu EF/p42_00.jpeg]]
-![[assets/ORL/oeil/pathologie_palpebrale_orbite/10.441 Paupière - orbite-Relu EF/p44_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_palpebrale_orbite/10.441%20Paupi%C3%A8re%20-%20orbite-Relu%20EF/p42_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_palpebrale_orbite/10.441%20Paupi%C3%A8re%20-%20orbite-Relu%20EF/p44_00.jpeg)
 
 ### Tumeurs des tissus mous orbitaires
 
@@ -227,8 +227,8 @@ IHC : **desmine +, myogénine +, MyoD1 +**.
 ### Tumeurs des gaines nerveuses
 Schwannome, neurofibrome (neurofibromatose).
 
-![[assets/ORL/oeil/pathologie_palpebrale_orbite/10.441 Paupière - orbite-Relu EF/p48_03.jpeg]]
-![[assets/ORL/oeil/pathologie_palpebrale_orbite/10.441 Paupière - orbite-Relu EF/p50_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_palpebrale_orbite/10.441%20Paupi%C3%A8re%20-%20orbite-Relu%20EF/p48_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_palpebrale_orbite/10.441%20Paupi%C3%A8re%20-%20orbite-Relu%20EF/p50_00.jpeg)
 
 ## Diagnostics différentiels clés
 

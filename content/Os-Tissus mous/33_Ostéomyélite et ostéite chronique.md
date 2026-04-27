@@ -25,7 +25,7 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Non bactériennes** : ostéomyélite chronique non bactérienne (CNO/CRMO), SAPHO
 
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220 Ostéomyélite, ostéite chronique/p01_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220%20Ost%C3%A9omy%C3%A9lite%2C%20ost%C3%A9ite%20chronique/p01_03.jpeg)
 
 ---
 
@@ -68,29 +68,29 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 
 **Néo-ostéogenèse périostée** parfois très abondante, non spécifique.
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220 Ostéomyélite, ostéite chronique/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220%20Ost%C3%A9omy%C3%A9lite%2C%20ost%C3%A9ite%20chronique/p07_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220 Ostéomyélite, ostéite chronique/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220%20Ost%C3%A9omy%C3%A9lite%2C%20ost%C3%A9ite%20chronique/p08_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220 Ostéomyélite, ostéite chronique/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220%20Ost%C3%A9omy%C3%A9lite%2C%20ost%C3%A9ite%20chronique/p09_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220 Ostéomyélite, ostéite chronique/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220%20Ost%C3%A9omy%C3%A9lite%2C%20ost%C3%A9ite%20chronique/p10_00.jpeg)
 
 ### ⚠️ Piège majeur
 
 Une lésion riche en PNN et nécrose peut être un **sarcome d'Ewing** (exemple cité : premier diagnostic d'ostéomyélite chez une enfant, seconde biopsie = sarcome d'Ewing devant discordance clinique). **Toujours envisager la tumeur sous-jacente**.
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220 Ostéomyélite, ostéite chronique/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220%20Ost%C3%A9omy%C3%A9lite%2C%20ost%C3%A9ite%20chronique/p10_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220 Ostéomyélite, ostéite chronique/p10_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220%20Ost%C3%A9omy%C3%A9lite%2C%20ost%C3%A9ite%20chronique/p10_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220 Ostéomyélite, ostéite chronique/p10_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220%20Ost%C3%A9omy%C3%A9lite%2C%20ost%C3%A9ite%20chronique/p10_03.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220 Ostéomyélite, ostéite chronique/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220%20Ost%C3%A9omy%C3%A9lite%2C%20ost%C3%A9ite%20chronique/p11_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220 Ostéomyélite, ostéite chronique/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220%20Ost%C3%A9omy%C3%A9lite%2C%20ost%C3%A9ite%20chronique/p12_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220 Ostéomyélite, ostéite chronique/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220%20Ost%C3%A9omy%C3%A9lite%2C%20ost%C3%A9ite%20chronique/p12_01.jpeg)
 
 ---
 
@@ -117,15 +117,15 @@ Une lésion riche en PNN et nécrose peut être un **sarcome d'Ewing** (exemple 
 
 Enfant avec tuméfaction de la main, **hypogammaglobulinémie** : matériel nécrotique avec petites structures sphériques mises en évidence au **Grocott** → cryptocoque dans un déficit immunitaire rare.
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220 Ostéomyélite, ostéite chronique/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220%20Ost%C3%A9omy%C3%A9lite%2C%20ost%C3%A9ite%20chronique/p14_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220 Ostéomyélite, ostéite chronique/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220%20Ost%C3%A9omy%C3%A9lite%2C%20ost%C3%A9ite%20chronique/p14_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220 Ostéomyélite, ostéite chronique/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220%20Ost%C3%A9omy%C3%A9lite%2C%20ost%C3%A9ite%20chronique/p15_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220 Ostéomyélite, ostéite chronique/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220%20Ost%C3%A9omy%C3%A9lite%2C%20ost%C3%A9ite%20chronique/p15_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220 Ostéomyélite, ostéite chronique/p15_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220%20Ost%C3%A9omy%C3%A9lite%2C%20ost%C3%A9ite%20chronique/p15_02.jpeg)
 
 ---
 
@@ -156,9 +156,9 @@ Enfant avec tuméfaction de la main, **hypogammaglobulinémie** : matériel néc
 - Parfois chirurgie
 - ⚠️ **Pas d'antibiothérapie**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220 Ostéomyélite, ostéite chronique/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220%20Ost%C3%A9omy%C3%A9lite%2C%20ost%C3%A9ite%20chronique/p19_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220 Ostéomyélite, ostéite chronique/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-220%20Ost%C3%A9omy%C3%A9lite%2C%20ost%C3%A9ite%20chronique/p19_01.jpeg)
 
 ---
 

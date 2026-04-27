@@ -33,9 +33,9 @@ source: DES ACP - Pathologie moléculaire
 | **ARN non codants** (miARN, lncARN) | Régulation post-transcriptionnelle |
 | Méthylation de l’ARN, etc. | À découvrir |
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-280 Modification épigénétique de lADN. Méthylation de lADN et histones/p01_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-280%20Modification%20%C3%A9pig%C3%A9n%C3%A9tique%20de%20lADN.%20M%C3%A9thylation%20de%20lADN%20et%20histones/p01_00.jpeg)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-280 Modification épigénétique de lADN. Méthylation de lADN et histones/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-280%20Modification%20%C3%A9pig%C3%A9n%C3%A9tique%20de%20lADN.%20M%C3%A9thylation%20de%20lADN%20et%20histones/p05_00.jpeg)
 
 ## I. Méthylation de l’ADN
 
@@ -65,11 +65,11 @@ Chez l’homme, la méthylation de la cytosine survient **toujours dans un conte
 - **Promoteur méthylé** → **inhibition** de l’expression du gène
 - Promoteurs **pauvres en CpG** sans îlot : généralement **méthylés** → gènes finement régulés (souvent inhibés par défaut)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-280 Modification épigénétique de lADN. Méthylation de lADN et histones/p06_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-280%20Modification%20%C3%A9pig%C3%A9n%C3%A9tique%20de%20lADN.%20M%C3%A9thylation%20de%20lADN%20et%20histones/p06_00.png)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-280 Modification épigénétique de lADN. Méthylation de lADN et histones/p08_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-280%20Modification%20%C3%A9pig%C3%A9n%C3%A9tique%20de%20lADN.%20M%C3%A9thylation%20de%20lADN%20et%20histones/p08_00.png)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-280 Modification épigénétique de lADN. Méthylation de lADN et histones/p10_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-280%20Modification%20%C3%A9pig%C3%A9n%C3%A9tique%20de%20lADN.%20M%C3%A9thylation%20de%20lADN%20et%20histones/p10_00.png)
 
 ### Représentation graphique
 
@@ -77,7 +77,7 @@ Convention internationale : représentation en **« sucette »**.
 - Cercle **blanc** = CpG **non méthylé**
 - Cercle **noir** = CpG **méthylé**
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-280 Modification épigénétique de lADN. Méthylation de lADN et histones/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-280%20Modification%20%C3%A9pig%C3%A9n%C3%A9tique%20de%20lADN.%20M%C3%A9thylation%20de%20lADN%20et%20histones/p11_00.jpeg)
 
 ### Profils — cellule normale vs cellule cancéreuse
 
@@ -88,9 +88,9 @@ Convention internationale : représentation en **« sucette »**.
 | **Enhancers** | Variable | Inhibition aberrante par hyperméthylation | Anomalies de régulation |
 | **Promoteurs pauvres en CpG** | Méthylés (gènes inhibés) | **Hypométhylés** | Expression aberrante d’**oncogènes** |
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-280 Modification épigénétique de lADN. Méthylation de lADN et histones/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-280%20Modification%20%C3%A9pig%C3%A9n%C3%A9tique%20de%20lADN.%20M%C3%A9thylation%20de%20lADN%20et%20histones/p12_00.jpeg)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-280 Modification épigénétique de lADN. Méthylation de lADN et histones/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-280%20Modification%20%C3%A9pig%C3%A9n%C3%A9tique%20de%20lADN.%20M%C3%A9thylation%20de%20lADN%20et%20histones/p13_00.jpeg)
 
 ## Phénotype CIMP (CpG Island Methylator Phenotype)
 
@@ -104,9 +104,9 @@ Sous-groupe de tumeurs à **hyperméthylation très marquée** des îlots CpG.
 | **Gliome IDH1/IDH2 muté** | **Phénotype hyperméthylé systématique** par dérégulation des enzymes de **déméthylation** (les enzymes de déméthylation utilisent l’α-cétoglutarate, antagonisé par le 2-hydroxyglutarate produit par IDH muté) |
 | **Adénocarcinome gastrique** (sous-groupe EBV+) | Hyperméthylation marquée |
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-280 Modification épigénétique de lADN. Méthylation de lADN et histones/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-280%20Modification%20%C3%A9pig%C3%A9n%C3%A9tique%20de%20lADN.%20M%C3%A9thylation%20de%20lADN%20et%20histones/p16_00.jpeg)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-280 Modification épigénétique de lADN. Méthylation de lADN et histones/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-280%20Modification%20%C3%A9pig%C3%A9n%C3%A9tique%20de%20lADN.%20M%C3%A9thylation%20de%20lADN%20et%20histones/p17_00.jpeg)
 
 ## Le méthylome
 
@@ -126,13 +126,13 @@ Sous-groupe de tumeurs à **hyperméthylation très marquée** des îlots CpG.
 - Représentation **t-SNE** : chaque tumeur = un point ; les tumeurs proches forment un **cluster** = entité diagnostique
 - A permis l’identification de **nouvelles entités tumorales** (regroupées ensuite par fusions géniques)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-280 Modification épigénétique de lADN. Méthylation de lADN et histones/p18_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-280%20Modification%20%C3%A9pig%C3%A9n%C3%A9tique%20de%20lADN.%20M%C3%A9thylation%20de%20lADN%20et%20histones/p18_00.png)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-280 Modification épigénétique de lADN. Méthylation de lADN et histones/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-280%20Modification%20%C3%A9pig%C3%A9n%C3%A9tique%20de%20lADN.%20M%C3%A9thylation%20de%20lADN%20et%20histones/p20_00.jpeg)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-280 Modification épigénétique de lADN. Méthylation de lADN et histones/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-280%20Modification%20%C3%A9pig%C3%A9n%C3%A9tique%20de%20lADN.%20M%C3%A9thylation%20de%20lADN%20et%20histones/p21_00.jpeg)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-280 Modification épigénétique de lADN. Méthylation de lADN et histones/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-280%20Modification%20%C3%A9pig%C3%A9n%C3%A9tique%20de%20lADN.%20M%C3%A9thylation%20de%20lADN%20et%20histones/p22_00.jpeg)
 
 ## II. Méthylation des histones
 
@@ -191,10 +191,10 @@ Différentes modifications possibles : **méthylation**, acétylation, phosphory
 | **MPNST** (tumeurs malignes de la gaine des nerfs périphériques) | Perte fréquente |
 | Mélanomes | Perte aussi observée → ne sert plus dans le DD avec MPNST |
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-280 Modification épigénétique de lADN. Méthylation de lADN et histones/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-280%20Modification%20%C3%A9pig%C3%A9n%C3%A9tique%20de%20lADN.%20M%C3%A9thylation%20de%20lADN%20et%20histones/p25_00.jpeg)
 
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-280 Modification épigénétique de lADN. Méthylation de lADN et histones/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-280%20Modification%20%C3%A9pig%C3%A9n%C3%A9tique%20de%20lADN.%20M%C3%A9thylation%20de%20lADN%20et%20histones/p27_00.jpeg)
 
 ## Tableau de synthèse
 

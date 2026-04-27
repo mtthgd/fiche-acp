@@ -38,11 +38,11 @@ date: 2024
 - **Pléomorphisme cytologique** (lymphocytes petits/moyens/grands)
 - Infiltrat réactionnel variable (PNN éosinophiles, plasmocytes, histiocytes)
 
-![[assets/hematologie/lymphome_t:nk/DES-PTCLNOS-ATLL-2019/p03_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_t%3Ank/DES-PTCLNOS-ATLL-2019/p03_04.jpeg)
 
-![[assets/hematologie/lymphome_t:nk/DES-PTCLNOS-ATLL-2019/p03_07.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_t%3Ank/DES-PTCLNOS-ATLL-2019/p03_07.jpeg)
 
-![[assets/hematologie/lymphome_t:nk/DES-PTCLNOS-ATLL-2019/p04_08.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_t%3Ank/DES-PTCLNOS-ATLL-2019/p04_08.jpeg)
 
 ### Panel IHC obligatoire
 
@@ -87,7 +87,7 @@ date: 2024
 - **ATLL** : toujours sérologie HTLV1 devant tout lymphome T
 - Entités spécifiques de localisation : NK/T nasal, EATL, MEITL (intestinal), cutanés
 
-![[assets/hematologie/lymphome_t:nk/DES-PTCLNOS-ATLL-2019/p13_20.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_t%3Ank/DES-PTCLNOS-ATLL-2019/p13_20.jpeg)
 
 ### Apport moléculaire
 - PCR clonalité TCR gamma : argument supplémentaire
@@ -120,9 +120,9 @@ date: 2024
 | Chronique | Lymphocytose modérée | Meilleur |
 | Indolent | Cutané surtout | Meilleur |
 
-![[assets/hematologie/lymphome_t:nk/DES-PTCLNOS-ATLL-2019/p18_28.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_t%3Ank/DES-PTCLNOS-ATLL-2019/p18_28.jpeg)
 
-![[assets/hematologie/lymphome_t:nk/DES-PTCLNOS-ATLL-2019/p18_29.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_t%3Ank/DES-PTCLNOS-ATLL-2019/p18_29.jpeg)
 
 ### Diagnostic
 - **Sérologie HTLV1** systématique devant tout lymphome T (pratique courante française)
@@ -139,9 +139,9 @@ date: 2024
 - **FOXP3+** (évocateur mais non spécifique)
 - Possible CD30+ et marqueurs TFH → DD avec autres entités
 
-![[assets/hematologie/lymphome_t:nk/DES-PTCLNOS-ATLL-2019/p22_34.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_t%3Ank/DES-PTCLNOS-ATLL-2019/p22_34.jpeg)
 
-![[assets/hematologie/lymphome_t:nk/DES-PTCLNOS-ATLL-2019/p22_35.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_t%3Ank/DES-PTCLNOS-ATLL-2019/p22_35.jpeg)
 
 ### Pièges
 - Peut **ressembler à n'importe quel PTCL** en histologie (AITL, anaplasique, NOS, lymphoblastique)

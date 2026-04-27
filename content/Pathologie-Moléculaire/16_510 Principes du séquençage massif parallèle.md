@@ -40,7 +40,7 @@ Lors de chaque incorporation **2 sous-produits** sont libérés :
 - un **ion H+** — exploité par **Ion Torrent**
 
 
-![[assets/pathologie-moleculaire/ngs/16-510 Les grands principes du sequençage massif et parallele/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-510%20Les%20grands%20principes%20du%20sequen%C3%A7age%20massif%20et%20parallele/p03_01.jpeg)
 
 
 
@@ -54,14 +54,14 @@ Mélange dans 4 tubes (un par base) → fragments de tailles variables → **mig
 - Analyse **en point final**, **non en temps réel**
 - Reads ≈ 800-1000 pb avec haute qualité
 
-![[assets/pathologie-moleculaire/ngs/16-510 Les grands principes du sequençage massif et parallele/p04_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-510%20Les%20grands%20principes%20du%20sequen%C3%A7age%20massif%20et%20parallele/p04_01.png)
 
 
 
 
 
 
-![[assets/pathologie-moleculaire/ngs/16-510 Les grands principes du sequençage massif et parallele/p05_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-510%20Les%20grands%20principes%20du%20sequen%C3%A7age%20massif%20et%20parallele/p05_02.jpeg)
 
 ## Séquençage de 2ᵉ génération — principe en temps réel
 
@@ -70,9 +70,9 @@ L’opérateur **propose** successivement A, T, C, G à la polymérase et **enre
 > Un **read** en 2G fait typiquement **100 à 400 bases**.
 > En 3G, on atteint **plusieurs milliers à plusieurs centaines de milliers de bases**.
 
-![[assets/pathologie-moleculaire/ngs/16-510 Les grands principes du sequençage massif et parallele/p07_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-510%20Les%20grands%20principes%20du%20sequen%C3%A7age%20massif%20et%20parallele/p07_00.png)
 
-![[assets/pathologie-moleculaire/ngs/16-510 Les grands principes du sequençage massif et parallele/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-510%20Les%20grands%20principes%20du%20sequen%C3%A7age%20massif%20et%20parallele/p08_00.jpeg)
 
 
 ## Trois technologies 2G — trois modes de détection
@@ -85,11 +85,11 @@ L’opérateur **propose** successivement A, T, C, G à la polymérase et **enre
 
 Code couleur Illumina : **A rouge, C jaune, G vert, T bleu** (un flash bleu = T incorporé).
 
-![[assets/pathologie-moleculaire/ngs/16-510 Les grands principes du sequençage massif et parallele/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-510%20Les%20grands%20principes%20du%20sequen%C3%A7age%20massif%20et%20parallele/p11_00.jpeg)
 
 
 
-![[assets/pathologie-moleculaire/ngs/16-510 Les grands principes du sequençage massif et parallele/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-510%20Les%20grands%20principes%20du%20sequen%C3%A7age%20massif%20et%20parallele/p13_00.jpeg)
 
 ## Le caractère « massif et parallèle »
 
@@ -99,11 +99,11 @@ On ne lit pas **une** polymérase, mais des **dizaines à des millions** simulta
 
 Ensemble des reads → fichier brut **FASTQ** (raw data).
 
-![[assets/pathologie-moleculaire/ngs/16-510 Les grands principes du sequençage massif et parallele/p15_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-510%20Les%20grands%20principes%20du%20sequen%C3%A7age%20massif%20et%20parallele/p15_00.png)
 
 
 
-![[assets/pathologie-moleculaire/ngs/16-510 Les grands principes du sequençage massif et parallele/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-510%20Les%20grands%20principes%20du%20sequen%C3%A7age%20massif%20et%20parallele/p17_00.jpeg)
 
 
 
@@ -141,9 +141,9 @@ Ensemble des reads → fichier brut **FASTQ** (raw data).
 | Multiplexage (index/barcode) → coût/échantillon ↓ | Pipeline **bioinformatique** lourd ([[16_535 Le pipeline bioinformatique]]) |
 | Quantitatif (CNV par profondeur) | Investissement initial élevé |
 
-![[assets/pathologie-moleculaire/ngs/16-510 Les grands principes du sequençage massif et parallele/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-510%20Les%20grands%20principes%20du%20sequen%C3%A7age%20massif%20et%20parallele/p21_00.jpeg)
 
-![[assets/pathologie-moleculaire/ngs/16-510 Les grands principes du sequençage massif et parallele/p21_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-510%20Les%20grands%20principes%20du%20sequen%C3%A7age%20massif%20et%20parallele/p21_01.png)
 
 
 

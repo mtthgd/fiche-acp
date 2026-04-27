@@ -76,9 +76,9 @@ source: DES ACP - Cours d'urologie
 - **Étalement horizontal** (vs développement vertical d'une invasion)
 
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-223 Facteurs pronostiques des TVNIM/p05_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-223%20Facteurs%20pronostiques%20des%20TVNIM/p05_00.png)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-223 Facteurs pronostiques des TVNIM/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-223%20Facteurs%20pronostiques%20des%20TVNIM/p06_00.jpeg)
 
 
 ### pT1 vs pT2
@@ -86,7 +86,7 @@ source: DES ACP - Cours d'urologie
 - Toujours préciser si **musculeuse vue / intacte**
 - Sous-évaluation fréquente → **2e look (re-RTUV)** recommandé
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-223 Facteurs pronostiques des TVNIM/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-223%20Facteurs%20pronostiques%20des%20TVNIM/p09_00.jpeg)
 
 ### Substaging du pT1 (recommandé, non validé)
 
@@ -103,13 +103,13 @@ Alternatives :
 - **Épaisseur en mm** (piège : orientation des copeaux)
 - **Extension au champ × 40** : tient dans **< 1 champ** = **pT1 microscopique** ; **> 1 champ** = **pT1 extensif (pT1E)**
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-223 Facteurs pronostiques des TVNIM/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-223%20Facteurs%20pronostiques%20des%20TVNIM/p10_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-223 Facteurs pronostiques des TVNIM/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-223%20Facteurs%20pronostiques%20des%20TVNIM/p11_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-223 Facteurs pronostiques des TVNIM/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-223%20Facteurs%20pronostiques%20des%20TVNIM/p12_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-223 Facteurs pronostiques des TVNIM/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-223%20Facteurs%20pronostiques%20des%20TVNIM/p13_00.jpeg)
 
 ---
 
@@ -127,11 +127,11 @@ Alternatives :
 | G2 | **2/3 bas grade**, **1/3 haut grade** (ex-« G2-G3 ») |
 | G3 | **Haut grade** |
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-223 Facteurs pronostiques des TVNIM/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-223%20Facteurs%20pronostiques%20des%20TVNIM/p14_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-223 Facteurs pronostiques des TVNIM/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-223%20Facteurs%20pronostiques%20des%20TVNIM/p15_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-223 Facteurs pronostiques des TVNIM/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-223%20Facteurs%20pronostiques%20des%20TVNIM/p16_00.jpeg)
 
 ---
 
@@ -151,9 +151,9 @@ Alternatives :
 - IHC **CD31, CD34, ERG, D2-40** si doute (pas systématique)
 - **Piège** : artéfacts de rétraction (beaucoup plus fréquents que LVI vraies)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-223 Facteurs pronostiques des TVNIM/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-223%20Facteurs%20pronostiques%20des%20TVNIM/p18_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-223 Facteurs pronostiques des TVNIM/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-223%20Facteurs%20pronostiques%20des%20TVNIM/p19_00.jpeg)
 
 ---
 
@@ -171,9 +171,9 @@ Alternatives :
 - **Inversion de polarité** (marquage **MUC1** périphérique)
 
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-223 Facteurs pronostiques des TVNIM/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-223%20Facteurs%20pronostiques%20des%20TVNIM/p21_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-223 Facteurs pronostiques des TVNIM/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-223%20Facteurs%20pronostiques%20des%20TVNIM/p22_00.jpeg)
 
 ---
 
@@ -195,9 +195,9 @@ Alternatives :
 - **Critères anapath** (stade, grade, CIS) → risque de **progression**
 - Calcul en ligne, risque progression **0-45 %**
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-223 Facteurs pronostiques des TVNIM/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-223%20Facteurs%20pronostiques%20des%20TVNIM/p26_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-223 Facteurs pronostiques des TVNIM/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-223%20Facteurs%20pronostiques%20des%20TVNIM/p27_00.jpeg)
 
 ---
 

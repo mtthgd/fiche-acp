@@ -51,9 +51,9 @@ En pratique anatomopathologique, on porte le diagnostic de **LLC/lymphome lympho
 - **Infiltration diffuse** + infiltration capsulaire et péri-ganglionnaire
 - **Centres de prolifération** (pseudo-nodules plus clairs) visibles à faible grossissement → **critère diagnostic majeur**
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-324_LLC-B DES NATIONAL/p10_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-324_LLC-B%20DES%20NATIONAL/p10_03.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-324_LLC-B DES NATIONAL/p11_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-324_LLC-B%20DES%20NATIONAL/p11_04.jpeg)
 
 ### Population tumorale
 
@@ -69,11 +69,11 @@ Continuum cytologique :
 
 Mitoses présentes dans ces centres. Pas de trame réticulinique spécifique.
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-324_LLC-B DES NATIONAL/p12_07.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-324_LLC-B%20DES%20NATIONAL/p12_07.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-324_LLC-B DES NATIONAL/p13_10.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-324_LLC-B%20DES%20NATIONAL/p13_10.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-324_LLC-B DES NATIONAL/p14_11.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-324_LLC-B%20DES%20NATIONAL/p14_11.jpeg)
 
 ## LLC accélérée (variante agressive)
 
@@ -83,7 +83,7 @@ Mitoses présentes dans ces centres. Pas de trame réticulinique spécifique.
 - Comportement clinique plus agressif → survie proche du DLBCL
 - Importance d'identifier cette forme
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-324_LLC-B DES NATIONAL/p15_13.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-324_LLC-B%20DES%20NATIONAL/p15_13.png)
 
 ## Immunophénotype
 
@@ -99,19 +99,19 @@ Mitoses présentes dans ces centres. Pas de trame réticulinique spécifique.
 | MYC | IHC parfois + mais pas d'anomalie génique |
 | Ki67 | Faible (élevé dans centres de prolifération) |
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-324_LLC-B DES NATIONAL/p18_18.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-324_LLC-B%20DES%20NATIONAL/p18_18.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-324_LLC-B DES NATIONAL/p19_20.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-324_LLC-B%20DES%20NATIONAL/p19_20.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-324_LLC-B DES NATIONAL/p20_21.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-324_LLC-B%20DES%20NATIONAL/p20_21.jpeg)
 
 ## Localisations extra-ganglionnaires
 
 La LLC est le **lymphome de découverte fortuite le plus fréquent** sur les pièces opératoires (curages de cancers, néphrectomies, etc.). À évoquer devant tout infiltrat lymphoïde monotone dense.
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-324_LLC-B DES NATIONAL/p24_34.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-324_LLC-B%20DES%20NATIONAL/p24_34.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-324_LLC-B DES NATIONAL/p25_36.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-324_LLC-B%20DES%20NATIONAL/p25_36.jpeg)
 
 ## Diagnostics différentiels
 
@@ -139,7 +139,7 @@ La LLC est le **lymphome de découverte fortuite le plus fréquent** sur les pi�
   - **Muté** (avec mutations somatiques) = bon pronostic
   - **Non muté (germline)** = mauvais pronostic
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-324_LLC-B DES NATIONAL/p27_41.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-324_LLC-B%20DES%20NATIONAL/p27_41.jpeg)
 
 ## Évolution et complications
 

@@ -55,7 +55,7 @@ J0      J7        1 mois     4 mois       1 an          > 1 an
 │                                                           └─ IF/TA
 ```
 
-![[assets/nephropathologie/greffon/316-14 transplantation rénale autres causes dysfonction/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/316-14%20transplantation%20r%C3%A9nale%20autres%20causes%20dysfonction/p06_01.jpeg)
 
 ## 1. Lésions d'ischémie-reperfusion
 
@@ -101,7 +101,7 @@ Peut être **fonctionnelle** (sans lésions morphologiques, avec vasoconstrictio
 
 - **Vacuolisation intracytoplasmique isométrique** des tubules proximaux (très évocatrice).
 
-![[assets/nephropathologie/greffon/316-14 transplantation rénale autres causes dysfonction/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/316-14%20transplantation%20r%C3%A9nale%20autres%20causes%20dysfonction/p08_01.jpeg)
 
 #### Artériolopathie aiguë
 
@@ -109,7 +109,7 @@ Peut être **fonctionnelle** (sans lésions morphologiques, avec vasoconstrictio
 - Plus rarement : **microangiopathie thrombotique (MAT)** post-greffe, ABMR-like (cf. [[17_MAT - Microangiopathie thrombotique]]).
 - Glomérule ischémique (avec rétraction du flocculus).
 
-![[assets/nephropathologie/greffon/316-14 transplantation rénale autres causes dysfonction/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/316-14%20transplantation%20r%C3%A9nale%20autres%20causes%20dysfonction/p09_02.jpeg)
 
 ### Toxicité chronique
 
@@ -119,8 +119,8 @@ Lésions devant faire suspecter une néphrotoxicité ICN chronique :
 - **Hyalinose artériolaire NODULAIRE** : aspect très spécifique en **« collier de perles »** sur le **versant externe de la média** des artérioles.
 - Évolution : nécrose focale des myocytes remplacée par des **dépôts hyalins**.
 
-![[assets/nephropathologie/greffon/316-14 transplantation rénale autres causes dysfonction/p11_01.jpeg]]
-![[assets/nephropathologie/greffon/316-14 transplantation rénale autres causes dysfonction/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/316-14%20transplantation%20r%C3%A9nale%20autres%20causes%20dysfonction/p11_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/316-14%20transplantation%20r%C3%A9nale%20autres%20causes%20dysfonction/p11_02.jpeg)
 
 ### Tableau récapitulatif néphrotoxicité ICN
 
@@ -174,9 +174,9 @@ Histologie :
 
 - **Anticorps anti-SV40** : confirmation de l'atteinte par **polyomavirus** (le SV40 partage un antigène commun avec BK).
 
-![[assets/nephropathologie/greffon/316-14 transplantation rénale autres causes dysfonction/p12_01.jpeg]]
-![[assets/nephropathologie/greffon/316-14 transplantation rénale autres causes dysfonction/p12_02.jpeg]]
-![[assets/nephropathologie/greffon/316-14 transplantation rénale autres causes dysfonction/p12_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/316-14%20transplantation%20r%C3%A9nale%20autres%20causes%20dysfonction/p12_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/316-14%20transplantation%20r%C3%A9nale%20autres%20causes%20dysfonction/p12_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/316-14%20transplantation%20r%C3%A9nale%20autres%20causes%20dysfonction/p12_03.jpeg)
 
 #### Tropisme
 
@@ -212,7 +212,7 @@ Liste **non exhaustive** des glomérulopathies pouvant récidiver sur le greffon
 
 > La **néphropathie à IgA** récidive **fréquemment** mais avec **répercussion clinique souvent minime** (cf. [[08_Néphropathie à IgA]]).
 
-![[assets/nephropathologie/greffon/316-14 transplantation rénale autres causes dysfonction/p14_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/greffon/316-14%20transplantation%20r%C3%A9nale%20autres%20causes%20dysfonction/p14_01.png)
 
 ## 5. Glomérulopathie *de novo*
 

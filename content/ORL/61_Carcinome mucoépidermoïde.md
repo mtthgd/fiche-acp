@@ -23,7 +23,7 @@ source: DES ACP - Cours d'ORL
 - Peut siéger dans toutes les glandes salivaires (principales et accessoires) et à tout âge
 - Mantra : « *toute lésion et tout âge peut faire penser au carcinome mucoépidermoïde* »
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_343 carcinome muco epidermoide pdf/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_343%20carcinome%20muco%20epidermoide%20pdf/p03_00.jpeg)
 
 ## Clinique / Épidémio
 
@@ -47,32 +47,32 @@ source: DES ACP - Cours d'ORL
 - **Bleu alcian positif intracytoplasmique** = seule positivité ayant une valeur diagnostique (⚠ positivité de lumière ou de matrice = sans valeur)
 - Parfois rares → coloration bleu alcian indispensable
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_343 carcinome muco epidermoide pdf/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_343%20carcinome%20muco%20epidermoide%20pdf/p04_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_343 carcinome muco epidermoide pdf/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_343%20carcinome%20muco%20epidermoide%20pdf/p04_01.jpeg)
 
 **2. Cellules épidermoïdes**
 - Regroupées en massifs, contours cytoplasmiques bien limités, cadres clairs
 - **Kératinisation / dyskératose rares** → si contingent kératinisant franc, **éliminer le diagnostic** (plutôt carcinome épidermoïde ou adénosquameux)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_343 carcinome muco epidermoide pdf/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_343%20carcinome%20muco%20epidermoide%20pdf/p05_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_343 carcinome muco epidermoide pdf/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_343%20carcinome%20muco%20epidermoide%20pdf/p05_01.jpeg)
 
 **3. Cellules intermédiaires**
 - **Les plus fréquentes** : taille entre basales et épidermoïdes matures
 - Disposées en massifs, entourant souvent les structures glandulaires
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_343 carcinome muco epidermoide pdf/p05_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_343%20carcinome%20muco%20epidermoide%20pdf/p05_02.jpeg)
 
 ### Architecture
 
 - Très fréquemment **kystique**, avec projections papillaires intrakystiques
 - Souvent combinée à une composante **massive** (prédominante dans certaines formes)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_343 carcinome muco epidermoide pdf/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_343%20carcinome%20muco%20epidermoide%20pdf/p08_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_343 carcinome muco epidermoide pdf/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_343%20carcinome%20muco%20epidermoide%20pdf/p10_00.jpeg)
 
 ## Grading
 
@@ -98,9 +98,9 @@ source: DES ACP - Cours d'ORL
 - **Grading de Brandwein** : plus strict (plus de hauts grades)
 - Grading moléculaire probablement à venir
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_343 carcinome muco epidermoide pdf/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_343%20carcinome%20muco%20epidermoide%20pdf/p11_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_343 carcinome muco epidermoide pdf/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_343%20carcinome%20muco%20epidermoide%20pdf/p11_01.jpeg)
 
 ## Biologie moléculaire / FISH
 
@@ -115,9 +115,9 @@ source: DES ACP - Cours d'ORL
 ### Fusion **CRTC3–MAML2**
 - Minoritaire mais détectée par **FISH break-apart MAML2**
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_343 carcinome muco epidermoide pdf/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_343%20carcinome%20muco%20epidermoide%20pdf/p12_01.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_343 carcinome muco epidermoide pdf/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_343%20carcinome%20muco%20epidermoide%20pdf/p14_00.jpeg)
 
 ### Interprétation FISH
 - **MAML2 normal** : signaux rouge et vert accolés
@@ -130,9 +130,9 @@ source: DES ACP - Cours d'ORL
 - Clé : retrouver les cellules mucosécrétantes (bleu alcian +)
 - DD : **carcinome hyalinisant à cellules claires** (EWSR1–ATF1), carcinome à cellules claires métastatique (rein +++)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_343 carcinome muco epidermoide pdf/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_343%20carcinome%20muco%20epidermoide%20pdf/p16_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_343 carcinome muco epidermoide pdf/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_343%20carcinome%20muco%20epidermoide%20pdf/p16_01.jpeg)
 
 ### Forme sclérosante (± éosinophilie)
 - Stroma scléro-inflammatoire, limites mal définies
@@ -141,9 +141,9 @@ source: DES ACP - Cours d'ORL
 - DD : simple réaction cicatricielle scléro-inflammatoire
 - Conservent la fusion CRTC1–MAML2
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_343 carcinome muco epidermoide pdf/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_343%20carcinome%20muco%20epidermoide%20pdf/p18_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_343 carcinome muco epidermoide pdf/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_343%20carcinome%20muco%20epidermoide%20pdf/p19_00.jpeg)
 
 ### Forme oncocytaire
 - Nappes de cellules éosinophiles de grande taille ≃ oncocytome
@@ -151,11 +151,11 @@ source: DES ACP - Cours d'ORL
 - Pronostic favorable même à haut grade
 - FISH MAML2 souvent **+** → utile pour le diagnostic
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_343 carcinome muco epidermoide pdf/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_343%20carcinome%20muco%20epidermoide%20pdf/p20_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_343 carcinome muco epidermoide pdf/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_343%20carcinome%20muco%20epidermoide%20pdf/p21_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_343 carcinome muco epidermoide pdf/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_343%20carcinome%20muco%20epidermoide%20pdf/p21_01.jpeg)
 
 ### Forme Warthin-like
 - Aspect oncocytaire + stroma lymphoïde inflammatoire
@@ -165,7 +165,7 @@ source: DES ACP - Cours d'ORL
 - Très trompeuse (mime un kyste salivaire dilaté scléro-inflammatoire)
 - Analyser finement le revêtement pour retrouver la triade
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_343 carcinome muco epidermoide pdf/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_343%20carcinome%20muco%20epidermoide%20pdf/p23_00.jpeg)
 
 ## Diagnostics différentiels
 

@@ -56,9 +56,9 @@ Les **4 entités fréquentes** abordées :
 - **Gradient décroissant** : maximum **périportal** → minimum **centrolobulaire**
 - Au niveau cellulaire : dépôts au contact du **canalicule biliaire**
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14 Pathologies hépatiques génétiques et métaboliques les plus fréquentes/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14%20Pathologies%20h%C3%A9patiques%20g%C3%A9n%C3%A9tiques%20et%20m%C3%A9taboliques%20les%20plus%20fr%C3%A9quentes/p08_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14 Pathologies hépatiques génétiques et métaboliques les plus fréquentes/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14%20Pathologies%20h%C3%A9patiques%20g%C3%A9n%C3%A9tiques%20et%20m%C3%A9taboliques%20les%20plus%20fr%C3%A9quentes/p09_00.jpeg)
 
 ### Forme évoluée
 - Fibrose / cirrhose
@@ -66,9 +66,9 @@ Les **4 entités fréquentes** abordées :
 - Possibles **nodules pauvres en fer** = lésions **prénéoplasiques**
 - Évolution vers **CHC** (sur foie cirrhotique ou non cirrhotique)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14 Pathologies hépatiques génétiques et métaboliques les plus fréquentes/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14%20Pathologies%20h%C3%A9patiques%20g%C3%A9n%C3%A9tiques%20et%20m%C3%A9taboliques%20les%20plus%20fr%C3%A9quentes/p11_01.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14 Pathologies hépatiques génétiques et métaboliques les plus fréquentes/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14%20Pathologies%20h%C3%A9patiques%20g%C3%A9n%C3%A9tiques%20et%20m%C3%A9taboliques%20les%20plus%20fr%C3%A9quentes/p12_00.jpeg)
 
 ### Histoire naturelle (4 stades)
 1. Forme initiale
@@ -76,7 +76,7 @@ Les **4 entités fréquentes** abordées :
 3. Apparition de **gros dépôts dans les cellules de Kupffer**
 4. **Fibrose portale** contenant des dépôts ferriques
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14 Pathologies hépatiques génétiques et métaboliques les plus fréquentes/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14%20Pathologies%20h%C3%A9patiques%20g%C3%A9n%C3%A9tiques%20et%20m%C3%A9taboliques%20les%20plus%20fr%C3%A9quentes/p13_00.jpeg)
 
 ## Coloration et dosage
 
@@ -93,13 +93,13 @@ Les **4 entités fréquentes** abordées :
 | **Sidérose sur cirrhose** | Surcharge mal systématisée, **hétérogène d'un nodule à l'autre**, peu/pas de fer dans le tissu conjonctif |
 | **Sidérose du syndrome métabolique** | Hépatosidérose **mixte** (hépatocytaire + composante sinusoïdale Kupffer), mal systématisée |
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14 Pathologies hépatiques génétiques et métaboliques les plus fréquentes/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14%20Pathologies%20h%C3%A9patiques%20g%C3%A9n%C3%A9tiques%20et%20m%C3%A9taboliques%20les%20plus%20fr%C3%A9quentes/p15_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14 Pathologies hépatiques génétiques et métaboliques les plus fréquentes/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14%20Pathologies%20h%C3%A9patiques%20g%C3%A9n%C3%A9tiques%20et%20m%C3%A9taboliques%20les%20plus%20fr%C3%A9quentes/p17_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14 Pathologies hépatiques génétiques et métaboliques les plus fréquentes/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14%20Pathologies%20h%C3%A9patiques%20g%C3%A9n%C3%A9tiques%20et%20m%C3%A9taboliques%20les%20plus%20fr%C3%A9quentes/p21_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14 Pathologies hépatiques génétiques et métaboliques les plus fréquentes/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14%20Pathologies%20h%C3%A9patiques%20g%C3%A9n%C3%A9tiques%20et%20m%C3%A9taboliques%20les%20plus%20fr%C3%A9quentes/p22_01.jpeg)
 
 ---
 
@@ -137,11 +137,11 @@ Tableaux **très variables et non spécifiques** :
 - Fibrose / cirrhose
 - Plus rarement : **sidérose** essentiellement parenchymateuse
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14 Pathologies hépatiques génétiques et métaboliques les plus fréquentes/p27_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14%20Pathologies%20h%C3%A9patiques%20g%C3%A9n%C3%A9tiques%20et%20m%C3%A9taboliques%20les%20plus%20fr%C3%A9quentes/p27_01.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14 Pathologies hépatiques génétiques et métaboliques les plus fréquentes/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14%20Pathologies%20h%C3%A9patiques%20g%C3%A9n%C3%A9tiques%20et%20m%C3%A9taboliques%20les%20plus%20fr%C3%A9quentes/p28_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14 Pathologies hépatiques génétiques et métaboliques les plus fréquentes/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14%20Pathologies%20h%C3%A9patiques%20g%C3%A9n%C3%A9tiques%20et%20m%C3%A9taboliques%20les%20plus%20fr%C3%A9quentes/p33_00.jpeg)
 
 ## Colorations spéciales pour le cuivre
 
@@ -150,7 +150,7 @@ Tableaux **très variables et non spécifiques** :
 | **Rhodanine** | Cuivre lui-même (grains rougeâtres cytoplasmiques) | Faible (peut être négative) |
 | **Orcéine modifiée** | Protéine associée au cuivre (orcéine-binding protein) | Meilleure |
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14 Pathologies hépatiques génétiques et métaboliques les plus fréquentes/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14%20Pathologies%20h%C3%A9patiques%20g%C3%A9n%C3%A9tiques%20et%20m%C3%A9taboliques%20les%20plus%20fr%C3%A9quentes/p30_00.jpeg)
 
 ⚠️ Le cuivre étant éliminé par voie biliaire, **toutes les cholestases chroniques** entraînent une surcharge en cuivre.
 
@@ -195,13 +195,13 @@ Tableaux **très variables et non spécifiques** :
 - Hépatite chronique, fibrose, cirrhose
 - Chez l'enfant : forte cholestase
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14 Pathologies hépatiques génétiques et métaboliques les plus fréquentes/p36_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14%20Pathologies%20h%C3%A9patiques%20g%C3%A9n%C3%A9tiques%20et%20m%C3%A9taboliques%20les%20plus%20fr%C3%A9quentes/p36_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14 Pathologies hépatiques génétiques et métaboliques les plus fréquentes/p42_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14%20Pathologies%20h%C3%A9patiques%20g%C3%A9n%C3%A9tiques%20et%20m%C3%A9taboliques%20les%20plus%20fr%C3%A9quentes/p42_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14 Pathologies hépatiques génétiques et métaboliques les plus fréquentes/p43_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14%20Pathologies%20h%C3%A9patiques%20g%C3%A9n%C3%A9tiques%20et%20m%C3%A9taboliques%20les%20plus%20fr%C3%A9quentes/p43_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14 Pathologies hépatiques génétiques et métaboliques les plus fréquentes/p44_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14%20Pathologies%20h%C3%A9patiques%20g%C3%A9n%C3%A9tiques%20et%20m%C3%A9taboliques%20les%20plus%20fr%C3%A9quentes/p44_00.jpeg)
 
 ## Quand y penser
 Devant toute hépatopathie sans étiologie patente, surtout chez les **patients jeunes**, **systématiquement faire le PAS après diastase**.
@@ -225,9 +225,9 @@ Groupe de maladies hétérogènes : **accumulation de glycogène ou de dérivés
 - Membrane plasmique bien visible, noyau central
 - **Coloration PAS** : matériel **fortement PAS positif** (= glycogène)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14 Pathologies hépatiques génétiques et métaboliques les plus fréquentes/p49_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14%20Pathologies%20h%C3%A9patiques%20g%C3%A9n%C3%A9tiques%20et%20m%C3%A9taboliques%20les%20plus%20fr%C3%A9quentes/p49_01.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14 Pathologies hépatiques génétiques et métaboliques les plus fréquentes/p49_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.14%20Pathologies%20h%C3%A9patiques%20g%C3%A9n%C3%A9tiques%20et%20m%C3%A9taboliques%20les%20plus%20fr%C3%A9quentes/p49_02.jpeg)
 
 ## Complications
 - Variables selon la maladie

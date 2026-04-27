@@ -27,7 +27,7 @@ Le **lymphome de Hodgkin classique (cHL)** est un lymphome **singulier** :
 - **Micro-environnement immunitaire ultra-majoritaire** (constitue la quasi-totalité de la masse tumorale)
 - Composantes : petits lymphocytes, **polynucléaires éosinophiles**, macrophages, mastocytes, plasmocytes, fibroblastes/cellules stromales
 
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-362_Hodgkin biologie/p01_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-362_Hodgkin%20biologie/p01_00.jpeg)
 
 ## Origine cellulaire des cellules HRS
 
@@ -56,9 +56,9 @@ Malgré leur origine B, les HRS **perdent le programme B mature** :
 - **Activation d’antagonistes** : **ID2, ABF1**
 - **Mutations** des gènes de la voie du **BCR**
 
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-362_Hodgkin biologie/p03_00.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-362_Hodgkin biologie/p04_00.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-362_Hodgkin biologie/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-362_Hodgkin%20biologie/p03_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-362_Hodgkin%20biologie/p04_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-362_Hodgkin%20biologie/p04_01.jpeg)
 
 ## Voies de signalisation activées dans les cellules HRS
 
@@ -72,7 +72,7 @@ Mécanismes :
 
 → Accumulation nucléaire d’hétérodimères NF-κB → expression de gènes de **prolifération** et de **résistance à l’apoptose**.
 
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-362_Hodgkin biologie/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-362_Hodgkin%20biologie/p07_01.jpeg)
 
 ### 2. Voie **JAK-STAT**
 - **Gains/amplifications** du locus **JAK2** (région **9p24**)
@@ -80,7 +80,7 @@ Mécanismes :
 - **Activation autocrine/paracrine** par **IL-13, IL-21** et leurs récepteurs
 - L’amplification de **9p24** entraîne aussi une **surexpression de PD-L1** (cible thérapeutique majeure)
 
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-362_Hodgkin biologie/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-362_Hodgkin%20biologie/p09_00.jpeg)
 
 ### 3. Voie **Notch**
 - HRS expriment **Notch**
@@ -99,8 +99,8 @@ Mécanismes :
 - **Surexpression de PD-L1 et PD-L2** (amplification 9p24, activation JAK-STAT)
 - L’interaction **PD-L1/PD-L2 ↔ PD-1** des lymphocytes du micro-environnement **inhibe** leur prolifération et leur production de cytokines → **remodelage du micro-environnement** au profit des HRS
 
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-362_Hodgkin biologie/p10_00.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-362_Hodgkin biologie/p11_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-362_Hodgkin%20biologie/p10_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-362_Hodgkin%20biologie/p11_00.png)
 
 ## Micro-environnement tumoral
 
@@ -126,8 +126,8 @@ Le micro-environnement constitue **la plus grande partie de la masse tumorale**.
 - Réponse Th2 → recrutement plasmocytaire
 - **Fibrose** (forme scléro-nodulaire) : sécrétion de **TGF-β** et **bFGF** par les HRS
 
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-362_Hodgkin biologie/p14_00.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-362_Hodgkin biologie/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-362_Hodgkin%20biologie/p14_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-362_Hodgkin%20biologie/p15_00.jpeg)
 
 ## Rôle de l’EBV
 
@@ -137,7 +137,7 @@ Le micro-environnement constitue **la plus grande partie de la masse tumorale**.
 - Lymphocytes **T CD8 cytotoxiques** anti-viraux infiltrent le micro-environnement
   - Ces T CD8 expriment **PD-1** → inhibés par **PD-L1** des HRS
 
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-362_Hodgkin biologie/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-362_Hodgkin%20biologie/p16_00.jpeg)
 
 ## Cibles thérapeutiques découlant de la biologie
 

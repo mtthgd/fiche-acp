@@ -27,13 +27,13 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Rehaussement hétérogène au gadolinium
 - Alternance zones collagéniques / zones gélatineuses (myxoïdes)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p03_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p03_03.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p04_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p04_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p05_00.jpeg)
 
 ## Histologie
 - **Bonne limitation, absence de capsule**
@@ -42,28 +42,28 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Cellules **monomorphes, peu atypiques**, cytoplasme éosinophile discret
 - Zones fibreuses : cellularité moindre, cellules écrasées, collagène hyalin
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p07_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p07_03.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p08_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p09_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p10_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p11_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p12_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p13_01.jpeg)
 
 ### Variante : **riche en rosettes collagéniques**
 - Palissade cellulaire autour d'un matériel collagénique hyalinisé central
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p14_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p14_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p15_00.jpeg)
 
 ## IHC
 
@@ -75,15 +75,15 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 
 > **MUC4 + morphologie typique** = diagnostic (peut suffire)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p16_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p19_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p20_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p21_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p21_01.jpeg)
 
 ## Biologie moléculaire
 - Sarcome **monomorphe** à **translocation**
@@ -92,7 +92,7 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
   - **FUS-CREB3L1**
   - **EWSR1-CREB3L1** (moins fréquente)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p23_01.jpeg)
 
 ## Continuum avec le fibrosarcome épithélioïde sclérosant (SEF)
 - **Même translocation EWSR1-CREB3L1** partagée
@@ -120,22 +120,22 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Tumeur **multinodulaire**, aspect fibreux et/ou **gélatineux**
 - Nécrose possible
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p26_00.jpeg)
 
 
 ## Imagerie
 - Tumeur volumineuse, **extensions infiltrantes** au-delà de la masse principale (en hypersignal)
 - **Grande capacité d'invasion**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p27_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p27_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p27_05.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p27_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p27_06.jpeg)
 
 > ⚠️ **Échantillonnage +++** : prélever le nodule principal **ET** les foyers d'infiltration jusqu'aux limites (risque de sous-estimer la marge)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p28_00.jpeg)
 
 
 ## Histologie
@@ -143,23 +143,23 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Nodules myxoïdes **mal limités**, fond myxoïde hétérogène
 - Cellularité variable, septas fibreux (zones trompeuses avec cellules atypiques hyperchromatiques isolées)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p29_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p30_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p31_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p32_00.jpeg)
 
 ### Clés cytologiques
 1. **Cytologie pléomorphe** : cellules différentes les unes des autres, noyaux irréguliers, atypiques, hyperchromatiques, variation de taille/forme
 2. **Vascularisation caractéristique** : capillaires **curvilignes, arciformes, "ébouriffés"** — densification des cellules tumorales à leur contact
 
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p34_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p34_02.jpeg)
 
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p34_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p34_05.jpeg)
 
 
 ### Grades (FNCLCC)
@@ -170,22 +170,22 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 | **Grade 2** | Atypies et mitoses modérées |
 | **Grade 1** | Cytologie plus monomorphe, peu atypique/mitotique (piège DD avec myxome si peu cellulaire) |
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p35_00.jpeg)
 
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p35_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p35_02.jpeg)
 
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p36_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p36_00.jpeg)
 
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p36_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p36_02.jpeg)
 
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p37_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p37_00.jpeg)
 
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p37_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p37_03.jpeg)
 
 ## IHC — pièges à connaître
 - **Pas de marqueur spécifique** en cas de morphologie typique
@@ -195,17 +195,17 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
   - **AML** parfois +
   - **MDM2** très souvent **+** (lié à une **polysomie** du chr. 12, **pas une amplification**)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p38_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p38_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p39_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p39_00.jpeg)
 
 ## Biologie moléculaire
 - **Génomique complexe** (pas de réarrangement spécifique)
 - **CGH-array** utile : confirme la complexité génomique = argument de malignité si doute avec une lésion myxoïde bénigne
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p40_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p40_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p41_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p41_00.jpeg)
 
 ## Pronostic
 - **Récidive locale 50%** (mauvaise limitation)
@@ -224,24 +224,24 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 | Vaisseaux | Curvilignes/ébouriffés | **Arborescents en "crown"/endocrinoïdes, angles droits** |
 | Biologie mol. | Complexe | **Translocation FUS-DDIT3** |
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p42_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p42_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p43_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p43_00.jpeg)
 
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p44_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p44_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p44_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p44_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p44_04.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p44_04.png)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p46_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p46_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p47_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p47_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p47_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p47_01.png)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p47_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p47_02.jpeg)
 
 ---
 
@@ -258,23 +258,23 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 | Génomique | **Translocation** (FUS-CREB3L2++) | **Complexe** |
 | Pronostic | Indolent, métastases tardives | Récidives 50%, métastases selon grade |
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p49_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p49_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p50_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p50_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p50_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p50_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p51_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p51_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p51_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p51_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p52_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p52_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p52_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p52_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p53_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p53_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562 Sarcome fibromyxoide de bas grade, Myxofibrosarcome/p53_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-562%20Sarcome%20fibromyxoide%20de%20bas%20grade%2C%20Myxofibrosarcome/p53_01.jpeg)
 
 ---
 

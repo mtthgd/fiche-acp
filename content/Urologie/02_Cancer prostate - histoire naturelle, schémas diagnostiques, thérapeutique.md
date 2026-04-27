@@ -31,10 +31,10 @@ Les cellules épithéliales prostatiques (normales luminales et adénocarcinomat
 
 → La production de PSA nécessite un RA **présent ET activé** par les androgènes.
 
-![[assets/urologie/prostate/05-312-Histoire naturelle CaP schémas diagnostiques et thérapeutiques/p01_01.png]]
-![[assets/urologie/prostate/05-312-Histoire naturelle CaP schémas diagnostiques et thérapeutiques/p01_02.png]]
-![[assets/urologie/prostate/05-312-Histoire naturelle CaP schémas diagnostiques et thérapeutiques/p01_04.png]]
-![[assets/urologie/prostate/05-312-Histoire naturelle CaP schémas diagnostiques et thérapeutiques/p01_06.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-312-Histoire%20naturelle%20CaP%20sch%C3%A9mas%20diagnostiques%20et%20th%C3%A9rapeutiques/p01_01.png)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-312-Histoire%20naturelle%20CaP%20sch%C3%A9mas%20diagnostiques%20et%20th%C3%A9rapeutiques/p01_02.png)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-312-Histoire%20naturelle%20CaP%20sch%C3%A9mas%20diagnostiques%20et%20th%C3%A9rapeutiques/p01_04.png)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-312-Histoire%20naturelle%20CaP%20sch%C3%A9mas%20diagnostiques%20et%20th%C3%A9rapeutiques/p01_06.png)
 
 ## Histoire naturelle : 3 phases
 
@@ -48,16 +48,16 @@ Les cellules épithéliales prostatiques (normales luminales et adénocarcinomat
 - Tumeurs **indolentes** → pas forcément de traitement initial (surveillance active)
 - Tumeurs agressives → fenêtre de curabilité très courte
 
-![[assets/urologie/prostate/05-312-Histoire naturelle CaP schémas diagnostiques et thérapeutiques/p02_01.png]]
-![[assets/urologie/prostate/05-312-Histoire naturelle CaP schémas diagnostiques et thérapeutiques/p02_02.png]]
-![[assets/urologie/prostate/05-312-Histoire naturelle CaP schémas diagnostiques et thérapeutiques/p02_03.png]]
-![[assets/urologie/prostate/05-312-Histoire naturelle CaP schémas diagnostiques et thérapeutiques/p02_04.png]]
-![[assets/urologie/prostate/05-312-Histoire naturelle CaP schémas diagnostiques et thérapeutiques/p02_05.png]]
-![[assets/urologie/prostate/05-312-Histoire naturelle CaP schémas diagnostiques et thérapeutiques/p02_06.png]]
-![[assets/urologie/prostate/05-312-Histoire naturelle CaP schémas diagnostiques et thérapeutiques/p02_07.png]]
-![[assets/urologie/prostate/05-312-Histoire naturelle CaP schémas diagnostiques et thérapeutiques/p02_08.png]]
-![[assets/urologie/prostate/05-312-Histoire naturelle CaP schémas diagnostiques et thérapeutiques/p02_09.png]]
-![[assets/urologie/prostate/05-312-Histoire naturelle CaP schémas diagnostiques et thérapeutiques/p02_10.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-312-Histoire%20naturelle%20CaP%20sch%C3%A9mas%20diagnostiques%20et%20th%C3%A9rapeutiques/p02_01.png)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-312-Histoire%20naturelle%20CaP%20sch%C3%A9mas%20diagnostiques%20et%20th%C3%A9rapeutiques/p02_02.png)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-312-Histoire%20naturelle%20CaP%20sch%C3%A9mas%20diagnostiques%20et%20th%C3%A9rapeutiques/p02_03.png)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-312-Histoire%20naturelle%20CaP%20sch%C3%A9mas%20diagnostiques%20et%20th%C3%A9rapeutiques/p02_04.png)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-312-Histoire%20naturelle%20CaP%20sch%C3%A9mas%20diagnostiques%20et%20th%C3%A9rapeutiques/p02_05.png)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-312-Histoire%20naturelle%20CaP%20sch%C3%A9mas%20diagnostiques%20et%20th%C3%A9rapeutiques/p02_06.png)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-312-Histoire%20naturelle%20CaP%20sch%C3%A9mas%20diagnostiques%20et%20th%C3%A9rapeutiques/p02_07.png)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-312-Histoire%20naturelle%20CaP%20sch%C3%A9mas%20diagnostiques%20et%20th%C3%A9rapeutiques/p02_08.png)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-312-Histoire%20naturelle%20CaP%20sch%C3%A9mas%20diagnostiques%20et%20th%C3%A9rapeutiques/p02_09.png)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-312-Histoire%20naturelle%20CaP%20sch%C3%A9mas%20diagnostiques%20et%20th%C3%A9rapeutiques/p02_10.jpeg)
 
 ## Détection précoce (AFU 2018)
 
@@ -68,7 +68,7 @@ Les cellules épithéliales prostatiques (normales luminales et adénocarcinomat
 - Arrêt : **75 ans** (dépend de l'espérance de vie)
 - Biopsies indiquées si **TR anormal** ou **PSA > 4 ng/mL**
 
-![[assets/urologie/prostate/05-312-Histoire naturelle CaP schémas diagnostiques et thérapeutiques/p03_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-312-Histoire%20naturelle%20CaP%20sch%C3%A9mas%20diagnostiques%20et%20th%C3%A9rapeutiques/p03_01.png)
 
 ## Biopsies prostatiques (AFU 2018)
 
@@ -86,9 +86,9 @@ Les cellules épithéliales prostatiques (normales luminales et adénocarcinomat
 
 → Importance de **distinguer HPIN et carcinome intraductal**.
 
-![[assets/urologie/prostate/05-312-Histoire naturelle CaP schémas diagnostiques et thérapeutiques/p04_01.png]]
-![[assets/urologie/prostate/05-312-Histoire naturelle CaP schémas diagnostiques et thérapeutiques/p04_03.png]]
-![[assets/urologie/prostate/05-312-Histoire naturelle CaP schémas diagnostiques et thérapeutiques/p04_05.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-312-Histoire%20naturelle%20CaP%20sch%C3%A9mas%20diagnostiques%20et%20th%C3%A9rapeutiques/p04_01.png)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-312-Histoire%20naturelle%20CaP%20sch%C3%A9mas%20diagnostiques%20et%20th%C3%A9rapeutiques/p04_03.png)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-312-Histoire%20naturelle%20CaP%20sch%C3%A9mas%20diagnostiques%20et%20th%C3%A9rapeutiques/p04_05.png)
 
 ## Stadification clinique TNM
 
@@ -123,9 +123,9 @@ Intègrent **stade clinique + PSA + groupe ISUP sur biopsies**.
 | Intermédiaire | IRM prostatique + ganglionnaire | Si **grade 4 majoritaire** | Non |
 | Élevé | IRM prostatique + ganglionnaire | **Oui** | Si forte suspicion métastases (PSA très élevé) |
 
-![[assets/urologie/prostate/05-312-Histoire naturelle CaP schémas diagnostiques et thérapeutiques/p09_01.png]]
-![[assets/urologie/prostate/05-312-Histoire naturelle CaP schémas diagnostiques et thérapeutiques/p09_03.png]]
-![[assets/urologie/prostate/05-312-Histoire naturelle CaP schémas diagnostiques et thérapeutiques/p09_05.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-312-Histoire%20naturelle%20CaP%20sch%C3%A9mas%20diagnostiques%20et%20th%C3%A9rapeutiques/p09_01.png)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-312-Histoire%20naturelle%20CaP%20sch%C3%A9mas%20diagnostiques%20et%20th%C3%A9rapeutiques/p09_03.png)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-312-Histoire%20naturelle%20CaP%20sch%C3%A9mas%20diagnostiques%20et%20th%C3%A9rapeutiques/p09_05.png)
 
 ## Traitement des cancers localisés
 
@@ -181,7 +181,7 @@ Initial : efficace (↓ masse tumorale, ↓ PSA) ; **échappement inéluctable**
 - Si 1ère ligne = chimio → **hormono 2e gen**
 - **Cabazitaxel** en 2e ligne chimio
 
-![[assets/urologie/prostate/05-312-Histoire naturelle CaP schémas diagnostiques et thérapeutiques/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-312-Histoire%20naturelle%20CaP%20sch%C3%A9mas%20diagnostiques%20et%20th%C3%A9rapeutiques/p15_01.jpeg)
 
 ---
 

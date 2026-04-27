@@ -50,11 +50,11 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - IRM : **hyposignal T1, hypersignal T2**
 - Localisation **médiane** typique à la base du crâne
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p04_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p04_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p04_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p04_02.jpeg)
 
 ## Macroscopie
 
@@ -62,13 +62,13 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Remaniements hémorragiques et pseudo-kystiques
 - Extension dans les tissus mous adjacents
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p05_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p05_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p06_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p06_01.jpeg)
 
 ## Microscopie — chordome classique
 
@@ -78,11 +78,11 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Stroma **myxoïde** abondant
 - Atypies cytonucléaires **modérées**, rares mitoses
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p08_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p09_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p10_00.jpeg)
 
 ## IHC — signature diagnostique
 
@@ -97,7 +97,7 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 
 ⚠️ **Brachyury** non strictement spécifique : aussi + dans **tumeurs germinales** et **carcinomes à petites cellules du poumon** (driver de la transition épithélio-mésenchymateuse)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p12_00.jpeg)
 
 ---
 
@@ -110,9 +110,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Dans tous les contingents** : **coexpression cytokératines + PS100** → différenciation avec chondrosarcome
 - Évocateur du diagnostic dans cette localisation
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p13_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p13_01.jpeg)
 
 ## Chordome dédifférencié
 
@@ -122,15 +122,15 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Perte possible des marqueurs immunochimiques spécifiques dans le contingent dédifférencié
 - **Mauvais pronostic**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p14_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p15_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p15_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p15_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p15_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p15_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p15_03.jpeg)
 
 ## Chordome peu différencié (*poorly differentiated chordoma*)
 
@@ -141,13 +141,13 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Profil de méthylation distinct des chordomes classiques et des AT/RT (DD principal = **méningiome rhabdoïde**)
 - **Pronostic péjoratif**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p29_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p29_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p29_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p29_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p29_03.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p29_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p29_04.jpeg)
 
 ---
 
@@ -174,19 +174,19 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Coexpression cytokératines + PS100 + Brachyury** (identique au chordome)
 - Diagnostic difficile sur microbiopsie → intégration avec imagerie
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p17_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p17_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p20_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p20_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p20_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p20_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p20_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p20_03.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p21_00.jpeg)
 
 ---
 
@@ -207,19 +207,19 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Cytologie (écrasé peropératoire) : cellules **plus petites** avec halo périnucléaire, desquamation en cordons monocellulaires (vs placards multicellulaires dans le chordome)
 - **Pronostic meilleur** que le chordome → DD important
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p24_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p24_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p25_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p25_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p25_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p26_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p27_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p28_00.jpeg)
 
 ---
 
@@ -233,21 +233,21 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 | **Chordome dédifférencié** | Sacrum (récidives) | ± perdu | Marquées | Perte possible des marqueurs | **Mauvais** |
 | **Chordome peu différencié** | Enfant, clivus | ± | Marquées | CK+ / Brachyury+ / **perte INI1** | **Péjoratif** |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p30_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p30_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p30_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p30_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p30_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p30_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p30_03.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p32_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p32_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p32_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p32_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p32_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270 Tumeurs  de la notochorde V2 Aout 2024/p32_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-270%20Tumeurs%20%20de%20la%20notochorde%20V2%20Aout%202024/p32_03.jpeg)
 
 ---
 

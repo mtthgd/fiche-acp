@@ -26,9 +26,9 @@ Une articulation relie deux segments osseux rigides et permet leur mobilité.
 
 Les **diarthroses** sont l'objet de ce cours. Structures de maintien : **capsule** fibreuse, **ligaments**, appareil musculosquelettique.
 
-![[assets/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122 Synoviale normale/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122%20Synoviale%20normale/p05_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122 Synoviale normale/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122%20Synoviale%20normale/p05_01.jpeg)
 
 ## Composants de la diarthrose
 
@@ -38,9 +38,9 @@ La cavité articulaire est limitée par :
 
 Structures particulières possibles : ligaments intra-articulaires (croisés du genou), fibrocartilages (ménisques), tendons (biceps), **bourses séreuses** (structures de glissement).
 
-![[assets/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122 Synoviale normale/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122%20Synoviale%20normale/p07_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122 Synoviale normale/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122%20Synoviale%20normale/p07_01.jpeg)
 
 ## Cartilage articulaire (rappel bref)
 
@@ -53,7 +53,7 @@ Structures particulières possibles : ligaments intra-articulaires (croisés du 
 **Rôles mécaniques** : glissement sans frottement + amortissement des pressions.
 
 
-![[assets/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122 Synoviale normale/p07_06.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122%20Synoviale%20normale/p07_06.png)
 
 ## Synoviale — généralités
 
@@ -68,9 +68,9 @@ Surface lisse, possibles replis ou **courtes franges** permettant sa déformatio
 1. **Synthèse du liquide articulaire** → nutrition du cartilage
 2. **Résorption** des substances et petits corps dans la cavité
 
-![[assets/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122 Synoviale normale/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122%20Synoviale%20normale/p09_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122 Synoviale normale/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122%20Synoviale%20normale/p09_01.jpeg)
 
 ## Histologie de la synoviale
 
@@ -92,15 +92,15 @@ Surface lisse, possibles replis ou **courtes franges** permettant sa déformatio
 - Quelques cellules inflammatoires mononucléées possibles, toujours en **faible quantité**
 - Innervée
 
-![[assets/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122 Synoviale normale/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122%20Synoviale%20normale/p11_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122 Synoviale normale/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122%20Synoviale%20normale/p11_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122 Synoviale normale/p11_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122%20Synoviale%20normale/p11_03.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122 Synoviale normale/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122%20Synoviale%20normale/p12_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122 Synoviale normale/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122%20Synoviale%20normale/p13_00.jpeg)
 
 ---
 

@@ -34,7 +34,7 @@ source: DES ACP - Cours de gynéco-pathologie (col utérin)
   2. La connaissance de l’histoire naturelle (agent oncogène **HPV**, lésions pré-invasives traitables).
   3. L’amélioration thérapeutique chirurgicale.
 
-![[assets/gyneco-sein/col_uterin/04_31_01 EPIDEMIO HISTO NLE HENNO/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_31_01%20EPIDEMIO%20HISTO%20NLE%20HENNO/p04_00.jpeg)
 
 ### HPV — données clés
 - **70 % des femmes** rencontreront au moins une fois l’HPV au cours de leur vie sexuelle.
@@ -53,8 +53,8 @@ source: DES ACP - Cours de gynéco-pathologie (col utérin)
 - **HPV 6/11** majoritaires dans les **condylomes acuminés**.
 - Lésions de **bas grade** : mélange HPV haut et bas risque.
 
-![[assets/gyneco-sein/col_uterin/04_31_01 EPIDEMIO HISTO NLE HENNO/p06_00.jpeg]]
-![[assets/gyneco-sein/col_uterin/04_31_01 EPIDEMIO HISTO NLE HENNO/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_31_01%20EPIDEMIO%20HISTO%20NLE%20HENNO/p06_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_31_01%20EPIDEMIO%20HISTO%20NLE%20HENNO/p07_00.jpeg)
 
 ### Histoire naturelle des LIEM
 - Pré-requis : **infection persistante à HPV haut risque**.
@@ -63,8 +63,8 @@ source: DES ACP - Cours de gynéco-pathologie (col utérin)
 - Seules les **infections transformantes** peuvent évoluer (rare) vers un **carcinome infiltrant**.
 - Les **lésions de bas grade** ont un fort taux de régression ; les **lésions de haut grade** peuvent aussi régresser ; la progression vers un cancer reste **faible**.
 
-![[assets/gyneco-sein/col_uterin/04_31_01 EPIDEMIO HISTO NLE HENNO/p10_05.jpeg]]
-![[assets/gyneco-sein/col_uterin/04_31_01 EPIDEMIO HISTO NLE HENNO/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_31_01%20EPIDEMIO%20HISTO%20NLE%20HENNO/p10_05.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_31_01%20EPIDEMIO%20HISTO%20NLE%20HENNO/p11_00.jpeg)
 
 ### Dépistage
 - Frottis cervico-utérin = test acceptable, **couverture en France ~ 57 %**.
@@ -84,8 +84,8 @@ source: DES ACP - Cours de gynéco-pathologie (col utérin)
 3. **Couche intermédiaire** riche en **glycogène** (responsable du test de Schiller).
 4. **Couche superficielle**.
 
-![[assets/gyneco-sein/col_uterin/04_31_01 EPIDEMIO HISTO NLE HENNO/p12_00.jpeg]]
-![[assets/gyneco-sein/col_uterin/04_31_01 EPIDEMIO HISTO NLE HENNO/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_31_01%20EPIDEMIO%20HISTO%20NLE%20HENNO/p12_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_31_01%20EPIDEMIO%20HISTO%20NLE%20HENNO/p12_01.jpeg)
 
 ### Exocol post-ménopausique
 - **Atrophique** : uniquement assises basales et parabasales, perte de glycogène.
@@ -95,7 +95,7 @@ source: DES ACP - Cours de gynéco-pathologie (col utérin)
 - Revêtement **cylindrique mucosécrétant**, noyaux réguliers basaux.
 - **Pas de mitose** dans l’endocol normal.
 
-![[assets/gyneco-sein/col_uterin/04_31_01 EPIDEMIO HISTO NLE HENNO/p12_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_31_01%20EPIDEMIO%20HISTO%20NLE%20HENNO/p12_04.jpeg)
 
 ## Métaplasies malpighiennes du col
 
@@ -105,7 +105,7 @@ source: DES ACP - Cours de gynéco-pathologie (col utérin)
 - Origine = **cellules de réserve endocervicales** sous-jacentes au revêtement.
 - Création d’une **nouvelle zone de jonction** ; le territoire entre les deux = **zone de transformation** (cible des cliniciens et des LIEM).
 
-![[assets/gyneco-sein/col_uterin/04_31_01 EPIDEMIO HISTO NLE HENNO/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_31_01%20EPIDEMIO%20HISTO%20NLE%20HENNO/p14_00.jpeg)
 
 ### Stades de la métaplasie (phénomène dynamique)
 Préférer la terminologie : **métaplasie immature** vs **métaplasie mature**. Éviter les autres termes (source de confusion).
@@ -119,8 +119,8 @@ Préférer la terminologie : **métaplasie immature** vs **métaplasie mature**.
 - En colposcopie : **acidophilie**, zones **iodo-négatives**.
 - Cellules de réserve acquérant un cytoplasme éosinophile.
 
-![[assets/gyneco-sein/col_uterin/04_31_01 EPIDEMIO HISTO NLE HENNO/p15_00.jpeg]]
-![[assets/gyneco-sein/col_uterin/04_31_01 EPIDEMIO HISTO NLE HENNO/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_31_01%20EPIDEMIO%20HISTO%20NLE%20HENNO/p15_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_31_01%20EPIDEMIO%20HISTO%20NLE%20HENNO/p16_00.jpeg)
 
 #### Métaplasie mature
 - Ressemble à un revêtement exocervical natif, ébauches de clarification (glycogène).
@@ -130,10 +130,10 @@ Préférer la terminologie : **métaplasie immature** vs **métaplasie mature**.
 - **Jamais de mitose anormale.**
 - Possibilité de coloniser le revêtement des **glandes endocervicales** (piège : ne pas confondre avec une LIEM colonisant les glandes).
 
-![[assets/gyneco-sein/col_uterin/04_31_01 EPIDEMIO HISTO NLE HENNO/p16_01.jpeg]]
-![[assets/gyneco-sein/col_uterin/04_31_01 EPIDEMIO HISTO NLE HENNO/p16_02.jpeg]]
-![[assets/gyneco-sein/col_uterin/04_31_01 EPIDEMIO HISTO NLE HENNO/p17_00.jpeg]]
-![[assets/gyneco-sein/col_uterin/04_31_01 EPIDEMIO HISTO NLE HENNO/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_31_01%20EPIDEMIO%20HISTO%20NLE%20HENNO/p16_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_31_01%20EPIDEMIO%20HISTO%20NLE%20HENNO/p16_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_31_01%20EPIDEMIO%20HISTO%20NLE%20HENNO/p17_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_31_01%20EPIDEMIO%20HISTO%20NLE%20HENNO/p17_01.jpeg)
 
 ## Immunohistochimie (métaplasie)
 

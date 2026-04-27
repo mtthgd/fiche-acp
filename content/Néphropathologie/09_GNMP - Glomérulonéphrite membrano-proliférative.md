@@ -59,15 +59,15 @@ Trois éléments diagnostiques :
 2. **Prolifération endocapillaire** : nombreuses cellules mononucléées comblant la lumière capillaire
 3. **Doubles contours** des MBG (visibles sur **imprégnation argentique**)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14 GNMP/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14%20GNMP/p07_00.jpeg)
 
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14 GNMP/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14%20GNMP/p08_01.jpeg)
 
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14 GNMP/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14%20GNMP/p09_01.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14 GNMP/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14%20GNMP/p09_02.jpeg)
 
 ## Classification moderne (basée sur l'IF)
 
@@ -88,12 +88,12 @@ Une fois l'aspect membrano-prolifératif retrouvé en MO, **l'IF est indispensab
 - La composition des Ig oriente vers l'étiologie
 
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14 GNMP/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14%20GNMP/p11_01.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14 GNMP/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14%20GNMP/p11_02.jpeg)
 
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14 GNMP/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14%20GNMP/p12_01.jpeg)
 
 ### Étiologies
 
@@ -117,16 +117,16 @@ Deux entités :
 - **ME** : dépôts **finement granuleux** sous-endothéliaux et mésangiaux **sans dépôts denses**
 
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14 GNMP/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14%20GNMP/p15_01.jpeg)
 
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14 GNMP/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14%20GNMP/p16_01.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14 GNMP/p16_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14%20GNMP/p16_02.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14 GNMP/p16_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14%20GNMP/p16_03.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14 GNMP/p16_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14%20GNMP/p16_04.jpeg)
 
 ### 2b. Maladie des dépôts denses (DDD — *Dense Deposit Disease*)
 
@@ -138,18 +138,18 @@ Deux entités :
 - **C3Nef** (auto-anticorps anti-C3 convertase) présent dans **80 %** des cas
 
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14 GNMP/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14%20GNMP/p17_01.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14 GNMP/p17_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14%20GNMP/p17_02.jpeg)
 
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14 GNMP/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14%20GNMP/p18_01.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14 GNMP/p18_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14%20GNMP/p18_02.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14 GNMP/p18_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14%20GNMP/p18_03.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14 GNMP/p18_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14%20GNMP/p18_04.jpeg)
 
 ### Étiologies des C3 glomerulopathies (déficits voie alterne)
 
@@ -159,9 +159,9 @@ Deux entités :
 | **Mutations génétiques** | **Facteur H**, **Facteur I**, MCP, C3, CFHR1-5 |
 
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14 GNMP/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14%20GNMP/p19_01.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14 GNMP/p19_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/220-14%20GNMP/p19_02.jpeg)
 
 ## Microscopie électronique (ME)
 

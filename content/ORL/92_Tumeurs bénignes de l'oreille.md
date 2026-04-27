@@ -47,10 +47,10 @@ source: DES ACP - Cours d'ORL
 
 **Évolution parfaitement bénigne.**
 
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p03_00.jpeg]]
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p03_01.jpeg]]
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p03_02.jpeg]]
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p03_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p03_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p03_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p03_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p03_03.jpeg)
 
 ## Exostose / Ostéome du CAE
 
@@ -62,8 +62,8 @@ Terminologie discutée (mêmes lésions pour certains, entités distinctes pour 
 | Cause | Non retrouvée | **Eau froide** (surfeurs, plongeurs) |
 | Aspect histologique | **Identique** : os mature en travées d'épaisseur variable, recouvert par l'épithélium du CAE | |
 
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p05_00.jpeg]]
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p05_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p05_01.jpeg)
 
 ## Adénome cérumineux
 
@@ -88,12 +88,12 @@ Terminologie discutée (mêmes lésions pour certains, entités distinctes pour 
 | Chromogranine A | − |
 | Synaptophysine | − |
 
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p08_00.jpeg]]
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p08_01.jpeg]]
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p08_02.jpeg]]
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p08_03.jpeg]]
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p08_04.jpeg]]
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p08_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p08_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p08_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p08_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p08_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p08_04.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p08_05.jpeg)
 
 ## Adénome pléomorphe (cérumineux) du CAE
 
@@ -101,7 +101,7 @@ Terminologie discutée (mêmes lésions pour certains, entités distinctes pour 
 - Aspect **identique à l'adénome pléomorphe des glandes salivaires** (voir [[50_Adénome pléomorphe]])
 - Double composante épithéliale + myoépithéliale + stroma chondromyxoïde
 
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p09_00.jpeg)
 
 ## Adénome de l'oreille moyenne
 
@@ -132,16 +132,16 @@ Terminologie discutée (mêmes lésions pour certains, entités distinctes pour 
 | **EMA** | − | + | |
 | **Actine** myoépithéliale | **−** | − | ≠ adénome cérumineux |
 
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p11_00.jpeg]]
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p12_00.jpeg]]
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p13_00.jpeg]]
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p14_00.jpeg]]
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p14_01.jpeg]]
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p14_02.jpeg]]
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p14_03.jpeg]]
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p15_00.jpeg]]
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p15_01.jpeg]]
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p15_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p11_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p12_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p13_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p14_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p14_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p14_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p14_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p15_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p15_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p15_02.jpeg)
 
 ### Tableau récapitulatif IHC — adénome cérumineux vs adénome de l'oreille moyenne vs paragangliome
 
@@ -185,17 +185,17 @@ Terminologie discutée (mêmes lésions pour certains, entités distinctes pour 
 | Cytokératines | **−** | − |
 | **SDHB** | **Perte** si mutation SDHx | − |
 
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p17_00.jpeg]]
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p17_01.jpeg]]
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p17_02.jpeg]]
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p17_03.jpeg]]
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p21_00.jpeg]]
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p21_01.jpeg]]
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p21_02.jpeg]]
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p21_03.jpeg]]
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p22_00.jpeg]]
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p22_01.jpeg]]
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p22_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p17_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p17_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p17_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p17_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p21_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p21_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p21_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p21_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p22_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p22_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p22_02.jpeg)
 
 ## Méningiome de l'oreille
 
@@ -211,8 +211,8 @@ Terminologie discutée (mêmes lésions pour certains, entités distinctes pour 
 
 - Voir [[41_Méningiomes]] pour le détail (gradation OMS, IHC EMA+, SSTR2A+, progesterone+).
 
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p23_00.jpeg]]
-![[assets/ORL/oreille/pathologie_tumorale/10-531 Tm bénignes oreille/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p23_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-531%20Tm%20b%C3%A9nignes%20oreille/p23_01.jpeg)
 
 ## Neurinome acoustique (schwannome vestibulaire)
 

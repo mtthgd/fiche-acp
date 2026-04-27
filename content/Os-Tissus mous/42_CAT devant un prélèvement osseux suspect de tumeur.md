@@ -30,9 +30,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 3. Porter le **diagnostic**
 4. Sur pièce opératoire : confirmer diagnostic, évaluer **qualité d'exérèse**, **réponse au traitement néo-adjuvant**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236 PEC prélèvement osseux suspect de tumeur v2/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236%20PEC%20pr%C3%A9l%C3%A8vement%20osseux%20suspect%20de%20tumeur%20v2/p08_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236 PEC prélèvement osseux suspect de tumeur v2/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236%20PEC%20pr%C3%A9l%C3%A8vement%20osseux%20suspect%20de%20tumeur%20v2/p09_00.jpeg)
 
 ## Types de prélèvements
 
@@ -46,9 +46,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 > **Voie d'abord** : discutée en RCP, doit tenir compte de la résection ultérieure (cicatrice emportée).
 > **Contre-indications à la microbiopsie** : tumeurs cartilagineuses (sauf bassin), tumeurs sclérosantes.
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236 PEC prélèvement osseux suspect de tumeur v2/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236%20PEC%20pr%C3%A9l%C3%A8vement%20osseux%20suspect%20de%20tumeur%20v2/p10_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236 PEC prélèvement osseux suspect de tumeur v2/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236%20PEC%20pr%C3%A9l%C3%A8vement%20osseux%20suspect%20de%20tumeur%20v2/p11_00.jpeg)
 
 ### Curetages
 Volume équivalent à biopsie chirurgicale ou plus important. But **diagnostique et thérapeutique** (tumeurs bénignes).
@@ -70,9 +70,9 @@ Volume équivalent à biopsie chirurgicale ou plus important. But **diagnostique
 2. Analyser la **structure fibrillaire / lamellaire** de l'os
 3. Analyser les **rapports tumeur-os** (essentiel pour tumeurs cartilagineuses)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236 PEC prélèvement osseux suspect de tumeur v2/p13_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236%20PEC%20pr%C3%A9l%C3%A8vement%20osseux%20suspect%20de%20tumeur%20v2/p13_00.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236 PEC prélèvement osseux suspect de tumeur v2/p13_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236%20PEC%20pr%C3%A9l%C3%A8vement%20osseux%20suspect%20de%20tumeur%20v2/p13_05.jpeg)
 
 ### Types de décalcifiants
 
@@ -90,15 +90,15 @@ Volume équivalent à biopsie chirurgicale ou plus important. But **diagnostique
 4. Pour IHC / biomol : **durée ≤ 5 cycles, acide faible ou EDTA**
 5. **Congélation systématique** d'un fragment tumoral avant toute décalcification
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236 PEC prélèvement osseux suspect de tumeur v2/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236%20PEC%20pr%C3%A9l%C3%A8vement%20osseux%20suspect%20de%20tumeur%20v2/p15_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236 PEC prélèvement osseux suspect de tumeur v2/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236%20PEC%20pr%C3%A9l%C3%A8vement%20osseux%20suspect%20de%20tumeur%20v2/p15_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236 PEC prélèvement osseux suspect de tumeur v2/p16_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236%20PEC%20pr%C3%A9l%C3%A8vement%20osseux%20suspect%20de%20tumeur%20v2/p16_03.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236 PEC prélèvement osseux suspect de tumeur v2/p16_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236%20PEC%20pr%C3%A9l%C3%A8vement%20osseux%20suspect%20de%20tumeur%20v2/p16_04.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236 PEC prélèvement osseux suspect de tumeur v2/p16_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236%20PEC%20pr%C3%A9l%C3%A8vement%20osseux%20suspect%20de%20tumeur%20v2/p16_05.jpeg)
 
 ## Prise en charge pratique
 
@@ -112,9 +112,9 @@ Volume équivalent à biopsie chirurgicale ou plus important. But **diagnostique
    - Biopsie chirurgicale : spongieux → formique 6h ; corticale → HCl cycles 4h
 5. **Inclusion en totalité**, fragments de consistance différente séparés
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236 PEC prélèvement osseux suspect de tumeur v2/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236%20PEC%20pr%C3%A9l%C3%A8vement%20osseux%20suspect%20de%20tumeur%20v2/p18_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236 PEC prélèvement osseux suspect de tumeur v2/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236%20PEC%20pr%C3%A9l%C3%A8vement%20osseux%20suspect%20de%20tumeur%20v2/p18_01.jpeg)
 
 ### Pièces opératoires
 
@@ -130,37 +130,37 @@ Volume équivalent à biopsie chirurgicale ou plus important. But **diagnostique
    - **Os plat / fin** : coupes sériées perpendiculaires au grand axe
    - **Tranche centrale incluse en totalité** pour évaluer la réponse à la chimio
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236 PEC prélèvement osseux suspect de tumeur v2/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236%20PEC%20pr%C3%A9l%C3%A8vement%20osseux%20suspect%20de%20tumeur%20v2/p23_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236 PEC prélèvement osseux suspect de tumeur v2/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236%20PEC%20pr%C3%A9l%C3%A8vement%20osseux%20suspect%20de%20tumeur%20v2/p23_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236 PEC prélèvement osseux suspect de tumeur v2/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236%20PEC%20pr%C3%A9l%C3%A8vement%20osseux%20suspect%20de%20tumeur%20v2/p24_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236 PEC prélèvement osseux suspect de tumeur v2/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236%20PEC%20pr%C3%A9l%C3%A8vement%20osseux%20suspect%20de%20tumeur%20v2/p26_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236 PEC prélèvement osseux suspect de tumeur v2/p26_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236%20PEC%20pr%C3%A9l%C3%A8vement%20osseux%20suspect%20de%20tumeur%20v2/p26_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236 PEC prélèvement osseux suspect de tumeur v2/p26_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236%20PEC%20pr%C3%A9l%C3%A8vement%20osseux%20suspect%20de%20tumeur%20v2/p26_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236 PEC prélèvement osseux suspect de tumeur v2/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236%20PEC%20pr%C3%A9l%C3%A8vement%20osseux%20suspect%20de%20tumeur%20v2/p27_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236 PEC prélèvement osseux suspect de tumeur v2/p27_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236%20PEC%20pr%C3%A9l%C3%A8vement%20osseux%20suspect%20de%20tumeur%20v2/p27_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236 PEC prélèvement osseux suspect de tumeur v2/p27_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236%20PEC%20pr%C3%A9l%C3%A8vement%20osseux%20suspect%20de%20tumeur%20v2/p27_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236 PEC prélèvement osseux suspect de tumeur v2/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236%20PEC%20pr%C3%A9l%C3%A8vement%20osseux%20suspect%20de%20tumeur%20v2/p28_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236 PEC prélèvement osseux suspect de tumeur v2/p28_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236%20PEC%20pr%C3%A9l%C3%A8vement%20osseux%20suspect%20de%20tumeur%20v2/p28_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236 PEC prélèvement osseux suspect de tumeur v2/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236%20PEC%20pr%C3%A9l%C3%A8vement%20osseux%20suspect%20de%20tumeur%20v2/p31_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236 PEC prélèvement osseux suspect de tumeur v2/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236%20PEC%20pr%C3%A9l%C3%A8vement%20osseux%20suspect%20de%20tumeur%20v2/p32_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236 PEC prélèvement osseux suspect de tumeur v2/p34_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236%20PEC%20pr%C3%A9l%C3%A8vement%20osseux%20suspect%20de%20tumeur%20v2/p34_00.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236 PEC prélèvement osseux suspect de tumeur v2/p34_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236%20PEC%20pr%C3%A9l%C3%A8vement%20osseux%20suspect%20de%20tumeur%20v2/p34_01.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236 PEC prélèvement osseux suspect de tumeur v2/p34_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-236%20PEC%20pr%C3%A9l%C3%A8vement%20osseux%20suspect%20de%20tumeur%20v2/p34_02.png)
 
 ---
 

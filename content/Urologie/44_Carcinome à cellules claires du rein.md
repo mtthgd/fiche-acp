@@ -35,11 +35,11 @@ source: DES ACP - Cours d'urologie
   - **20 %** métastatiques au diagnostic, **30 %** le deviendront → **1 patient sur 2** deviendra métastatique
 - **Prise en charge métastatique** : **thérapies ciblées anti-angiogéniques** (VEGF / récepteurs du VEGF) — angiogenèse très développée dans ce sous-type
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-121-Carcinome à cellules claires/p01_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-121-Carcinome%20%C3%A0%20cellules%20claires/p01_00.png)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-121-Carcinome à cellules claires/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-121-Carcinome%20%C3%A0%20cellules%20claires/p02_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-121-Carcinome à cellules claires/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-121-Carcinome%20%C3%A0%20cellules%20claires/p03_00.jpeg)
 
 ---
 
@@ -63,23 +63,23 @@ source: DES ACP - Cours d'urologie
 
 > **Attention** : ne pas se fier à l'aspect macroscopique — tumeur très piégeante.
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-121-Carcinome à cellules claires/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-121-Carcinome%20%C3%A0%20cellules%20claires/p05_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-121-Carcinome à cellules claires/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-121-Carcinome%20%C3%A0%20cellules%20claires/p06_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-121-Carcinome à cellules claires/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-121-Carcinome%20%C3%A0%20cellules%20claires/p07_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-121-Carcinome à cellules claires/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-121-Carcinome%20%C3%A0%20cellules%20claires/p08_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-121-Carcinome à cellules claires/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-121-Carcinome%20%C3%A0%20cellules%20claires/p09_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-121-Carcinome à cellules claires/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-121-Carcinome%20%C3%A0%20cellules%20claires/p10_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-121-Carcinome à cellules claires/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-121-Carcinome%20%C3%A0%20cellules%20claires/p11_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-121-Carcinome à cellules claires/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-121-Carcinome%20%C3%A0%20cellules%20claires/p12_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-121-Carcinome à cellules claires/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-121-Carcinome%20%C3%A0%20cellules%20claires/p13_00.jpeg)
 
 ---
 
@@ -103,23 +103,23 @@ source: DES ACP - Cours d'urologie
 
 > Ne **pas typer** la composante sarcomatoïde en IHC.
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-121-Carcinome à cellules claires/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-121-Carcinome%20%C3%A0%20cellules%20claires/p14_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-121-Carcinome à cellules claires/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-121-Carcinome%20%C3%A0%20cellules%20claires/p15_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-121-Carcinome à cellules claires/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-121-Carcinome%20%C3%A0%20cellules%20claires/p16_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-121-Carcinome à cellules claires/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-121-Carcinome%20%C3%A0%20cellules%20claires/p17_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-121-Carcinome à cellules claires/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-121-Carcinome%20%C3%A0%20cellules%20claires/p18_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-121-Carcinome à cellules claires/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-121-Carcinome%20%C3%A0%20cellules%20claires/p19_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-121-Carcinome à cellules claires/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-121-Carcinome%20%C3%A0%20cellules%20claires/p20_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-121-Carcinome à cellules claires/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-121-Carcinome%20%C3%A0%20cellules%20claires/p21_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-121-Carcinome à cellules claires/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-121-Carcinome%20%C3%A0%20cellules%20claires/p22_00.jpeg)
 
 ### Grade nucléolaire ISUP (WHO/ISUP)
 
@@ -181,9 +181,9 @@ source: DES ACP - Cours d'urologie
 > **Penser VHL** : tumeurs rénales **multiples et/ou bilatérales, kystiques, sujet < 40 ans**.
 
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-121-Carcinome à cellules claires/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-121-Carcinome%20%C3%A0%20cellules%20claires/p27_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-121-Carcinome à cellules claires/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-121-Carcinome%20%C3%A0%20cellules%20claires/p28_00.jpeg)
 
 ---
 

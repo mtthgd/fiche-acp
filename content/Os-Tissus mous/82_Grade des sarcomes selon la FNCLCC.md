@@ -76,23 +76,23 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 
 > Pour les scores de **2** difficiles : se référer aux **recommandations FNCLCC** (implique que le **type histologique soit certain**).
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p10_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p11_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p11_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p12_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p13_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p14_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p14_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p16_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p16_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p16_02.jpeg)
 
 ---
 
@@ -118,11 +118,11 @@ Comptage sur **10 champs consécutifs** à l'objectif × 40 (**zone la plus mito
 - **Mitoses anormales** comptées
 - Si compte borderline → **recompter** (pas de sous-évaluation)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p18_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p18_01.png)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p18_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p18_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p18_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p18_03.jpeg)
 
 ### Pièges
 
@@ -134,13 +134,13 @@ Comptage sur **10 champs consécutifs** à l'objectif × 40 (**zone la plus mito
 | | Noyaux pycnotiques |
 
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p22_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p23_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p24_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p25_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p25_01.jpeg)
 
 > **L'index mitotique dépend** de : délai de fixation, épaisseur de coupe, qualité de coloration, observateur.
 
@@ -160,26 +160,26 @@ Comptage sur **10 champs consécutifs** à l'objectif × 40 (**zone la plus mito
 - **Microscopique** : à faible grandissement, plages rosées avec **fantômes cellulaires** (souvent à distance des vaisseaux)
 - **Imagerie** (IRM T2 + gadolinium) : zone centrale sans rehaussement
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p26_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p26_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p26_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p26_02.png)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p27_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p27_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p29_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p29_01.jpeg)
 
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p30_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p30_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p31_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p31_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p32_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p32_02.png)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p32_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p32_03.png)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p32_04.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p32_04.png)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p33_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p33_02.png)
 
 ---
 
@@ -192,9 +192,9 @@ Comptage sur **10 champs consécutifs** à l'objectif × 40 (**zone la plus mito
 | **Nécrose** | 0 (absente) / 1 (< 50 %) / 2 (≥ 50 %) |
 | **Grade** | G1 : 2-3 — G2 : 4-5 — **G3 : ≥ 6** |
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p34_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p34_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p35_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p35_01.jpeg)
 
 ---
 
@@ -208,11 +208,11 @@ Comptage sur **10 champs consécutifs** à l'objectif × 40 (**zone la plus mito
 - Grade sans intérêt si la tumeur a **déjà métastasé**
 - Ne s'applique PAS aux sarcomes **post-traitement** (chimio/radio préopératoire)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p36_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p36_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p37_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p37_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p37_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p37_02.jpeg)
 
 ## Grading moléculaire (CINSARC)
 
@@ -221,11 +221,11 @@ Comptage sur **10 champs consécutifs** à l'objectif × 40 (**zone la plus mito
 - Très **reproductible**, applicable sur paraffine
 - Plus coûteux que le FNCLCC
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p38_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p38_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p39_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p39_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-440 Le grade des sarcomes selon la FNCLCC/p39_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-440%20Le%20grade%20des%20sarcomes%20selon%20la%20FNCLCC/p39_02.jpeg)
 
 ---
 

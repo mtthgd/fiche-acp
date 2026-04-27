@@ -24,7 +24,7 @@ L’endomètre comporte **deux compartiments** :
 - **Endomètre fonctionnel** : superficiel, **hormono-sensible** (œstrogènes + progestérone), **desquame** lors des règles. C’est lui qui est utilisé pour la **datation**.
 - **Endomètre basal** : profond, ne répond pas aux stimulations hormonales, ne desquame pas, permet la **régénération** du fonctionnel.
 
-![[assets/gyneco-sein/corps_uterin/datation S Henno cours DES gyneco 4v3 (1)/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/datation%20S%20Henno%20cours%20DES%20gyneco%204v3%20%281%29/p03_00.jpeg)
 
 ## Trois compartiments à analyser
 
@@ -51,15 +51,15 @@ L’endomètre comporte **deux compartiments** :
 
 ## Histologie phase proliférative
 
-![[assets/gyneco-sein/corps_uterin/datation S Henno cours DES gyneco 4v3 (1)/p06_00.jpeg]]
-![[assets/gyneco-sein/corps_uterin/datation S Henno cours DES gyneco 4v3 (1)/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/datation%20S%20Henno%20cours%20DES%20gyneco%204v3%20%281%29/p06_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/datation%20S%20Henno%20cours%20DES%20gyneco%204v3%20%281%29/p07_00.jpeg)
 
 - **Débutante** : glandes peu nombreuses, courtes, rectilignes, étroites ; rares mitoses ; stroma lâche.
 - **Moyenne** : glandes plus longues, sinueuses, lumière plus large ; **stratification nucléaire**, noyaux ovalaires hyperchromatiques, nombreuses mitoses (glandes + stroma + vaisseaux à **J10**).
 - **Avancée** : glandes contournées tortueuses, mitoses encore présentes, début d’œdème.
 
-![[assets/gyneco-sein/corps_uterin/datation S Henno cours DES gyneco 4v3 (1)/p08_00.jpeg]]
-![[assets/gyneco-sein/corps_uterin/datation S Henno cours DES gyneco 4v3 (1)/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/datation%20S%20Henno%20cours%20DES%20gyneco%204v3%20%281%29/p08_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/datation%20S%20Henno%20cours%20DES%20gyneco%204v3%20%281%29/p09_00.jpeg)
 
 ## Histologie phase sécrétoire
 
@@ -70,9 +70,9 @@ L’endomètre comporte **deux compartiments** :
 - **J17 (repère)** : **toutes les glandes au même stade** avec vacuoles infranucléaires uniformes.
 - **J18-19** : vacuoles **supranucléaires** progressivement.
 
-![[assets/gyneco-sein/corps_uterin/datation S Henno cours DES gyneco 4v3 (1)/p13_00.jpeg]]
-![[assets/gyneco-sein/corps_uterin/datation S Henno cours DES gyneco 4v3 (1)/p14_00.jpeg]]
-![[assets/gyneco-sein/corps_uterin/datation S Henno cours DES gyneco 4v3 (1)/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/datation%20S%20Henno%20cours%20DES%20gyneco%204v3%20%281%29/p13_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/datation%20S%20Henno%20cours%20DES%20gyneco%204v3%20%281%29/p14_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/datation%20S%20Henno%20cours%20DES%20gyneco%204v3%20%281%29/p15_00.jpeg)
 
 ### Sécrétoire moyenne (J20-23) — changements stromaux
 - Sécrétion **endoluminale** dans les glandes.
@@ -80,21 +80,21 @@ L’endomètre comporte **deux compartiments** :
 - **Artérioles spiralées** apparaissent.
 - **J23** : ébauche d’épines conjonctives + début de pseudo-décidualisation périvasculaire.
 
-![[assets/gyneco-sein/corps_uterin/datation S Henno cours DES gyneco 4v3 (1)/p18_00.jpeg]]
-![[assets/gyneco-sein/corps_uterin/datation S Henno cours DES gyneco 4v3 (1)/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/datation%20S%20Henno%20cours%20DES%20gyneco%204v3%20%281%29/p18_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/datation%20S%20Henno%20cours%20DES%20gyneco%204v3%20%281%29/p20_00.jpeg)
 
 ### Sécrétoire avancée (J24-28)
 - **J25** : glandes **en dentelle** avec épines conjonctives diffuses ; artérioles spiralées développées ; pseudo-décidualisation progressive du stroma.
 - **J26-28** : "**dentelle utérine**" — sécrétion intraluminale, stroma massivement pseudo-décidualisé.
 
-![[assets/gyneco-sein/corps_uterin/datation S Henno cours DES gyneco 4v3 (1)/p21_00.jpeg]]
-![[assets/gyneco-sein/corps_uterin/datation S Henno cours DES gyneco 4v3 (1)/p22_00.jpeg]]
-![[assets/gyneco-sein/corps_uterin/datation S Henno cours DES gyneco 4v3 (1)/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/datation%20S%20Henno%20cours%20DES%20gyneco%204v3%20%281%29/p21_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/datation%20S%20Henno%20cours%20DES%20gyneco%204v3%20%281%29/p22_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/datation%20S%20Henno%20cours%20DES%20gyneco%204v3%20%281%29/p23_00.jpeg)
 
 ### Phase menstruelle
 Endomètre hétérogène, plages de nécrose et délitement, structures épithéliales dissociées, stroma condensé, **PNN admissibles**.
 
-![[assets/gyneco-sein/corps_uterin/datation S Henno cours DES gyneco 4v3 (1)/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/datation%20S%20Henno%20cours%20DES%20gyneco%204v3%20%281%29/p24_00.jpeg)
 
 ---
 
@@ -116,7 +116,7 @@ Endomètre hétérogène, plages de nécrose et délitement, structures épithé
 
 ### Endométrite aiguë
 
-![[assets/gyneco-sein/corps_uterin/datation S Henno cours DES gyneco 4v3 (1)/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/datation%20S%20Henno%20cours%20DES%20gyneco%204v3%20%281%29/p28_00.jpeg)
 
 - Glandes et chorion **dissociés par PNN**.
 - Œdème, suffusions hémorragiques, éléments inflammatoires chroniques associés.
@@ -131,7 +131,7 @@ Endomètre hétérogène, plages de nécrose et délitement, structures épithé
 - Recherche minutieuse sur HES.
 - En cas de doute : **immunomarquage CD138** (très utile).
 
-![[assets/gyneco-sein/corps_uterin/datation S Henno cours DES gyneco 4v3 (1)/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/datation%20S%20Henno%20cours%20DES%20gyneco%204v3%20%281%29/p30_00.jpeg)
 
 ## Diagnostics différentiels
 

@@ -26,7 +26,7 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
   2. Descellement (mécanique / septique)
   3. Dissémination de particules
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p04_00.jpeg)
 
 ---
 
@@ -46,13 +46,13 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Germes parfois visibles (coloration de Gram) ou sur liquide de ponction (bactério systématique)
 - Possible réaction à corps étranger associée aux particules exogènes
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p08_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p09_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p10_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p10_01.jpeg)
 
 ---
 
@@ -74,11 +74,11 @@ Perte de fixation d'un ou des deux composants (cimenté ou non cimenté) → dou
 - Intensité de la réaction : **polyéthylène > métal > céramique**
 - **Examen en lumière polarisée indispensable**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p15_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p15_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p16_01.jpeg)
 
 ### Débris d'usure : caractérisation
 
@@ -93,47 +93,47 @@ Perte de fixation d'un ou des deux composants (cimenté ou non cimenté) → dou
 
 Caractérisation précise → **spectrométrie de masse** (hors microscopie optique).
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p19_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p19_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p20_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p20_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p21_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p21_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p23_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p24_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p24_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p24_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p24_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p24_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p24_03.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p25_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p25_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p25_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p27_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p28_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p28_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p28_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p29_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p30_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p31_00.jpeg)
 
 Évolution possible vers des plages de **nécrose** avec persistance des particules.
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p33_00.jpeg)
 
 ---
 
@@ -146,15 +146,15 @@ Caractérisation précise → **spectrométrie de masse** (hors microscopie opti
 - **Piège des examens extemporanés** → connaître les ATCD du patient
 - Toute réaction granulomateuse à corps étranger → **examen en lumière polarisée systématique**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p34_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p34_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p34_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p36_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p36_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p36_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p36_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p36_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p36_02.jpeg)
 
 ### Systémique (rare)
 
@@ -162,11 +162,11 @@ Caractérisation précise → **spectrométrie de masse** (hors microscopie opti
 - Granulomes à corps étranger hépatiques → DD de toute réaction granulomateuse
 - **Risque de carcinogénèse/lymphogénèse non démontré**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p37_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p37_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p40_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p40_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170 Pathologie des prothèses/p40_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-170%20Pathologie%20des%20proth%C3%A8ses/p40_01.jpeg)
 
 ---
 

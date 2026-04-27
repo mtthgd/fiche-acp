@@ -46,12 +46,12 @@ source: DES ACP - Cours d'ORL
 | 5. **Membrane de Descemet** | Vraie membrane basale, **PAS-positive** ; **ne régénère pas** |
 | 6. **Endothélium** | Couche unique de cellules dérivées des **crêtes neurales** → **PS100+** ; pompe ; **densité diminue avec l'âge** ; **ne régénère pas** |
 
-![[assets/ORL/oeil/pathologie_de_surface/10-424 cornee 2024/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/10-424%20cornee%202024/p03_00.jpeg)
 
-![[assets/ORL/oeil/pathologie_de_surface/10-424 cornee 2024/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/10-424%20cornee%202024/p04_00.jpeg)
 
-![[assets/ORL/oeil/pathologie_de_surface/10-424 cornee 2024/p05_02.jpeg]]
-![[assets/ORL/oeil/pathologie_de_surface/10-424 cornee 2024/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/10-424%20cornee%202024/p05_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/10-424%20cornee%202024/p06_00.jpeg)
 
 ### Limbe cornéen
 
@@ -69,10 +69,10 @@ source: DES ACP - Cours d'ORL
 | Cytologie | Brossage / grattage cornéen |
 | Biopsie | Plus rare |
 
-![[assets/ORL/oeil/pathologie_de_surface/10-424 cornee 2024/p07_00.jpeg]]
-![[assets/ORL/oeil/pathologie_de_surface/10-424 cornee 2024/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/10-424%20cornee%202024/p07_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/10-424%20cornee%202024/p07_01.jpeg)
 
-![[assets/ORL/oeil/pathologie_de_surface/10-424 cornee 2024/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/10-424%20cornee%202024/p08_00.jpeg)
 
 ## Classification des pathologies cornéennes
 
@@ -102,9 +102,9 @@ source: DES ACP - Cours d'ORL
 5. Œdème stromal puis **nécrose** stromale, puis rupture de la **membrane de Descemet** → **perforation**.
 6. Risque d'**endophtalmie** ou cicatrisation avec **panus fibreux sous-épithélial**, **néovascularisation** stromale, infiltrat lymphocytaire et macrophagique.
 
-![[assets/ORL/oeil/pathologie_de_surface/10-424 cornee 2024/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/10-424%20cornee%202024/p09_00.jpeg)
 
-![[assets/ORL/oeil/pathologie_de_surface/10-424 cornee 2024/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/10-424%20cornee%202024/p10_00.jpeg)
 
 ### Colorations complémentaires selon agent suspecté
 
@@ -115,9 +115,9 @@ source: DES ACP - Cours d'ORL
 | **Bactérien** | **Gram** |
 | **Herpétique** | IHC anti-HSV (si disponible) ; surtout microbiologie / PCR |
 
-![[assets/ORL/oeil/pathologie_de_surface/10-424 cornee 2024/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/10-424%20cornee%202024/p10_01.jpeg)
 
-![[assets/ORL/oeil/pathologie_de_surface/10-424 cornee 2024/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/10-424%20cornee%202024/p11_00.jpeg)
 
 ### Ulcères et kératites non infectieuses
 
@@ -126,9 +126,9 @@ source: DES ACP - Cours d'ORL
 | **Ulcère de Mooren** | Périphérique progressif, **auto-immun** ; nécrose épithéliale + Bowman, infiltrat **lymphoplasmocytaire** |
 | **Dégénérescence marginale de Terrien** | Membrane de Bowman fragmentée, désorganisation stromale, **dépôts lipidiques**, rares lymphocytes/plasmocytes ; **épithélium non ulcéré** |
 
-![[assets/ORL/oeil/pathologie_de_surface/10-424 cornee 2024/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/10-424%20cornee%202024/p11_01.jpeg)
 
-![[assets/ORL/oeil/pathologie_de_surface/10-424 cornee 2024/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/10-424%20cornee%202024/p12_00.jpeg)
 
 ---
 
@@ -155,9 +155,9 @@ source: DES ACP - Cours d'ORL
 - Examen de la collerette sclérale (donneur) et de la cornée du receveur pour évaluer le risque sur le futur greffon.
 - Anecdotique : greffon **posé à l'envers** (épithélium régénéré sur Descemet).
 
-![[assets/ORL/oeil/pathologie_de_surface/10-424 cornee 2024/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/10-424%20cornee%202024/p12_01.jpeg)
 
-![[assets/ORL/oeil/pathologie_de_surface/10-424 cornee 2024/p13_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/10-424%20cornee%202024/p13_02.jpeg)
 
 ---
 
@@ -178,9 +178,9 @@ source: DES ACP - Cours d'ORL
 - Membrane de Descemet et endothélium **préservés**, sauf en cas de **kératocône aigu (hydrops)** : tension extrême → **rupture de la membrane de Descemet** + œdème stromal majeur (plus de fentes artefactuelles).
 - Possible **anneau de Kayser-Fleischer** (anneau de dépôts **PAS+**).
 
-![[assets/ORL/oeil/pathologie_de_surface/10-424 cornee 2024/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/10-424%20cornee%202024/p14_00.jpeg)
 
-![[assets/ORL/oeil/pathologie_de_surface/10-424 cornee 2024/p15_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/10-424%20cornee%202024/p15_02.jpeg)
 
 ### 3.2 Œdème de cornée / **kératopathie bulleuse**
 
@@ -201,9 +201,9 @@ source: DES ACP - Cours d'ORL
 - Épaississement cornéen.
 - Forme chronique : **panus fibreux sous-épithélial** (entre épithélium et Bowman).
 
-![[assets/ORL/oeil/pathologie_de_surface/10-424 cornee 2024/p16_00.jpeg]]
-![[assets/ORL/oeil/pathologie_de_surface/10-424 cornee 2024/p16_01.jpeg]]
-![[assets/ORL/oeil/pathologie_de_surface/10-424 cornee 2024/p16_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/10-424%20cornee%202024/p16_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/10-424%20cornee%202024/p16_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/10-424%20cornee%202024/p16_02.jpeg)
 
 ### 3.3 Dystrophies cornéennes
 
@@ -226,7 +226,7 @@ source: DES ACP - Cours d'ORL
 - **Œdème stromal** ± panus sous-épithélial chronique.
 - Raréfaction des kératocytes du stroma antérieur.
 
-![[assets/ORL/oeil/pathologie_de_surface/10-424 cornee 2024/p17_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/10-424%20cornee%202024/p17_02.jpeg)
 
 #### Autres dystrophies (à savoir reconnaître)
 
@@ -273,7 +273,7 @@ source: DES ACP - Cours d'ORL
 - Atypies, désorganisation, **mitoses ascensionnées**, anomalies de kératinisation.
 - Classification **TNM 2017** (importance de la **mesure** des lésions).
 
-![[assets/ORL/oeil/pathologie_de_surface/10-424 cornee 2024/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_de_surface/10-424%20cornee%202024/p22_00.jpeg)
 
 ---
 

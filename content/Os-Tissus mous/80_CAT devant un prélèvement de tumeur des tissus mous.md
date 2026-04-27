@@ -37,11 +37,11 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 
 > **Exception** : lipomes et tumeurs lipomateuses atypiques = prise en charge spécifique.
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p05_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p06_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p06_00.png)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p06_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p06_01.png)
 
 ## Éléments indispensables au diagnostic
 
@@ -56,15 +56,15 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Indispensable : localisation, profondeur, signal (adipeux, myxoïde, hémorragique…)
 - Discussion en **RCP** avant ACP pour formuler des hypothèses diagnostiques
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p20_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p20_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p20_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p20_02.png)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p20_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p20_03.png)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p20_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p20_04.jpeg)
 
 ## Microbiopsie — prélèvement de choix
 
@@ -81,11 +81,11 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 
 > Ne **jamais sur-fixer > 24 h ni sous-fixer < 8 h** → préservation ADN/ARN pour biomol.
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p22_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p23_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p24_00.jpeg)
 
 ### Limites de la microbiopsie
 
@@ -93,17 +93,17 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Grade FNCLCC** potentiellement sous-coté (tumeurs hétérogènes)
 - **Différenciation** potentiellement différente sur la pièce finale
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p25_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p25_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p25_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p26_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p26_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p26_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p26_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p26_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p26_03.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p27_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p27_02.jpeg)
 
 ## Approche diagnostique
 
@@ -130,11 +130,11 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Traitement préopératoire** (chimio/radiothérapie) ?
 - **Orientation par le chirurgien** (3 repères dans les 3 plans de l'espace — position anatomique debout, paumes en avant)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p30_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p30_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p30_02.png)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p30_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p30_05.jpeg)
 
 ### Étapes de prise en charge macroscopique
 
@@ -144,11 +144,11 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 4. **Encrage** des limites de résection
 5. **Fixation** en formol tamponné
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p31_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p33_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p34_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p34_01.jpeg)
 
 ### Description macroscopique tumorale
 
@@ -158,13 +158,13 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Homogène / hétérogène** (secteurs hémorragiques, charnus, gélatineux)
 - **% de nécrose** (influence le grade FNCLCC)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p36_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p36_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p37_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p37_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p38_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p38_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p39_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p39_00.jpeg)
 
 ### Évaluation des marges
 
@@ -174,17 +174,17 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Tenir compte des **plans de glissement** intermusculaires
 - Prélever : **trajet de biopsie** + **marges les plus étroites** + rapports anatomiques + échantillonnage tumoral (**1 bloc / 1-2 cm** de grand axe) + secteurs hétérogènes
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p40_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p40_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p41_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p41_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p42_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p42_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p43_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p43_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p44_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p44_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p45_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p45_01.jpeg)
 
 ### Qualité de l'exérèse (statut R)
 
@@ -196,9 +196,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 
 > Statut R déterminé en **RCP**.
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p46_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p46_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/generalites/09-422 Prise en charge dun prélèvement de tumeur des tissus mous/p50_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/generalites/09-422%20Prise%20en%20charge%20dun%20pr%C3%A9l%C3%A8vement%20de%20tumeur%20des%20tissus%20mous/p50_00.jpeg)
 
 ---
 

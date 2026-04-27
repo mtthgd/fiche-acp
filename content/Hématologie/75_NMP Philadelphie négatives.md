@@ -33,7 +33,7 @@ source: DES ACP - Cours d'hématologie
 - Toutes peuvent évoluer vers une **myélofibrose secondaire** et/ou **transformation en LAM** (1-20 % selon entité)
 - Driver mutationnels communs : ***JAK2*** / ***CALR*** / ***MPL*** (voie **JAK-STAT**)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-560_Néoplasie myeloproliferative phi neg DES/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-560_N%C3%A9oplasie%20myeloproliferative%20phi%20neg%20DES/p02_00.jpeg)
 
 
 ## Clinique / Épidémiologie
@@ -57,9 +57,9 @@ source: DES ACP - Cours d'hématologie
 > Les mutations *CALR* (calréticuline) sont **mutuellement exclusives** avec *JAK2* et *MPL*. Type 1 (délétion 52 pb) = pronostic plus favorable que type 2 (insertion 5 pb).
 
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-560_Néoplasie myeloproliferative phi neg DES/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-560_N%C3%A9oplasie%20myeloproliferative%20phi%20neg%20DES/p06_00.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-560_Néoplasie myeloproliferative phi neg DES/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-560_N%C3%A9oplasie%20myeloproliferative%20phi%20neg%20DES/p06_01.jpeg)
 
 ## Polyglobulie de Vaquez (PV)
 
@@ -80,12 +80,12 @@ source: DES ACP - Cours d'hématologie
 - Mégacaryocytes en **petits clusters lâches**, pléomorphes, **noyaux multilobés**
 - Pas/peu de fibrose initialement (peut survenir en phase évoluée)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-560_Néoplasie myeloproliferative phi neg DES/p11_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-560_N%C3%A9oplasie%20myeloproliferative%20phi%20neg%20DES/p11_03.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-560_Néoplasie myeloproliferative phi neg DES/p11_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-560_N%C3%A9oplasie%20myeloproliferative%20phi%20neg%20DES/p11_04.jpeg)
 
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-560_Néoplasie myeloproliferative phi neg DES/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-560_N%C3%A9oplasie%20myeloproliferative%20phi%20neg%20DES/p12_01.jpeg)
 
 ## Thrombocytémie essentielle (TE)
 
@@ -108,9 +108,9 @@ source: DES ACP - Cours d'hématologie
 - **Pas de fibrose** (réticuline grade 0-1)
 - Pas de signes de dysplasie
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-560_Néoplasie myeloproliferative phi neg DES/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-560_N%C3%A9oplasie%20myeloproliferative%20phi%20neg%20DES/p17_00.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-560_Néoplasie myeloproliferative phi neg DES/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-560_N%C3%A9oplasie%20myeloproliferative%20phi%20neg%20DES/p17_01.jpeg)
 
 
 
@@ -145,18 +145,18 @@ OMS 2017 distingue **2 stades** :
 - **Fibrose réticulinique** progressive (Gomori) : grade 0 → 3
 - Stade tardif : **ostéosclérose**, dilatation sinusoïdale, **hématopoïèse intra-sinusoïdale**
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-560_Néoplasie myeloproliferative phi neg DES/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-560_N%C3%A9oplasie%20myeloproliferative%20phi%20neg%20DES/p22_00.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-560_Néoplasie myeloproliferative phi neg DES/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-560_N%C3%A9oplasie%20myeloproliferative%20phi%20neg%20DES/p22_01.jpeg)
 
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-560_Néoplasie myeloproliferative phi neg DES/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-560_N%C3%A9oplasie%20myeloproliferative%20phi%20neg%20DES/p25_00.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-560_Néoplasie myeloproliferative phi neg DES/p25_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-560_N%C3%A9oplasie%20myeloproliferative%20phi%20neg%20DES/p25_01.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-560_Néoplasie myeloproliferative phi neg DES/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-560_N%C3%A9oplasie%20myeloproliferative%20phi%20neg%20DES/p28_00.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-560_Néoplasie myeloproliferative phi neg DES/p28_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-560_N%C3%A9oplasie%20myeloproliferative%20phi%20neg%20DES/p28_01.jpeg)
 
 ### Grading de la fibrose (OMS / EUMNET 2005)
 
@@ -167,11 +167,11 @@ OMS 2017 distingue **2 stades** :
 | **MF-2** | **Réseau dense diffus**, foyers **collagènes**, ostéosclérose focale |
 | **MF-3** | Réseau dense diffus + **importants foyers collagènes** + ostéosclérose marquée |
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-560_Néoplasie myeloproliferative phi neg DES/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-560_N%C3%A9oplasie%20myeloproliferative%20phi%20neg%20DES/p31_00.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-560_Néoplasie myeloproliferative phi neg DES/p31_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-560_N%C3%A9oplasie%20myeloproliferative%20phi%20neg%20DES/p31_01.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-560_Néoplasie myeloproliferative phi neg DES/p31_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-560_N%C3%A9oplasie%20myeloproliferative%20phi%20neg%20DES/p31_02.jpeg)
 
 ## Tableau comparatif PV / TE / MFP
 
@@ -188,7 +188,7 @@ OMS 2017 distingue **2 stades** :
 | **MPL** | – | 5 % | 8-10 % | 8-10 % |
 | EPO | **↓** | N | N | N |
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-560_Néoplasie myeloproliferative phi neg DES/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-560_N%C3%A9oplasie%20myeloproliferative%20phi%20neg%20DES/p32_00.jpeg)
 
 
 ## Immunohistochimie utile sur BOM
@@ -206,7 +206,7 @@ OMS 2017 distingue **2 stades** :
 
 
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-560_Néoplasie myeloproliferative phi neg DES/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-560_N%C3%A9oplasie%20myeloproliferative%20phi%20neg%20DES/p35_00.jpeg)
 
 ## Diagnostics différentiels
 
@@ -219,9 +219,9 @@ OMS 2017 distingue **2 stades** :
 | **Myélofibrose secondaire** | Antécédent PV ou TE, ou cause non clonale (lupus, infection, métastase) |
 | **Mastocytose systémique** | Mastocytes atypiques CD25+, KIT D816V |
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-560_Néoplasie myeloproliferative phi neg DES/p36_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-560_N%C3%A9oplasie%20myeloproliferative%20phi%20neg%20DES/p36_00.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-560_Néoplasie myeloproliferative phi neg DES/p36_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-560_N%C3%A9oplasie%20myeloproliferative%20phi%20neg%20DES/p36_01.jpeg)
 
 ## Pronostic / Traitement
 
@@ -246,9 +246,9 @@ OMS 2017 distingue **2 stades** :
 | TE | Aspirine, hydroxyurée si haut risque, anagrélide |
 | MFP | **Ruxolitinib** (inhibiteur JAK1/2), allogreffe si éligible (jeune, haut risque) |
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-560_Néoplasie myeloproliferative phi neg DES/p38_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-560_N%C3%A9oplasie%20myeloproliferative%20phi%20neg%20DES/p38_00.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-560_Néoplasie myeloproliferative phi neg DES/p38_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-560_N%C3%A9oplasie%20myeloproliferative%20phi%20neg%20DES/p38_03.jpeg)
 
 ---
 

@@ -35,7 +35,7 @@ Ce chapitre est centré sur les **techniques de détection du HPV** dans les can
 | **HIS ARN (RNAscope E6/E7)** | ARN E6/E7 | Très sensible, intégration | Recherche, coût |
 | **IHC anti-p16** | Protéine p16 (effet indirect d'E7) | **Simple, peu cher**, validé sur **oropharynx** | Pas spécifique hors oropharynx |
 
-![[assets/ORL/VADS/carcinome_epidermoide/Cours Cécile outils moléculairescbokenregistre/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/Cours%20C%C3%A9cile%20outils%20mol%C3%A9culairescbokenregistre/p07_00.jpeg)
 
 ## 1. Sérologie
 
@@ -69,9 +69,9 @@ Ce chapitre est centré sur les **techniques de détection du HPV** dans les can
 - Lecture : marquages **très fins** → expérience technique nécessaire
 - ⚠️ Tout fond doit être considéré comme **négatif** ; seuls les **dots nucléaires** comptent
 
-![[assets/ORL/VADS/carcinome_epidermoide/Cours Cécile outils moléculairescbokenregistre/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/Cours%20C%C3%A9cile%20outils%20mol%C3%A9culairescbokenregistre/p10_01.jpeg)
 
-![[assets/ORL/VADS/carcinome_epidermoide/Cours Cécile outils moléculairescbokenregistre/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/Cours%20C%C3%A9cile%20outils%20mol%C3%A9culairescbokenregistre/p11_00.jpeg)
 
 ### HIS ARN (RNAscope E6/E7)
 - Cible les transcrits **E6/E7** des sous-types HPV à haut risque (cocktail jusqu'à **18 sous-types**)
@@ -81,9 +81,9 @@ Ce chapitre est centré sur les **techniques de détection du HPV** dans les can
 - Lecture : marquages **très propres**, dots fins ou très denses selon les cas
 - Excellente spécificité, **rare en routine**
 
-![[assets/ORL/VADS/carcinome_epidermoide/Cours Cécile outils moléculairescbokenregistre/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/Cours%20C%C3%A9cile%20outils%20mol%C3%A9culairescbokenregistre/p15_00.jpeg)
 
-![[assets/ORL/VADS/carcinome_epidermoide/Cours Cécile outils moléculairescbokenregistre/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/Cours%20C%C3%A9cile%20outils%20mol%C3%A9culairescbokenregistre/p17_00.jpeg)
 
 ## 4. IHC anti-p16
 
@@ -103,9 +103,9 @@ Régulation normale au checkpoint **G1/S** :
 
 > ⚠️ **p16+ ne signifie PAS infection HPV directe**, mais reflète l'**inactivation de pRb** par l'oncoprotéine E7.
 
-![[assets/ORL/VADS/carcinome_epidermoide/Cours Cécile outils moléculairescbokenregistre/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/Cours%20C%C3%A9cile%20outils%20mol%C3%A9culairescbokenregistre/p19_01.jpeg)
 
-![[assets/ORL/VADS/carcinome_epidermoide/Cours Cécile outils moléculairescbokenregistre/p21_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/Cours%20C%C3%A9cile%20outils%20mol%C3%A9culairescbokenregistre/p21_00.png)
 
 ### Lecture du marquage anti-p16
 
@@ -126,9 +126,9 @@ Régulation normale au checkpoint **G1/S** :
 
 ⚠️ **Débris nécrotiques centraux** : à exclure.
 
-![[assets/ORL/VADS/carcinome_epidermoide/Cours Cécile outils moléculairescbokenregistre/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/Cours%20C%C3%A9cile%20outils%20mol%C3%A9culairescbokenregistre/p27_00.jpeg)
 
-![[assets/ORL/VADS/carcinome_epidermoide/Cours Cécile outils moléculairescbokenregistre/p27_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/Cours%20C%C3%A9cile%20outils%20mol%C3%A9culairescbokenregistre/p27_01.jpeg)
 
 ## Quel test choisir ? — étude comparative
 
@@ -145,7 +145,7 @@ Régulation normale au checkpoint **G1/S** :
 - **p16 n'est PAS un bon test** dans les autres localisations (faux positifs ++)
 - Si recherche HPV dans une autre localisation : **multiplier les tests**
 
-![[assets/ORL/VADS/carcinome_epidermoide/Cours Cécile outils moléculairescbokenregistre/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/Cours%20C%C3%A9cile%20outils%20mol%C3%A9culairescbokenregistre/p35_00.jpeg)
 
 ## Algorithme pratique (oropharynx)
 

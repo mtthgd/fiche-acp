@@ -38,7 +38,7 @@ source: DES ACP - Pathologie moléculaire
 
 
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-630-La FISH appliquee à lanapath/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-630-La%20FISH%20appliquee%20%C3%A0%20lanapath/p03_00.jpeg)
 
 ## Indications & intérêts cliniques
 
@@ -55,7 +55,7 @@ source: DES ACP - Pathologie moléculaire
 - **Théragnostique** : anti-HER2, anti-ALK
 - **Pronostique** : ex. **réarrangement MYC** dans DLBCL = mauvais pronostic
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-630-La FISH appliquee à lanapath/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-630-La%20FISH%20appliquee%20%C3%A0%20lanapath/p05_00.jpeg)
 
 ## Acteurs / Sondes / Réactifs
 
@@ -85,12 +85,12 @@ source: DES ACP - Pathologie moléculaire
 - **Cellule transloquée équilibrée** : **2 fusions** + 1 vert isolé + 1 rouge isolé
 - Avantage : identifie le partenaire ; **Limite** : faux signaux de fusion par superposition de noyaux
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-630-La FISH appliquee à lanapath/p15_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-630-La%20FISH%20appliquee%20%C3%A0%20lanapath/p15_00.png)
 
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-630-La FISH appliquee à lanapath/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-630-La%20FISH%20appliquee%20%C3%A0%20lanapath/p16_01.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-630-La FISH appliquee à lanapath/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-630-La%20FISH%20appliquee%20%C3%A0%20lanapath/p17_00.jpeg)
 
 ## Workflow technique
 
@@ -118,11 +118,11 @@ source: DES ACP - Pathologie moléculaire
 | **Coloration éosine** | Diluer (autofluorescence + dégradation ADN) |
 | **Coupes** | **3-5 µm**, lames superfrost adaptées, conservation **+4 °C** |
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-630-La FISH appliquee à lanapath/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-630-La%20FISH%20appliquee%20%C3%A0%20lanapath/p07_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-630-La FISH appliquee à lanapath/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-630-La%20FISH%20appliquee%20%C3%A0%20lanapath/p07_01.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-630-La FISH appliquee à lanapath/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-630-La%20FISH%20appliquee%20%C3%A0%20lanapath/p10_00.jpeg)
 
 ### Étape pré-analytique au microscope (binôme technicien-médecin)
 1. Évaluation du matériel (qualité, nombre de cellules, artefacts)
@@ -144,11 +144,11 @@ source: DES ACP - Pathologie moléculaire
 8. Lecture par 2 observateurs indépendants
 9. Acquisition d’images pour traçabilité
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-630-La FISH appliquee à lanapath/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-630-La%20FISH%20appliquee%20%C3%A0%20lanapath/p18_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-630-La FISH appliquee à lanapath/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-630-La%20FISH%20appliquee%20%C3%A0%20lanapath/p19_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-630-La FISH appliquee à lanapath/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-630-La%20FISH%20appliquee%20%C3%A0%20lanapath/p19_01.jpeg)
 
 ## Variantes de révélation (alternatives à la FISH)
 
@@ -160,13 +160,13 @@ source: DES ACP - Pathologie moléculaire
 
 > Avantages CISH/SISH : pas besoin de microscope à fluorescence, archivage simple. **Limite** : pas applicable à toutes les sondes (notamment break-apart).
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-630-La FISH appliquee à lanapath/p20_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-630-La%20FISH%20appliquee%20%C3%A0%20lanapath/p20_00.png)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-630-La FISH appliquee à lanapath/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-630-La%20FISH%20appliquee%20%C3%A0%20lanapath/p20_01.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-630-La FISH appliquee à lanapath/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-630-La%20FISH%20appliquee%20%C3%A0%20lanapath/p21_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-630-La FISH appliquee à lanapath/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-630-La%20FISH%20appliquee%20%C3%A0%20lanapath/p22_00.jpeg)
 
 ## Lecture / Interprétation
 
@@ -187,11 +187,11 @@ source: DES ACP - Pathologie moléculaire
 ### Cas particulier : amplification HER2 hétérogène
 Fréquente dans le **cancer gastrique** (et possible dans le sein) → analyser **toute la tumeur**, pas un seul secteur.
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-630-La FISH appliquee à lanapath/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-630-La%20FISH%20appliquee%20%C3%A0%20lanapath/p13_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-630-La FISH appliquee à lanapath/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-630-La%20FISH%20appliquee%20%C3%A0%20lanapath/p24_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-630-La FISH appliquee à lanapath/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-630-La%20FISH%20appliquee%20%C3%A0%20lanapath/p25_00.jpeg)
 
 ## Indications cliniques majeures
 

@@ -22,7 +22,7 @@ source: DES ACP - Cours d'ORL
 
 Chapitre « catalogue » des carcinomes salivaires rares. Stratégie proposée : **retenir des tableaux anatomo-cliniques caricaturaux** associés à des aspects microscopiques frappants.
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p03_00.jpeg)
 
 ## Vue synoptique des entités abordées
 
@@ -49,7 +49,7 @@ Chapitre « catalogue » des carcinomes salivaires rares. Stratégie proposée :
 - **50 % de novo / 50 % sur adénome pléomorphe** (*ex-PA*)
 - Croissance rapide, paralysie faciale fréquente, douleurs, adénopathies cervicales synchrones > 1/3
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p05_00.jpeg)
 
 ## Histologie
 
@@ -60,15 +60,15 @@ Chapitre « catalogue » des carcinomes salivaires rares. Stratégie proposée :
 - Infiltration péri-nerveuse + emboles vasculaires fréquents
 - Sur adénome pléomorphe : nodule scléreux central, anomalie **PLAG1** persistante en FISH
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p06_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p06_01.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p07_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p08_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p09_00.jpeg)
 
 ## Particularité histologique : cerclage myoépithélial paradoxal
 
@@ -77,13 +77,13 @@ Chapitre « catalogue » des carcinomes salivaires rares. Stratégie proposée :
 - Persiste dans les **métastases** ++
 - Plus fréquent sur les formes ex-adénome pléomorphe
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p11_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p11_01.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p13_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p13_01.jpeg)
 
 ## Immunohistochimie
 
@@ -104,9 +104,9 @@ Chapitre « catalogue » des carcinomes salivaires rares. Stratégie proposée :
 - **50-70 %** de métastases à distance
 - **Survie à 5 ans < 40 %**
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p14_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p14_01.jpeg)
 
 ---
 
@@ -124,9 +124,9 @@ Chapitre « catalogue » des carcinomes salivaires rares. Stratégie proposée :
 | Cerclage myoépithélial | Hétérogène / absent | **Continu, constant** |
 | Phénotype | Apocrine (RA+) | Canalaire/apocrine |
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p16_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p17_00.jpeg)
 
 ---
 
@@ -147,17 +147,17 @@ Chapitre « catalogue » des carcinomes salivaires rares. Stratégie proposée :
 - Stroma hyalin parfois (mime adénome pléomorphe), mais bien délimité de l'épithélium
 - Cellules + **S100**
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p18_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p20_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p20_01.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p21_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p21_01.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p22_00.jpeg)
 
 ## Diagnostics différentiels
 
@@ -175,9 +175,9 @@ Chapitre « catalogue » des carcinomes salivaires rares. Stratégie proposée :
 | Ki67 | Très bas | Plus élevé |
 | Moléculaire | **PRKD1 hotspot** | Fusion *MYB* |
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p22_01.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p22_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p22_02.jpeg)
 
 ## Pronostic
 
@@ -212,9 +212,9 @@ Chapitre « catalogue » des carcinomes salivaires rares. Stratégie proposée :
 | Curage ganglionnaire | Non systématique | **Systématique** |
 | Moléculaire | Mutation hotspot **PRKD1** | **Fusions** PRKD1/2/3 |
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p27_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p27_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p27_01.jpeg)
 
 ---
 
@@ -234,13 +234,13 @@ Chapitre « catalogue » des carcinomes salivaires rares. Stratégie proposée :
   - **Cellules abluminales** myoépithéliales, souvent **claires** (P63/P40 +)
 - Tumeur infiltrante, sans capsule, émiette le tissu conjonctif
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p30_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p30_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p30_01.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p31_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p32_00.jpeg)
 
 - Formations tubulaires myoépithéliales parfois confluentes → massifs cribriformes (DD **carcinome adénoïde kystique**)
 - Cylindres hyalins basal-membrane-like possibles
@@ -266,9 +266,9 @@ Chapitre « catalogue » des carcinomes salivaires rares. Stratégie proposée :
 | Adénocarcinome à cellules basales | Absence d'organisation stéréotypée |
 | **Carcinome adénoïde kystique** | Noyaux anguleux hyperchromatiques, prédominance cribriforme (≠ EMC où le tube prédomine), *MYB* |
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p33_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p34_00.jpeg)
 
 ---
 
@@ -303,11 +303,11 @@ Chapitre « catalogue » des carcinomes salivaires rares. Stratégie proposée :
 - Carcinome sébacé (exceptionnel, parotide, atypies)
 - Métastase de carcinome rénal à cellules claires (PAX8+, CD10+)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p35_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p36_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p36_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p37_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p37_00.jpeg)
 
 - Pronostic excellent, **pas de décès** même chez les rares métastatiques
 
@@ -334,11 +334,11 @@ Chapitre « catalogue » des carcinomes salivaires rares. Stratégie proposée :
 - **Lymphomes** intra-parotidiens également fréquents → intérêt de la **ponction cytologique** (évite chirurgie inutile)
 - **Sous-maxillaire** : métastases par **voie sanguine** plus fréquentes (poumon, rein, sein)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p45_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p45_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p46_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p46_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_347 autres carcinomes audio pdf/p47_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_347%20autres%20carcinomes%20audio%20pdf/p47_00.jpeg)
 
 ---
 

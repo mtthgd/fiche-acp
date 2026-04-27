@@ -30,7 +30,7 @@ Trois outils principaux :
 | **Cytodiagnostic de Tzanck** | Recherche kératinocytes acantholytiques ou cellules à effet cytopathogène herpétique | Rapide (qq h) mais valeur uniquement si positif |
 | **IFD / IFI** (immunofluorescence directe / indirecte) | Recherche d'auto-anticorps déposés (IFD) ou circulants (IFI) | **Gold standard** pour les **DBAI** |
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-241 Dermatoses bulleuses  approche diagnostique/p02_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-241%20Dermatoses%20bulleuses%20%20approche%20diagnostique/p02_01.jpeg)
 
 ### Cytodiagnostic de Tzanck
 
@@ -45,11 +45,11 @@ Trois outils principaux :
 - Anticorps anti-Ig humaines (IgA, IgG, IgM) couplés à un **fluorochrome (FITC)** → fluorescence verte sous UV
 - Détecte les **dépôts d'auto-anticorps** sur la peau du malade : jonction dermo-épidermique (DEJ) ou intra-épidermiques
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-241 Dermatoses bulleuses  approche diagnostique/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-241%20Dermatoses%20bulleuses%20%20approche%20diagnostique/p05_01.jpeg)
 
 Exemple — dépôt linéaire d'**IgG** à la jonction dermo-épidermique dans une **pemphigoïde bulleuse** :
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-241 Dermatoses bulleuses  approche diagnostique/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-241%20Dermatoses%20bulleuses%20%20approche%20diagnostique/p07_00.jpeg)
 
 ### Immunofluorescence indirecte (IFI)
 
@@ -57,7 +57,7 @@ Exemple — dépôt linéaire d'**IgG** à la jonction dermo-épidermique dans u
 - Sérum incubé sur peau humaine ou **œsophage de singe** (mêmes antigènes cibles)
 - **Quantification** par dilutions successives (titre = plus forte dilution positive)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-241 Dermatoses bulleuses  approche diagnostique/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-241%20Dermatoses%20bulleuses%20%20approche%20diagnostique/p08_00.jpeg)
 
 ## Analyse de la biopsie cutanée
 
@@ -77,7 +77,7 @@ Biopsie prélevée **à cheval** entre la bulle et la peau péri-lésionnelle. A
 | **Intra-épidermique profond** (suprabasal) | Acantholyse profonde (pemphigus vulgaire, Hailey-Hailey, Darier) |
 | **Jonctionnel** | Décollement de l'épiderme entier (DBAI de jonction, EB héréditaires, apoptose, œdème) |
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-241 Dermatoses bulleuses  approche diagnostique/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-241%20Dermatoses%20bulleuses%20%20approche%20diagnostique/p09_00.jpeg)
 
 
 ### Toit épidermique

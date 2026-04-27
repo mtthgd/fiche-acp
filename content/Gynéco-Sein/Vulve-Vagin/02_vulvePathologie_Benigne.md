@@ -29,7 +29,7 @@ Le diagnostic des kystes vulvaires repose sur :
 3. La présence éventuelle de **glandes résiduelles associées**
 4. Le **type de revêtement épithélial**
 
-![[assets/gyneco-sein/vulve-vagin/04_21_03vulvePathologie Bénigne PR/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21_03vulvePathologie%20B%C3%A9nigne%20PR/p03_00.jpeg)
 
 ## Kystes vulvaires — vue d’ensemble
 
@@ -52,11 +52,11 @@ Le diagnostic des kystes vulvaires repose sur :
 - Souvent **ulcéré**, remaniements inflammatoires/hémorragiques
 - **Glandes à mucus résiduelles** identifiables
 
-![[assets/gyneco-sein/vulve-vagin/04_21_03vulvePathologie Bénigne PR/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21_03vulvePathologie%20B%C3%A9nigne%20PR/p04_00.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21_03vulvePathologie Bénigne PR/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21_03vulvePathologie%20B%C3%A9nigne%20PR/p04_01.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21_03vulvePathologie Bénigne PR/p04_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21_03vulvePathologie%20B%C3%A9nigne%20PR/p04_02.jpeg)
 
 ### Kyste épidermique
 
@@ -66,7 +66,7 @@ Le diagnostic des kystes vulvaires repose sur :
 - Revêtement : épithélium **malpighien avec couche granuleuse**
 - Lumière : **lamelles de kératine**
 
-![[assets/gyneco-sein/vulve-vagin/04_21_03vulvePathologie Bénigne PR/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21_03vulvePathologie%20B%C3%A9nigne%20PR/p05_00.jpeg)
 
 ### Kyste du canal de Nuck
 
@@ -75,7 +75,7 @@ Le diagnostic des kystes vulvaires repose sur :
 - Revêtement **mésothélial** (souvent détruit secondairement)
 - Évolution : paroi fibreuse + **dépôts d’hémosidérine**
 
-![[assets/gyneco-sein/vulve-vagin/04_21_03vulvePathologie Bénigne PR/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21_03vulvePathologie%20B%C3%A9nigne%20PR/p06_00.jpeg)
 
 ### Kyste mésonéphrique (Gartner / Wolff)
 
@@ -84,7 +84,7 @@ Le diagnostic des kystes vulvaires repose sur :
 - Revêtement : épithélium **cylindrique ou cubique, parfois cilié**
 - Particularité : **faisceaux musculaires lisses** en profondeur
 
-![[assets/gyneco-sein/vulve-vagin/04_21_03vulvePathologie Bénigne PR/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21_03vulvePathologie%20B%C3%A9nigne%20PR/p07_00.jpeg)
 
 ### Kyste de la glande de Skene (paraurétral)
 
@@ -95,9 +95,9 @@ Le diagnostic des kystes vulvaires repose sur :
 - Taille : **< 2 cm**
 - Revêtement : transitionnel alternant avec malpighien, rares cellules luminales mucineuses, remaniements inflammatoires/hémorragiques sous-jacents
 
-![[assets/gyneco-sein/vulve-vagin/04_21_03vulvePathologie Bénigne PR/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21_03vulvePathologie%20B%C3%A9nigne%20PR/p09_00.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21_03vulvePathologie Bénigne PR/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21_03vulvePathologie%20B%C3%A9nigne%20PR/p09_01.jpeg)
 
 ### Kyste mucineux
 
@@ -107,7 +107,7 @@ Le diagnostic des kystes vulvaires repose sur :
 - Habituellement **unique**, **0,2 à 3 cm**
 - Revêtement : **cylindrique ou cubique mucosécrétant**, parfois en métaplasie malpighienne ou cilié
 
-![[assets/gyneco-sein/vulve-vagin/04_21_03vulvePathologie Bénigne PR/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21_03vulvePathologie%20B%C3%A9nigne%20PR/p10_00.jpeg)
 
 ## Algorithme — classification par revêtement épithélial
 
@@ -143,11 +143,11 @@ Sillon interlabial, face interne des grandes lèvres, face externe des petites l
   - Cellules **myoépithéliales basales**
 - Mitoses possibles ; stroma **non inflammatoire**
 
-![[assets/gyneco-sein/vulve-vagin/04_21_03vulvePathologie Bénigne PR/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21_03vulvePathologie%20B%C3%A9nigne%20PR/p13_00.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21_03vulvePathologie Bénigne PR/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21_03vulvePathologie%20B%C3%A9nigne%20PR/p14_00.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21_03vulvePathologie Bénigne PR/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21_03vulvePathologie%20B%C3%A9nigne%20PR/p14_01.jpeg)
 
 ### Variantes (rares)
 - Différenciation **sébacée ou malpighienne**
@@ -190,11 +190,11 @@ Tumeur **polypoïde myofibroblastique**, plus souvent vaginale (cf. [[03_patholo
 - Stroma de cellularité variable, cellules **fusiformes** au contact du revêtement, densité accrue autour des vaisseaux
 - Cellules parfois **étoilées ou multinucléées**
 
-![[assets/gyneco-sein/vulve-vagin/04_21_03vulvePathologie Bénigne PR/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21_03vulvePathologie%20B%C3%A9nigne%20PR/p17_00.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21_03vulvePathologie Bénigne PR/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21_03vulvePathologie%20B%C3%A9nigne%20PR/p18_00.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21_03vulvePathologie Bénigne PR/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21_03vulvePathologie%20B%C3%A9nigne%20PR/p18_01.jpeg)
 
 ### ⚠️ Forme pendant la grossesse — piège pseudo-sarcomateux
 
@@ -223,9 +223,9 @@ Lésion **bénigne**. Récidives possibles en cas de résection incomplète ou d
 - Macroscopie : **nodule bleu-violacé**
 - À évoquer **devant toute lésion kystique vulvaire**
 
-![[assets/gyneco-sein/vulve-vagin/04_21_03vulvePathologie Bénigne PR/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21_03vulvePathologie%20B%C3%A9nigne%20PR/p19_00.jpeg)
 
-![[assets/gyneco-sein/vulve-vagin/04_21_03vulvePathologie Bénigne PR/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/vulve-vagin/04_21_03vulvePathologie%20B%C3%A9nigne%20PR/p20_00.jpeg)
 
 ## Diagnostics différentiels
 

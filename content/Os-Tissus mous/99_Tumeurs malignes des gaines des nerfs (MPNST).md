@@ -27,7 +27,7 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Localisation fréquente : nerf sciatique
 - Présentation : masse à croissance parfois rapide, douloureuse
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572 Tumeurs malignes des gaines des nerfs V2 Aout 2024/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572%20Tumeurs%20malignes%20des%20gaines%20des%20nerfs%20V2%20Aout%202024/p05_00.jpeg)
 
 ---
 
@@ -45,13 +45,13 @@ Catégories avec pronostics différents :
 
 *ANNUBP = Atypical Neurofibromatous Neoplasm of Uncertain Biologic Potential*
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572 Tumeurs malignes des gaines des nerfs V2 Aout 2024/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572%20Tumeurs%20malignes%20des%20gaines%20des%20nerfs%20V2%20Aout%202024/p06_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572 Tumeurs malignes des gaines des nerfs V2 Aout 2024/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572%20Tumeurs%20malignes%20des%20gaines%20des%20nerfs%20V2%20Aout%202024/p06_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572 Tumeurs malignes des gaines des nerfs V2 Aout 2024/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572%20Tumeurs%20malignes%20des%20gaines%20des%20nerfs%20V2%20Aout%202024/p07_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572 Tumeurs malignes des gaines des nerfs V2 Aout 2024/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572%20Tumeurs%20malignes%20des%20gaines%20des%20nerfs%20V2%20Aout%202024/p07_01.jpeg)
 
 ---
 
@@ -61,7 +61,7 @@ Catégories avec pronostics différents :
 - Tumeur **volumineuse > 5 cm**, charnue, **hémorragique et nécrotique**
 - Développée à partir d'un nerf
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572 Tumeurs malignes des gaines des nerfs V2 Aout 2024/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572%20Tumeurs%20malignes%20des%20gaines%20des%20nerfs%20V2%20Aout%202024/p09_00.jpeg)
 
 ### Histologie
 - Prolifération de **cellules fusiformes** à densité variable
@@ -72,17 +72,17 @@ Catégories avec pronostics différents :
 - **Éléments hétérologues** possibles : tissu musculaire strié (**= tumeur de Triton**), os, cartilage, structures glandulaires
 - Extension **intraneurale** de proche en proche, dissémination à distance par cette voie
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572 Tumeurs malignes des gaines des nerfs V2 Aout 2024/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572%20Tumeurs%20malignes%20des%20gaines%20des%20nerfs%20V2%20Aout%202024/p10_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572 Tumeurs malignes des gaines des nerfs V2 Aout 2024/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572%20Tumeurs%20malignes%20des%20gaines%20des%20nerfs%20V2%20Aout%202024/p10_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572 Tumeurs malignes des gaines des nerfs V2 Aout 2024/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572%20Tumeurs%20malignes%20des%20gaines%20des%20nerfs%20V2%20Aout%202024/p11_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572 Tumeurs malignes des gaines des nerfs V2 Aout 2024/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572%20Tumeurs%20malignes%20des%20gaines%20des%20nerfs%20V2%20Aout%202024/p12_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572 Tumeurs malignes des gaines des nerfs V2 Aout 2024/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572%20Tumeurs%20malignes%20des%20gaines%20des%20nerfs%20V2%20Aout%202024/p12_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572 Tumeurs malignes des gaines des nerfs V2 Aout 2024/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572%20Tumeurs%20malignes%20des%20gaines%20des%20nerfs%20V2%20Aout%202024/p12_02.jpeg)
 
 ### IHC
 
@@ -94,9 +94,9 @@ Catégories avec pronostics différents :
 | Desmine / Myogénine / MyoD1 | + si **tumeur de Triton** (rhabdomyoblastes) |
 | **H3K27me3** | **Perte d'expression nucléaire** (marqueur-clé) |
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572 Tumeurs malignes des gaines des nerfs V2 Aout 2024/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572%20Tumeurs%20malignes%20des%20gaines%20des%20nerfs%20V2%20Aout%202024/p15_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572 Tumeurs malignes des gaines des nerfs V2 Aout 2024/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572%20Tumeurs%20malignes%20des%20gaines%20des%20nerfs%20V2%20Aout%202024/p15_01.jpeg)
 
 ### Biologie moléculaire — **Perte de H3K27me3 / PRC2**
 - Mutations perte de fonction des composants du **complexe PRC2** : **SUZ12, EED**
@@ -107,9 +107,9 @@ Catégories avec pronostics différents :
 - Perte plus fréquente dans : hauts grades, formes en territoire irradié
 - **Forme épithélioïde : H3K27me3 CONSERVÉE**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572 Tumeurs malignes des gaines des nerfs V2 Aout 2024/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572%20Tumeurs%20malignes%20des%20gaines%20des%20nerfs%20V2%20Aout%202024/p16_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572 Tumeurs malignes des gaines des nerfs V2 Aout 2024/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572%20Tumeurs%20malignes%20des%20gaines%20des%20nerfs%20V2%20Aout%202024/p16_01.jpeg)
 
 ---
 
@@ -118,11 +118,11 @@ Catégories avec pronostics différents :
 - MPNST + différenciation musculaire striée (**rhabdomyoblastes**)
 - IHC : **Desmine +**, **myogénine nucléaire +**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572 Tumeurs malignes des gaines des nerfs V2 Aout 2024/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572%20Tumeurs%20malignes%20des%20gaines%20des%20nerfs%20V2%20Aout%202024/p17_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572 Tumeurs malignes des gaines des nerfs V2 Aout 2024/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572%20Tumeurs%20malignes%20des%20gaines%20des%20nerfs%20V2%20Aout%202024/p17_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572 Tumeurs malignes des gaines des nerfs V2 Aout 2024/p17_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572%20Tumeurs%20malignes%20des%20gaines%20des%20nerfs%20V2%20Aout%202024/p17_02.jpeg)
 
 ---
 
@@ -137,9 +137,9 @@ Catégories avec pronostics différents :
   - **Perte d'INI1/SMARCB1 dans ~50%**
   - **H3K27me3 CONSERVÉE** (particularité)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572 Tumeurs malignes des gaines des nerfs V2 Aout 2024/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572%20Tumeurs%20malignes%20des%20gaines%20des%20nerfs%20V2%20Aout%202024/p18_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572 Tumeurs malignes des gaines des nerfs V2 Aout 2024/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572%20Tumeurs%20malignes%20des%20gaines%20des%20nerfs%20V2%20Aout%202024/p18_01.jpeg)
 
 ---
 
@@ -155,11 +155,11 @@ Catégories avec pronostics différents :
 - DD = mélanome (localisation paravertébrale, aspect fusiforme, mélanine épaisse, psammomes, index mitotique faible plutôt en faveur de MPNST mélanotique)
 - Pas de critères histologiques pronostiques consensuels (quantifier mitoses)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572 Tumeurs malignes des gaines des nerfs V2 Aout 2024/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572%20Tumeurs%20malignes%20des%20gaines%20des%20nerfs%20V2%20Aout%202024/p19_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572 Tumeurs malignes des gaines des nerfs V2 Aout 2024/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572%20Tumeurs%20malignes%20des%20gaines%20des%20nerfs%20V2%20Aout%202024/p19_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572 Tumeurs malignes des gaines des nerfs V2 Aout 2024/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572%20Tumeurs%20malignes%20des%20gaines%20des%20nerfs%20V2%20Aout%202024/p22_00.jpeg)
 
 ---
 
@@ -172,13 +172,13 @@ Catégories avec pronostics différents :
 | **MPNST épithélioïde** | Carcinome, mélanome, sarcome épithélioïde |
 | **MPNST mélanotique** | **Mélanome** |
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572 Tumeurs malignes des gaines des nerfs V2 Aout 2024/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572%20Tumeurs%20malignes%20des%20gaines%20des%20nerfs%20V2%20Aout%202024/p23_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572 Tumeurs malignes des gaines des nerfs V2 Aout 2024/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572%20Tumeurs%20malignes%20des%20gaines%20des%20nerfs%20V2%20Aout%202024/p23_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572 Tumeurs malignes des gaines des nerfs V2 Aout 2024/p23_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572%20Tumeurs%20malignes%20des%20gaines%20des%20nerfs%20V2%20Aout%202024/p23_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572 Tumeurs malignes des gaines des nerfs V2 Aout 2024/p23_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-572%20Tumeurs%20malignes%20des%20gaines%20des%20nerfs%20V2%20Aout%202024/p23_03.jpeg)
 
 ---
 

@@ -29,7 +29,7 @@ La **myocardite** est une **inflammation du myocarde** dont le diagnostic est an
 
 > Les myocardites virales représentent l'une des causes les plus fréquentes de **mort subite cardiaque chez le sujet jeune**.
 
-![[assets/cardio-vasculaire/coeur/Myocardite-DES-VF CBR/p01_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Myocardite-DES-VF%20CBR/p01_01.jpeg)
 
 ## Clinique / Épidémio
 
@@ -52,7 +52,7 @@ La **myocardite** est une **inflammation du myocarde** dont le diagnostic est an
 | **Médicamenteuses** | **Anti-PD1, anti-CTLA4** (immunothérapies oncologiques), hypersensibilité allergique médicamenteuse |
 | **Toxiques** | Anthracyclines, cocaïne, alcool |
 
-![[assets/cardio-vasculaire/coeur/Myocardite-DES-VF CBR/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Myocardite-DES-VF%20CBR/p07_00.jpeg)
 
 ## Macroscopie
 
@@ -68,11 +68,11 @@ La **myocardite** est une **inflammation du myocarde** dont le diagnostic est an
 - Prélèvements **fixés** (histologie) + **congelés** (virologie par biologie moléculaire)
 - Prélèvement le plus souvent au niveau du septum interventriculaire droit
 
-![[assets/cardio-vasculaire/coeur/Myocardite-DES-VF CBR/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Myocardite-DES-VF%20CBR/p18_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Myocardite-DES-VF CBR/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Myocardite-DES-VF%20CBR/p18_01.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Myocardite-DES-VF CBR/p18_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Myocardite-DES-VF%20CBR/p18_02.jpeg)
 
 ## Histologie — Critères diagnostiques
 
@@ -88,9 +88,9 @@ Définition **inflammation myocardique + nécrose myocytaire** de cause **non is
 
 > **Limites** : peu sensibles (échantillonnage dépendant), peu reproductibles, **controversés**.
 
-![[assets/cardio-vasculaire/coeur/Myocardite-DES-VF CBR/p03_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Myocardite-DES-VF%20CBR/p03_01.png)
 
-![[assets/cardio-vasculaire/coeur/Myocardite-DES-VF CBR/p03_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Myocardite-DES-VF%20CBR/p03_02.png)
 
 ### Critères actuels (OMS / AHA / ESC) avec immunohistochimie
 
@@ -113,11 +113,11 @@ Définition **inflammation myocardique + nécrose myocytaire** de cause **non is
 | **HLA-DR** | Activation immunitaire |
 | **CD45** | Leucocytes (panleukocytaire) |
 
-![[assets/cardio-vasculaire/coeur/Myocardite-DES-VF CBR/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Myocardite-DES-VF%20CBR/p04_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Myocardite-DES-VF CBR/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Myocardite-DES-VF%20CBR/p04_01.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Myocardite-DES-VF CBR/p04_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Myocardite-DES-VF%20CBR/p04_02.jpeg)
 
 ## Démarche diagnostique du pathologiste
 
@@ -152,36 +152,36 @@ Le pathologiste doit recevoir : âge, sexe, ECG, écho, IRM, biologie (troponine
 - **Colorations complémentaires** : Gram, **Grocott**, PAS pour rechercher des **filaments mycéliens**
 - ⚠️ DD : **infarctus du myocarde** (infiltrat polynucléaire en réponse à la nécrose ischémique)
 
-![[assets/cardio-vasculaire/coeur/Myocardite-DES-VF CBR/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Myocardite-DES-VF%20CBR/p08_01.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Myocardite-DES-VF CBR/p08_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Myocardite-DES-VF%20CBR/p08_02.jpeg)
 
 ### Myocardite à polynucléaires éosinophiles
 - Évoque une cause **immuno-allergique médicamenteuse**
 - Syndrome **hyperéosinophilique** (Loeffler)
 - DRESS, parasitoses
 
-![[assets/cardio-vasculaire/coeur/Myocardite-DES-VF CBR/p08_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Myocardite-DES-VF%20CBR/p08_04.jpeg)
 
 ### Myocardite lymphocytaire (la + fréquente)
 - Infiltrat **CD3+** ± **CD68+** (macrophages)
 - **Causes virales** (entérovirus, parvovirus B19, HHV-6) — les + fréquentes
 - **Causes auto-immunes** (LED, thyroïdite Hashimoto, anti-PD1/CTLA4)
 
-![[assets/cardio-vasculaire/coeur/Myocardite-DES-VF CBR/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Myocardite-DES-VF%20CBR/p09_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Myocardite-DES-VF CBR/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Myocardite-DES-VF%20CBR/p09_01.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Myocardite-DES-VF CBR/p09_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Myocardite-DES-VF%20CBR/p09_03.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Myocardite-DES-VF CBR/p09_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Myocardite-DES-VF%20CBR/p09_04.jpeg)
 
 ### Myocardite granulomateuse
 - **Granulomes épithélioïdes et gigantocellulaires** bien formés
 - → diagnostic de **sarcoïdose cardiaque**
 - DD : tuberculose (Ziehl, PCR), maladies systémiques (vascularites, MICI)
 
-![[assets/cardio-vasculaire/coeur/Myocardite-DES-VF CBR/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Myocardite-DES-VF%20CBR/p08_00.jpeg)
 
 ### Myocardite à cellules géantes
 - Cellules géantes **multinucléées** sans formation granulomateuse
@@ -189,17 +189,17 @@ Le pathologiste doit recevoir : âge, sexe, ECG, écho, IRM, biologie (troponine
 - **Étiologie indéterminée** (auto-immune supposée)
 - Pronostic redoutable, transplantation parfois nécessaire
 
-![[assets/cardio-vasculaire/coeur/Myocardite-DES-VF CBR/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Myocardite-DES-VF%20CBR/p10_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Myocardite-DES-VF CBR/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Myocardite-DES-VF%20CBR/p10_01.jpeg)
 
 ### Myocardite parasitaire (rare)
 - Exemple : **kyste hydatique** parfois découvert à l'autopsie devant un syndrome coronarien
 - Trypanosomiase (Chagas) — endémique Amérique du Sud
 
-![[assets/cardio-vasculaire/coeur/Myocardite-DES-VF CBR/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Myocardite-DES-VF%20CBR/p11_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Myocardite-DES-VF CBR/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Myocardite-DES-VF%20CBR/p11_01.jpeg)
 
 ## Myocardites virales — focus
 
@@ -212,13 +212,13 @@ Le pathologiste doit recevoir : âge, sexe, ECG, écho, IRM, biologie (troponine
 
 > Le diagnostic dépend fortement de l'**échantillonnage**. **CD3 IHC indispensable** pour ne pas méconnaître les infiltrats discrets.
 
-![[assets/cardio-vasculaire/coeur/Myocardite-DES-VF CBR/p15_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Myocardite-DES-VF%20CBR/p15_01.png)
 
-![[assets/cardio-vasculaire/coeur/Myocardite-DES-VF CBR/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Myocardite-DES-VF%20CBR/p16_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Myocardite-DES-VF CBR/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Myocardite-DES-VF%20CBR/p16_01.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Myocardite-DES-VF CBR/p16_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Myocardite-DES-VF%20CBR/p16_02.jpeg)
 
 ### Virus cardiotropes
 
@@ -245,9 +245,9 @@ Le pathologiste doit recevoir : âge, sexe, ECG, écho, IRM, biologie (troponine
 | **CD4 / CD8** | Sous-typage T (utile pour myocardites auto-immunes) |
 | **Anti-virus** (rare) | Anti-VP1 entérovirus, anti-CMV, anti-EBV (LMP1, EBER ISH) |
 
-![[assets/cardio-vasculaire/coeur/Myocardite-DES-VF CBR/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Myocardite-DES-VF%20CBR/p20_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Myocardite-DES-VF CBR/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Myocardite-DES-VF%20CBR/p20_01.jpeg)
 
 ## Biologie moléculaire / FISH
 
@@ -286,7 +286,7 @@ Plusieurs études ont montré l'**association** entre myocardites virales et car
 
 → Toujours prélever **du myocarde congelé** (analyses virologiques **et génétiques**) lors d'une autopsie pour mort subite.
 
-![[assets/cardio-vasculaire/coeur/Myocardite-DES-VF CBR/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Myocardite-DES-VF%20CBR/p22_00.jpeg)
 
 ## Pronostic / Traitement
 

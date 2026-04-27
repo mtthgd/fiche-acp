@@ -56,7 +56,7 @@ Cellules malpighiennes dyskératosiques, fond inflammatoire (PNN), placards :
 
 
 
-![[assets/cytopathologie/orl/V2 11.9-3/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/orl/V2%2011.9-3/p03_01.jpeg)
 
 
 ## Ganglions cervicaux
@@ -114,7 +114,7 @@ Centres germinatifs avec macrophages à corps tingibles, lymphocytes polymorphes
 ⚠️ La **combinaison cellules différenciées kératinisées + cellules profondes atypiques** = clé du diagnostic.
 
 
-![[assets/cytopathologie/orl/V2 11.9-3/p07_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/orl/V2%2011.9-3/p07_06.jpeg)
 
 
 

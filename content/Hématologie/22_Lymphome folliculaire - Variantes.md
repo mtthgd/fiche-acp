@@ -24,9 +24,9 @@ date: 2024
 - Porte la t(14;18) mais évolution **indolente** (5% évoluent en vrai LF)
 - **Bilan d'extension nécessaire** (peut toucher d'autres organes)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-323_Lymphomes folliculaires variantes/p03_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-323_Lymphomes%20folliculaires%20variantes/p03_02.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-323_Lymphomes folliculaires variantes/p03_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-323_Lymphomes%20folliculaires%20variantes/p03_03.jpeg)
 
 ### 2. Lymphome folliculaire de type pédiatrique (PTFL)
 
@@ -56,11 +56,11 @@ date: 2024
 
 **DD** : hyperplasie (polyclonale), LF haut grade, lymphome B avec réarrangement *IRF4/MUM1* (ORL prédominant).
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-323_Lymphomes folliculaires variantes/p05_07.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-323_Lymphomes%20folliculaires%20variantes/p05_07.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-323_Lymphomes folliculaires variantes/p06_09.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-323_Lymphomes%20folliculaires%20variantes/p06_09.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-323_Lymphomes folliculaires variantes/p07_11.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-323_Lymphomes%20folliculaires%20variantes/p07_11.jpeg)
 
 ### 3. Lymphome folliculaire du testicule
 
@@ -81,9 +81,9 @@ date: 2024
 
 **DD** : hyperplasie folliculaire (BCL2−), lymphome du manteau (CD5+, cycD1+), MALT (plages diffuses, lésions lympho-épithéliales)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-323_Lymphomes folliculaires variantes/p10_13.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-323_Lymphomes%20folliculaires%20variantes/p10_13.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-323_Lymphomes folliculaires variantes/p10_14.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-323_Lymphomes%20folliculaires%20variantes/p10_14.jpeg)
 
 ---
 
@@ -100,16 +100,16 @@ date: 2024
 - **BCL2 faible ou négatif**, CD23+, CD10+
 - Pas de t(14;18) ; délétion 1p36, mutation STAT6
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-323_Lymphomes folliculaires variantes/p13_17.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-323_Lymphomes%20folliculaires%20variantes/p13_17.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-323_Lymphomes folliculaires variantes/p14_19.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-323_Lymphomes%20folliculaires%20variantes/p14_19.jpeg)
 
 ### LF avec différenciation plasmocytaire
 
 - Contingent plasmocytaire intra/interfolliculaire avec **monotypie** κ/λ
 - Aspect cytoplasmique : vacuolisation, cellules "en bague à chaton"
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-323_Lymphomes folliculaires variantes/p15_23.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-323_Lymphomes%20folliculaires%20variantes/p15_23.jpeg)
 
 ### LF avec différenciation marginale (pseudo-zone marginale)
 
@@ -117,7 +117,7 @@ date: 2024
 - **Atténuation voire perte du CD10** dans ces zones
 - DD : lymphome ganglionnaire de la zone marginale → FISH parfois nécessaire
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-323_Lymphomes folliculaires variantes/p17_29.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-323_Lymphomes%20folliculaires%20variantes/p17_29.jpeg)
 
 ### Variante florale
 
@@ -125,7 +125,7 @@ date: 2024
 - BCL2 fort dans le manteau + plus faible dans les cellules tumorales = interprétation difficile
 - DD : transformation progressive des CG
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-323_Lymphomes folliculaires variantes/p19_35.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-323_Lymphomes%20folliculaires%20variantes/p19_35.jpeg)
 
 ### Variante riche en cellules T
 
@@ -152,7 +152,7 @@ date: 2024
 - BCL2 parfois négatif, pas de t(14;18) possible
 - **Traitement comme DLBCL** (différent des LF 1/2/3A)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-323_Lymphomes folliculaires variantes/p24_51.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-323_Lymphomes%20folliculaires%20variantes/p24_51.jpeg)
 
 ---
 

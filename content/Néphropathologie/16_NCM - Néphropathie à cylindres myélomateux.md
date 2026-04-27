@@ -41,7 +41,7 @@ source: DES ACP - Cours de néphropathologie
 - **Hypercalcémie**, anémie, douleurs osseuses, lésions lytiques à l'imagerie
 - Ratio chaînes légères libres sériques **κ/λ** anormal (Freelite)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14 NCM/p01_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14%20NCM/p01_00.jpeg)
 
 ## Hétérogénéité des lésions rénales au cours du myélome
 
@@ -58,7 +58,7 @@ Les manifestations rénales du myélome sont **multiples et hétérogènes**. Ou
 
 Ces lésions peuvent **coexister** chez un même patient → **IF systématique**.
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14 NCM/p02_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14%20NCM/p02_02.png)
 
 ## Histologie (microscopie optique)
 
@@ -72,15 +72,15 @@ Les cylindres myélomateux occupent les lumières des **tubes distaux et collect
 - Souvent entourés d'une **réaction giganto-cellulaire** : cellules géantes multinucléées, macrophages
 - **Rupture de la MBT** possible avec extravasation interstitielle
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14 NCM/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14%20NCM/p05_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14 NCM/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14%20NCM/p08_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14 NCM/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14%20NCM/p08_01.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14 NCM/p08_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14%20NCM/p08_02.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14 NCM/p08_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14%20NCM/p08_03.jpeg)
 
 ### Lésions associées
 
@@ -89,13 +89,13 @@ Les cylindres myélomateux occupent les lumières des **tubes distaux et collect
 - **Fibrose interstitielle** et atrophie tubulaire dans les formes évoluées (chronicisation)
 - Glomérules en règle **normaux** (sauf si amylose ou Randall associés)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14 NCM/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14%20NCM/p09_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14 NCM/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14%20NCM/p09_01.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14 NCM/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14%20NCM/p09_02.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14 NCM/p09_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14%20NCM/p09_03.jpeg)
 
 ### Colorations utiles
 
@@ -104,13 +104,13 @@ Les cylindres myélomateux occupent les lumières des **tubes distaux et collect
 - **Trichrome de Masson** : aspect bigarré
 - **Rouge Congo** : **négatif** (≠ amylose)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14 NCM/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14%20NCM/p10_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14 NCM/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14%20NCM/p11_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14 NCM/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14%20NCM/p12_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14 NCM/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14%20NCM/p13_00.jpeg)
 
 ## Immunofluorescence (étape clé)
 
@@ -120,9 +120,9 @@ Les cylindres myélomateux occupent les lumières des **tubes distaux et collect
   - **Amylose AL** : dépôts mésangiaux/vasculaires κ ou λ + Rouge Congo +
   - **Maladie de Randall** : dépôts linéaires monotypiques le long des MB tubulaires et glomérulaires
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14 NCM/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14%20NCM/p16_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14 NCM/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/248-14%20NCM/p18_00.jpeg)
 
 ## Recherche d'une maladie de dépôt globale associée
 

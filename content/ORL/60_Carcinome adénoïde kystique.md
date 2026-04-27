@@ -26,8 +26,8 @@ source: DES ACP - Cours d'ORL
   - **Neurotropisme / engainement périnerveux** dans **> 50 %** des cas (élément diagnostique majeur).
   - Accumulation de matériel de **type membrane basale** sous forme de **cylindres hyalins**.
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_341 carcinome adenoide kysqtique pdf/p03_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_341 carcinome adenoide kysqtique pdf/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_341%20carcinome%20adenoide%20kysqtique%20pdf/p03_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_341%20carcinome%20adenoide%20kysqtique%20pdf/p04_00.jpeg)
 
 ## Clinique / Épidémio
 
@@ -50,8 +50,8 @@ source: DES ACP - Cours d'ORL
   - Cylindres hyalins denses (PAS+).
   - Cylindres bleutés moins compacts.
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_341 carcinome adenoide kysqtique pdf/p05_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_341 carcinome adenoide kysqtique pdf/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_341%20carcinome%20adenoide%20kysqtique%20pdf/p05_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_341%20carcinome%20adenoide%20kysqtique%20pdf/p07_00.jpeg)
 
 ### Patterns architecturaux (gradation Perzin/Szanto)
 
@@ -71,11 +71,11 @@ source: DES ACP - Cours d'ORL
 
 → Le typage architectural est crucial : **typer chaque CAK** et signaler la part solide.
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_341 carcinome adenoide kysqtique pdf/p08_00.png]]
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_341 carcinome adenoide kysqtique pdf/p09_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_341 carcinome adenoide kysqtique pdf/p11_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_341 carcinome adenoide kysqtique pdf/p11_01.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_341 carcinome adenoide kysqtique pdf/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_341%20carcinome%20adenoide%20kysqtique%20pdf/p08_00.png)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_341%20carcinome%20adenoide%20kysqtique%20pdf/p09_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_341%20carcinome%20adenoide%20kysqtique%20pdf/p11_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_341%20carcinome%20adenoide%20kysqtique%20pdf/p11_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_341%20carcinome%20adenoide%20kysqtique%20pdf/p12_00.jpeg)
 
 ### Engainement périnerveux
 
@@ -106,8 +106,8 @@ source: DES ACP - Cours d'ORL
   - Partenaires variés plus rares.
 - → **Recommandation** : remplacer les sondes FISH **MYB break-apart** par **NFIB break-apart** pour une meilleure couverture diagnostique.
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_341 carcinome adenoide kysqtique pdf/p13_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_341 carcinome adenoide kysqtique pdf/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_341%20carcinome%20adenoide%20kysqtique%20pdf/p13_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_341%20carcinome%20adenoide%20kysqtique%20pdf/p13_01.jpeg)
 
 ## Classification / Grading
 
@@ -130,9 +130,9 @@ source: DES ACP - Cours d'ORL
 > **Règle absolue** : un cylindre hyalin signifie uniquement qu'il y a un **contingent myoépithélial** synthétisant de la membrane basale. **Ce n'est PAS un signe de CAK.**
 > En extempo, se raccrocher aux **critères d'agressivité architecturale**.
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_341 carcinome adenoide kysqtique pdf/p15_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_341 carcinome adenoide kysqtique pdf/p15_01.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_341 carcinome adenoide kysqtique pdf/p15_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_341%20carcinome%20adenoide%20kysqtique%20pdf/p15_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_341%20carcinome%20adenoide%20kysqtique%20pdf/p15_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_341%20carcinome%20adenoide%20kysqtique%20pdf/p15_02.jpeg)
 
 ### 2. Carcinome épithélial-myoépithélial
 
@@ -181,9 +181,9 @@ source: DES ACP - Cours d'ORL
 | Marqueurs MEC | + | + (mimétique) | + | **−** |
 | Pronostic | Mauvais (surtout solide) | **Bon** | Bénin | Variable |
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_341 carcinome adenoide kysqtique pdf/p17_00.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_341 carcinome adenoide kysqtique pdf/p17_01.jpeg]]
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_341 carcinome adenoide kysqtique pdf/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_341%20carcinome%20adenoide%20kysqtique%20pdf/p17_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_341%20carcinome%20adenoide%20kysqtique%20pdf/p17_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_341%20carcinome%20adenoide%20kysqtique%20pdf/p19_00.jpeg)
 
 ## Pronostic / Traitement
 

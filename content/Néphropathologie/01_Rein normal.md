@@ -40,7 +40,7 @@ Chaque néphron comprend successivement :
 - Médullaire : anses de Henle + tubes collecteurs de Bellini
 
 
-![[assets/nephropathologie/introduction/101-14 Rein normal/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/introduction/101-14%20Rein%20normal/p05_00.jpeg)
 
 ## Glomérule
 
@@ -64,7 +64,7 @@ Le glomérule est situé **exclusivement dans la corticale**. Il assure la **fil
 - **Pôle urinaire** : émergence du tubule contourné proximal
 - **Pôle urinaire bis (juxta-glomérulaire)** : zone de contact avec le TCD du même néphron
 
-![[assets/nephropathologie/introduction/101-14 Rein normal/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/introduction/101-14%20Rein%20normal/p09_00.jpeg)
 
 ## Barrière de filtration glomérulaire
 

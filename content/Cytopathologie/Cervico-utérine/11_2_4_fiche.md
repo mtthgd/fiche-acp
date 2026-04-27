@@ -90,9 +90,9 @@ Conclusion :
 - **Pas de nucléole**
 - **Discrètes irrégularités des contours nucléaires**
 
-![[assets/cytopathologie/cervico_uterine/V2 11.2-4 et 1/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/cervico_uterine/V2%2011.2-4%20et%201/p10_01.jpeg)
 
-![[assets/cytopathologie/cervico_uterine/V2 11.2-4 et 1/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/cervico_uterine/V2%2011.2-4%20et%201/p11_01.jpeg)
 
 ### Koïlocytes (signature HPV)
 - Cellule intermédiaire/superficielle, mono ou binucléée
@@ -101,7 +101,7 @@ Conclusion :
 - Contours du halo **irréguliers** (« en coquille d'huître », « festonnés »)
 - LSIL diagnostiqué **avec ou sans koïlocyte** ; les vrais koïlocytes signent l'HPV mais ne sont pas indispensables
 
-![[assets/cytopathologie/cervico_uterine/V2 11.2-4 et 1/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/cervico_uterine/V2%2011.2-4%20et%201/p13_01.jpeg)
 
 
 ### Pseudo-koïlocytes (à ne pas confondre)
@@ -109,7 +109,7 @@ Conclusion :
 - Halo jaune chez la femme ménopausée → souffrance cellulaire
 - Inclusions roses-orangées intranucléaires + noyaux multiples → **herpès virus** (pas HPV)
 
-![[assets/cytopathologie/cervico_uterine/V2 11.2-4 et 1/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/cervico_uterine/V2%2011.2-4%20et%201/p16_01.jpeg)
 
 ### Histologie correspondante : CIN1
 
@@ -126,11 +126,11 @@ Conclusion :
 - Cytoplasme immature, dense ou métaplasique
 - Variante **parakératosique** : cytoplasme orangeophile + atypies de haut grade = HSIL
 
-![[assets/cytopathologie/cervico_uterine/V2 11.2-4 et 1/p20_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/cervico_uterine/V2%2011.2-4%20et%201/p20_03.jpeg)
 
-![[assets/cytopathologie/cervico_uterine/V2 11.2-4 et 1/p21_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/cervico_uterine/V2%2011.2-4%20et%201/p21_03.jpeg)
 
-![[assets/cytopathologie/cervico_uterine/V2 11.2-4 et 1/p24_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/cervico_uterine/V2%2011.2-4%20et%201/p24_03.jpeg)
 
 ### Pièges
 - **Petites cellules dispersées** : facilement non vues si frottis peu attentif → **lecture automatisée aide**

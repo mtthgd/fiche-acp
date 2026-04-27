@@ -57,13 +57,13 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Multinodulaire, septa fibreux grossiers
 - Nodule plus dense = nodule de **dédifférenciation**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p05_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p05_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p05_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p05_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p05_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p05_03.jpeg)
 
 ### A — Liposarcome bien différencié — 3 variantes
 
@@ -72,39 +72,39 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Histologie pure impossible à distinguer** d'un lipome
 - Rechercher des **cellules stromales atypiques** (fusiformes, noyau hyperchromatique) dans les **septa fibreux et autour des vaisseaux**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p06_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p06_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p06_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p07_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p07_00.png)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p08_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p08_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p08_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p08_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p08_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p08_03.jpeg)
 
 #### (b) Sclérosante
 - **Tissu collagénique abondant** + îlots adipocytaires matures
 - Cellules stromales atypiques multinucléées à **noyaux en couronne (aspect floral)**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p09_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p09_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p09_02.jpeg)
 
 #### (c) Inflammatoire
 - **Rétropéritonéal**, tableau inflammatoire bruyant, mime un **lymphome**
 - IHC MDM2 essentielle → **révèle les cellules tumorales** dans le fond inflammatoire
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p11_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p11_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p11_02.jpeg)
 
 ### B — Liposarcome dédifférencié
 
@@ -113,15 +113,15 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Transition abrupte** entre secteur bien diff et secteur sarcomateux non lipogénique
 - Aspects cytologiques variables : cellules fusiformes/pléomorphes, inflammatoire, myxoïde (mime myxofibrosarcome)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p12_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p13_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p13_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p13_01.png)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p13_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p13_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p13_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p13_03.jpeg)
 
 ### Trans-différenciation hétérologue (piège)
 - **Muscle lisse** → léiomyosarcome
@@ -129,12 +129,12 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Muscle strié** → rhabdomyosarcome
 - Matrice myxoïde abondante → **pseudo-myxofibrosarcome**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p14_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p15_00.jpeg)
 
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p15_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p15_02.jpeg)
 
 ### Examens complémentaires
 
@@ -156,17 +156,17 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Toute tumeur sarcomateuse avec MDM2+ en IHC ou siège typique
 - Toute tumeur adipeuse **profonde volumineuse** ou **superficielle atypique**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p16_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p16_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p18_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p19_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p19_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p19_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p19_02.jpeg)
 
 ### Pronostic
 
@@ -183,15 +183,15 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 ### Terminologie (OMS)
 - **Tumeur lipomateuse atypique** = lipo bien différencié en **site accessible** (**paroi du tronc, membres**), résécable en monobloc → éviter le terme péjoratif de "sarcome" (pas de potentiel métastatique)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p20_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p20_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p20_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p20_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p21_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p21_01.jpeg)
 
 ---
 
@@ -209,9 +209,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 ### Macro
 - **Extrêmement bien limitée**, gélatineuse myxoïde
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p22_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p22_01.jpeg)
 
 
 ### Histologie
@@ -224,13 +224,13 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Contingent à cellules rondes** : secteurs à **densité élevée** (cellules adossées)
 
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p23_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p23_03.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p23_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p23_05.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p24_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p24_01.jpeg)
 
 ### DD principal : myxofibrosarcome
 
@@ -241,9 +241,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 | Âge | Jeune | Sujet âgé |
 | Localisation | Cuisse profonde | Sous-cutané des membres |
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p29_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p29_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p29_03.jpeg)
 
 ### Biomol (1re intention)
 
@@ -252,7 +252,7 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 
 > Aucun immunomarquage spécifique ; la biomol est **impérative**.
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p30_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p30_00.png)
 
 ### Pronostic
 - **Récidives 50 %, métastases 30 %**
@@ -261,13 +261,13 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
   - **Différenciation 2** si forme purement myxoïde
   - **Différenciation 3** si > 5 % de cellules rondes
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p31_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p31_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p31_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p32_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p33_00.jpeg)
 
 ---
 
@@ -283,11 +283,11 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Sarcome de haut grade, hémorragique/nécrotique
 - Secteurs lipogéniques **minoritaires** → **échantillonner largement**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p34_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p34_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p34_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p34_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p34_02.jpeg)
 
 ### Histologie
 
@@ -298,15 +298,15 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
   - **Multiples vacuoles lipidiques** qui **encochent/déforment** le noyau
 - **MDM2 IHC et biomol = NÉGATIF** (obligatoire)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p35_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p35_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p35_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p36_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p36_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p37_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p37_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p37_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p37_01.jpeg)
 
 ### Biomol
 - **Génomique complexe**, pas d'anomalie spécifique
@@ -317,21 +317,21 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Grade FNCLCC (différenciation = 3) — pronostic serait indépendant du grade
 - Mortalité indépendante du grade FNCLCC
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p41_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p41_00.png)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p42_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p42_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p42_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p42_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p42_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p42_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p43_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p43_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p43_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p43_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p44_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p44_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p44_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p44_03.jpeg)
 
 ---
 
@@ -348,17 +348,17 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 | Métastase | **Jamais** (bien diff) / 15-20 % (dédiff) | 30 % (↑ si cell. rondes > 5 %) | **45 %** |
 | DD | Lipome, TLA | Myxofibrosarcome | Sarcome pléomorphe indifférencié, liposarcome dédifférencié |
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p47_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p47_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p47_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p47_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p47_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p47_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p47_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p47_03.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p47_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p47_04.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554 Liposarcomes/p47_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-554%20Liposarcomes/p47_05.jpeg)
 
 ---
 

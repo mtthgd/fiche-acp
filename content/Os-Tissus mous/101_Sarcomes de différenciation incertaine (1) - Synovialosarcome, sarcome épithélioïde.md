@@ -25,7 +25,7 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Formes **infracentimétriques** aux mains/pieds = "*small cell synovial sarcoma*"
 - Bien limitée, multinodulaire, couleur/consistance variables, remaniements (kystiques, hémorragiques, nécrotiques, calcifications)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p03_01.jpeg)
 
 ### Trois sous-types morphologiques
 
@@ -35,9 +35,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 | **Biphasique** | Fréquent | Contingent **épithélial** + contingent fusiforme |
 | **Peu différencié** | Rare | Sujet âgé ++, atypies marquées, mitoses > 15/10 CFG |
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p05_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p05_01.png)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p05_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p05_02.jpeg)
 
 ### Histologie
 
@@ -45,13 +45,13 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Contingent **épithélial** : glandes, nids, cordons ; cellules **cubiques/cylindriques, cytoplasme abondant éosinophile** ; lumières comblées par mucus possible
 - Contingent **fusocellulaire** associé (à rechercher pour ne pas confondre avec carcinome)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p05_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p05_03.png)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p05_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p05_04.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p05_05.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p05_05.png)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p05_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p05_06.jpeg)
 
 #### Forme monophasique
 - Prolifération **dense de cellules fusiformes**
@@ -62,25 +62,25 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Trousseaux de collagène**, foyers d'ossification, **calcifications**
 - Vascularisation **abondante, microcapillaires à paroi fine sans arborisation** ; parfois pattern hémangiopéricytaire (DD TFS)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p06_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p06_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p06_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p07_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p07_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p07_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p08_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p08_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p08_02.jpeg)
 
 #### Forme peu différenciée
 - **Chevauchements nucléaires**, irrégularités, nucléoles proéminents
 - **> 15 mitoses/10 CFG**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p09_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p09_02.jpeg)
 
 ### IHC
 
@@ -92,13 +92,13 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 | **TLE1** (nucléaire) | **+ dans 80%** des 3 sous-types — **sensible mais non spécifique** (aussi MPNST, TFS) |
 | S100 | Focal possible |
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p10_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p11_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p11_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p11_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p11_03.jpeg)
 
 ### Biologie moléculaire
 
@@ -107,7 +107,7 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Peu d'anomalies moléculaires surajoutées
 - Mise en évidence : **FISH break-apart SS18** ou **RT-PCR**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p13_01.jpeg)
 
 ### Pronostic
 - Facteurs majeurs : **stade**, **taille tumorale**, **grade FNCLCC**
@@ -126,15 +126,15 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 | **Distale (classique)** | **10-40 ans** (70%) | **Extrémités** : mains, doigts, extrémités distales MI | **Superficielle** : derme/hypoderme |
 | **Proximale** | 20-65 ans (80%) | **Tronc**, membres, tête-cou | **Profonde** |
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p17_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p18_01.jpeg)
 
 ### Macroscopie
 - Taille variable, multinodulaire, beige, remaniements hémorragiques
 - Distal : **ulcération cutanée** possible
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p18_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p18_02.jpeg)
 
 ### Histologie — Forme distale classique
 - **Multiples nodules** plus ou moins confluents
@@ -143,18 +143,18 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Cellules : cytoplasme abondant **éosinophile**, noyaux modérément atypiques, chromatine vésiculeuse, fin nucléole
 - **Index mitotique faible**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p19_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p19_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p19_02.jpeg)
 
 ### Histologie — Forme proximale
 - Prolifération multinodulaire de **grandes cellules pléomorphes, épithélioïdes ou rhabdoïdes**
 - **Nucléoles proéminents**, plus d'atypies
 - **Nécrose fréquente mais non pseudo-granulomateuse**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p20_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p20_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p20_02.jpeg)
 
 ### IHC (identique dans les 2 formes)
 
@@ -164,20 +164,20 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 | **CD34** | **+ dans > 50%** |
 | **INI1 / SMARCB1 / BAF47** (nucléaire) | **PERTE D'EXPRESSION** (tumorale), cellules inflammatoires = témoin + |
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p21_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p21_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p21_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p21_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p21_03.jpeg)
 
 ### Biologie moléculaire
 - **Inactivation biallélique de SMARCB1** (chromosome 22)
 - Le plus souvent **délétions** (visibles en FISH, CGH), parfois mutations inactivatrices
 - Détection : **FISH SMARCB1** (délétion homozygote), **CGH** (profil chromosome 22)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p22_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578 Sarcomes de différenciation incertaine (1)/p22_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-578%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%281%29/p22_02.png)
 
 ### Pronostic
 - **Forme proximale = plus mauvais pronostic**

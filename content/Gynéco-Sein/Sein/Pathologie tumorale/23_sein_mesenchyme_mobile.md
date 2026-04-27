@@ -48,7 +48,7 @@ source: DES ACP - Cours de gynéco-pathologie
 - Imagerie : masse stellaire à contour irrégulier
 - Macroscopie : **lésion étoilée, dure, grisâtre**, taille moyenne **> 2 cm**, rétraction
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p02_00.jpeg)
 
 ### Histologie
 - Aspect **superposable à la fibromatose desmoïde** des tissus mous
@@ -59,8 +59,8 @@ source: DES ACP - Cours de gynéco-pathologie
 - Cytoplasme faiblement éosinophile
 - **Peu d’atypies**, **mitoses rares**
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p03_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p03_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p05_00.jpeg)
 
 ### Immunohistochimie
 
@@ -72,7 +72,7 @@ source: DES ACP - Cours de gynéco-pathologie
 | **CK** | − |
 | **p63** | − |
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p06_00.jpeg)
 
 ### Biologie moléculaire
 - Mutation activatrice **CTNNB1 (β-caténine)** : **< 50 %** des cas
@@ -88,8 +88,8 @@ source: DES ACP - Cours de gynéco-pathologie
 - IHC : **CK +, p63 +, AML +, S100**
 - Métastases ganglionnaires < 10 %, récidive locale possible
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p06_01.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p06_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p07_00.jpeg)
 
 ## Hyperplasie pseudo-angiomateuse stromale (PASH)
 
@@ -102,9 +102,9 @@ source: DES ACP - Cours de gynéco-pathologie
 - **Bandes hyalines épaisses** disposées de façon anarchique
 - **Métaplasie cylindrique** fréquente des structures épithéliales incluses
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p08_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p09_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p08_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p09_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p09_01.jpeg)
 
 ### Immunohistochimie
 
@@ -128,7 +128,7 @@ source: DES ACP - Cours de gynéco-pathologie
 ### Macroscopie
 - Lésion **nodulaire bien limitée** par pseudocapsule polycyclique
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p10_00.jpeg)
 
 ### Histologie
 - **Courts faisceaux intriqués** + larges plages de **collagène hyalinisé**
@@ -136,9 +136,9 @@ source: DES ACP - Cours de gynéco-pathologie
 - Noyaux ovalaires
 - **Cellules géantes** + **adipocytes** en périphérie (fréquents)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p11_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p11_02.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p11_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p11_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p12_00.jpeg)
 
 ### Immunohistochimie (caractéristique)
 
@@ -154,7 +154,7 @@ source: DES ACP - Cours de gynéco-pathologie
 - **Délétion 13q14** avec perte de **Rb**
 - Famille des "tumeurs perte de Rb 13q14" : myofibroblastome + **lipome à cellules fusiformes** + **angiomyofibroblastome cellulaire**
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p13_00.jpeg)
 
 ### Évolution
 - **Bénin**, exérèse complète curative
@@ -173,9 +173,9 @@ source: DES ACP - Cours de gynéco-pathologie
 - Faible grossissement : aspect **inquiétant** (englobe canaux, lobules, tissu adipeux)
 - Cellules granuleuses : **cytoplasme éosinophile granuleux intense**, **noyau ovalaire régulier** à chromatine fine
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p14_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p15_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p14_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p15_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p15_01.jpeg)
 
 ### Immunohistochimie
 
@@ -216,7 +216,7 @@ source: DES ACP - Cours de gynéco-pathologie
 - Taille **1-4 mm**, intra/péri-lobulaire
 - Petits **capillaires réguliers anastomotiques**
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p18_00.jpeg)
 
 ### Hémangiome classique
 - **Exceptionnel**, petite taille
@@ -248,8 +248,8 @@ source: DES ACP - Cours de gynéco-pathologie
 - Lésions **> 5 cm**, hémorragiques, **mal délimitées**, multiples, indolores
 - Mammographie peu informative (1/3 sans traduction radio), calcifications rares
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p20_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p20_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p21_00.jpeg)
 
 #### Histologie : 3 formes
 | Forme | Caractéristiques |
@@ -258,11 +258,11 @@ source: DES ACP - Cours de gynéco-pathologie
 | **Modérément différenciée** | Diagnostic le plus facile : lumières visibles + irrégularités cytonucléaires + papilles + mitoses |
 | **Peu différenciée** | Cellules globuleuses + fusiformes, atypies majeures, mitoses ; lumières rares (peut imposer pour un carcinome peu différencié) |
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p22_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p23_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p23_01.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p25_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p25_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p22_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p23_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p23_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p25_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p25_01.jpeg)
 
 #### IHC
 
@@ -283,12 +283,12 @@ source: DES ACP - Cours de gynéco-pathologie
 - IHC : CD31, ERG +
 - **Amplification MYC** très fréquente, détectable par **FISH** ou IHC → **clé diagnostique**
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p26_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p26_01.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p26_02.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p27_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p28_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p28_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p26_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p26_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p26_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p27_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p28_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p28_01.jpeg)
 
 ### Lésion vasculaire atypique (LVA)
 
@@ -315,10 +315,10 @@ source: DES ACP - Cours de gynéco-pathologie
 | Atypies / mitoses | Absentes | + |
 | **Amplification MYC** | **Absente** | **Présente** |
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p29_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p29_01.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p30_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p30_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p29_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p29_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p30_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p30_01.jpeg)
 
 ## Sarcomes mammaires
 
@@ -337,9 +337,9 @@ source: DES ACP - Cours de gynéco-pathologie
 - **Ostéosarcome** (trame ostéoïde)
 - Autres
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p31_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p31_01.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p31_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p31_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p31_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p31_02.jpeg)
 
 ## Démarche diagnostique devant une lésion conjonctive du sein
 
@@ -359,11 +359,11 @@ source: DES ACP - Cours de gynéco-pathologie
 - IHC : composante CCIS de haut grade en périphérie + AE1/AE3 + en petits amas
 - → **Diagnostic final : carcinome métaplasique à cellules fusiformes**
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p33_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p33_01.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p34_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p35_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_1_5 sein mesenchyme GUINEBRETTIERE/p35_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p33_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p33_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p34_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p35_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_1_5%20sein%20mesenchyme%20GUINEBRETTIERE/p35_01.jpeg)
 
 ## Diagnostics différentiels (synthèse)
 

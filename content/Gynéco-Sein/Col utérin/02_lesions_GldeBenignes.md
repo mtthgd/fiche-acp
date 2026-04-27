@@ -33,7 +33,7 @@ source: DES ACP - Cours de gynéco-pathologie (col utérin)
 - **Mitoses très rares**, **pas de corps apoptotiques**.
 - Pas de hiatus net avec le revêtement endocervical normal.
 
-![[assets/gyneco-sein/col_uterin/04_31_02 ADKlesGldeBenin/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_31_02%20ADKlesGldeBenin/p02_00.jpeg)
 
 | Marqueur | Atypies réactionnelles | AIS de type usuel |
 |----------|:---:|:---:|
@@ -48,8 +48,8 @@ source: DES ACP - Cours de gynéco-pathologie (col utérin)
 - Revêtement cilié, **non mucosécrétant**, sans atypie.
 - Mitoses très rares, corps apoptotiques absents.
 
-![[assets/gyneco-sein/col_uterin/04_31_02 ADKlesGldeBenin/p03_00.jpeg]]
-![[assets/gyneco-sein/col_uterin/04_31_02 ADKlesGldeBenin/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_31_02%20ADKlesGldeBenin/p03_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_31_02%20ADKlesGldeBenin/p04_00.jpeg)
 
 | Marqueur | Métaplasie tubaire | AIS usuel |
 |----------|:---:|:---:|
@@ -65,7 +65,7 @@ source: DES ACP - Cours de gynéco-pathologie (col utérin)
 - Revêtement de **type endométrial** ; mitoses possibles **mais pas de corps apoptotiques**.
 - **Chorion cytogène** entourant les glandes, **hémosidérine**, remaniements hémorragiques/inflammatoires.
 
-![[assets/gyneco-sein/col_uterin/04_31_02 ADKlesGldeBenin/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_31_02%20ADKlesGldeBenin/p05_00.jpeg)
 
 ## Papillome müllérien
 
@@ -75,7 +75,7 @@ source: DES ACP - Cours de gynéco-pathologie (col utérin)
 - Micro : papilles fines ramifiées œdémateuses, **revêtement régulier sans atypie**, parfois métaplasie pavimenteuse focale.
 - Traitement : **exérèse simple** (récidive si exérèse incomplète).
 
-![[assets/gyneco-sein/col_uterin/04_31_02 ADKlesGldeBenin/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_31_02%20ADKlesGldeBenin/p06_00.jpeg)
 
 | DD | Distinction |
 |----|-------------|
@@ -90,7 +90,7 @@ source: DES ACP - Cours de gynéco-pathologie (col utérin)
 - ATTENTION : **formes profondes trompeuses** (parfois externes au col).
 - Micro : 1 couche de cellules endocervicales **cylindriques ou aplaties sans atypie**, sans mitose.
 
-![[assets/gyneco-sein/col_uterin/04_31_02 ADKlesGldeBenin/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_31_02%20ADKlesGldeBenin/p07_00.jpeg)
 
 | DD | Distinction |
 |----|-------------|
@@ -113,8 +113,8 @@ source: DES ACP - Cours de gynéco-pathologie (col utérin)
 - **Macroscopiquement visible**, mais limité (**< 18 mm en surface**, **< 9 mm en profondeur**).
 - Glandes **dilatées en lobules**, cellules cubiques/aplaties, sans mitose ni corps apoptotique.
 
-![[assets/gyneco-sein/col_uterin/04_31_02 ADKlesGldeBenin/p09_00.jpeg]]
-![[assets/gyneco-sein/col_uterin/04_31_02 ADKlesGldeBenin/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_31_02%20ADKlesGldeBenin/p09_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_31_02%20ADKlesGldeBenin/p10_00.jpeg)
 
 | Marqueur | Tunnel cluster |
 |----------|:---:|
@@ -133,7 +133,7 @@ source: DES ACP - Cours de gynéco-pathologie (col utérin)
 - Possibles zones solides (hyperplasie cellules de réserve, métaplasie pavimenteuse) → **p63+**.
 - **Aspects pseudo-infiltrants** : cellules en bague à chaton, cellules en clous de tapissier, hyalinisation stromale.
 
-![[assets/gyneco-sein/col_uterin/04_31_02 ADKlesGldeBenin/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_31_02%20ADKlesGldeBenin/p12_00.jpeg)
 
 | Marqueur | HMG |
 |----------|:---:|
@@ -155,8 +155,8 @@ source: DES ACP - Cours de gynéco-pathologie (col utérin)
 - Manchon **fibroblastique** péri-glandulaire.
 - Métaplasie intestinale focale possible, atypies focales légères, mitoses rares.
 
-![[assets/gyneco-sein/col_uterin/04_31_02 ADKlesGldeBenin/p13_00.jpeg]]
-![[assets/gyneco-sein/col_uterin/04_31_02 ADKlesGldeBenin/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_31_02%20ADKlesGldeBenin/p13_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_31_02%20ADKlesGldeBenin/p14_00.jpeg)
 
 | Marqueur | HGEL |
 |----------|:---:|
@@ -192,8 +192,8 @@ source: DES ACP - Cours de gynéco-pathologie (col utérin)
 - Lumière : **matériel PAS+**.
 - Type **canalaire** : structure canalaire centrale, pas de matériel de sécrétion, entourée de tubes.
 
-![[assets/gyneco-sein/col_uterin/04_31_02 ADKlesGldeBenin/p15_00.jpeg]]
-![[assets/gyneco-sein/col_uterin/04_31_02 ADKlesGldeBenin/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_31_02%20ADKlesGldeBenin/p15_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_31_02%20ADKlesGldeBenin/p17_00.jpeg)
 
 | Marqueur | Vestiges mésonéphriques |
 |----------|:---:|
@@ -226,8 +226,8 @@ source: DES ACP - Cours de gynéco-pathologie (col utérin)
 - Mitoses **rares**, aspect en clou de tapissier possible.
 - Architecture **floride** : touffes, papilles, parfois massive.
 
-![[assets/gyneco-sein/col_uterin/04_31_02 ADKlesGldeBenin/p18_00.jpeg]]
-![[assets/gyneco-sein/col_uterin/04_31_02 ADKlesGldeBenin/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_31_02%20ADKlesGldeBenin/p18_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_31_02%20ADKlesGldeBenin/p19_00.jpeg)
 
 | DD | Distinction |
 |----|-------------|
@@ -240,7 +240,7 @@ source: DES ACP - Cours de gynéco-pathologie (col utérin)
 - Cellules stromales endocervicales : aspect **épithélioïde**, arrondies, cytoplasme augmenté éosinophile.
 - Noyaux uniformes, **pas de mitose**, pas de corps apoptotique.
 
-![[assets/gyneco-sein/col_uterin/04_31_02 ADKlesGldeBenin/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/col_uterin/04_31_02%20ADKlesGldeBenin/p22_00.jpeg)
 
 | DD | Distinction |
 |----|-------------|

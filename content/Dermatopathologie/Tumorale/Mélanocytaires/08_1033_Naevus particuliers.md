@@ -61,20 +61,20 @@ Un **naevus particulier** = lésion mélanocytaire bénigne **non commune**, pr�
 7. Possible **contingent composite** (avec une autre morphologie naevique : bleu, mélanocytome pigmenté, Spitz, DPN) — *naevus composite*
 8. Possible **nodule de prolifération** (zones hypercellulaires bénignes mais inquiétantes)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-222-Lichen plan/p07_01.jpeg]]
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-222-Lichen plan/p08_01.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1033 - Naevus particuliers/p09_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1033 - Naevus particuliers/p10_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1033 - Naevus particuliers/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-222-Lichen%20plan/p07_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-222-Lichen%20plan/p08_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1033%20-%20Naevus%20particuliers/p09_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1033%20-%20Naevus%20particuliers/p10_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1033%20-%20Naevus%20particuliers/p11_00.jpeg)
 
 ### Pièges à NE PAS prendre pour de la malignité
 - **Activité jonctionnelle lentigineuse floride** sans pagétoïde = OK
 - **Atypies du nourrisson** : plus le patient est jeune, plus les mélanocytes sont atypiques (peuvent ressembler à un SSM)
 - **Nodules de prolifération** : zones hypercellulaires des géants, **toujours bénins**, mais peuvent simuler un mélanome dermique → **avis d'expert** si atypies/mitoses
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1033 - Naevus particuliers/p13_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1033 - Naevus particuliers/p14_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1033 - Naevus particuliers/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1033%20-%20Naevus%20particuliers/p13_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1033%20-%20Naevus%20particuliers/p14_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1033%20-%20Naevus%20particuliers/p15_00.jpeg)
 
 ### Biologie moléculaire
 - **Géants / grands** : mutations **NRAS**
@@ -96,10 +96,10 @@ Un **naevus particulier** = lésion mélanocytaire bénigne **non commune**, pr�
 - Lésions ≤ 1 cm, symétriques, lisses, **bleu sombre** (ou parfois achromiques)
 - Coloration bleue car localisation purement dermique
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p17_01.jpeg]]
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-222-Lichen plan/p19_02.jpeg]]
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211 Approche Diagnostique Dans Les Dermatoses Spongiotiques/p20_01.jpeg]]
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p17_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-222-Lichen%20plan/p19_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211%20Approche%20Diagnostique%20Dans%20Les%20Dermatoses%20Spongiotiques/p20_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p21_01.jpeg)
 
 #### Histologie
 - Lésion purement dermique, séparable de l'épiderme par une bande de derme sain
@@ -108,9 +108,9 @@ Un **naevus particulier** = lésion mélanocytaire bénigne **non commune**, pr�
 - Colonisation possible du muscle érecteur
 - Forme superficielle ou plus profonde dans le derme réticulaire
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p23_01.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1033 - Naevus particuliers/p24_01.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1033 - Naevus particuliers/p27_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p23_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1033%20-%20Naevus%20particuliers/p24_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1033%20-%20Naevus%20particuliers/p27_01.png)
 
 #### Biologie moléculaire
 - Mutations **GNAQ**, **GNA11** ; apparenté aux **mélanocytoses dermiques** (tache mongolique, naevus de Ito, naevus de Ota)
@@ -133,9 +133,9 @@ Un **naevus particulier** = lésion mélanocytaire bénigne **non commune**, pr�
 #### Moléculaire
 - **GNAQ / GNA11** également
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1033 - Naevus particuliers/p29_01.jpeg]]
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244 Dermatoses bulleuses non AI/p30_00.jpeg]]
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243 DBAI intra-épidermiques/p31_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1033%20-%20Naevus%20particuliers/p29_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244%20Dermatoses%20bulleuses%20non%20AI/p30_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243%20DBAI%20intra-%C3%A9pidermiques/p31_01.jpeg)
 
 ## Spectre Spitz / Reed
 
@@ -157,8 +157,8 @@ Un **naevus particulier** = lésion mélanocytaire bénigne **non commune**, pr�
 - **Tête, oreilles** chez l'enfant ; **tronc, membre inférieur (genou)** chez l'adulte
 - Lésion **petite, symétrique, en dôme, couleur chair** (peut être pigmentée)
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1033 - Naevus particuliers/p44_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1033 - Naevus particuliers/p47_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1033%20-%20Naevus%20particuliers/p44_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1033%20-%20Naevus%20particuliers/p47_00.jpeg)
 
 #### Variantes
 - **Multiples** / éruptives / agminées
@@ -178,7 +178,7 @@ Un **naevus particulier** = lésion mélanocytaire bénigne **non commune**, pr�
 - **HRAS** (Spitz classique) ou **fusions** : **ALK, ROS1, NTRK1, NTRK3, RET, BRAF** (≠ BRAF V600E !)
 - IHC ALK+ peut suggérer la translocation devant une morphologie spitzienne fasciculée
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1033 - Naevus particuliers/p55_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1033%20-%20Naevus%20particuliers/p55_00.jpeg)
 
 ### Naevus de Reed (= naevus pigmenté à cellules fusiformes)
 
@@ -196,10 +196,10 @@ Un **naevus particulier** = lésion mélanocytaire bénigne **non commune**, pr�
 #### Moléculaire
 - **Translocations NTRK3** ++
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1033 - Naevus particuliers/p57_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1033 - Naevus particuliers/p58_01.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1033 - Naevus particuliers/p59_01.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1033 - Naevus particuliers/p60_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1033%20-%20Naevus%20particuliers/p57_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1033%20-%20Naevus%20particuliers/p58_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1033%20-%20Naevus%20particuliers/p59_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1033%20-%20Naevus%20particuliers/p60_00.jpeg)
 
 ### Spitz vs Reed — silhouettes
 
@@ -228,9 +228,9 @@ Lésions intermédiaires (« spectre Spitz-Reed » ou Reed-Spitz) selon prépond
 ### Moléculaire
 - Mutations de la **β-caténine (CTNNB1)** ou **APC**, surajoutées sur un fond mutationnel **BRAF** (naevus commun) → architecture plexiforme et infiltration profonde
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1033 - Naevus particuliers/p64_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1033 - Naevus particuliers/p65_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1033 - Naevus particuliers/p66_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1033%20-%20Naevus%20particuliers/p64_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1033%20-%20Naevus%20particuliers/p65_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1033%20-%20Naevus%20particuliers/p66_00.jpeg)
 
 ## BAPome (naevus avec inactivation de BAP1)
 
@@ -252,10 +252,10 @@ Lésions intermédiaires (« spectre Spitz-Reed » ou Reed-Spitz) selon prépond
 - Plus de lésions BAP1− → plus la probabilité de mutation germinale est élevée
 - → **consultation oncogénétique + fond d'œil**
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1021 Tumeur épidermiques et de longle bénignes/p70_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1033 - Naevus particuliers/p71_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1033 - Naevus particuliers/p74_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1033 - Naevus particuliers/p75_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1021%20Tumeur%20%C3%A9pidermiques%20et%20de%20longle%20b%C3%A9nignes/p70_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1033%20-%20Naevus%20particuliers/p71_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1033%20-%20Naevus%20particuliers/p74_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1033%20-%20Naevus%20particuliers/p75_00.jpeg)
 
 ## Tableau synthétique
 

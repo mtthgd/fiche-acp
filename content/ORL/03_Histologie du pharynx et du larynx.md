@@ -62,11 +62,11 @@ Masse musculaire revêtue d'un **épithélium malpighien**.
 | **Fongiformes** | Axe conjonctif richement vascularisé, épithélium fin non kératinisé |
 | **Caliciformes** | Les moins fréquentes, les plus grandes, entourées d'un sillon, épithélium fin kératinisé criblé de **bourgeons du goût**, glandes séreuses s'ouvrant dans le sillon |
 
-![[assets/ORL/VADS/introduction/cours histologie dicté/p10_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/cours%20histologie%20dict%C3%A9/p10_01.png)
 
-![[assets/ORL/VADS/introduction/cours histologie dicté/p11_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/cours%20histologie%20dict%C3%A9/p11_01.png)
 
-![[assets/ORL/VADS/introduction/cours histologie dicté/p13_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/cours%20histologie%20dict%C3%A9/p13_00.png)
 
 **Piège diagnostique** : ces aspects physiologiques très hyperplasiques du dos de langue ne doivent pas faire évoquer une dysplasie. Critères rassurants : membrane basale régulière, pas d'atypie nucléaire, maturation normale.
 
@@ -81,7 +81,7 @@ Composé de plusieurs paires tonsillaires / amygdaliennes :
 - Tonsilles vélopalatines (face postérieure du voile du palais)
 - Tonsilles tubulaires (à proximité de l'ouverture de la trompe d'Eustache)
 
-![[assets/ORL/VADS/introduction/cours histologie dicté/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/cours%20histologie%20dict%C3%A9/p16_00.jpeg)
 
 ### 3a. Oropharynx
 
@@ -117,19 +117,19 @@ Mosaïque d'épithéliums selon la zone :
 ### Épiglotte
 Épithélium respiratoire sur la face laryngée, cartilage élastique **discontinu** avec passage d'adipocytes et de glandes séromuqueuses — **flexibilité** mais **barrière faible aux cancers** qui s'infiltrent volontiers dans les zones de discontinuité cartilagineuse.
 
-![[assets/ORL/VADS/introduction/cours histologie dicté/p30_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/cours%20histologie%20dict%C3%A9/p30_00.png)
 
 ### Zone glottique
 Transition nette : bande ventriculaire (respiratoire) → corde vocale (malpighien).
 
-![[assets/ORL/VADS/introduction/cours histologie dicté/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/cours%20histologie%20dict%C3%A9/p33_00.jpeg)
 
-![[assets/ORL/VADS/introduction/cours histologie dicté/p33_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/cours%20histologie%20dict%C3%A9/p33_01.jpeg)
 
 ### Cartilage thyroïde
 Ossification fréquemment retrouvée à partir de **50 ans**. Constitue une **barrière** au carcinome épidermoïde glottique tant qu'il n'est pas ossifié ; une fois ossifié, l'infiltration tumorale est facilitée.
 
-![[assets/ORL/VADS/introduction/cours histologie dicté/p37_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/introduction/cours%20histologie%20dict%C3%A9/p37_01.jpeg)
 
 ## Diagnostics différentiels / Pièges histologiques
 

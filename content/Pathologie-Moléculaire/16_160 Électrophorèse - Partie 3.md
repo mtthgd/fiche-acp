@@ -54,7 +54,7 @@ On utilise les **séquences microsatellites** :
 - Polymorphisme : **nombre variable de répétitions** dans la population
 - Réparties le long du chromosome → on peut **choisir** une zone microsatellite par locus à étudier
 
-![[assets/pathologie-moleculaire/rappels-adn/16-160 Electrophorèse - Partie 2 pdf/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-160%20Electrophor%C3%A8se%20-%20Partie%202%20pdf/p02_00.jpeg)
 
 
 ## Méthodologie pratique
@@ -120,7 +120,7 @@ Pour s’affranchir de la **contamination par tissu normal** (cellules endothél
 - Hasard : les 2 parents ont transmis le **même allèle** → **un seul pic** au sang = patient **homozygote** → **inutilisable**
 - Solution : tester systématiquement **2-3 jeux d’amorces** par locus
 
-![[assets/pathologie-moleculaire/rappels-adn/16-160 Electrophorèse - Partie 2 pdf/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-160%20Electrophor%C3%A8se%20-%20Partie%202%20pdf/p09_00.jpeg)
 
 
 ## Adaptabilité de la technique
@@ -135,7 +135,7 @@ Si une publication identifie une LOH pronostique en (par exemple) **7q12** :
 
 → étude de LOH **rapide et peu coûteuse**.
 
-![[assets/pathologie-moleculaire/rappels-adn/16-160 Electrophorèse - Partie 2 pdf/p09_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-160%20Electrophor%C3%A8se%20-%20Partie%202%20pdf/p09_02.png)
 
 ## Limite incontournable — comparaison avec ADN normal
 
@@ -166,14 +166,14 @@ Pour faciliter le **recueil et le transport** de l’ADN constitutionnel ou tumo
 4. **Séchage**
 5. **PCR directe** au contact du disque
 
-![[assets/pathologie-moleculaire/rappels-adn/16-160 Electrophorèse - Partie 2 pdf/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-160%20Electrophor%C3%A8se%20-%20Partie%202%20pdf/p10_00.jpeg)
 
-![[assets/pathologie-moleculaire/rappels-adn/16-160 Electrophorèse - Partie 2 pdf/p11_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-160%20Electrophor%C3%A8se%20-%20Partie%202%20pdf/p11_00.png)
 
-![[assets/pathologie-moleculaire/rappels-adn/16-160 Electrophorèse - Partie 2 pdf/p11_04.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-160%20Electrophor%C3%A8se%20-%20Partie%202%20pdf/p11_04.png)
 
 
-![[assets/pathologie-moleculaire/rappels-adn/16-160 Electrophorèse - Partie 2 pdf/p11_06.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-160%20Electrophor%C3%A8se%20-%20Partie%202%20pdf/p11_06.png)
 
 ---
 

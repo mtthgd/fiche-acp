@@ -44,7 +44,7 @@ source: DES ACP - Cours d'urologie
 | **Socio-comportemental** | Nombre de partenaires, premier contact sexuel précoce, célibat |
 | **Écologique** | Facteurs environnementaux |
 
-![[assets/urologie/verge/05-523-Facteurs pronostiques des tumeurs de la verge/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/verge/05-523-Facteurs%20pronostiques%20des%20tumeurs%20de%20la%20verge/p03_00.jpeg)
 
 ---
 
@@ -64,7 +64,7 @@ source: DES ACP - Cours d'urologie
 - Sous-types : **habituel**, **pseudo-hyperplasique**, **verruqueux**, **cuniculatum**, **sarcomatoïde**, **mixte**
 
 
-![[assets/urologie/verge/05-523-Facteurs pronostiques des tumeurs de la verge/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/verge/05-523-Facteurs%20pronostiques%20des%20tumeurs%20de%20la%20verge/p05_00.jpeg)
 
 ---
 
@@ -121,9 +121,9 @@ Les paramètres critiques :
 
 > **Ganglions envahis** dans un cancer de la verge = **décès souvent rapide** malgré traitement agressif.
 
-![[assets/urologie/verge/05-523-Facteurs pronostiques des tumeurs de la verge/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/verge/05-523-Facteurs%20pronostiques%20des%20tumeurs%20de%20la%20verge/p08_00.jpeg)
 
-![[assets/urologie/verge/05-523-Facteurs pronostiques des tumeurs de la verge/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/verge/05-523-Facteurs%20pronostiques%20des%20tumeurs%20de%20la%20verge/p09_00.jpeg)
 
 ---
 

@@ -42,7 +42,7 @@ source: DES ACP - Cours d'urologie
    - **CIS**, **lichen scléreux**
 7. **Profondeur** : atteinte du **corps spongieux**, **caverneux**, **urètre**
 
-![[assets/urologie/verge/05-513-Compte rendu biopsies et pièces opératoires lésions de la verge/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/verge/05-513-Compte%20rendu%20biopsies%20et%20pi%C3%A8ces%20op%C3%A9ratoires%20l%C3%A9sions%20de%20la%20verge/p03_00.jpeg)
 
 ---
 
@@ -88,7 +88,7 @@ source: DES ACP - Cours d'urologie
 - **Urétrectomie** (extension urétrale)
 - **Lymphadénectomie** inguinale droite/gauche (avec notion de **ganglion sentinelle**)
 
-![[assets/urologie/verge/05-513-Compte rendu biopsies et pièces opératoires lésions de la verge/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/verge/05-513-Compte%20rendu%20biopsies%20et%20pi%C3%A8ces%20op%C3%A9ratoires%20l%C3%A9sions%20de%20la%20verge/p06_00.jpeg)
 
 ## Items macroscopiques obligatoires
 
@@ -115,7 +115,7 @@ source: DES ACP - Cours d'urologie
 | **Tissus mous** | Compliqué après fixation → **encrer avant** |
 | **Épithéliale** (resurfacing) | Si applicable |
 
-![[assets/urologie/verge/05-513-Compte rendu biopsies et pièces opératoires lésions de la verge/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/verge/05-513-Compte%20rendu%20biopsies%20et%20pi%C3%A8ces%20op%C3%A9ratoires%20l%C3%A9sions%20de%20la%20verge/p07_00.jpeg)
 
 ## Lymphadénectomie
 

@@ -29,7 +29,7 @@ source: DES ACP - Cours d'urologie
 | **Avec atypie** | Atypie **réactionnelle**, atypie de **signification inconnue**, atypie **post-traitement**, **dysplasie**, **carcinome in situ (CIS)** |
 | **Métaplasies** | Malpighienne (± **kératinisante** = à risque), glandulaire (intestinale), **néphrogénique** (bénigne) |
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-222 Carcinome in situ et autres lésions planes/p01_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-222%20Carcinome%20in%20situ%20et%20autres%20l%C3%A9sions%20planes/p01_00.jpeg)
 
 
 ---
@@ -60,9 +60,9 @@ source: DES ACP - Cours d'urologie
 - **Flaques de mucus** possibles sans bordure épithéliale ≠ ADK
 - **Rester conservateur** : tant que pas d'infiltration évidente ou atteinte musculaire → métaplasie
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-222 Carcinome in situ et autres lésions planes/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-222%20Carcinome%20in%20situ%20et%20autres%20l%C3%A9sions%20planes/p05_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-222 Carcinome in situ et autres lésions planes/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-222%20Carcinome%20in%20situ%20et%20autres%20l%C3%A9sions%20planes/p06_00.jpeg)
 
 ### Néphrogénique
 - Antécédents : chirurgie, lithiase, cathéter, **transplantation rénale**
@@ -71,9 +71,9 @@ source: DES ACP - Cours d'urologie
 - DD ADK prostatique : **P63 négatif, P504S positif** → PIÈGE (attention à ne pas conclure ADK prostatique)
 - Peut descendre profondément dans la lamina propria sous la musculaire muqueuse
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-222 Carcinome in situ et autres lésions planes/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-222%20Carcinome%20in%20situ%20et%20autres%20l%C3%A9sions%20planes/p07_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-222 Carcinome in situ et autres lésions planes/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-222%20Carcinome%20in%20situ%20et%20autres%20l%C3%A9sions%20planes/p08_00.jpeg)
 
 ---
 
@@ -84,7 +84,7 @@ source: DES ACP - Cours d'urologie
 - Probablement **pré-maligne** : même **perte d'hétérozygotie 9p** et **mutations FGFR3** que les pTa
 - Asymptomatique → pronostic difficile à établir
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-222 Carcinome in situ et autres lésions planes/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-222%20Carcinome%20in%20situ%20et%20autres%20l%C3%A9sions%20planes/p09_00.jpeg)
 
 ---
 
@@ -105,11 +105,11 @@ source: DES ACP - Cours d'urologie
   - Lambeaux d'épithélium détaché
 - BCG : granulomes évocateurs ; chimio : hémorragie du corion
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-222 Carcinome in situ et autres lésions planes/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-222%20Carcinome%20in%20situ%20et%20autres%20l%C3%A9sions%20planes/p10_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-222 Carcinome in situ et autres lésions planes/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-222%20Carcinome%20in%20situ%20et%20autres%20l%C3%A9sions%20planes/p11_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-222 Carcinome in situ et autres lésions planes/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-222%20Carcinome%20in%20situ%20et%20autres%20l%C3%A9sions%20planes/p12_00.jpeg)
 
 ### Atypie de signification inconnue
 - Terme **déconseillé** (mais toujours dans les classifications)
@@ -122,9 +122,9 @@ source: DES ACP - Cours d'urologie
 - Perte partielle de polarité, amincissement, petits nucléoles, cytoplasmes clarifiés
 - **Non traitée** par les urologues
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-222 Carcinome in situ et autres lésions planes/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-222%20Carcinome%20in%20situ%20et%20autres%20l%C3%A9sions%20planes/p13_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-222 Carcinome in situ et autres lésions planes/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-222%20Carcinome%20in%20situ%20et%20autres%20l%C3%A9sions%20planes/p14_00.jpeg)
 
 ---
 
@@ -160,12 +160,12 @@ source: DES ACP - Cours d'urologie
 - **Ne pas dire « small cell »** dans le CR → risque que l'urologue traite comme TNE
 
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-222 Carcinome in situ et autres lésions planes/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-222%20Carcinome%20in%20situ%20et%20autres%20l%C3%A9sions%20planes/p16_00.jpeg)
 
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-222 Carcinome in situ et autres lésions planes/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-222%20Carcinome%20in%20situ%20et%20autres%20l%C3%A9sions%20planes/p18_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-222 Carcinome in situ et autres lésions planes/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-222%20Carcinome%20in%20situ%20et%20autres%20l%C3%A9sions%20planes/p19_00.jpeg)
 
 ### IHC du CIS
 
@@ -176,20 +176,20 @@ source: DES ACP - Cours d'urologie
 | **Ki67** | + (cut-off ~10 %) | Bas |
 | **CD44** | **−** | + couche basale |
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-222 Carcinome in situ et autres lésions planes/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-222%20Carcinome%20in%20situ%20et%20autres%20l%C3%A9sions%20planes/p20_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-222 Carcinome in situ et autres lésions planes/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-222%20Carcinome%20in%20situ%20et%20autres%20l%C3%A9sions%20planes/p21_00.jpeg)
 
 ### Traitement
 - **BCG thérapie** de référence
 - **CIS persistant après BCG** → **cystectomie**
 - Variantes histologiques **sans impact** → non mentionnées en routine
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-222 Carcinome in situ et autres lésions planes/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-222%20Carcinome%20in%20situ%20et%20autres%20l%C3%A9sions%20planes/p22_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-222 Carcinome in situ et autres lésions planes/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-222%20Carcinome%20in%20situ%20et%20autres%20l%C3%A9sions%20planes/p23_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-222 Carcinome in situ et autres lésions planes/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-222%20Carcinome%20in%20situ%20et%20autres%20l%C3%A9sions%20planes/p24_00.jpeg)
 
 ---
 

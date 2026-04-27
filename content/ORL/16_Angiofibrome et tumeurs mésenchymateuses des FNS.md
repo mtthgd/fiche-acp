@@ -49,9 +49,9 @@ Diagnostic différentiel majeur :
 - À la coupe : petits granités évoquant des **grains de plomb** = **matériel d'embolisation préopératoire**
 - ⚠️ **Pas de biopsie initiale** (caractère hémorragique). Exérèse précédée d'**embolisation**
 
-![[assets/ORL/VADS/tumeurs_benignes/10-223angiofibrome et tumeurs mesenchymateusesFNsinus/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/tumeurs_benignes/10-223angiofibrome%20et%20tumeurs%20mesenchymateusesFNsinus/p04_01.jpeg)
 
-![[assets/ORL/VADS/tumeurs_benignes/10-223angiofibrome et tumeurs mesenchymateusesFNsinus/p04_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/tumeurs_benignes/10-223angiofibrome%20et%20tumeurs%20mesenchymateusesFNsinus/p04_02.jpeg)
 
 ### Histologie
 
@@ -66,11 +66,11 @@ Caractéristiques :
 - Présence du **matériel d'embolisation** intravasculaire
 - Pas d'atypie significative
 
-![[assets/ORL/VADS/tumeurs_benignes/10-223angiofibrome et tumeurs mesenchymateusesFNsinus/p05_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/tumeurs_benignes/10-223angiofibrome%20et%20tumeurs%20mesenchymateusesFNsinus/p05_02.jpeg)
 
-![[assets/ORL/VADS/tumeurs_benignes/10-223angiofibrome et tumeurs mesenchymateusesFNsinus/p06_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/tumeurs_benignes/10-223angiofibrome%20et%20tumeurs%20mesenchymateusesFNsinus/p06_02.jpeg)
 
-![[assets/ORL/VADS/tumeurs_benignes/10-223angiofibrome et tumeurs mesenchymateusesFNsinus/p07_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/tumeurs_benignes/10-223angiofibrome%20et%20tumeurs%20mesenchymateusesFNsinus/p07_02.jpeg)
 
 ### Immunohistochimie
 
@@ -114,11 +114,11 @@ Entité disparue ailleurs dans les tissus mous (refondue en SFT) mais **persista
 - Hémorragies, remaniements fréquents
 - Cytologie : **petites cellules** tantôt fusiformes courtes, tantôt rondes, organisées en **faisceaux / courants cellulaires** très caractéristiques
 
-![[assets/ORL/VADS/tumeurs_benignes/10-223angiofibrome et tumeurs mesenchymateusesFNsinus/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/tumeurs_benignes/10-223angiofibrome%20et%20tumeurs%20mesenchymateusesFNsinus/p11_02.jpeg)
 
-![[assets/ORL/VADS/tumeurs_benignes/10-223angiofibrome et tumeurs mesenchymateusesFNsinus/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/tumeurs_benignes/10-223angiofibrome%20et%20tumeurs%20mesenchymateusesFNsinus/p12_02.jpeg)
 
-![[assets/ORL/VADS/tumeurs_benignes/10-223angiofibrome et tumeurs mesenchymateusesFNsinus/p13_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/tumeurs_benignes/10-223angiofibrome%20et%20tumeurs%20mesenchymateusesFNsinus/p13_02.jpeg)
 
 ### Immunohistochimie
 
@@ -150,9 +150,9 @@ Entité disparue ailleurs dans les tissus mous (refondue en SFT) mais **persista
 - **Tissus peu mêlés** ("patternless pattern")
 - Lésion plus **agressive** : englobement, franchissement osseux possibles
 
-![[assets/ORL/VADS/tumeurs_benignes/10-223angiofibrome et tumeurs mesenchymateusesFNsinus/p15_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/tumeurs_benignes/10-223angiofibrome%20et%20tumeurs%20mesenchymateusesFNsinus/p15_02.jpeg)
 
-![[assets/ORL/VADS/tumeurs_benignes/10-223angiofibrome et tumeurs mesenchymateusesFNsinus/p15_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/tumeurs_benignes/10-223angiofibrome%20et%20tumeurs%20mesenchymateusesFNsinus/p15_03.jpeg)
 
 ### Immunohistochimie
 
@@ -183,7 +183,7 @@ Entité disparue ailleurs dans les tissus mous (refondue en SFT) mais **persista
 | **PS100** | + diffus |
 | **SOX10** | + diffus |
 
-![[assets/ORL/VADS/tumeurs_benignes/10-223angiofibrome et tumeurs mesenchymateusesFNsinus/p16_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/tumeurs_benignes/10-223angiofibrome%20et%20tumeurs%20mesenchymateusesFNsinus/p16_02.jpeg)
 
 ## 5. Méningiome propagé
 
@@ -192,7 +192,7 @@ Entité disparue ailleurs dans les tissus mous (refondue en SFT) mais **persista
 - Histologie : cellules **méningothéliales** dodues, fusiformes, **enroulements** ± **calcosphérites** (psammomes)
 - IHC : **EMA+**, **récepteurs aux œstrogènes/progestérone +**
 
-![[assets/ORL/VADS/tumeurs_benignes/10-223angiofibrome et tumeurs mesenchymateusesFNsinus/p18_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/tumeurs_benignes/10-223angiofibrome%20et%20tumeurs%20mesenchymateusesFNsinus/p18_02.jpeg)
 
 ## 6. Sarcome biphénotypique nasosinusien de bas grade
 
@@ -211,11 +211,11 @@ Entité disparue ailleurs dans les tissus mous (refondue en SFT) mais **persista
 - **Mitoses peu nombreuses**, nécrose rare
 - Souvent **hyperplasie épithéliale réactionnelle de surface** (piège diagnostique)
 
-![[assets/ORL/VADS/tumeurs_benignes/10-223angiofibrome et tumeurs mesenchymateusesFNsinus/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/tumeurs_benignes/10-223angiofibrome%20et%20tumeurs%20mesenchymateusesFNsinus/p20_01.jpeg)
 
-![[assets/ORL/VADS/tumeurs_benignes/10-223angiofibrome et tumeurs mesenchymateusesFNsinus/p21_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/tumeurs_benignes/10-223angiofibrome%20et%20tumeurs%20mesenchymateusesFNsinus/p21_02.jpeg)
 
-![[assets/ORL/VADS/tumeurs_benignes/10-223angiofibrome et tumeurs mesenchymateusesFNsinus/p22_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/tumeurs_benignes/10-223angiofibrome%20et%20tumeurs%20mesenchymateusesFNsinus/p22_02.jpeg)
 
 ### Immunohistochimie
 
@@ -244,7 +244,7 @@ Entité disparue ailleurs dans les tissus mous (refondue en SFT) mais **persista
 - **Pas de métastase décrite** à ce jour
 - Quelques décès liés à la maladie rapportés
 
-![[assets/ORL/VADS/tumeurs_benignes/10-223angiofibrome et tumeurs mesenchymateusesFNsinus/p22_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/tumeurs_benignes/10-223angiofibrome%20et%20tumeurs%20mesenchymateusesFNsinus/p22_03.jpeg)
 
 ## Diagnostics différentiels — synthèse
 

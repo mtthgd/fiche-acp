@@ -27,13 +27,13 @@ L'objectif est de différencier l'**architecture** de l'infiltrat puis d'oriente
 | **Nodulaire** | Volumineux nodules dermiques |
 | **Diffus** | Infiltrat envahissant l'ensemble du derme |
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-lymphocytaires-plasmocytaires/08-431 dermatoses lymphocytaires et plasmocytaires/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-lymphocytaires-plasmocytaires/08-431%20dermatoses%20lymphocytaires%20et%20plasmocytaires/p03_01.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-lymphocytaires-plasmocytaires/08-431 dermatoses lymphocytaires et plasmocytaires/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-lymphocytaires-plasmocytaires/08-431%20dermatoses%20lymphocytaires%20et%20plasmocytaires/p04_01.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-lymphocytaires-plasmocytaires/08-431 dermatoses lymphocytaires et plasmocytaires/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-lymphocytaires-plasmocytaires/08-431%20dermatoses%20lymphocytaires%20et%20plasmocytaires/p05_01.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-lymphocytaires-plasmocytaires/08-431 dermatoses lymphocytaires et plasmocytaires/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-lymphocytaires-plasmocytaires/08-431%20dermatoses%20lymphocytaires%20et%20plasmocytaires/p07_01.jpeg)
 
 ## I. INFILTRAT PÉRIVASCULAIRE SUPERFICIEL
 
@@ -47,7 +47,7 @@ L'objectif est de différencier l'**architecture** de l'infiltrat puis d'oriente
 | **Toxidermie** | Même sans éosinophiles ni nécrose kératinocytaire |
 | **Érythèmes figurés** | Annulaires, curvilignes ; **érythème chronique migrateur** (Lyme) — souvent superficiel + profond |
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-lymphocytaires-plasmocytaires/08-431 dermatoses lymphocytaires et plasmocytaires/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-lymphocytaires-plasmocytaires/08-431%20dermatoses%20lymphocytaires%20et%20plasmocytaires/p10_00.jpeg)
 
 ## II. INFILTRAT PÉRIVASCULAIRE SUPERFICIEL ET PROFOND
 
@@ -61,7 +61,7 @@ L'objectif est de différencier l'**architecture** de l'infiltrat puis d'oriente
 | **Infiltrat de Jessner-Kanof (LIP)** | Infiltrat lymphocytaire sup. + profond, peu de mucine |
 | **Mucinose érythémateuse réticulée (REM)** | Très **abondants dépôts de mucine** |
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-lymphocytaires-plasmocytaires/08-431 dermatoses lymphocytaires et plasmocytaires/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-lymphocytaires-plasmocytaires/08-431%20dermatoses%20lymphocytaires%20et%20plasmocytaires/p13_00.jpeg)
 
 ### Spectre lupus tumidus / LIP / REM
 
@@ -83,9 +83,9 @@ Pour certains auteurs, ces 3 entités constituent un **spectre lupique** avec **
   - **Modifications épidermiques lupiques** (atrophie, vacuolisation basale) souvent **absentes** dans cette forme
   - **Dépôts interstitiels de mucine**
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-lymphocytaires-plasmocytaires/08-431 dermatoses lymphocytaires et plasmocytaires/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-lymphocytaires-plasmocytaires/08-431%20dermatoses%20lymphocytaires%20et%20plasmocytaires/p15_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-lymphocytaires-plasmocytaires/08-431 dermatoses lymphocytaires et plasmocytaires/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-lymphocytaires-plasmocytaires/08-431%20dermatoses%20lymphocytaires%20et%20plasmocytaires/p15_01.jpeg)
 
 ### Indices selon les cellules associées
 
@@ -95,7 +95,7 @@ Pour certains auteurs, ces 3 entités constituent un **spectre lupique** avec **
 | Lymphocytes + **plasmocytes** | **Érythème chronique migrant (Lyme)**, **morphée** |
 | Lymphocytes + **histiocytes** | **Lèpre** (cf 08-411 / 08-412) |
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-lymphocytaires-plasmocytaires/08-431 dermatoses lymphocytaires et plasmocytaires/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-lymphocytaires-plasmocytaires/08-431%20dermatoses%20lymphocytaires%20et%20plasmocytaires/p17_01.jpeg)
 
 ## III. INFILTRAT NODULAIRE OU DIFFUS
 
@@ -113,9 +113,9 @@ Pour certains auteurs, ces 3 entités constituent un **spectre lupique** avec **
 
 > Cause classique d'un lymphocytome cutané : **borreliose de Lyme** (Borrelia burgdorferi).
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-lymphocytaires-plasmocytaires/08-431 dermatoses lymphocytaires et plasmocytaires/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-lymphocytaires-plasmocytaires/08-431%20dermatoses%20lymphocytaires%20et%20plasmocytaires/p20_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-lymphocytaires-plasmocytaires/08-431 dermatoses lymphocytaires et plasmocytaires/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-lymphocytaires-plasmocytaires/08-431%20dermatoses%20lymphocytaires%20et%20plasmocytaires/p21_00.jpeg)
 
 ### Plasmocytaire — penser aux infections
 
@@ -124,9 +124,9 @@ Pour certains auteurs, ces 3 entités constituent un **spectre lupique** avec **
 - **Corps amastigotes** intra-histiocytaires : 2-4 µm, basophiles, intra- ou extra-cellulaires
 - Visibles dès le **HES**, mieux vus au **MGG / Giemsa**
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-lymphocytaires-plasmocytaires/08-431 dermatoses lymphocytaires et plasmocytaires/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-lymphocytaires-plasmocytaires/08-431%20dermatoses%20lymphocytaires%20et%20plasmocytaires/p23_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-lymphocytaires-plasmocytaires/08-431 dermatoses lymphocytaires et plasmocytaires/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-lymphocytaires-plasmocytaires/08-431%20dermatoses%20lymphocytaires%20et%20plasmocytaires/p23_01.jpeg)
 
 #### Syphilis (chancre + secondaire)
 - Dermatose **diffuse riche en plasmocytes**
@@ -134,7 +134,7 @@ Pour certains auteurs, ces 3 entités constituent un **spectre lupique** avec **
 - **IHC anti-tréponème** → bactéries spiralées
 - Triade évocatrice : **lichénoïde + plasmocytes + endothélite**
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-lymphocytaires-plasmocytaires/08-431 dermatoses lymphocytaires et plasmocytaires/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-lymphocytaires-plasmocytaires/08-431%20dermatoses%20lymphocytaires%20et%20plasmocytaires/p24_00.jpeg)
 
 #### Maladies liées aux IgG4
 - Définition : **fibrose** + infiltrat riche en **plasmocytes IgG4+** avec ratio **IgG4/IgG > 40 %**
@@ -142,7 +142,7 @@ Pour certains auteurs, ces 3 entités constituent un **spectre lupique** avec **
 - **Confrontation anatomoclinique** : taux sérique élevé d'IgG4
 - Forme **purement cutanée** rare → plaques infiltrées ou nodules
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-lymphocytaires-plasmocytaires/08-431 dermatoses lymphocytaires et plasmocytaires/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-lymphocytaires-plasmocytaires/08-431%20dermatoses%20lymphocytaires%20et%20plasmocytaires/p25_00.jpeg)
 
 ## Algorithme synthétique
 

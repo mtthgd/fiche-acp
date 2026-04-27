@@ -50,9 +50,9 @@ Une **panniculite** est une **atteinte inflammatoire de l'hypoderme**, ce dernie
 - **Septale** : septas épaissis inflammatoires, **lobules épargnés**
 - **Lobulaire** : inflammation centrée sur les lobules, **septas épargnés**
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451 orientation diagnostique panniculites/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451%20orientation%20diagnostique%20panniculites/p09_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451 orientation diagnostique panniculites/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451%20orientation%20diagnostique%20panniculites/p09_01.jpeg)
 
 ## I. Panniculites SEPTALES
 
@@ -86,13 +86,13 @@ Une **panniculite** est une **atteinte inflammatoire de l'hypoderme**, ce dernie
 - **Stade tardif** : **fibrose** + **granulomes de Miescher** = petits agrégats nodulaires/radiés d'histiocytes autour d'une **fente centrale en banane ou stellaire** (pathognomoniques selon les auteurs) + cellules géantes
 - **Pas d'atteinte vasculaire**
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451 orientation diagnostique panniculites/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451%20orientation%20diagnostique%20panniculites/p11_01.jpeg)
 
 
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451 orientation diagnostique panniculites/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451%20orientation%20diagnostique%20panniculites/p14_01.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451 orientation diagnostique panniculites/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451%20orientation%20diagnostique%20panniculites/p15_01.jpeg)
 
 #### Morphée profonde
 
@@ -100,7 +100,7 @@ Une **panniculite** est une **atteinte inflammatoire de l'hypoderme**, ce dernie
 - **Fibrose** étendue du derme profond vers les septas (ou purement septale)
 - Infiltrat **lymphocytes + plasmocytes**
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451 orientation diagnostique panniculites/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451%20orientation%20diagnostique%20panniculites/p17_00.jpeg)
 
 ### B. Avec atteinte vasculaire
 
@@ -109,16 +109,16 @@ Une **panniculite** est une **atteinte inflammatoire de l'hypoderme**, ce dernie
 - **PNN** ± PNE au début → infiltrat **lympho-histiocytaire** + **altération fibrinoïde** de la paroi
 - Inflammation **limitée au vaisseau** : plus une **vascularite** qu'une vraie panniculite
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451 orientation diagnostique panniculites/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451%20orientation%20diagnostique%20panniculites/p18_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451 orientation diagnostique panniculites/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451%20orientation%20diagnostique%20panniculites/p18_01.jpeg)
 
 #### Thrombophlébite superficielle
 - **Veine** de l'hypoderme
 - Contexte de troubles de la coagulation
 - Plus une atteinte vasculaire qu'une vraie hypodermite
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451 orientation diagnostique panniculites/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451%20orientation%20diagnostique%20panniculites/p19_01.jpeg)
 
 ## II. Panniculites LOBULAIRES
 
@@ -142,9 +142,9 @@ Une **panniculite** est une **atteinte inflammatoire de l'hypoderme**, ce dernie
 
 > ⚠️ **Spectre lésionnel des dyscrasies lymphocytaires T** : lupus profond ↔ panniculites lobulaires lymphocytaires indéterminées ↔ lymphome T sous-cutané panniculitis-like.
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451 orientation diagnostique panniculites/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451%20orientation%20diagnostique%20panniculites/p25_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451 orientation diagnostique panniculites/p25_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451%20orientation%20diagnostique%20panniculites/p25_01.jpeg)
 
 ### B. Riches en PNN
 
@@ -156,7 +156,7 @@ Une **panniculite** est une **atteinte inflammatoire de l'hypoderme**, ce dernie
 - **Adipocytes fantômes** remplacés par une substance **granulaire bleu-gris**, entourés de PNN
 
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451 orientation diagnostique panniculites/p27_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451%20orientation%20diagnostique%20panniculites/p27_02.jpeg)
 
 #### Panniculite à α1-antitrypsine
 
@@ -165,7 +165,7 @@ Une **panniculite** est une **atteinte inflammatoire de l'hypoderme**, ce dernie
 - Atteinte **multifocale** avec intervalles sains → **biopsie large** indispensable
 
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451 orientation diagnostique panniculites/p28_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451%20orientation%20diagnostique%20panniculites/p28_02.jpeg)
 
 ### C. Riches en histiocytes
 
@@ -175,9 +175,9 @@ Une **panniculite** est une **atteinte inflammatoire de l'hypoderme**, ce dernie
 - À terme : aspect non spécifique de **lipodystrophie membrano-cystique**
 - Forme encapsulée par fibrose : **lipome encapsulé mobile** (= nécrose graisseuse encapsulée)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451 orientation diagnostique panniculites/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451%20orientation%20diagnostique%20panniculites/p30_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451 orientation diagnostique panniculites/p30_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451%20orientation%20diagnostique%20panniculites/p30_01.jpeg)
 
 #### Lipodermatosclérose
 
@@ -191,11 +191,11 @@ Une **panniculite** est une **atteinte inflammatoire de l'hypoderme**, ce dernie
 - **Septas épaissis étouffant les lobules**
 - **Kystes** entourés d'histiocytes spumeux + lymphocytes/plasmocytes → **lipodystrophie membrano-cystique**
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451 orientation diagnostique panniculites/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451%20orientation%20diagnostique%20panniculites/p32_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451 orientation diagnostique panniculites/p32_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451%20orientation%20diagnostique%20panniculites/p32_01.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451 orientation diagnostique panniculites/p32_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451%20orientation%20diagnostique%20panniculites/p32_02.jpeg)
 
 #### Panniculites à cristaux
 
@@ -208,11 +208,11 @@ Une **panniculite** est une **atteinte inflammatoire de l'hypoderme**, ce dernie
 - **Goutte**, **oxalose**
 - Post-médicamenteuses, fongiques rares
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451 orientation diagnostique panniculites/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451%20orientation%20diagnostique%20panniculites/p35_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451 orientation diagnostique panniculites/p36_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451%20orientation%20diagnostique%20panniculites/p36_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451 orientation diagnostique panniculites/p36_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451%20orientation%20diagnostique%20panniculites/p36_01.jpeg)
 
 ### D. Avec vasculite : érythème induré de Bazin / vasculite nodulaire
 
@@ -228,13 +228,13 @@ Une **panniculite** est une **atteinte inflammatoire de l'hypoderme**, ce dernie
 - Touche **plusieurs lobules contigus** (≠ PAN où seul le lobule le plus proche est inflammatoire)
 - Vascularite parfois absente malgré coupes sérées (≈ 10 %)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451 orientation diagnostique panniculites/p42_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451%20orientation%20diagnostique%20panniculites/p42_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451 orientation diagnostique panniculites/p42_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451%20orientation%20diagnostique%20panniculites/p42_01.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451 orientation diagnostique panniculites/p42_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451%20orientation%20diagnostique%20panniculites/p42_02.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451 orientation diagnostique panniculites/p43_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451%20orientation%20diagnostique%20panniculites/p43_00.jpeg)
 
 ## Algorithme diagnostique
 
@@ -262,7 +262,7 @@ Panniculite (biopsie large, profonde)
                     → ÉRYTHÈME INDURÉ DE BAZIN / VASCULITE NODULAIRE
 ```
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451 orientation diagnostique panniculites/p44_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/panniculites/08-451%20orientation%20diagnostique%20panniculites/p44_03.jpeg)
 
 ## Tableau récapitulatif
 

@@ -28,7 +28,7 @@ Deux entités à distinguer depuis 2010 :
 
 Avant 2010, **10-20 % des carcinomes à cellules acineuses** étaient en réalité des carcinomes sécrétoires (surtout pauvres en cellules acineuses ou en glandes salivaires accessoires).
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p03_00.jpeg)
 
 ---
 
@@ -48,13 +48,13 @@ Avant 2010, **10-20 % des carcinomes à cellules acineuses** étaient en réalit
 - Parfois kystisation, parfois multinodulaire
 - Peut **mimer une tumeur bénigne** (très bien délimitée) ou être franchement infiltrant (dépassement capsulaire, **stroma-réaction lymphocytaire**)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p04_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p04_01.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p04_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p04_02.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p04_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p04_03.jpeg)
 
 ## Histologie
 
@@ -66,11 +66,11 @@ Avant 2010, **10-20 % des carcinomes à cellules acineuses** étaient en réalit
 - Petit noyau excentré
 - Majoritaires dans seulement **40 %** des cas
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p05_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p05_01.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p05_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p05_02.jpeg)
 
 ### Autres types cellulaires souvent associés
 
@@ -80,11 +80,11 @@ Avant 2010, **10-20 % des carcinomes à cellules acineuses** étaient en réalit
 | **Cellules canalaires intercalaires** | 1/3 (majoritaires) | Cubocylindriques éosinophiles, plus petites, travées anastomosées autour de lumières glandulaires |
 | **Cellules glandulaires non spécifiques** | Variable | Taille moyenne, cytoplasme éosinophile, noyau vésiculeux |
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p06_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p07_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p08_00.jpeg)
 
 ### Architecture
 
@@ -93,21 +93,21 @@ Avant 2010, **10-20 % des carcinomes à cellules acineuses** étaient en réalit
 - Folliculaire (aspect colloid-like → DD carcinome thyroïdien)
 - Macrokystique / papillaire
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p09_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p10_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p10_01.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p11_00.jpeg)
 
 ### Stroma-réaction lymphocytaire
 
 Très fréquente en périphérie des massifs tumoraux (critère utile).
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p12_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p13_00.jpeg)
 
 ## Immunohistochimie
 
@@ -129,11 +129,11 @@ Très fréquente en périphérie des massifs tumoraux (critère utile).
 - Certains cas : marquage membranaire ± cytoplasmique, **toujours renforcé à l'apex**
 - ⚠ **Pas totalement spécifique** : aussi + dans d'autres carcinomes et adénomes pléomorphes
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p13_01.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p14_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p16_00.jpeg)
 
 ## Transformation anaplasique
 
@@ -142,7 +142,7 @@ Très fréquente en périphérie des massifs tumoraux (critère utile).
 - **Activité mitotique élevée (Ki67+++), perte DOG1**
 - Survie moyenne **40 mois** (vs 125 mois forme classique)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p16_01.jpeg)
 
 ## Pronostic
 
@@ -150,7 +150,7 @@ Très fréquente en périphérie des massifs tumoraux (critère utile).
 - Métastases ganglionnaires et pulmonaires possibles
 - Facteurs péjoratifs : grande taille, exérèse incomplète, infiltration périnerveuse, stroma hyalinisé, Ki67 élevé
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p17_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p17_00.png)
 
 ---
 
@@ -180,11 +180,11 @@ Très fréquente en périphérie des massifs tumoraux (critère utile).
 - Activité mitotique < 1/10 champs le plus souvent
 - Pas de nécrose (bas grade)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p21_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p22_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p22_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p22_04.jpeg)
 
 ### Architecture
 
@@ -194,11 +194,11 @@ Très fréquente en périphérie des massifs tumoraux (critère utile).
 - Infiltration nerveuse rare
 - **Sécrétion éosinophile intra-tubulaire colloïd-like PAS-D +** constante
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p25_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p25_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p25_01.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p26_00.jpeg)
 
 ## Immunohistochimie (clé diagnostique)
 
@@ -213,9 +213,9 @@ Très fréquente en périphérie des massifs tumoraux (critère utile).
 | P63 | − (ou **cytoplasmique** → argument utile) |
 | Myoépithéliaux (actine, P40, CK5/6) | − |
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p28_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p29_00.jpeg)
 
 ## Biologie moléculaire / FISH
 
@@ -224,9 +224,9 @@ Très fréquente en périphérie des massifs tumoraux (critère utile).
 - Autres partenaires d'ETV6 plus rares décrits
 - **Intérêt thérapeutique majeur** : sensibilité aux **inhibiteurs de TRK** (larotrectinib, entrectinib) dans les formes métastatiques
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p30_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p31_00.jpeg)
 
 ## Diagnostics différentiels
 
@@ -238,7 +238,7 @@ Très fréquente en périphérie des massifs tumoraux (critère utile).
 | **Carcinome canalaire salivaire** | Haut grade, atypies, comédonécrose, RA + |
 | **Métastase (adénocarcinome mammaire sécrétoire)** | Clinique ; morphologie proche |
 
-![[assets/ORL/glandes_salivaires/tumeurs_maligne/10_345 carcinome acineux audio pour pdf/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_maligne/10_345%20carcinome%20acineux%20audio%20pour%20pdf/p32_00.jpeg)
 
 ## Conduite pratique
 

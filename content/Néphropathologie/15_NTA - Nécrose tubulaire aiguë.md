@@ -72,13 +72,13 @@ Sur **rein normal (PAS)** : calibre tubulaire régulier, **bordure en brosse fuc
 
 Dans la NTA : tubes **distendus** avec lumières trop visibles, **perte de la bordure en brosse**.
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14 NTA/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14%20NTA/p10_01.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14 NTA/p10_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14%20NTA/p10_02.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14 NTA/p10_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14%20NTA/p10_03.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14 NTA/p10_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14%20NTA/p10_04.jpeg)
 
 ### Lésions élémentaires (par ordre de gravité croissante)
 
@@ -89,11 +89,11 @@ Dans la NTA : tubes **distendus** avec lumières trop visibles, **perte de la bo
 - **Bulles cytoplasmiques** au pôle apical (« blebbing »)
 - **Vacuolisation / ballonisation** des cellules
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14 NTA/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14%20NTA/p11_02.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14 NTA/p11_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14%20NTA/p11_03.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14 NTA/p11_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14%20NTA/p11_04.jpeg)
 
 #### 2. Mort cellulaire (apoptose >> nécrose)
 
@@ -103,22 +103,22 @@ Dans la NTA : tubes **distendus** avec lumières trop visibles, **perte de la bo
   - **Cylindres granuleux** : débris cellulaires → « muddy brown casts »
   - **Cylindres de Tamm-Horsfall** : protéine sécrétée par l'**anse de Henle**, fortement PAS+
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14 NTA/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14%20NTA/p12_01.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14 NTA/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14%20NTA/p12_02.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14 NTA/p12_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14%20NTA/p12_03.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14 NTA/p12_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14%20NTA/p12_04.jpeg)
 
 #### 3. Tubes aplatis et distendus
 
 - Mort cellulaire → **aplatissement** des cellules
 - **Mise à nu de la membrane basale tubulaire** (MBT) sur tout ou partie de la circonférence (PAS+ marquant la MBT dénudée)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14 NTA/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14%20NTA/p13_01.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14 NTA/p13_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14%20NTA/p13_02.jpeg)
 
 #### 4. Rupture de la membrane basale tubulaire (formes sévères)
 
@@ -126,11 +126,11 @@ Dans la NTA : tubes **distendus** avec lumières trop visibles, **perte de la bo
 - Plus de cellules épithéliales en regard
 - Inflammation interstitielle adjacente focale
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14 NTA/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14%20NTA/p14_01.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14 NTA/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14%20NTA/p14_02.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14 NTA/p14_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14%20NTA/p14_03.jpeg)
 
 ### Lésions de réparation (souvent associées)
 
@@ -141,11 +141,11 @@ Dans la NTA : tubes **distendus** avec lumières trop visibles, **perte de la bo
 - Tolérance d'une **légère inflammation interstitielle**
 - Coexistence fréquente de lésions d'âges différents
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14 NTA/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14%20NTA/p15_01.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14 NTA/p15_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14%20NTA/p15_02.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14 NTA/p15_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14%20NTA/p15_03.jpeg)
 
 ### Anomalies des autres compartiments
 
@@ -153,9 +153,9 @@ Dans la NTA : tubes **distendus** avec lumières trop visibles, **perte de la bo
 - **Extravasation de protéine de Tamm-Horsfall** dans l'interstitium (immunogène) → **réaction inflammatoire focale**
 - Glomérules : phases de régénération → **remplacement des cellules épithéliales pariétales** (capsule de Bowman) par des **cellules tubulaires proximales** (« proximal tubular cell metaplasia »)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14 NTA/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14%20NTA/p17_01.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14 NTA/p17_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14%20NTA/p17_02.jpeg)
 
 ## NTA toxique : signes d'orientation étiologique
 
@@ -167,19 +167,19 @@ Dans la NTA : tubes **distendus** avec lumières trop visibles, **perte de la bo
 
 Toujours rechercher des **cristaux** ou **inclusions intra-tubulaires** orientant vers un toxique exogène (cristaux de médicaments, oxalates, etc.).
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14 NTA/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14%20NTA/p18_01.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14 NTA/p18_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14%20NTA/p18_02.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14 NTA/p18_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14%20NTA/p18_03.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14 NTA/p18_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14%20NTA/p18_06.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14 NTA/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14%20NTA/p19_01.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14 NTA/p19_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14%20NTA/p19_02.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14 NTA/p19_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14%20NTA/p19_03.jpeg)
 
 ## Étiologies
 
@@ -201,9 +201,9 @@ Souvent **multifactorielle** (ex : sepsis + aminosides + produit de contraste).
 | **Néphropathie à cylindres myélomateux** | Cylindres **fracturés, polychromes, géométriques** ± réaction giganto-cellulaire |
 | **Tubulopathie cristalline** | Cristaux intra-tubulaires (oxalate, médicaments) biréfringents en lumière polarisée |
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14 NTA/p20_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14%20NTA/p20_02.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14 NTA/p20_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-tubulo-interstielles/244-14%20NTA/p20_03.jpeg)
 
 ## Pronostic / Traitement
 

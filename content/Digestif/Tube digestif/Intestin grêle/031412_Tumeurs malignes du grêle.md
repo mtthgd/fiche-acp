@@ -66,7 +66,7 @@ Par fréquence décroissante : **duodénum > jéjunum > iléon**
 - Plus souvent **peu différencié** que les adénocarcinomes coliques
 - Architecture glandulaire avec atypies, mitoses, réaction stromale desmoplasique
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.12 Tumeurs malignes de lintestin grêle/p04_13.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.12%20Tumeurs%20malignes%20de%20lintestin%20gr%C3%AAle/p04_13.jpeg)
 
 ### Pronostic
 

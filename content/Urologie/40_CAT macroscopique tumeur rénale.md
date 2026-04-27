@@ -23,7 +23,7 @@ source: DES ACP - Cours d'urologie
 - Classification pTNM AJCC **2017**
 - Examen préférentiellement à l'**état frais**, photo macro, **congélation tumeur**
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-112-Prise en charge macroscopique tumeurs du rein/p01_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-112-Prise%20en%20charge%20macroscopique%20tumeurs%20du%20rein/p01_00.jpeg)
 
 
 ---
@@ -63,36 +63,36 @@ source: DES ACP - Cours d'urologie
 | Tumeur hétérogène (zones blanches/jaunes) | Zones **de plus haut grade** à échantillonner |
 
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-112-Prise en charge macroscopique tumeurs du rein/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-112-Prise%20en%20charge%20macroscopique%20tumeurs%20du%20rein/p05_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-112-Prise en charge macroscopique tumeurs du rein/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-112-Prise%20en%20charge%20macroscopique%20tumeurs%20du%20rein/p05_01.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-112-Prise en charge macroscopique tumeurs du rein/p05_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-112-Prise%20en%20charge%20macroscopique%20tumeurs%20du%20rein/p05_02.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-112-Prise en charge macroscopique tumeurs du rein/p05_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-112-Prise%20en%20charge%20macroscopique%20tumeurs%20du%20rein/p05_03.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-112-Prise en charge macroscopique tumeurs du rein/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-112-Prise%20en%20charge%20macroscopique%20tumeurs%20du%20rein/p06_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-112-Prise en charge macroscopique tumeurs du rein/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-112-Prise%20en%20charge%20macroscopique%20tumeurs%20du%20rein/p06_01.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-112-Prise en charge macroscopique tumeurs du rein/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-112-Prise%20en%20charge%20macroscopique%20tumeurs%20du%20rein/p07_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-112-Prise en charge macroscopique tumeurs du rein/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-112-Prise%20en%20charge%20macroscopique%20tumeurs%20du%20rein/p07_01.jpeg)
 
 ### Consistance
 
 - Solide, kystique, mixte
 - **Spongieuse microkystique blanc-nacré** = évocateur de **carcinome tubulokystique**
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-112-Prise en charge macroscopique tumeurs du rein/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-112-Prise%20en%20charge%20macroscopique%20tumeurs%20du%20rein/p08_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-112-Prise en charge macroscopique tumeurs du rein/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-112-Prise%20en%20charge%20macroscopique%20tumeurs%20du%20rein/p08_01.jpeg)
 
 ### Limites
 
 - Encapsulée (bénigne/indolente) vs mal limitée avec **nodules satellites** (agressive)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-112-Prise en charge macroscopique tumeurs du rein/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-112-Prise%20en%20charge%20macroscopique%20tumeurs%20du%20rein/p09_00.jpeg)
 
 
 ---
@@ -117,15 +117,15 @@ source: DES ACP - Cours d'urologie
 - **Échantillonnage de la tumeur** (nb blocs variable selon taille et hétérogénéité)
 - **Petites tumeurs = inclusion totale**
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-112-Prise en charge macroscopique tumeurs du rein/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-112-Prise%20en%20charge%20macroscopique%20tumeurs%20du%20rein/p10_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-112-Prise en charge macroscopique tumeurs du rein/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-112-Prise%20en%20charge%20macroscopique%20tumeurs%20du%20rein/p10_01.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-112-Prise en charge macroscopique tumeurs du rein/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-112-Prise%20en%20charge%20macroscopique%20tumeurs%20du%20rein/p11_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-112-Prise en charge macroscopique tumeurs du rein/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-112-Prise%20en%20charge%20macroscopique%20tumeurs%20du%20rein/p11_01.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-112-Prise en charge macroscopique tumeurs du rein/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-112-Prise%20en%20charge%20macroscopique%20tumeurs%20du%20rein/p12_00.jpeg)
 
 
 ---
@@ -156,10 +156,10 @@ source: DES ACP - Cours d'urologie
 8. Congélation tumeur + parenchyme, photos, fixation
 
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-112-Prise en charge macroscopique tumeurs du rein/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-112-Prise%20en%20charge%20macroscopique%20tumeurs%20du%20rein/p16_00.jpeg)
 
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-112-Prise en charge macroscopique tumeurs du rein/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-112-Prise%20en%20charge%20macroscopique%20tumeurs%20du%20rein/p17_00.jpeg)
 
 ## Prélèvements indispensables (néphrectomie totale)
 

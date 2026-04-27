@@ -30,7 +30,7 @@ Toutes les plates-formes de **séquençage 2G** partagent **4 étapes obligatoir
 > Pourquoi pas de molécule unique en 2G ? Parce qu’**aucun système classique** (microscope à fluorescence, pH-mètre) ne détecte UNE seule molécule. Il faut un **cluster de milliers de copies identiques** pour amplifier le signal. La détection single-molecule est ce qui définit la **3G** ([[16_550 NGS 3ème génération]]).
 
 
-![[assets/pathologie-moleculaire/ngs/16-515 Le séquençage de deuxième génération, les points communs audio pdf/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-515%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20les%20points%20communs%20audio%20pdf/p02_00.jpeg)
 
 
 ## Étape 1 — Construction de la librairie
@@ -49,7 +49,7 @@ Toutes les plates-formes de **séquençage 2G** partagent **4 étapes obligatoir
 
 
 
-![[assets/pathologie-moleculaire/ngs/16-515 Le séquençage de deuxième génération, les points communs audio pdf/p04_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-515%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20les%20points%20communs%20audio%20pdf/p04_01.png)
 
 
 ## Étape 2 — Fixation sur un support
@@ -68,10 +68,10 @@ La **dilution** doit être parfaite :
 
 > Comparaison de l’ingénieur David Grand : c’est comme un **ensemencement de boîte de Petri**.
 
-![[assets/pathologie-moleculaire/ngs/16-515 Le séquençage de deuxième génération, les points communs audio pdf/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-515%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20les%20points%20communs%20audio%20pdf/p07_00.jpeg)
 
 
-![[assets/pathologie-moleculaire/ngs/16-515 Le séquençage de deuxième génération, les points communs audio pdf/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-515%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20les%20points%20communs%20audio%20pdf/p08_00.jpeg)
 
 ## Étape 3 — Amplification clonale locale
 
@@ -84,14 +84,14 @@ Chaque molécule unique est amplifiée **in situ** en quelques milliers de copie
 
 Le résultat est un **cluster** (Illumina) ou une **bille « cheveux longs »** (454/Ion) portant des milliers de copies identiques à la matrice initiale.
 
-![[assets/pathologie-moleculaire/ngs/16-515 Le séquençage de deuxième génération, les points communs audio pdf/p09_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-515%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20les%20points%20communs%20audio%20pdf/p09_00.png)
 
-![[assets/pathologie-moleculaire/ngs/16-515 Le séquençage de deuxième génération, les points communs audio pdf/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-515%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20les%20points%20communs%20audio%20pdf/p10_00.jpeg)
 
-![[assets/pathologie-moleculaire/ngs/16-515 Le séquençage de deuxième génération, les points communs audio pdf/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-515%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20les%20points%20communs%20audio%20pdf/p10_01.jpeg)
 
 
-![[assets/pathologie-moleculaire/ngs/16-515 Le séquençage de deuxième génération, les points communs audio pdf/p10_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-515%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20les%20points%20communs%20audio%20pdf/p10_03.jpeg)
 
 ## Étape 4 — Séquençage de chaque cluster
 
@@ -102,13 +102,13 @@ Chaque cluster est lu **base par base, en temps réel**, en parallèle de tous l
 - **Ion Torrent** → variation de pH (H+) ([[16_517 Séquençage Ion Torrent]])
 - **Illumina** → fluorescence avec **terminateurs réversibles** ([[16_518 Séquençage Illumina]])
 
-![[assets/pathologie-moleculaire/ngs/16-515 Le séquençage de deuxième génération, les points communs audio pdf/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-515%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20les%20points%20communs%20audio%20pdf/p11_00.jpeg)
 
-![[assets/pathologie-moleculaire/ngs/16-515 Le séquençage de deuxième génération, les points communs audio pdf/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-515%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20les%20points%20communs%20audio%20pdf/p11_01.jpeg)
 
-![[assets/pathologie-moleculaire/ngs/16-515 Le séquençage de deuxième génération, les points communs audio pdf/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-515%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20les%20points%20communs%20audio%20pdf/p11_02.jpeg)
 
-![[assets/pathologie-moleculaire/ngs/16-515 Le séquençage de deuxième génération, les points communs audio pdf/p11_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-515%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20les%20points%20communs%20audio%20pdf/p11_03.jpeg)
 
 ## Multiplexage par index / barcode
 
@@ -118,13 +118,13 @@ Chaque patient reçoit un **index** unique (ex. ATCGTCAT) ligué dans l’adapta
 
 Tous les patients sont **mélangés** sur la flow cell → après séquençage, le pipeline bioinformatique **démultiplexe** chaque read selon son barcode → un **fichier FASTQ par patient**.
 
-![[assets/pathologie-moleculaire/ngs/16-515 Le séquençage de deuxième génération, les points communs audio pdf/p12_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-515%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20les%20points%20communs%20audio%20pdf/p12_00.png)
 
-![[assets/pathologie-moleculaire/ngs/16-515 Le séquençage de deuxième génération, les points communs audio pdf/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-515%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20les%20points%20communs%20audio%20pdf/p12_01.jpeg)
 
-![[assets/pathologie-moleculaire/ngs/16-515 Le séquençage de deuxième génération, les points communs audio pdf/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-515%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20les%20points%20communs%20audio%20pdf/p13_00.jpeg)
 
-![[assets/pathologie-moleculaire/ngs/16-515 Le séquençage de deuxième génération, les points communs audio pdf/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-515%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20les%20points%20communs%20audio%20pdf/p14_00.jpeg)
 
 ## Spécifications & métriques communes
 

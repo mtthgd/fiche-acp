@@ -58,7 +58,7 @@ source: DES ACP - Cours de Digestif
 - ± **Koïlocytes** (modifications HPV)
 
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.6 Tumeurs benignes de loesophage/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.6%20Tumeurs%20benignes%20de%20loesophage/p07_01.jpeg)
 
 #### Variante : papillomatose œsophagienne
 - Multiples papillomes œsophagiens
@@ -105,7 +105,7 @@ source: DES ACP - Cours de Digestif
 | CD117, DOG1 | − |
 
 
-![[assets/digestif/pancreas/tumorale/03.3.3.8 Tumeurs intracanalaires pancréatiques/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.8%20Tumeurs%20intracanalaires%20pancr%C3%A9atiques/p11_01.jpeg)
 
 #### Léiomyomatose diffuse / syndrome d'Alport
 - Maladie **dominante liée à l'X**
@@ -147,9 +147,9 @@ source: DES ACP - Cours de Digestif
 | Desmine, actine | − |
 
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.6 Tumeurs benignes de loesophage/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.6%20Tumeurs%20benignes%20de%20loesophage/p15_01.jpeg)
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.6 Tumeurs benignes de loesophage/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.6%20Tumeurs%20benignes%20de%20loesophage/p16_01.jpeg)
 
 > ⚠️ **Piège diagnostique** : l'**hyperplasie pseudo-épithéliomateuse** floride peut être confondue avec un **carcinome épidermoïde**. À l'inverse, des carcinomes ont été manqués par excès de prudence. Si l'épithélium est très **angulaire**, c'est plutôt une hyperplasie pseudo-épithéliomateuse.
 
@@ -191,7 +191,7 @@ source: DES ACP - Cours de Digestif
 - **Hyperplasie épithéliale** avec cellules **chargées en glycogène** (cytoplasmes clairs)
 - **Glycogène PAS+**
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.6 Tumeurs benignes de loesophage/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.6%20Tumeurs%20benignes%20de%20loesophage/p19_01.jpeg)
 
 ### Glandes sébacées hétérotopiques
 

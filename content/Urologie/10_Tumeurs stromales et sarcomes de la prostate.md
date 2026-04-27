@@ -28,7 +28,7 @@ source: DES ACP - Cours d'urologie
   - **Sarcome stromal** (bas grade / haut grade)
 
 
-![[assets/urologie/prostate/05-351_Tumeurs stromales et sarcomes de la prostate/p01_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-351_Tumeurs%20stromales%20et%20sarcomes%20de%20la%20prostate/p01_03.jpeg)
 
 
 ---
@@ -48,7 +48,7 @@ source: DES ACP - Cours d'urologie
 - Parfois **mi-solide, mi-kystique**
 
 
-![[assets/urologie/prostate/05-351_Tumeurs stromales et sarcomes de la prostate/p04_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-351_Tumeurs%20stromales%20et%20sarcomes%20de%20la%20prostate/p04_01.png)
 
 ## Microscopie
 Prolifération des cellules du **stroma prostatique**, **SANS** :
@@ -67,12 +67,12 @@ Les cellules stromales se disposent **entre des glandes prostatiques bénignes**
 | **4. **Phyllode-like** | Architecture en **feuilles** / **phyllode-like** (DD tumeur phyllode) |
 | **5. Épithélioïde** | Cellules **épithélioïdes** (décrite plus récemment) |
 
-![[assets/urologie/prostate/05-351_Tumeurs stromales et sarcomes de la prostate/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-351_Tumeurs%20stromales%20et%20sarcomes%20de%20la%20prostate/p05_00.jpeg)
 
-![[assets/urologie/prostate/05-351_Tumeurs stromales et sarcomes de la prostate/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-351_Tumeurs%20stromales%20et%20sarcomes%20de%20la%20prostate/p05_01.jpeg)
 
 
-![[assets/urologie/prostate/05-351_Tumeurs stromales et sarcomes de la prostate/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-351_Tumeurs%20stromales%20et%20sarcomes%20de%20la%20prostate/p06_00.jpeg)
 
 
 ## Atypie nucléaire **dégénérative** (illustration)
@@ -81,9 +81,9 @@ Les cellules stromales se disposent **entre des glandes prostatiques bénignes**
 - **Inclusions intranucléaires**
 - **SANS mitose** → valeur dégénérative et non néoplasique active.
 
-![[assets/urologie/prostate/05-351_Tumeurs stromales et sarcomes de la prostate/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-351_Tumeurs%20stromales%20et%20sarcomes%20de%20la%20prostate/p07_00.jpeg)
 
-![[assets/urologie/prostate/05-351_Tumeurs stromales et sarcomes de la prostate/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-351_Tumeurs%20stromales%20et%20sarcomes%20de%20la%20prostate/p07_01.jpeg)
 
 
 ## Contingent épithélial associé (modifications fréquentes)
@@ -93,9 +93,9 @@ Les cellules stromales se disposent **entre des glandes prostatiques bénignes**
 - **Hyperplasie à cellules basales**
 - **Métaplasie urothéliale** ou **malpighienne**
 
-![[assets/urologie/prostate/05-351_Tumeurs stromales et sarcomes de la prostate/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-351_Tumeurs%20stromales%20et%20sarcomes%20de%20la%20prostate/p08_00.jpeg)
 
-![[assets/urologie/prostate/05-351_Tumeurs stromales et sarcomes de la prostate/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-351_Tumeurs%20stromales%20et%20sarcomes%20de%20la%20prostate/p08_01.jpeg)
 
 
 ## IHC — phénotype STUMP
@@ -108,13 +108,13 @@ Les cellules stromales se disposent **entre des glandes prostatiques bénignes**
 | **Actine muscle lisse** | +/– **focale** |
 | **Desmine** | +/– **focale** |
 
-![[assets/urologie/prostate/05-351_Tumeurs stromales et sarcomes de la prostate/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-351_Tumeurs%20stromales%20et%20sarcomes%20de%20la%20prostate/p09_00.jpeg)
 
-![[assets/urologie/prostate/05-351_Tumeurs stromales et sarcomes de la prostate/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-351_Tumeurs%20stromales%20et%20sarcomes%20de%20la%20prostate/p09_01.jpeg)
 
-![[assets/urologie/prostate/05-351_Tumeurs stromales et sarcomes de la prostate/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-351_Tumeurs%20stromales%20et%20sarcomes%20de%20la%20prostate/p09_02.jpeg)
 
-![[assets/urologie/prostate/05-351_Tumeurs stromales et sarcomes de la prostate/p09_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-351_Tumeurs%20stromales%20et%20sarcomes%20de%20la%20prostate/p09_03.jpeg)
 
 
 ---
@@ -148,9 +148,9 @@ Surtout si variante **STUMP à stroma hypercellulaire sans atypie**.
 - **IHC = aucune aide** pour la distinction.
 - **Ki-67** : utile pour le **sarcome stromal de haut grade** (prolifération élevée), mais **ne distingue pas** STUMP et sarcome stromal de bas grade.
 
-![[assets/urologie/prostate/05-351_Tumeurs stromales et sarcomes de la prostate/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-351_Tumeurs%20stromales%20et%20sarcomes%20de%20la%20prostate/p10_00.jpeg)
 
-![[assets/urologie/prostate/05-351_Tumeurs stromales et sarcomes de la prostate/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-351_Tumeurs%20stromales%20et%20sarcomes%20de%20la%20prostate/p10_01.jpeg)
 
 
 ---
@@ -167,9 +167,9 @@ Surtout si variante **STUMP à stroma hypercellulaire sans atypie**.
 - **Tumeur maligne prostatique la plus fréquente de l'enfant** +++.
 - IHC : **myogénine, MyoD1, desmine**.
 
-![[assets/urologie/prostate/05-351_Tumeurs stromales et sarcomes de la prostate/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-351_Tumeurs%20stromales%20et%20sarcomes%20de%20la%20prostate/p12_00.jpeg)
 
-![[assets/urologie/prostate/05-351_Tumeurs stromales et sarcomes de la prostate/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-351_Tumeurs%20stromales%20et%20sarcomes%20de%20la%20prostate/p12_01.jpeg)
 
 
 ## Autres tumeurs mésenchymateuses (DD — résumé)

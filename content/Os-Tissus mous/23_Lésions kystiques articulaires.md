@@ -55,15 +55,15 @@ Deux grandes catégories de lésions kystiques articulaires :
 - Remaniements possibles : foyers chondroïdes, saignements
 - **Impossible de différencier kyste / pseudokyste en macroscopie**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168 Lésions kystiques/p05_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168%20L%C3%A9sions%20kystiques/p05_00.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168 Lésions kystiques/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168%20L%C3%A9sions%20kystiques/p07_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168 Lésions kystiques/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168%20L%C3%A9sions%20kystiques/p07_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168 Lésions kystiques/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168%20L%C3%A9sions%20kystiques/p08_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168 Lésions kystiques/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168%20L%C3%A9sions%20kystiques/p08_01.jpeg)
 
 ## Histologie
 
@@ -86,15 +86,15 @@ Deux grandes catégories de lésions kystiques articulaires :
 
 À faible grossissement le revêtement peut ne pas être évident ; les aspects œdémateux sont communs aux deux entités.
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168 Lésions kystiques/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168%20L%C3%A9sions%20kystiques/p10_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168 Lésions kystiques/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168%20L%C3%A9sions%20kystiques/p10_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168 Lésions kystiques/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168%20L%C3%A9sions%20kystiques/p11_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168 Lésions kystiques/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168%20L%C3%A9sions%20kystiques/p11_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168 Lésions kystiques/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168%20L%C3%A9sions%20kystiques/p12_00.jpeg)
 
 ## Traitement
 
@@ -129,9 +129,9 @@ Ex : **bourse pré-rotulienne** (sépare rotule/plan cutané → permet la mobil
 - **Tuméfaction sous-cutanée superficielle**, sur un plan **osseux saillant** (ex : coude, genou)
 - Signes : gonflement, **douleur**, parfois rougeur/inflammation, **surinfection possible**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168 Lésions kystiques/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168%20L%C3%A9sions%20kystiques/p13_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168 Lésions kystiques/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168%20L%C3%A9sions%20kystiques/p13_01.jpeg)
 
 ## Macroscopie typique
 
@@ -139,9 +139,9 @@ Ex : **bourse pré-rotulienne** (sépare rotule/plan cutané → permet la mobil
 - **Piliers fibreux** traversant la lumière (caractéristiques, visibles en coupe longitudinale)
 - Contenu variable : liquidien, ± riche en **fibrine**, parfois sanglant, parfois **purulent** (surinfection)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168 Lésions kystiques/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168%20L%C3%A9sions%20kystiques/p14_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168 Lésions kystiques/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168%20L%C3%A9sions%20kystiques/p14_01.jpeg)
 
 ## Histologie (aussi caractéristique que la macro)
 
@@ -155,13 +155,13 @@ Ex : **bourse pré-rotulienne** (sépare rotule/plan cutané → permet la mobil
 
 > **Exception à la règle "bourgeon charnu = infection"** : l'hygroma est la situation où un bourgeon charnu n'est PAS synonyme d'infection.
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168 Lésions kystiques/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168%20L%C3%A9sions%20kystiques/p16_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168 Lésions kystiques/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168%20L%C3%A9sions%20kystiques/p16_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168 Lésions kystiques/p16_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168%20L%C3%A9sions%20kystiques/p16_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168 Lésions kystiques/p16_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168%20L%C3%A9sions%20kystiques/p16_03.png)
 
 ## Formes particulières
 
@@ -172,13 +172,13 @@ Ex : **bourse pré-rotulienne** (sépare rotule/plan cutané → permet la mobil
 ### Hygroma et pathologies associées
 - Comme la synoviale, l'hygroma peut être le siège de **dépôts microcristallins** (goutte = tophi avec dépôts crayeux macroscopiques, aspect "peigné" histologique) ou d'inflammations rhumatismales
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168 Lésions kystiques/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168%20L%C3%A9sions%20kystiques/p17_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168 Lésions kystiques/p17_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168%20L%C3%A9sions%20kystiques/p17_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168 Lésions kystiques/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168%20L%C3%A9sions%20kystiques/p18_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168 Lésions kystiques/p18_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-168%20L%C3%A9sions%20kystiques/p18_02.jpeg)
 
 ---
 

@@ -33,7 +33,7 @@ source: DES ACP - Cours de digestif
 - Prédiction : **2e cause de mortalité par cancer en 2022** (après poumon)
 - Pronostic terrible : **survie 5 ans ~ 7 %** (incidence ~ mortalité)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.4 Adénocarcinome pancréatique et ses variants/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.4%20Ad%C3%A9nocarcinome%20pancr%C3%A9atique%20et%20ses%20variants/p07_00.jpeg)
 
 ## Épidémiologie
 
@@ -90,9 +90,9 @@ source: DES ACP - Cours de digestif
 - **Prélèvements extensifs** indispensables (marges)
 - → cf. [[03314_Prise en charge macroscopique des pièces de pancréatectomies]]
 
-![[assets/digestif/pancreas/tumorale/03.3.3.4 Adénocarcinome pancréatique et ses variants/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.4%20Ad%C3%A9nocarcinome%20pancr%C3%A9atique%20et%20ses%20variants/p09_00.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.4 Adénocarcinome pancréatique et ses variants/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.4%20Ad%C3%A9nocarcinome%20pancr%C3%A9atique%20et%20ses%20variants/p10_00.jpeg)
 
 > **Macroscopie = majorité du travail** : permet typage, ypTNM, statut R0/R1, évaluation réponse aux traitements néo-adjuvants.
 
@@ -123,20 +123,20 @@ source: DES ACP - Cours de digestif
 - Architectures micropapillaires possibles
 - **Engainements périnerveux fréquents** ++ (surtout sur recoupes voie biliaire et tranches G/D — peuvent être très à distance)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p13_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p13_00.png)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p14_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p14_01.png)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.4 Adénocarcinome pancréatique et ses variants/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.4%20Ad%C3%A9nocarcinome%20pancr%C3%A9atique%20et%20ses%20variants/p15_01.jpeg)
 
 ## Aspects particuliers (non OMS)
 - **Variant à cellules claires** (cytoplasme très clarifié)
 - **Aspect macropapillaire** : volumineuses papilles → rechercher **TIPMP** ou MCN associés
 - Forme dense avec stroma moins abondant, plus inflammatoire
 
-![[assets/digestif/pancreas/tumorale/03.3.3.2 Pathologie moléculaire de ladénocarcinome du pancréas/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.2%20Pathologie%20mol%C3%A9culaire%20de%20lad%C3%A9nocarcinome%20du%20pancr%C3%A9as/p17_01.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p18_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p18_01.png)
 
 ## Immunohistochimie
 
@@ -165,7 +165,7 @@ source: DES ACP - Cours de digestif
 > - **MiNEN** = mixed neuroendocrine non-neuroendocrine tumor (ADK + composante neuroendocrine)
 > - ADK + composante acinaire
 
-![[assets/digestif/pancreas/tumorale/03.3.3.4 Adénocarcinome pancréatique et ses variants/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.4%20Ad%C3%A9nocarcinome%20pancr%C3%A9atique%20et%20ses%20variants/p21_00.jpeg)
 
 ---
 
@@ -196,9 +196,9 @@ source: DES ACP - Cours de digestif
 > ⚠ **Carcinomes épidermoïdes pancréatiques primitifs purs** = **exceptionnels**.
 > Avant ce diagnostic : **inclusion extensive** pour ne pas méconnaître un contingent adénocarcinomateux.
 
-![[assets/digestif/pancreas/tumorale/03.3.3.4 Adénocarcinome pancréatique et ses variants/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.4%20Ad%C3%A9nocarcinome%20pancr%C3%A9atique%20et%20ses%20variants/p23_00.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.2 Pathologie moléculaire de ladénocarcinome du pancréas/p24_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.2%20Pathologie%20mol%C3%A9culaire%20de%20lad%C3%A9nocarcinome%20du%20pancr%C3%A9as/p24_01.png)
 
 ## 2. Carcinome colloïde muqueux (mucineux)
 
@@ -225,9 +225,9 @@ source: DES ACP - Cours de digestif
 - Multiples petites structures translucides ("petits kystes adossés")
 - HE : vastes plages colloïdes avec cellules tumorales **flottantes** ou logettes mucineuses bordées de cellules tumorales
 
-![[assets/digestif/pancreas/tumorale/03.3.3.4 Adénocarcinome pancréatique et ses variants/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.4%20Ad%C3%A9nocarcinome%20pancr%C3%A9atique%20et%20ses%20variants/p27_00.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.4 Adénocarcinome pancréatique et ses variants/p28_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.4%20Ad%C3%A9nocarcinome%20pancr%C3%A9atique%20et%20ses%20variants/p28_01.jpeg)
 
 ## 3. Carcinome hépatoïde (rare)
 
@@ -265,7 +265,7 @@ source: DES ACP - Cours de digestif
 
 > Variante exceptionnelle : tumeur à cellules géantes pancréatique sans atypies = survie longue (rare).
 
-![[assets/digestif/pancreas/tumorale/03.3.3.4 Adénocarcinome pancréatique et ses variants/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.4%20Ad%C3%A9nocarcinome%20pancr%C3%A9atique%20et%20ses%20variants/p32_00.jpeg)
 
 ---
 
@@ -311,9 +311,9 @@ source: DES ACP - Cours de digestif
 - IHC pancytokératine peut révéler beaucoup plus de cellules tumorales que l'HE
 - Plages colloïdes = peuvent contenir de très rares cellules tumorales résiduelles
 
-![[assets/digestif/pancreas/tumorale/03.3.3.2 Pathologie moléculaire de ladénocarcinome du pancréas/p35_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.2%20Pathologie%20mol%C3%A9culaire%20de%20lad%C3%A9nocarcinome%20du%20pancr%C3%A9as/p35_01.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.4 Adénocarcinome pancréatique et ses variants/p36_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.4%20Ad%C3%A9nocarcinome%20pancr%C3%A9atique%20et%20ses%20variants/p36_00.jpeg)
 
 ## Validation pronostique du ypTNM
 - **ypT1 > ypT2 > ypT3** (pronostic décroissant)

@@ -92,7 +92,7 @@ Tumeur **musculaire lisse maligne**, le plus souvent à cellules **fusiformes**,
 | **Léiomyome mitotiquement actif** | pas d’atypies, pas de nécrose tumorale (≥ 15 mitoses → STUMP) |
 | **Sarcome utérin indifférencié (UUS)** | absence de morphologie musculaire (pas de faisceaux, pas de cellules en bout de cigare) ; **IHC muscle négative** |
 
-![[assets/gyneco-sein/corps_uterin/04_47 LMS utérin S Croce/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_47%20LMS%20ut%C3%A9rin%20S%20Croce/p13_00.jpeg)
 
 ## LMS épithélioïde
 
@@ -114,7 +114,7 @@ Tumeur **musculaire lisse maligne**, le plus souvent à cellules **fusiformes**,
 
 > **> 3 mitoses garantit LMS épithélioïde.**
 
-![[assets/gyneco-sein/corps_uterin/04_47 LMS utérin S Croce/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_47%20LMS%20ut%C3%A9rin%20S%20Croce/p17_00.jpeg)
 
 ### DD du LMS épithélioïde
 

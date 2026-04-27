@@ -67,9 +67,9 @@ Tissu lymphoïde associé aux muqueuses, normalement présent :
 - **Gros plis gastriques épaissis** (25%) = évocateur
 - Écho-endoscopie : épaississement paroi, adénopathies péri-gastriques (10-30%)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-327_Lymphomes du MALT-Pr Copie-AUDIO-VF-020219/p03_08.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-327_Lymphomes%20du%20MALT-Pr%20Copie-AUDIO-VF-020219/p03_08.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-327_Lymphomes du MALT-Pr Copie-AUDIO-VF-020219/p04_10.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-327_Lymphomes%20du%20MALT-Pr%20Copie-AUDIO-VF-020219/p04_10.jpeg)
 
 ## Histologie — triade diagnostique
 
@@ -90,11 +90,11 @@ Tissu lymphoïde associé aux muqueuses, normalement présent :
 ### 3. Follicules lymphoïdes réactionnels résiduels
 - Infiltrat tumoral péri-folliculaire dans la **zone marginale** de follicules préservés
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-327_Lymphomes du MALT-Pr Copie-AUDIO-VF-020219/p06_18.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-327_Lymphomes%20du%20MALT-Pr%20Copie-AUDIO-VF-020219/p06_18.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-327_Lymphomes du MALT-Pr Copie-AUDIO-VF-020219/p07_19.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-327_Lymphomes%20du%20MALT-Pr%20Copie-AUDIO-VF-020219/p07_19.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-327_Lymphomes du MALT-Pr Copie-AUDIO-VF-020219/p09_20.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-327_Lymphomes%20du%20MALT-Pr%20Copie-AUDIO-VF-020219/p09_20.jpeg)
 
 ## Immunophénotype
 
@@ -109,9 +109,9 @@ Tissu lymphoïde associé aux muqueuses, normalement présent :
 | IgM+ IgD−           |                                                               |
 | Monotypie κ/λ       | IHC ou hybridation in situ pour différenciation plasmocytaire |
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-327_Lymphomes du MALT-Pr Copie-AUDIO-VF-020219/p11_23.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-327_Lymphomes%20du%20MALT-Pr%20Copie-AUDIO-VF-020219/p11_23.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-327_Lymphomes du MALT-Pr Copie-AUDIO-VF-020219/p12_27.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-327_Lymphomes%20du%20MALT-Pr%20Copie-AUDIO-VF-020219/p12_27.jpeg)
 
 ### Outils complémentaires
 - **Cytokératine** : met en évidence les LEL
@@ -130,7 +130,7 @@ Tissu lymphoïde associé aux muqueuses, normalement présent :
 
 **Toutes ces translocations activent la voie NF-κB** (CBM → CARD11-BCL10-MALT1 → NF-κB) → prolifération et survie.
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-327_Lymphomes du MALT-Pr Copie-AUDIO-VF-020219/p14_35.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-327_Lymphomes%20du%20MALT-Pr%20Copie-AUDIO-VF-020219/p14_35.jpeg)
 
 ### Impact pronostique de t(11;18)
 - Stades plus avancés
@@ -167,7 +167,7 @@ Tissu lymphoïde associé aux muqueuses, normalement présent :
 
 > La rémission histologique peut prendre jusqu'à **2 ans** après antibiothérapie.
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-327_Lymphomes du MALT-Pr Copie-AUDIO-VF-020219/p19_41.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-327_Lymphomes%20du%20MALT-Pr%20Copie-AUDIO-VF-020219/p19_41.jpeg)
 
 ## Diagnostics différentiels (MALT gastrique)
 

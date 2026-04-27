@@ -52,7 +52,7 @@ source: DES ACP - Cours de Dermatopathologie
 - **Couche cornée discrètement épaissie**, **orthokératosique** et **compacte**
 - **Diminution ou absence de la couche granuleuse** ⭐
 
-![[assets/dermato/autres-maladies-epidermiques/trouble-maturation-keratinocytaire/08-515-Ichtyoses/p04_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/autres-maladies-epidermiques/trouble-maturation-keratinocytaire/08-515-Ichtyoses/p04_02.jpeg)
 
 ## 2. Ichtyose liée à l'X récessive
 
@@ -80,9 +80,9 @@ source: DES ACP - Cours de Dermatopathologie
 - Nécessite une **biopsie congelée**
 - À envoyer dans un **centre spécialisé**
 
-![[assets/dermato/autres-maladies-epidermiques/trouble-maturation-keratinocytaire/08-515-Ichtyoses/p06_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/autres-maladies-epidermiques/trouble-maturation-keratinocytaire/08-515-Ichtyoses/p06_02.jpeg)
 
-![[assets/dermato/autres-maladies-epidermiques/trouble-maturation-keratinocytaire/08-515-Ichtyoses/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/autres-maladies-epidermiques/trouble-maturation-keratinocytaire/08-515-Ichtyoses/p07_01.jpeg)
 
 ## 4. Ichtyose bulleuse (érythrodermie congénitale ichtyosiforme bulleuse)
 
@@ -103,9 +103,9 @@ source: DES ACP - Cours de Dermatopathologie
 
 > Aspect commun à toutes les **hyperkératoses épidermolytiques** (cf. [[08_513_Porokératoses]] §III).
 
-![[assets/dermato/autres-maladies-epidermiques/trouble-maturation-keratinocytaire/08-515-Ichtyoses/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/autres-maladies-epidermiques/trouble-maturation-keratinocytaire/08-515-Ichtyoses/p08_01.jpeg)
 
-![[assets/dermato/autres-maladies-epidermiques/trouble-maturation-keratinocytaire/08-515-Ichtyoses/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/autres-maladies-epidermiques/trouble-maturation-keratinocytaire/08-515-Ichtyoses/p09_02.jpeg)
 
 ## Tableau récapitulatif des ichtyoses principales
 
@@ -142,7 +142,7 @@ Dermatoses **héréditaires ou acquises** caractérisées par une **hyperkérato
 | **Eczéma dyshidrosique** | Forme suraiguë vésiculeuse, peut chroniciser |
 | **Mycose superficielle** | **PAS systématique** sur toute biopsie de KPP inflammatoire ⭐ |
 
-![[assets/dermato/autres-maladies-epidermiques/trouble-maturation-keratinocytaire/08-515-Ichtyoses/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/autres-maladies-epidermiques/trouble-maturation-keratinocytaire/08-515-Ichtyoses/p11_02.jpeg)
 
 ### KPP localisées acquises — calus et clavus
 
@@ -159,9 +159,9 @@ Dermatoses **héréditaires ou acquises** caractérisées par une **hyperkérato
 - **Pas d'inflammation dermique**
 - ⚠ Histologiquement **non distinguables** entre eux
 
-![[assets/dermato/autres-maladies-epidermiques/trouble-maturation-keratinocytaire/08-515-Ichtyoses/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/autres-maladies-epidermiques/trouble-maturation-keratinocytaire/08-515-Ichtyoses/p12_02.jpeg)
 
-![[assets/dermato/autres-maladies-epidermiques/trouble-maturation-keratinocytaire/08-515-Ichtyoses/p12_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/autres-maladies-epidermiques/trouble-maturation-keratinocytaire/08-515-Ichtyoses/p12_03.jpeg)
 
 ## Diagnostics différentiels
 

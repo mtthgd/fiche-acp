@@ -32,7 +32,7 @@ source: DES ACP - Pathologie moléculaire
 | **Transcriptome** | Ensemble des ARN présents dans une **population de cellules** dans des conditions données (souvent réservé aux **ARNm**) |
 
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p02_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p02_00.png)
 
 ## Pourquoi étudier le transcriptome ?
 
@@ -43,9 +43,9 @@ source: DES ACP - Pathologie moléculaire
 | **Prédiction de réponse au traitement** | Signatures prédictives |
 | **Découverte de cibles thérapeutiques** | Nouvelles approches |
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p02_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p02_01.jpeg)
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p03_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p03_00.png)
 
 ## Comment étudier le transcriptome — techniques haut débit
 
@@ -64,9 +64,9 @@ source: DES ACP - Pathologie moléculaire
 
 → Nécessite des **grandes cohortes** pour s’assurer que le différentiel d’expression est **robuste, non lié au hasard**.
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p03_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p03_02.png)
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p03_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p03_04.jpeg)
 
 ## Microarray vs RNA-seq
 
@@ -82,9 +82,9 @@ source: DES ACP - Pathologie moléculaire
 | **Temps d’analyse** | Court | **Long** |
 
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p09_01.jpeg)
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p10_00.jpeg)
 
 ## Workflow d’une puce ADN (Affymetrix)
 
@@ -98,13 +98,13 @@ source: DES ACP - Pathologie moléculaire
 
 L’**intensité de fluorescence** émise est **proportionnelle à la quantité d’ARNm** cible hybridé sur la sonde.
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p11_00.jpeg)
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p11_01.jpeg)
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p11_02.jpeg)
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p12_00.jpeg)
 
 ## Visualisation — Heatmap et clustering hiérarchique
 
@@ -117,18 +117,18 @@ L’**intensité de fluorescence** émise est **proportionnelle à la quantité 
 
 Le **clustering hiérarchique** rapproche les échantillons à profils d’expression similaires (dendrogramme).
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p13_00.jpeg)
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p13_01.jpeg)
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p14_00.jpeg)
 
 ## Évolution historique du domaine
 
 - Début des techniques de microarray : **années 2000**
 - Croissance exponentielle des publications PubMed sur "*cancer gene expression signature*"
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p14_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p14_03.png)
 
 ## Approche non supervisée (class discovery)
 
@@ -140,9 +140,9 @@ Définit des classes de tumeurs sur la base de la **seule similitude** de leur p
 - Les LAL et LAM s’organisent en **deux clusters distincts** : panel de gènes surexprimés en LAL, autre panel en LAM
 - → première démonstration de la capacité du transcriptome à classer des tumeurs
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p15_00.jpeg)
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p16_00.jpeg)
 
 ### Étude clé — Nature 2000 : sous-groupes des DLBCL
 - Lymphomes B diffus à grandes cellules (DLBCL) auparavant **groupés en 1 entité**
@@ -152,7 +152,7 @@ Définit des classes de tumeurs sur la base de la **seule similitude** de leur p
 
 → Origine de l’**algorithme de Hans** utilisé en IHC par tous les hématopathologistes pour classer **GC vs non-GC**.
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p17_00.jpeg)
 
 
 
@@ -170,9 +170,9 @@ Comparaison du transcriptome de cellules T tumorales triées d’AITL vs sous-ty
 - Cellules tumorales d’AITL = profil moléculaire très proche des cellules **TFH (T folliculaire helper)**
 - Démonstration par l’équipe de Créteil (Philippe Gaulard, Laurence de Leval)
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p20_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p20_00.png)
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p21_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p21_00.png)
 
 ## Application emblématique — Cancer du sein (Pérou, années 2000)
 
@@ -188,11 +188,11 @@ Comparaison du transcriptome de cellules T tumorales triées d’AITL vs sous-ty
 
 → Les sous-types diffèrent en pronostic : métastases plus fréquentes dans **basal** et **HER2+**.
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p24_00.jpeg)
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p25_00.jpeg)
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p26_00.jpeg)
 
 ## Définition d’une signature génique
 
@@ -215,11 +215,11 @@ Les analyses **non supervisées** séparent **rarement d’emblée** les classes
 
 → Permet d’**éviter le sur-traitement** chez certaines patientes.
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p27_00.jpeg)
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p28_00.jpeg)
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p29_00.jpeg)
 
 ## PAM50 — exemple détaillé
 
@@ -240,12 +240,12 @@ Les analyses **non supervisées** séparent **rarement d’emblée** les classes
 - Aide à la décision : **traitement adjuvant** ou non
 - Étude clinique lancée à l’**Institut Curie** ; pratiqué dans plusieurs centres en France
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p29_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p29_01.jpeg)
 
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p32_00.jpeg)
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p32_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p32_01.jpeg)
 
 ## Au-delà du sein — autres applications
 
@@ -255,13 +255,13 @@ Les analyses **non supervisées** séparent **rarement d’emblée** les classes
 | Signatures **immune profile** | Réponse immunothérapie |
 | Signatures **épigénétiques** | Méthylome (cf [[16_280 Méthylation de l'ADN]]) |
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p33_00.jpeg)
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p33_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p33_02.jpeg)
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p35_00.jpeg)
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p35_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p35_01.jpeg)
 
 ## Limites et exigences
 
@@ -273,9 +273,9 @@ Les analyses **non supervisées** séparent **rarement d’emblée** les classes
 | **Reproductibilité inter-plateformes** | Oui | Oui |
 | **Niveau de preuve** | Suffisant pour application clinique | En cours |
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p35_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p35_02.jpeg)
 
-![[assets/pathologie-moleculaire/arn/16-830 Puces à ADN dans létude de lexpression des gènes (transcriptome) Déf dune signature/p35_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/arn/16-830%20Puces%20%C3%A0%20ADN%20dans%20l%C3%A9tude%20de%20lexpression%20des%20g%C3%A8nes%20%28transcriptome%29%20D%C3%A9f%20dune%20signature/p35_03.jpeg)
 
 ---
 

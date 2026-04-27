@@ -46,11 +46,11 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - IRM : mesure **l'épaisseur de la coiffe** (<2 cm = bénin)
 - Deux formes : **pédiculée** (avec base, pied, tête) ou **sessile**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p08_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p14_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p15_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p15_01.png)
 
 ## Macroscopie
 
@@ -62,11 +62,11 @@ Excroissance osseuse en continuité avec corticale + médullaire de l'os sous-ja
 - **Nodulation** ? (signe de transformation)
 - Consistance : blanc bleuté hyalin (bénin) vs gélatineux (suspect)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p20_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p21_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p22_00.jpeg)
 
 ## Histologie — organisation de la coiffe
 
@@ -78,27 +78,27 @@ Organisation **similaire à un cartilage de croissance épiphysaire** (ossificat
 5. Colonisation vasculaire → **chondroclastes** (sculpture en travées directrices) + **ostéoblastes** (dépôt d'ostéoïde) → travées composites
 6. **Ossification secondaire** : os lamellaire mature
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p22_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p22_04.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p23_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p23_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p23_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p23_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p23_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p23_03.jpeg)
 
 ### Ossification endochondrale incomplète
 
 Fréquente : **persistance de plages de cartilage calcifié jaunâtre** dans le corps osseux de l'ostéochondrome. **Ne pas interpréter comme une invasion tumorale.**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p24_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p24_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p25_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p25_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p25_01.jpeg)
 
 ## Maladie des exostoses multiples
 
@@ -106,11 +106,11 @@ Fréquente : **persistance de plages de cartilage calcifié jaunâtre** dans le 
 - Exostoses multiples, souvent **sessiles** et accolées
 - Risque accru de **chondrosarcome périphérique** (~3 % vs ~1 % pour les formes solitaires)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p26_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p26_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p26_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p27_00.jpeg)
 
 ## Chondrosarcome périphérique
 
@@ -133,61 +133,61 @@ Fréquente : **persistance de plages de cartilage calcifié jaunâtre** dans le 
 
 > ⚠️ La cytologie est **NON contributive** : chondrocytes souvent petits, matrice hyaline, pas d'atypie notable. **Seule l'architecture** fait le diagnostic.
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p28_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p29_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p29_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p29_01.jpeg)
 
 ### Technique de mesure de la coiffe
 
 La limite spongieux / coiffe forme des bosses et des creux : **tracer une ligne reliant les sommets des vagues et mesurer perpendiculairement**.
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p30_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p30_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p30_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p30_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p30_02.jpeg)
 
 ### Exemples
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p31_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p31_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p31_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p31_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p31_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p32_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p32_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p32_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p32_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p32_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p34_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p37_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p37_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p38_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p38_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p39_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p39_01.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p42_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p42_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p43_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p43_03.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p44_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p44_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p45_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p45_00.jpeg)
 
 ### Pièges macroscopiques
 
 - Aspect **mamelonné / bosselé** ≠ nodulaire : si la coiffe reste fine, c'est bénin
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p46_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p46_01.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p47_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p47_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p50_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p50_01.jpeg)
 
 ## Conduite pratique
 
@@ -195,15 +195,15 @@ La limite spongieux / coiffe forme des bosses et des creux : **tracer une ligne 
 - Examen de la **pièce de résection monobloc**
 - **Photos macroscopiques systématiques** (utiles pour avis expert)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p52_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p52_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p53_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p53_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p54_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p54_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p55_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p55_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246 Osteochondrome, maladie des exostoses multiples, chondrosarcome périphérique/p55_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-246%20Osteochondrome%2C%20maladie%20des%20exostoses%20multiples%2C%20chondrosarcome%20p%C3%A9riph%C3%A9rique/p55_02.jpeg)
 
 ---
 

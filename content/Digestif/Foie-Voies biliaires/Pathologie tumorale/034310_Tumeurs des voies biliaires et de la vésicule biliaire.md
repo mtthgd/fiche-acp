@@ -32,7 +32,7 @@ source: DES ACP - Cours de digestif
 - Canal hépatique droit + gauche → canal hépatique commun
 - Canal cholédoque → ampoule de **Vater** (sphincter d'Oddi)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.10 Tumeurs des voies biliaires et de la vésicule biliaire/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.10%20Tumeurs%20des%20voies%20biliaires%20et%20de%20la%20v%C3%A9sicule%20biliaire/p04_01.jpeg)
 
 ---
 
@@ -55,9 +55,9 @@ source: DES ACP - Cours de digestif
 - **Amas biliaires intra-luminaux** (caractéristique)
 - Stroma fibreux
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.10 Tumeurs des voies biliaires et de la vésicule biliaire/p08_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.10%20Tumeurs%20des%20voies%20biliaires%20et%20de%20la%20v%C3%A9sicule%20biliaire/p08_00.png)
 
-![[assets/digestif/pancreas/generalites/03.3.1.2 Généralités sur la pathologie pancréatique/p08_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/generalites/03.3.1.2%20G%C3%A9n%C3%A9ralit%C3%A9s%20sur%20la%20pathologie%20pancr%C3%A9atique/p08_01.png)
 
 ### DD principal
 **Métastase d'adénocarcinome** : mal limitée, atypies, mitoses.
@@ -76,9 +76,9 @@ source: DES ACP - Cours de digestif
 - Lésion **organoïde** : prolifération de **petits canaux réguliers** (épithélium biliaire régulier) dans un stroma fibroïde
 - **Espaces portes piégés**
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p09_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.10 Tumeurs des voies biliaires et de la vésicule biliaire/p09_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.10%20Tumeurs%20des%20voies%20biliaires%20et%20de%20la%20v%C3%A9sicule%20biliaire/p09_01.png)
 
 ### DD
 - Métastase d'adénocarcinome / cholangiocarcinome (atypies, mal limité, pas d'EP piégés)
@@ -153,9 +153,9 @@ source: DES ACP - Cours de digestif
 - Prolifération **polypoïde intra-canalaire**, **dilatation des voies biliaires**
 - Si carcinome invasif associé : **paroi indurée**
 
-![[assets/digestif/pancreas/tumorale/03.3.3.2 Pathologie moléculaire de ladénocarcinome du pancréas/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.2%20Pathologie%20mol%C3%A9culaire%20de%20lad%C3%A9nocarcinome%20du%20pancr%C3%A9as/p11_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.10 Tumeurs des voies biliaires et de la vésicule biliaire/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.10%20Tumeurs%20des%20voies%20biliaires%20et%20de%20la%20v%C3%A9sicule%20biliaire/p11_01.jpeg)
 
 ### Sous-types histologiques
 
@@ -166,11 +166,11 @@ source: DES ACP - Cours de digestif
 | **Gastrique** | Rare | MUC5AC+, MUC6+ |
 | **Oncocytaire** | Très rare | — |
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.10 Tumeurs des voies biliaires et de la vésicule biliaire/p12_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.10%20Tumeurs%20des%20voies%20biliaires%20et%20de%20la%20v%C3%A9sicule%20biliaire/p12_01.png)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.10 Tumeurs des voies biliaires et de la vésicule biliaire/p12_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.10%20Tumeurs%20des%20voies%20biliaires%20et%20de%20la%20v%C3%A9sicule%20biliaire/p12_02.png)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.6 Lésions et tumeurs kystiques du pancréas/p12_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.6%20L%C3%A9sions%20et%20tumeurs%20kystiques%20du%20pancr%C3%A9as/p12_03.png)
 
 > Grading **bas grade / haut grade** ; échantillonnage extensif pour rechercher l'**adénocarcinome invasif associé**.
 
@@ -201,7 +201,7 @@ source: DES ACP - Cours de digestif
 - ~50 % associé à un **adénocarcinome invasif**, le plus souvent phénotype biliaire (**CK19+**)
 - Adénocarcinome **développé sur ICPN** = **meilleur pronostic** que les adénocarcinomes vésiculaires « de novo »
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.10 Tumeurs des voies biliaires et de la vésicule biliaire/p14_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.10%20Tumeurs%20des%20voies%20biliaires%20et%20de%20la%20v%C3%A9sicule%20biliaire/p14_01.png)
 
 ---
 
@@ -217,7 +217,7 @@ source: DES ACP - Cours de digestif
 - Taille moyenne **~11 cm**, contenu liquidien (clair, mucoïde, hémorragique)
 - Si cystadénocarcinome : **paroi épaissie indurée**, infiltration parenchymateuse
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.10 Tumeurs des voies biliaires et de la vésicule biliaire/p17_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.10%20Tumeurs%20des%20voies%20biliaires%20et%20de%20la%20v%C3%A9sicule%20biliaire/p17_00.png)
 
 ### Histologie
 - Kystes tapissés par épithélium **unistratifié régulier mucosécrétant**
@@ -226,11 +226,11 @@ source: DES ACP - Cours de digestif
 - Stroma : **récepteurs œstrogènes (RE)** et **progestérone (RP) +**
 - Stroma parfois **focal** → **échantillonnage extensif** indispensable
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.10 Tumeurs des voies biliaires et de la vésicule biliaire/p17_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.10%20Tumeurs%20des%20voies%20biliaires%20et%20de%20la%20v%C3%A9sicule%20biliaire/p17_03.png)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.4 Adénocarcinome pancréatique et ses variants/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.4%20Ad%C3%A9nocarcinome%20pancr%C3%A9atique%20et%20ses%20variants/p18_00.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p18_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p18_02.png)
 
 ### Cystadénocarcinome
 - **6 %** des cystadénomes mucineux du foie
@@ -261,7 +261,7 @@ source: DES ACP - Cours de digestif
 
 ### Classification anatomique
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p19_00.jpeg)
 
 | Type | Localisation | Fréquence |
 |------|-------------|:---:|
@@ -303,9 +303,9 @@ Possible **association** des 3 formes.
 - **Stroma desmoplastique abondant** (caractéristique)
 
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p20_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p20_01.png)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.2 Pathologie moléculaire de ladénocarcinome du pancréas/p20_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.2%20Pathologie%20mol%C3%A9culaire%20de%20lad%C3%A9nocarcinome%20du%20pancr%C3%A9as/p20_02.png)
 
 ### Grading
 
@@ -326,9 +326,9 @@ Possible **association** des 3 formes.
 | CDX2 | +/− (forme intestinale) |
 | **HepPar1, arginase-1** | − (vs CHC) |
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p21_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p21_02.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.14 orientations diagnostiques devant une tumeur hépatique/p21_06.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.14%20orientations%20diagnostiques%20devant%20une%20tumeur%20h%C3%A9patique/p21_06.png)
 
 ### Variantes rares
 - Carcinome **adénosquameux**, épidermoïde
@@ -346,9 +346,9 @@ Possible **association** des 3 formes.
   - **iCCA** : **IDH1/IDH2**, **FGFR2 fusions**, BAP1
   - **eCCA / vésicule** : **KRAS**, **TP53**, ERBB2, **PIK3CA**
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.14 orientations diagnostiques devant une tumeur hépatique/p19_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.14%20orientations%20diagnostiques%20devant%20une%20tumeur%20h%C3%A9patique/p19_03.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.14 orientations diagnostiques devant une tumeur hépatique/p19_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.14%20orientations%20diagnostiques%20devant%20une%20tumeur%20h%C3%A9patique/p19_05.jpeg)
 
 ### Facteurs histopronostiques majeurs
 
@@ -403,22 +403,22 @@ TNM distinct selon localisation :
 - **Carcinome adénosquameux** : double différenciation glandulaire + épidermoïde, **mauvais pronostic**
 - Variantes rares : carcinosarcome, neuroendocrine, adénocarcinome mucineux/colloïde
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.10 Tumeurs des voies biliaires et de la vésicule biliaire/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.10%20Tumeurs%20des%20voies%20biliaires%20et%20de%20la%20v%C3%A9sicule%20biliaire/p26_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.10 Tumeurs des voies biliaires et de la vésicule biliaire/p26_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.10%20Tumeurs%20des%20voies%20biliaires%20et%20de%20la%20v%C3%A9sicule%20biliaire/p26_03.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.10 Tumeurs des voies biliaires et de la vésicule biliaire/p26_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.10%20Tumeurs%20des%20voies%20biliaires%20et%20de%20la%20v%C3%A9sicule%20biliaire/p26_04.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.10 Tumeurs des voies biliaires et de la vésicule biliaire/p27_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.10%20Tumeurs%20des%20voies%20biliaires%20et%20de%20la%20v%C3%A9sicule%20biliaire/p27_01.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.10 Tumeurs des voies biliaires et de la vésicule biliaire/p27_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.10%20Tumeurs%20des%20voies%20biliaires%20et%20de%20la%20v%C3%A9sicule%20biliaire/p27_04.jpeg)
 
 ### Compte rendu / TNM
 - **Topographie cruciale** : **face hépatique** vs **versant péritonisé** (impact sur stade T)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.10 Tumeurs des voies biliaires et de la vésicule biliaire/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.10%20Tumeurs%20des%20voies%20biliaires%20et%20de%20la%20v%C3%A9sicule%20biliaire/p28_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.10 Tumeurs des voies biliaires et de la vésicule biliaire/p28_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.10%20Tumeurs%20des%20voies%20biliaires%20et%20de%20la%20v%C3%A9sicule%20biliaire/p28_03.jpeg)
 
 ---
 

@@ -37,7 +37,7 @@ Spectre lésionnel **large** : modifications quasi-physiologiques → lésions b
 - **Kystes** de taille variable, aspect sombre **bleuté**.
 - Consistance ferme **mais non dure** ; rare aspect pseudo-tumoral.
 
-![[assets/gyneco-sein/sein/pathologie_non_tumorale/seinMFK/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_non_tumorale/seinMFK/p03_00.jpeg)
 
 ## Histologie — lésions élémentaires
 
@@ -65,7 +65,7 @@ Spectre lésionnel **large** : modifications quasi-physiologiques → lésions b
 
 > **Attention** : utiliser **plusieurs marqueurs** (manque de sensibilité/spécificité de chacun). La présence d’une assise myoépithéliale élimine une invasion, mais l’inverse n’est **pas** vrai (certains CIS / invasifs expriment ces marqueurs basaliques).
 
-![[assets/gyneco-sein/sein/pathologie_non_tumorale/seinMFK/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_non_tumorale/seinMFK/p06_00.jpeg)
 
 ---
 
@@ -113,7 +113,7 @@ Spectre lésionnel **large** : modifications quasi-physiologiques → lésions b
 - < 3 mm : non palpables ; > 3 mm : palpables ou visibles à l’imagerie.
 - **Microcalcifications luminales** fréquentes.
 
-![[assets/gyneco-sein/sein/pathologie_non_tumorale/seinMFK/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_non_tumorale/seinMFK/p10_00.jpeg)
 
 ---
 
@@ -197,7 +197,7 @@ Spectre lésionnel **large** : modifications quasi-physiologiques → lésions b
 - **DD principal** : **carcinome tubuleux** (extension **centrifuge**).
 - IHC utile sur prélèvement partiel pour confirmer l’assise myoépithéliale.
 
-![[assets/gyneco-sein/sein/pathologie_non_tumorale/seinMFK/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_non_tumorale/seinMFK/p15_00.jpeg)
 
 ### Conduite à tenir
 - Découverte **fortuite** sur macrobiopsie + petite taille **sans atypie** → **abstention chirurgicale**.

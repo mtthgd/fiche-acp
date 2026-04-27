@@ -75,7 +75,7 @@ Les polyposes sont classées selon :
 | **Syndrome de Turcot** | PAF + tumeurs cérébrales (**médulloblastomes**) |
 
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.12 Polyposes digestives/p11_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.12%20Polyposes%20digestives/p11_03.png)
 
 ### 2. Polypose associée à MUTYH (MAP)
 
@@ -137,9 +137,9 @@ Les polyposes sont classées selon :
 
 > Atteinte gastrique : polypes juvéniles **+ hyperplasiques + Peutz-Jeghers** mêlés. Peut mimer une **gastropathie hypertrophique**.
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.12 Polyposes digestives/p21_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.12%20Polyposes%20digestives/p21_01.png)
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.12 Polyposes digestives/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.12%20Polyposes%20digestives/p23_00.jpeg)
 
 ### 2. Syndrome de Peutz-Jeghers (PJS)
 
@@ -159,9 +159,9 @@ Les polyposes sont classées selon :
 - **Cancer du sein** : risque accru
 - → Rechercher la **dysplasie** dans les polypes (P53)
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.12 Polyposes digestives/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.12%20Polyposes%20digestives/p27_00.jpeg)
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.12 Polyposes digestives/p28_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.12%20Polyposes%20digestives/p28_01.jpeg)
 
 ### 3. Syndrome de Cowden (PHTS)
 
@@ -175,9 +175,9 @@ Les polyposes sont classées selon :
 | **Risque cancer côlon** | Seulement 16 % (mais cancers extra-digestifs ++) |
 | **Marqueur moléculaire / IHC** | Aucun |
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.12 Polyposes digestives/p32_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.12%20Polyposes%20digestives/p32_04.jpeg)
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.12 Polyposes digestives/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.12%20Polyposes%20digestives/p34_00.jpeg)
 
 ## Tableau de synthèse
 

@@ -56,15 +56,15 @@ source: DES ACP - Cours d'urologie
 - Variantes (plus dans OMS mais à reconnaître) : **riche en lipides** (cytoplasme clarifié, membranes bien visibles)
 
 
-![[assets/urologie/testicule_cordon_spermatique/05-431-Tumeurs des cordons sexuels et du stroma gonadique/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-431-Tumeurs%20des%20cordons%20sexuels%20et%20du%20stroma%20gonadique/p06_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-431-Tumeurs des cordons sexuels et du stroma gonadique/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-431-Tumeurs%20des%20cordons%20sexuels%20et%20du%20stroma%20gonadique/p07_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-431-Tumeurs des cordons sexuels et du stroma gonadique/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-431-Tumeurs%20des%20cordons%20sexuels%20et%20du%20stroma%20gonadique/p07_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-431-Tumeurs des cordons sexuels et du stroma gonadique/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-431-Tumeurs%20des%20cordons%20sexuels%20et%20du%20stroma%20gonadique/p08_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-431-Tumeurs des cordons sexuels et du stroma gonadique/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-431-Tumeurs%20des%20cordons%20sexuels%20et%20du%20stroma%20gonadique/p09_00.jpeg)
 
 ## IHC
 
@@ -79,11 +79,11 @@ source: DES ACP - Cours d'urologie
 | S100 | + focal |
 | **SF1** | + |
 
-![[assets/urologie/testicule_cordon_spermatique/05-431-Tumeurs des cordons sexuels et du stroma gonadique/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-431-Tumeurs%20des%20cordons%20sexuels%20et%20du%20stroma%20gonadique/p09_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-431-Tumeurs des cordons sexuels et du stroma gonadique/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-431-Tumeurs%20des%20cordons%20sexuels%20et%20du%20stroma%20gonadique/p10_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-431-Tumeurs des cordons sexuels et du stroma gonadique/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-431-Tumeurs%20des%20cordons%20sexuels%20et%20du%20stroma%20gonadique/p10_01.jpeg)
 
 ## DD
 - **Séminome** (noyaux très différents, atypiques)
@@ -109,11 +109,11 @@ source: DES ACP - Cours d'urologie
 
 **5-10 %** des tumeurs à cellules de Leydig ont un comportement malin.
 
-![[assets/urologie/testicule_cordon_spermatique/05-431-Tumeurs des cordons sexuels et du stroma gonadique/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-431-Tumeurs%20des%20cordons%20sexuels%20et%20du%20stroma%20gonadique/p11_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-431-Tumeurs des cordons sexuels et du stroma gonadique/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-431-Tumeurs%20des%20cordons%20sexuels%20et%20du%20stroma%20gonadique/p11_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-431-Tumeurs des cordons sexuels et du stroma gonadique/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-431-Tumeurs%20des%20cordons%20sexuels%20et%20du%20stroma%20gonadique/p11_02.jpeg)
 
 
 ---
@@ -143,9 +143,9 @@ source: DES ACP - Cours d'urologie
 - Mitoses rares (bénigne)
 - **Variante riche en lipides** (abolie OMS mais à reconnaître)
 
-![[assets/urologie/testicule_cordon_spermatique/05-431-Tumeurs des cordons sexuels et du stroma gonadique/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-431-Tumeurs%20des%20cordons%20sexuels%20et%20du%20stroma%20gonadique/p13_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-431-Tumeurs des cordons sexuels et du stroma gonadique/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-431-Tumeurs%20des%20cordons%20sexuels%20et%20du%20stroma%20gonadique/p13_01.jpeg)
 
 
 ## Grande cellule calcifiante (GCCSCT)
@@ -177,7 +177,7 @@ source: DES ACP - Cours d'urologie
 
 > **Attention** : Sertoli malin **perd l'inhibine dans 75 %** → piège diagnostique. Si doute, refaire un bloc.
 
-![[assets/urologie/testicule_cordon_spermatique/05-431-Tumeurs des cordons sexuels et du stroma gonadique/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-431-Tumeurs%20des%20cordons%20sexuels%20et%20du%20stroma%20gonadique/p17_00.jpeg)
 
 
 ## Malignité incertaine → « Tumeur de cordon sexuel de pronostic indéterminé »
@@ -197,9 +197,9 @@ Si **nécrose, mitoses, Ki67 élevé** SANS métastase → **ne peut pas être o
 - Découverte dans les **6 premiers mois de vie** (masse scrotale ou abdominale si testicule non descendu)
 - Aspect **cystique macroscopique typique** (kystes irréguliers) → **diagnostic souvent clinique/macro**
 
-![[assets/urologie/testicule_cordon_spermatique/05-431-Tumeurs des cordons sexuels et du stroma gonadique/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-431-Tumeurs%20des%20cordons%20sexuels%20et%20du%20stroma%20gonadique/p20_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-431-Tumeurs des cordons sexuels et du stroma gonadique/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-431-Tumeurs%20des%20cordons%20sexuels%20et%20du%20stroma%20gonadique/p21_00.jpeg)
 
 ---
 
@@ -212,9 +212,9 @@ Si **nécrose, mitoses, Ki67 élevé** SANS métastase → **ne peut pas être o
 - **30 %** évoluent vers un **séminome**, **10 %** vers une autre tumeur germinale (coexistence fréquente)
 - Aspect macro : calcifications caractéristiques, formations arrondies
 
-![[assets/urologie/testicule_cordon_spermatique/05-431-Tumeurs des cordons sexuels et du stroma gonadique/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-431-Tumeurs%20des%20cordons%20sexuels%20et%20du%20stroma%20gonadique/p21_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-431-Tumeurs des cordons sexuels et du stroma gonadique/p21_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-431-Tumeurs%20des%20cordons%20sexuels%20et%20du%20stroma%20gonadique/p21_02.jpeg)
 
 ---
 

@@ -64,7 +64,7 @@ source: DES ACP - Cours de digestif (D. Châtelain)
 - Muqueuse hypertrophique avec **gros plis** d'aspect **cribriforme**, parfois pseudo-polypoïde
 - Lésions diffuses ou prédominantes au **fundus**
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.6 Les gastropathies hyperplasiques et vasculaires/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.6%20Les%20gastropathies%20hyperplasiques%20et%20vasculaires/p05_00.jpeg)
 
 ### Histologie
 - **Hyperplasie fovéolaire** : cryptes allongées, parfois villiformes en surface, dilatées, ramifiées, festonnées en profondeur
@@ -75,7 +75,7 @@ source: DES ACP - Cours de digestif (D. Châtelain)
 - Chorion œdémateux, discret infiltrat inflammatoire superficiel
 - ± **Gastritis cystica profunda** (cryptes plongeant dans la sous-muqueuse, entourées de fibres musculaires)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.6 Les gastropathies hyperplasiques et vasculaires/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.6%20Les%20gastropathies%20hyperplasiques%20et%20vasculaires/p09_02.jpeg)
 
 ### Traitement
 - Anciens : corticoïdes, anticholinergiques, antibiothérapie anti-HP
@@ -108,7 +108,7 @@ source: DES ACP - Cours de digestif (D. Châtelain)
 - **Hyperplasie ECL fundique** (effet trophique de la gastrine) → travées, micronodules
 - Possibles **tumeurs micro-carcinoïdes** fundiques
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.6 Les gastropathies hyperplasiques et vasculaires/p13_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.6%20Les%20gastropathies%20hyperplasiques%20et%20vasculaires/p13_01.png)
 
 ## Variante hypertrophique de gastrite lymphocytaire
 

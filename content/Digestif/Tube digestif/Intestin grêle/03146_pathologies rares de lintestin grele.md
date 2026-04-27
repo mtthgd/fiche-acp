@@ -78,7 +78,7 @@ Biologie : **hyperéosinophilie sanguine** + augmentation des **IgE** sériques.
 - Atteinte muqueuse : **exocytose de PNE** dans l'épithélium de surface et bordant les cryptes
 - **Abcès cryptiques riches en PNE** → très évocateurs du diagnostic
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.6 Les pathologies rares de lintestin grêle/p05_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.6%20Les%20pathologies%20rares%20de%20lintestin%20gr%C3%AAle/p05_02.jpeg)
 
 ### Traitement
 
@@ -116,9 +116,9 @@ Variable :
 - Modifications architecturales possibles : **bifurcations glandulaires**, **hiatus** entre fond des cryptes et musculaire muqueuse
 - Augmentation associée fréquente des PNE
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.6 Les pathologies rares de lintestin grêle/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.6%20Les%20pathologies%20rares%20de%20lintestin%20gr%C3%AAle/p09_00.jpeg)
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.6 Les pathologies rares de lintestin grêle/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.6%20Les%20pathologies%20rares%20de%20lintestin%20gr%C3%AAle/p12_02.jpeg)
 
 ### Immunohistochimie
 
@@ -172,13 +172,13 @@ Souvent normale, parfois œdémateuse/congestive, mamelonnée, polyoïde ou éro
 - **Coloration au rouge Congo** : dépôts colorés en rouge
 - En **lumière polarisée** : **biréfringence vert pomme** caractéristique
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.6 Les pathologies rares de lintestin grêle/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.6%20Les%20pathologies%20rares%20de%20lintestin%20gr%C3%AAle/p14_02.jpeg)
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.6 Les pathologies rares de lintestin grêle/p14_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.6%20Les%20pathologies%20rares%20de%20lintestin%20gr%C3%AAle/p14_05.jpeg)
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.6 Les pathologies rares de lintestin grêle/p14_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.6%20Les%20pathologies%20rares%20de%20lintestin%20gr%C3%AAle/p14_06.jpeg)
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.6 Les pathologies rares de lintestin grêle/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.6%20Les%20pathologies%20rares%20de%20lintestin%20gr%C3%AAle/p15_00.jpeg)
 
 ### Typage immunohistochimique
 
@@ -215,7 +215,7 @@ Du plus rentable au moins rentable :
 
 → **Toujours penser à rechercher une amylose systématiquement** sur toute biopsie digestive en HES, en examinant la **paroi des vaisseaux**, la sous-muqueuse et l'interstitium ; en cas de doute, **rouge Congo + lumière polarisée**.
 
-![[assets/digestif/tube_digestif/intestin_grele/03.1.4.6 Les pathologies rares de lintestin grêle/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/intestin_grele/03.1.4.6%20Les%20pathologies%20rares%20de%20lintestin%20gr%C3%AAle/p16_01.jpeg)
 
 ---
 

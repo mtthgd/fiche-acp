@@ -33,8 +33,8 @@ Les valvulopathies sont fréquentes et regroupent des étiologies très variées
 | **Aortique** | Semi-lunaire G | 3 cusps (CG, CD, postérieure), nodule d'Arantius | Pas de cordage |
 | **Pulmonaire** | Semi-lunaire D | 3 cusps (antérieure, droite, gauche) | Pas de cordage |
 
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p03_01.jpeg]]
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p03_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p03_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p03_04.jpeg)
 
 ### Histologie normale (4 couches)
 
@@ -48,10 +48,10 @@ Pour la valve **aortique** : ventricularis (vers VG) → spongiosa → **fibrosa
 
 > **Règle** : la fibrosa est **toujours** sur le versant de la cavité de plus haute pression.
 
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p04_02.jpeg]]
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p04_03.jpeg]]
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p05_02.jpeg]]
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p05_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p04_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p04_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p05_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p05_03.jpeg)
 
 ## Macroscopie générale — prise en charge
 
@@ -63,9 +63,9 @@ Pour la valve **aortique** : ventricularis (vers VG) → spongiosa → **fibrosa
 - Décrire les cordages (épaississement, fusion, rupture)
 - **Prélèvements** : toujours coupe **de l'anneau vers le bord libre**, inclusion sur la tranche pour visualiser les 4 couches
 
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p06_02.jpeg]]
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p06_03.jpeg]]
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p06_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p06_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p06_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p06_04.jpeg)
 
 ## Étiologies des valvulopathies (fréquence décroissante)
 
@@ -100,10 +100,10 @@ Pour la valve **aortique** : ventricularis (vers VG) → spongiosa → **fibrosa
 - Calcifications naissant dans la **fibrosa**, puis envahissent toute l'épaisseur
 - Possible **ulcération** → embols calciques / thrombotiques
 
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p08_02.jpeg]]
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p10_02.jpeg]]
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p10_03.jpeg]]
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p10_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p08_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p10_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p10_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p10_04.jpeg)
 
 ---
 
@@ -122,8 +122,8 @@ Pour la valve **aortique** : ventricularis (vers VG) → spongiosa → **fibrosa
 - Cordages **fins, allongés**, parfois rompus, **jamais fusionnés** (≠ RAA)
 - Aspects très variables selon le degré : feuillets épais et fermes ou très amincis (zones translucides)
 
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p11_02.jpeg]]
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p11_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p11_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p11_03.jpeg)
 
 ### Histologie
 - Feuillets **augmentés en épaisseur**
@@ -131,9 +131,9 @@ Pour la valve **aortique** : ventricularis (vers VG) → spongiosa → **fibrosa
 - Disparition du collagène et des fibres élastiques
 - Atteinte des cordages et de l'anneau (cordages réduits à un centre collagène résiduel)
 
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p12_02.jpeg]]
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p13_01.jpeg]]
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p13_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p12_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p13_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p13_03.jpeg)
 
 ---
 
@@ -166,10 +166,10 @@ Pour la valve **aortique** : ventricularis (vers VG) → spongiosa → **fibrosa
 |----|-------------|
 | **Pseudo-bicuspidie acquise** (RAC, RAA) | Fusion commissurale acquise, contexte clinique, pas de raphé congénital |
 
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p14_02.jpeg]]
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p14_03.jpeg]]
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p14_04.jpeg]]
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p14_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p14_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p14_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p14_04.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p14_05.jpeg)
 
 ---
 
@@ -190,10 +190,10 @@ Pour la valve **aortique** : ventricularis (vers VG) → spongiosa → **fibrosa
 - Épaississement et **fusion des cordages**
 - Aspect très proche des **valvulopathies radiques** (DD)
 
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p15_02.jpeg]]
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p15_03.jpeg]]
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p15_04.jpeg]]
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p15_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p15_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p15_04.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p16_01.jpeg)
 
 ---
 
@@ -219,9 +219,9 @@ Pour la valve **aortique** : ventricularis (vers VG) → spongiosa → **fibrosa
 - Atteint **toutes les couches** valvulaires → **valvite** (≠ endocardite isolée)
 - Visible aussi dans péricarde et myocarde
 
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p18_03.jpeg]]
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p20_02.jpeg]]
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p20_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p18_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p20_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p20_03.jpeg)
 
 ### Cardiopathie rhumatismale chronique
 - **Délai de latence** : plusieurs dizaines d'années
@@ -233,10 +233,10 @@ Pour la valve **aortique** : ventricularis (vers VG) → spongiosa → **fibrosa
 - Retentissement : **rétrécissement** ± fuite associée
 - Histologie : **fibrose diffuse destructrice et mutilante**, agrégats lymphoïdes focaux, **néovascularisation** (vaisseaux à parois épaisses) — colorations utiles : **trichrome**, **Weigert**
 
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p21_02.jpeg]]
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p21_03.jpeg]]
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p21_04.jpeg]]
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p21_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p21_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p21_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p21_04.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p21_05.jpeg)
 
 ---
 
@@ -275,10 +275,10 @@ Pour la valve **aortique** : ventricularis (vers VG) → spongiosa → **fibrosa
 - **Évolution** : hyalinisation, raréfaction de l'inflammation, persistance de quelques PNN en bordure
 - Formes **fongiques** ou à **germes intracellulaires** (immunodéprimés) : infiltrat **macrophagique** riche, PNN pauvres, germes intracytoplasmiques
 
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p22_01.jpeg]]
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p22_02.jpeg]]
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p22_04.jpeg]]
-![[assets/cardio-vasculaire/valves/Pathologie valvulaire corrigée commentée définitif/p22_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p22_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p22_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p22_04.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/valves/Pathologie%20valvulaire%20corrig%C3%A9e%20comment%C3%A9e%20d%C3%A9finitif/p22_06.jpeg)
 
 ---
 

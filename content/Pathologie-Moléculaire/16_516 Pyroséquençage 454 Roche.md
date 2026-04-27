@@ -24,7 +24,7 @@ Première plate-forme de **séquençage de 2ᵉ génération** historiquement (c
 
 Détection : la libération de **pyrophosphate (PPi)** lors de l’incorporation d’un nucléotide est convertie en **flash lumineux** par une cascade enzymatique **sulfurylase + luciférase**.
 
-![[assets/pathologie-moleculaire/ngs/16-516 517 518  NGS 2eme generation au coeur des machines/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-516%20517%20518%20%20NGS%202eme%20generation%20au%20coeur%20des%20machines/p02_00.jpeg)
 
 ## Étapes techniques
 
@@ -50,9 +50,9 @@ Détection : la libération de **pyrophosphate (PPi)** lors de l’incorporation
 - Caméra haute résolution lit **simultanément** tous les puits → cartographie XY des flashs
 - Si non incorporé → pas de lumière → l’opérateur sait que le nucléotide n’est pas en position
 
-![[assets/pathologie-moleculaire/ngs/16-516 517 518  NGS 2eme generation au coeur des machines/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-516%20517%20518%20%20NGS%202eme%20generation%20au%20coeur%20des%20machines/p04_00.jpeg)
 
-![[assets/pathologie-moleculaire/ngs/16-516 517 518  NGS 2eme generation au coeur des machines/p06_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-516%20517%20518%20%20NGS%202eme%20generation%20au%20coeur%20des%20machines/p06_00.png)
 
 | Étape | Détail | Outil/Plate-forme |
 |---|---|---|
@@ -62,7 +62,7 @@ Détection : la libération de **pyrophosphate (PPi)** lors de l’incorporation
 | Distribution | 1 bille / puits + billes packing | **PicoTiterPlate** |
 | Détection | **Lumière** (PPi → ATP → luciférase) | Caméra haute définition |
 
-![[assets/pathologie-moleculaire/ngs/16-516 517 518  NGS 2eme generation au coeur des machines/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-516%20517%20518%20%20NGS%202eme%20generation%20au%20coeur%20des%20machines/p07_00.jpeg)
 
 ## Spécifications / Métriques
 

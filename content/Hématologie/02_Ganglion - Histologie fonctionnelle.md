@@ -24,7 +24,7 @@ Le ganglion lymphatique (≈ 1000 chez l'homme, taille normale ≤ 1 cm) filtre 
 | **Corticale profonde (paracortex)** | T (CD3+, CD4++) | Vénules post-capillaires (HEV) |
 | **Médullaire** | Mixte | Cordons (plasmocytes), sinus (macrophages) |
 
-![[assets/hematologie/ganglion_lymphatique_generalites/Diaporama 07-120_Histologie fonctionnelle ganglion tjm 0812/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/ganglion_lymphatique_generalites/Diaporama%2007-120_Histologie%20fonctionnelle%20ganglion%20tjm%200812/p06_01.jpeg)
 
 ### Circulation
 
@@ -44,14 +44,14 @@ Structure **polarisée** :
 - **Manteau** : petits lymphocytes IgD+ BCL2+
 - **Zone marginale** (rare dans le ganglion) : cellules cytoplasme plus abondant
 
-![[assets/hematologie/ganglion_lymphatique_generalites/Diaporama 07-120_Histologie fonctionnelle ganglion tjm 0812/p07_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/ganglion_lymphatique_generalites/Diaporama%2007-120_Histologie%20fonctionnelle%20ganglion%20tjm%200812/p07_03.jpeg)
 
 ### Phénotype centre germinatif réactionnel
 - CD10+ BCL6+ **BCL2−** (critère de réactivité)
 - Index prolifératif Ki67 élevé avec **répartition zonale**
 - Macrophages à corps tingibles (corps apoptotiques) → aspect ciel étoilé
 
-![[assets/hematologie/ganglion_lymphatique_generalites/Diaporama 07-120_Histologie fonctionnelle ganglion tjm 0812/p10_07.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/ganglion_lymphatique_generalites/Diaporama%2007-120_Histologie%20fonctionnelle%20ganglion%20tjm%200812/p10_07.jpeg)
 
 ## Paracortex (zone T)
 
@@ -59,7 +59,7 @@ Structure **polarisée** :
 - **Cellules dendritiques interdigitées** : noyaux très irréguliers/chiffonnés, S100+ CD68+ CD1a+/−
 - **Vénules post-capillaires (HEV)** : cellules endothéliales turgescentes, marqueur d'activation
 
-![[assets/hematologie/ganglion_lymphatique_generalites/Diaporama 07-120_Histologie fonctionnelle ganglion tjm 0812/p17_15.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/ganglion_lymphatique_generalites/Diaporama%2007-120_Histologie%20fonctionnelle%20ganglion%20tjm%200812/p17_15.jpeg)
 
 ## Médullaire
 
@@ -75,7 +75,7 @@ Structure **polarisée** :
 | Cellules dendritiques plasmocytoïdes | Près HEV, sinus | CD123+ CD68+(dot) GrzB+ |
 | Histiocytes/macrophages | Sinus, centres germinatifs | CD68+ |
 
-![[assets/hematologie/ganglion_lymphatique_generalites/Diaporama 07-120_Histologie fonctionnelle ganglion tjm 0812/p26_29.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/ganglion_lymphatique_generalites/Diaporama%2007-120_Histologie%20fonctionnelle%20ganglion%20tjm%200812/p26_29.jpeg)
 
 > ⚠️ GranzB marque aussi les cellules dendritiques plasmocytoïdes (pas uniquement les lymphocytes T cytotoxiques !)
 

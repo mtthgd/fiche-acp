@@ -53,9 +53,9 @@ Examen endoscopique :
 - Lésion au **mur latéral du nasopharynx**
 - Peut se limiter à un **renflement** ; muqueuse parfois **macroscopiquement normale** (tumeur développée plus profondément)
 
-![[assets/ORL/VADS/carcinome_epidermoide/10-238carcinome nasopahryngé/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/10-238carcinome%20nasopahryng%C3%A9/p06_00.jpeg)
 
-![[assets/ORL/VADS/carcinome_epidermoide/10-238carcinome nasopahryngé/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/10-238carcinome%20nasopahryng%C3%A9/p07_00.jpeg)
 
 ## Macroscopie / Endoscopie
 
@@ -63,7 +63,7 @@ Examen endoscopique :
 - Adénopathie cervicale haute (révélation possible)
 - Imagerie : **comblement du cavum**
 
-![[assets/ORL/VADS/carcinome_epidermoide/10-238carcinome nasopahryngé/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/10-238carcinome%20nasopahryng%C3%A9/p07_01.jpeg)
 
 ## Classification histologique
 
@@ -88,22 +88,22 @@ Examen endoscopique :
 - **Écrasements nucléaires** fréquents (cellules tumorales fragiles)
 - Possibles **globules éosinophiles intracytoplasmiques**
 
-![[assets/ORL/VADS/carcinome_epidermoide/10-238carcinome nasopahryngé/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/10-238carcinome%20nasopahryng%C3%A9/p08_00.jpeg)
 
-![[assets/ORL/VADS/carcinome_epidermoide/10-238carcinome nasopahryngé/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/10-238carcinome%20nasopahryng%C3%A9/p09_00.jpeg)
 
-![[assets/ORL/VADS/carcinome_epidermoide/10-238carcinome nasopahryngé/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/10-238carcinome%20nasopahryng%C3%A9/p10_00.jpeg)
 
 ### Sur biopsie
 - Diagnostic **parfois difficile** : muqueuse ulcérée, infiltrat carcinomateux peu évident
 - L'**AE1/AE3** (cytokératine) **désorganise visuellement l'infiltrat lymphocytaire** et révèle le carcinome
 - Possible extension en surface en **carcinome in situ** → confirme la nature **carcinomateuse primitive**
 
-![[assets/ORL/VADS/carcinome_epidermoide/10-238carcinome nasopahryngé/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/10-238carcinome%20nasopahryng%C3%A9/p11_00.jpeg)
 
-![[assets/ORL/VADS/carcinome_epidermoide/10-238carcinome nasopahryngé/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/10-238carcinome%20nasopahryng%C3%A9/p12_00.jpeg)
 
-![[assets/ORL/VADS/carcinome_epidermoide/10-238carcinome nasopahryngé/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/10-238carcinome%20nasopahryng%C3%A9/p13_00.jpeg)
 
 ## Histologie — forme différenciée non kératinisante
 
@@ -112,7 +112,7 @@ Examen endoscopique :
 - **Moins de lymphocytes** mêlés
 - Aspects **en cadres** plus évidents
 
-![[assets/ORL/VADS/carcinome_epidermoide/10-238carcinome nasopahryngé/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/10-238carcinome%20nasopahryng%C3%A9/p15_00.jpeg)
 
 ## Immunohistochimie
 
@@ -128,9 +128,9 @@ Examen endoscopique :
 
 ⚠️ Très rares cas seraient liés à l'**HPV** : si morphologie typique mais EBER−, compléter par **p16** ou HIS HPV. NPC non kératinisant **classique = p16 négatif**.
 
-![[assets/ORL/VADS/carcinome_epidermoide/10-238carcinome nasopahryngé/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/10-238carcinome%20nasopahryng%C3%A9/p12_01.jpeg)
 
-![[assets/ORL/VADS/carcinome_epidermoide/10-238carcinome nasopahryngé/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/10-238carcinome%20nasopahryng%C3%A9/p17_00.jpeg)
 
 ## Biologie moléculaire / Suivi
 
@@ -155,14 +155,14 @@ Examen endoscopique :
 - Ganglion : centres germinatifs résiduels + population interfolliculaire morphologiquement proche des cellules du centre germinatif
 - Faire **AE1/AE3** : souligne la prolifération **carcinomateuse**, **EBER+**
 
-![[assets/ORL/VADS/carcinome_epidermoide/10-238carcinome nasopahryngé/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/10-238carcinome%20nasopahryng%C3%A9/p18_00.jpeg)
 
 ### Cas n°2 — DD avec **lymphome de Hodgkin**
 - Cellules **Sternberg-like** (binucléées), fond riche en lymphocytes
 - **CD30** parfois faiblement +, **LMP1+** (présent dans Hodgkin et NPC)
 - ⚠️ Faire **cytokératine** systématiquement : si + → **NPC métastatique**, pas Hodgkin !
 
-![[assets/ORL/VADS/carcinome_epidermoide/10-238carcinome nasopahryngé/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/10-238carcinome%20nasopahryng%C3%A9/p18_01.jpeg)
 
 ## Pronostic / Traitement
 

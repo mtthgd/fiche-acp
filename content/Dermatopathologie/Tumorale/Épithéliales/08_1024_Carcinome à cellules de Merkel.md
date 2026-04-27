@@ -62,7 +62,7 @@ source: DES ACP - Cours de Dermatopathologie
 - Peu symptomatique, rarement ulcérée.
 - **Couleur chair, rougeâtre ou violacée**.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1024 Carcinome à cellules de Merkel/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1024%20Carcinome%20%C3%A0%20cellules%20de%20Merkel/p06_00.jpeg)
 
 ## Macroscopie / Histologie
 
@@ -73,7 +73,7 @@ source: DES ACP - Cours de Dermatopathologie
 - Tumeur **dermique**, **souvent séparée de l'épiderme** par une **grenz zone respectée**.
 - Atteinte hypodermique fréquente, possible invasion des fibres musculaires striées.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1024 Carcinome à cellules de Merkel/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1024%20Carcinome%20%C3%A0%20cellules%20de%20Merkel/p09_00.jpeg)
 
 ### Plages tumorales
 
@@ -82,9 +82,9 @@ source: DES ACP - Cours de Dermatopathologie
 - Stroma peu abondant
 - Remaniements **nécrotiques** possibles
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1024 Carcinome à cellules de Merkel/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1024%20Carcinome%20%C3%A0%20cellules%20de%20Merkel/p10_00.jpeg)
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1024 Carcinome à cellules de Merkel/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1024%20Carcinome%20%C3%A0%20cellules%20de%20Merkel/p11_00.jpeg)
 
 ### Cytologie
 
@@ -95,14 +95,14 @@ source: DES ACP - Cours de Dermatopathologie
 - **Mitoses nombreuses**
 - Aspect évocateur de "**prolifération d'allure blastique**"
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1024 Carcinome à cellules de Merkel/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1024%20Carcinome%20%C3%A0%20cellules%20de%20Merkel/p12_00.jpeg)
 
 ### Variantes
 
 - **Architecturales** : pseudo-glandulaires, épidermotropes (mime un lymphome épidermotrope)
 - **Cytologiques** : avec inflexion **malpighienne** (kératinisation), forme **fusocellulaire / sarcomatoïde**
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1024 Carcinome à cellules de Merkel/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1024%20Carcinome%20%C3%A0%20cellules%20de%20Merkel/p14_00.jpeg)
 
 ---
 

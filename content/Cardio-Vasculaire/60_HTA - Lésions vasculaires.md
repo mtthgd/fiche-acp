@@ -63,12 +63,12 @@ De la lumière vers l'extérieur :
 4. **Limitante élastique externe (LEE)** (artères musculaires uniquement)
 5. **Adventice** : collagène + élastiques + **vasa vasorum**
 
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p05_01.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p05_02.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p06_01.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p06_02.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p06_03.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p06_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p05_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p05_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p06_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p06_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p06_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p06_04.jpeg)
 
 ---
 
@@ -103,9 +103,9 @@ L'HTA induit un **remodelage adaptatif** maintenant constante la **tension tange
     - Anomalies hémodynamiques → fissures, ruptures, hémorragies sur plaque
 - **Anévrysme** et **dissection** de l'aorte
 
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p07_02.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p07_03.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p10_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p07_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p07_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p10_02.jpeg)
 
 ---
 
@@ -121,9 +121,9 @@ L'HTA induit un **remodelage adaptatif** maintenant constante la **tension tange
 - **Microthromboses**
 - = lésions de **micro-angiopathie thrombotique (MAT)**
 
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p12_01.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p12_02.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p12_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p12_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p12_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p12_04.jpeg)
 
 ---
 
@@ -133,8 +133,8 @@ L'HTA induit un **remodelage adaptatif** maintenant constante la **tension tange
 - **Hyalinose artériolo-capillaire**
 - En HTA maligne : **lésions de MAT** capillaire
 
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p13_01.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p13_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p13_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p13_02.jpeg)
 
 ---
 
@@ -159,13 +159,13 @@ L'HTA induit un **remodelage adaptatif** maintenant constante la **tension tange
 - **Diminution de la réserve coronaire**
 - → **Angor**, **infarctus du myocarde**
 
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p14_01.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p14_02.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p15_02.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p15_03.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p16_02.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p16_03.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p16_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p14_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p14_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p15_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p15_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p16_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p16_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p16_04.jpeg)
 
 ---
 
@@ -178,9 +178,9 @@ L'HTA induit un **remodelage adaptatif** maintenant constante la **tension tange
 | **Hémorragies cérébrales** | Rupture de microanévrysmes |
 | **Lacunes** (infarctus lacunaires) | Lipohyalinose des artérioles perforantes |
 
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p18_00.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p18_01.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p18_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p18_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p18_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p18_02.jpeg)
 
 ---
 
@@ -197,9 +197,9 @@ L'HTA induit un **remodelage adaptatif** maintenant constante la **tension tange
 - **Involution adipeuse du sinus**
 - Lésions vasculaires sévères de l'artère rénale
 
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p20_01.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p20_02.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p20_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p20_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p20_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p20_03.jpeg)
 
 ### Lésions histologiques de la néphroangiosclérose
 
@@ -213,33 +213,33 @@ L'HTA induit un **remodelage adaptatif** maintenant constante la **tension tange
 - **Hyalinose capillaire** (dépôts hyalins éosinophiles)
 - = **lipohyalinose** dans les territoires perforants
 
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p22_01.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p22_02.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p22_03.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p23_01.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p23_02.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p23_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p22_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p22_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p22_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p23_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p23_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p23_03.jpeg)
 
 #### Compartiment glomérulaire
 - **Glomérules ischémiques** : floculus rétracté, chambre urinaire élargie
 - **Glomérulosclérose globale**
 - **Hyalinose segmentaire et focale (HSF)** secondaire (réduction néphronique)
 
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p24_01.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p24_03.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p25_01.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p25_02.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p25_03.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p25_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p24_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p24_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p25_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p25_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p25_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p25_05.jpeg)
 
 #### Compartiment tubulo-interstitiel
 - **Fibrose hétérogène** ± inflammatoire
 - **Atrophie tubulaire** parfois pseudo-thyroïdienne (= évocateur)
 - Non spécifique mais le caractère **hétérogène** + atrophie thyroïdienne orientent vers la néphroangiosclérose
 
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p26_01.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p26_02.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p26_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p26_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p26_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p26_03.jpeg)
 
 ### Maladie des emboles de cristaux de cholestérol
 - Complication d'une athérosclérose sévère + HTA
@@ -247,8 +247,8 @@ L'HTA induit un **remodelage adaptatif** maintenant constante la **tension tange
 - Clinique : **livedo**, nécroses digitales, **IRA** sur IRC, hématurie, protéinurie
 - Histologie : **cristaux de cholestérol optiquement vides**, en aiguilles, dans les artérioles ou glomérules
 
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p21_01.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p21_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p21_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p21_02.jpeg)
 
 ---
 
@@ -275,19 +275,19 @@ L'HTA induit un **remodelage adaptatif** maintenant constante la **tension tange
 - Glomérule ischémique
 - Chronique : **double contour** (coloration argentique = MAT chronique)
 
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p27_01.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p27_03.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p29_02.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p29_03.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p29_04.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p30_01.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p30_03.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p30_04.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p31_01.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p31_02.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p32_01.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p32_03.jpeg]]
-![[assets/cardio-vasculaire/hta/cor_HTA révisé définitif commenté/p32_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p27_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p27_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p29_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p29_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p29_04.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p30_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p30_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p30_04.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p31_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p31_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p32_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p32_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/hta/cor_HTA%20r%C3%A9vis%C3%A9%20d%C3%A9finitif%20comment%C3%A9/p32_04.jpeg)
 
 ---
 

@@ -26,7 +26,7 @@ source: DES ACP - Cours de Dermatopathologie
 - Parfois ovoïde, fusiforme ou étoilée (DD : fibroblaste, macrophage)
 - Recrutée lors de **tout phénomène inflammatoire** → ne pas porter de diagnostic de mastocytose par excès
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p03_01.jpeg)
 
 > **Définition de mastocytose** = présence de mastocytes au sein d'un infiltrat ou sur une biopsie, évaluation **plus relative que quantitative** stricte → toujours confronter à la clinique.
 
@@ -43,7 +43,7 @@ source: DES ACP - Cours de Dermatopathologie
 - **Bleu de toluidine** ou **Giemsa** → **métachromasie cytoplasmique**
 - Liée aux granules sécrétoires : **héparine, histamine, leucotriènes, prostaglandines**
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p04_00.jpeg)
 
 ### Immunophénotype
 
@@ -61,9 +61,9 @@ source: DES ACP - Cours de Dermatopathologie
 
 > Attention : le **CD117** marque également les **mélanocytes** de la couche basale.
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p05_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p05_01.jpeg)
 
 ## Classification OMS 2016 — 3 types de mastocytoses cutanées
 
@@ -87,7 +87,7 @@ source: DES ACP - Cours de Dermatopathologie
 - Cellules ovoïdes ou fusiformes
 - Topographie **périvasculaire et interstitielle**, dans le **derme superficiel**
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p07_01.jpeg)
 
 ⚠️ **Piège** : aspect histologique **quasi normal** possible → sans renseignement clinique, on peut passer à côté du diagnostic.
 
@@ -96,15 +96,15 @@ source: DES ACP - Cours de Dermatopathologie
 2. Rares **polynucléaires éosinophiles**
 3. **Augmentation du nombre et dilatation des petits capillaires** superficiels
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p08_00.jpeg)
 
 ### IHC : CD117
 
 L'immunomarquage **anti-CD117** rend le diagnostic évident en révélant l'infiltrat mastocytaire périvasculaire et interstitiel.
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p09_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p09_01.jpeg)
 
 ## Mastocytose cutanée diffuse
 
@@ -112,9 +112,9 @@ L'immunomarquage **anti-CD117** rend le diagnostic évident en révélant l'infi
 - Épaississement diffus de la peau, aspect en **peau de chagrin / peau d'orange**, sans lésions individualisées
 - Histologie : **dense infiltrat mastocytaire en bande** dans le derme superficiel et moyen
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p11_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p12_00.jpeg)
 
 ## Mastocytome cutané
 
@@ -126,13 +126,13 @@ L'immunomarquage **anti-CD117** rend le diagnostic évident en révélant l'infi
 - **Très dense infiltrat** dermique constitué de cellules d'allure typiquement mastocytaire
 - Diagnostic souvent évident sur HE seul
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p14_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p14_02.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p15_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p15_01.jpeg)
 
 ## Mastocytose cutanée maculeuse télangiectasique (forme rare)
 
@@ -141,9 +141,9 @@ L'immunomarquage **anti-CD117** rend le diagnostic évident en révélant l'infi
 - Lésions microscopiques **extrêmement subtiles**
 - Diagnostic = bonne **confrontation anatomoclinique**
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p16_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p16_02.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p16_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p16_03.jpeg)
 
 ## Biologie moléculaire — récepteur KIT
 
@@ -152,7 +152,7 @@ L'immunomarquage **anti-CD117** rend le diagnostic évident en révélant l'infi
 - Domaine extracellulaire = liaison au ligand **Stem Cell Factor (SCF)** + site de **dimérisation**
 - Domaine intracellulaire = **tyrosine kinase**, activé après dimérisation
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1051-Mastocytoses/p17_01.jpeg)
 
 ### Mutations
 - Toutes les formes de mastocytose s'accompagnent de **mutations activatrices constitutives** du récepteur KIT

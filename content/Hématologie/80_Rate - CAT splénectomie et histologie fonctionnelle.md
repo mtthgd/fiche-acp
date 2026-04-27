@@ -22,7 +22,7 @@ source: DES ACP - Cours d’hématologie
 
 La rate est un organe lymphoïde secondaire combinant **deux compartiments fonctionnels distincts** : la **pulpe blanche** (immunité adaptative) et la **pulpe rouge** (filtration sanguine, hématopoïèse, stockage). La démarche diagnostique en pathologie splénique impose une lecture systématique : **lésion focale ou diffuse ? pulpe blanche ou pulpe rouge ?**
 
-![[assets/hematologie/generalites/Diaporama 07-710 et 720 CAT devant splenectomie et histo fonctionelle rate/p04_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/generalites/Diaporama%2007-710%20et%20720%20CAT%20devant%20splenectomie%20et%20histo%20fonctionelle%20rate/p04_06.jpeg)
 
 ---
 
@@ -72,7 +72,7 @@ Décision **toujours collégiale** (RCP).
   - **Face diaphragmatique** = externe, convexe et lisse
   - **Bord antérieur crénelé**
 
-![[assets/hematologie/generalites/Diaporama 07-710 et 720 CAT devant splenectomie et histo fonctionelle rate/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/generalites/Diaporama%2007-710%20et%20720%20CAT%20devant%20splenectomie%20et%20histo%20fonctionelle%20rate/p07_01.jpeg)
 
 ## Étapes systématiques
 
@@ -91,7 +91,7 @@ Décision **toujours collégiale** (RCP).
 | **Adulte** | **80-150 g** (≈ 12 cm) |
 | **Adulte pathologique** | **> 250 g** |
 
-![[assets/hematologie/generalites/Diaporama 07-710 et 720 CAT devant splenectomie et histo fonctionelle rate/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/generalites/Diaporama%2007-710%20et%20720%20CAT%20devant%20splenectomie%20et%20histo%20fonctionelle%20rate/p08_00.jpeg)
 
 ## Prélèvements à prévoir
 
@@ -111,13 +111,13 @@ Décision **toujours collégiale** (RCP).
 | **Masse kystique** | Kyste épithélial, kyste parasitaire, lymphangiome |
 | **Nodules confluents en transformation** | Transformation d’un lymphome (Richter) |
 
-![[assets/hematologie/generalites/Diaporama 07-710 et 720 CAT devant splenectomie et histo fonctionelle rate/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/generalites/Diaporama%2007-710%20et%20720%20CAT%20devant%20splenectomie%20et%20histo%20fonctionelle%20rate/p10_00.jpeg)
 
-![[assets/hematologie/generalites/Diaporama 07-710 et 720 CAT devant splenectomie et histo fonctionelle rate/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/generalites/Diaporama%2007-710%20et%20720%20CAT%20devant%20splenectomie%20et%20histo%20fonctionelle%20rate/p10_01.jpeg)
 
-![[assets/hematologie/generalites/Diaporama 07-710 et 720 CAT devant splenectomie et histo fonctionelle rate/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/generalites/Diaporama%2007-710%20et%20720%20CAT%20devant%20splenectomie%20et%20histo%20fonctionelle%20rate/p11_00.jpeg)
 
-![[assets/hematologie/generalites/Diaporama 07-710 et 720 CAT devant splenectomie et histo fonctionelle rate/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/generalites/Diaporama%2007-710%20et%20720%20CAT%20devant%20splenectomie%20et%20histo%20fonctionelle%20rate/p11_01.jpeg)
 
 ---
 
@@ -130,7 +130,7 @@ La rate associe :
 - **Pulpe blanche** (≈ **25 %** du volume) : tissu lymphoïde organisé autour des **artères centrales**
 - **Pulpe rouge** (≈ **75 %** du volume) : sinus veineux + cordons de Billroth
 
-![[assets/hematologie/generalites/Diaporama 07-710 et 720 CAT devant splenectomie et histo fonctionelle rate/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/generalites/Diaporama%2007-710%20et%20720%20CAT%20devant%20splenectomie%20et%20histo%20fonctionelle%20rate/p12_00.jpeg)
 
 ## Vascularisation
 
@@ -147,9 +147,9 @@ Sinus veineux → **veines septales** → **veines trabéculaires** → veine sp
 | **Ouverte** | **90 %** | Artères pénicillées → capillaires à housse → cordons de Billroth → sinus | **Filtration** (élimination des éléments figurés vieillis ou anormaux) |
 | **Fermée** | 10 % | Capillaires à housse débouchant directement dans les sinus | Passage rapide du sang |
 
-![[assets/hematologie/generalites/Diaporama 07-710 et 720 CAT devant splenectomie et histo fonctionelle rate/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/generalites/Diaporama%2007-710%20et%20720%20CAT%20devant%20splenectomie%20et%20histo%20fonctionelle%20rate/p12_02.jpeg)
 
-![[assets/hematologie/generalites/Diaporama 07-710 et 720 CAT devant splenectomie et histo fonctionelle rate/p12_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/generalites/Diaporama%2007-710%20et%20720%20CAT%20devant%20splenectomie%20et%20histo%20fonctionelle%20rate/p12_03.jpeg)
 
 ## Pulpe rouge (75 %)
 
@@ -164,7 +164,7 @@ Sinus veineux → **veines septales** → **veines trabéculaires** → veine sp
 - **Stockage** sanguin (réservoir)
 - **Hématopoïèse** extra-médullaire physiologique chez le fœtus, possible chez l’adulte en pathologie
 
-![[assets/hematologie/generalites/Diaporama 07-710 et 720 CAT devant splenectomie et histo fonctionelle rate/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/generalites/Diaporama%2007-710%20et%20720%20CAT%20devant%20splenectomie%20et%20histo%20fonctionelle%20rate/p13_01.jpeg)
 
 ## Pulpe blanche (25 %)
 

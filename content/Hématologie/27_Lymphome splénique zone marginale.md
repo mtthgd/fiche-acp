@@ -43,7 +43,7 @@ date: 2024
 - Rate 86-4300 g
 - Aspect **micronodulaire homogène** (petits nodules blancs d'élargissement de la pulpe blanche)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-328_Lymphome splénique de la zone marginale/p04_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-328_Lymphome%20spl%C3%A9nique%20de%20la%20zone%20marginale/p04_05.jpeg)
 
 ## Histologie
 
@@ -57,13 +57,13 @@ date: 2024
 - Taille variable, contours parfois irréguliers
 - Infiltration variable de la **pulpe rouge**
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-328_Lymphome splénique de la zone marginale/p06_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-328_Lymphome%20spl%C3%A9nique%20de%20la%20zone%20marginale/p06_06.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-328_Lymphome splénique de la zone marginale/p07_07.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-328_Lymphome%20spl%C3%A9nique%20de%20la%20zone%20marginale/p07_07.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-328_Lymphome splénique de la zone marginale/p08_08.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-328_Lymphome%20spl%C3%A9nique%20de%20la%20zone%20marginale/p08_08.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-328_Lymphome splénique de la zone marginale/p09_12.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-328_Lymphome%20spl%C3%A9nique%20de%20la%20zone%20marginale/p09_12.jpeg)
 
 ### Cytologie
 
@@ -73,9 +73,9 @@ Mélange :
 - **Différenciation plasmocytaire** possible (20% avec nombreux plasmocytes → DD avec LPL)
 - Progression histologique : ↑ Ki67 dans la zone biphasique
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-328_Lymphome splénique de la zone marginale/p10_16.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-328_Lymphome%20spl%C3%A9nique%20de%20la%20zone%20marginale/p10_16.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-328_Lymphome splénique de la zone marginale/p11_20.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-328_Lymphome%20spl%C3%A9nique%20de%20la%20zone%20marginale/p11_20.jpeg)
 
 ## Phénotype
 
@@ -92,9 +92,9 @@ Mélange :
 | CD27                         | + (marqueur B mémoire)                            |
 | Ki67                         | Faible (< 10%), plus élevé dans la zone marginale |
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-328_Lymphome splénique de la zone marginale/p13_29.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-328_Lymphome%20spl%C3%A9nique%20de%20la%20zone%20marginale/p13_29.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-328_Lymphome splénique de la zone marginale/p14_30.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-328_Lymphome%20spl%C3%A9nique%20de%20la%20zone%20marginale/p14_30.jpeg)
 
 ## Génétique et moléculaire
 
@@ -110,16 +110,16 @@ Mélange :
 - **Mutations KLF2** : 20-40%
 - **Biais d'usage VH1-2*04** : > 30%
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-328_Lymphome splénique de la zone marginale/p15_31.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-328_Lymphome%20spl%C3%A9nique%20de%20la%20zone%20marginale/p15_31.jpeg)
 
 ## Sang et moelle
 
 - **Sang** : petites cellules avec noyaux arrondis chromatine motée, **villosités courtes parfois** (DD HCL)
 - **Moelle** : nodulaire + interstitielle + **intrasinusoïdale** (caractéristique !)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-328_Lymphome splénique de la zone marginale/p18_35.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-328_Lymphome%20spl%C3%A9nique%20de%20la%20zone%20marginale/p18_35.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-328_Lymphome splénique de la zone marginale/p19_36.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-328_Lymphome%20spl%C3%A9nique%20de%20la%20zone%20marginale/p19_36.jpeg)
 
 ## Diagnostics différentiels
 

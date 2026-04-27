@@ -32,9 +32,9 @@ source: DES ACP - Cours de digestif
 
 > Architecture lobulaire : flux **afférent double** (artère + veine porte = 2/3) ; flux **efférent** par les veines centrolobulaires.
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.8 Pathologie vasculaire du foie/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.8%20Pathologie%20vasculaire%20du%20foie/p06_01.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.8 Pathologie vasculaire du foie/p06_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.8%20Pathologie%20vasculaire%20du%20foie/p06_02.jpeg)
 
 ## Lésions élémentaires vasculaires
 
@@ -103,15 +103,15 @@ Diagnostic histologique nécessitant **2 lésions** :
 - **Dilatation sinusoïdale non congestive médio-lobulaire**
 - **Fins septas courts, incomplets, jamais annulaires**
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.8 Pathologie vasculaire du foie/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.8%20Pathologie%20vasculaire%20du%20foie/p07_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.8 Pathologie vasculaire du foie/p08_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.8%20Pathologie%20vasculaire%20du%20foie/p08_02.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.8 Pathologie vasculaire du foie/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.8%20Pathologie%20vasculaire%20du%20foie/p09_01.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.8 Pathologie vasculaire du foie/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.8%20Pathologie%20vasculaire%20du%20foie/p09_02.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.8 Pathologie vasculaire du foie/p09_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.8%20Pathologie%20vasculaire%20du%20foie/p09_04.jpeg)
 
 ## Étiologies
 
@@ -151,13 +151,13 @@ Définition :
 - Compense l'**hypoperfusion portale** afférente
 - Possible lésion endothéliale primitive des sinusoïdes (notamment **VIH**)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.8 Pathologie vasculaire du foie/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.8%20Pathologie%20vasculaire%20du%20foie/p13_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.8 Pathologie vasculaire du foie/p13_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.8%20Pathologie%20vasculaire%20du%20foie/p13_02.png)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.6 Lésions et tumeurs kystiques du pancréas/p13_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.6%20L%C3%A9sions%20et%20tumeurs%20kystiques%20du%20pancr%C3%A9as/p13_03.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.8 Pathologie vasculaire du foie/p13_04.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.8%20Pathologie%20vasculaire%20du%20foie/p13_04.png)
 
 ---
 
@@ -199,19 +199,19 @@ Définition :
 - **Congestion** + **dilatation sinusoïdale**
 - **Nécrose** hépatocytaire centrolobulaire
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.8 Pathologie vasculaire du foie/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.8%20Pathologie%20vasculaire%20du%20foie/p19_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.14 orientations diagnostiques devant une tumeur hépatique/p19_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.14%20orientations%20diagnostiques%20devant%20une%20tumeur%20h%C3%A9patique/p19_03.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.8 Pathologie vasculaire du foie/p20_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.8%20Pathologie%20vasculaire%20du%20foie/p20_00.png)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.6 Lésions et tumeurs kystiques du pancréas/p21_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.6%20L%C3%A9sions%20et%20tumeurs%20kystiques%20du%20pancr%C3%A9as/p21_03.png)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p21_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p21_04.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p21_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p21_05.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.14 orientations diagnostiques devant une tumeur hépatique/p21_08.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.14%20orientations%20diagnostiques%20devant%20une%20tumeur%20h%C3%A9patique/p21_08.jpeg)
 
 ## Histologie chronique
 - Atrophie des travées centrolobulaires
@@ -261,9 +261,9 @@ Obstacle au **retour veineux** dans la veine cave inférieure par **obstruction 
 - **Aigu** : congestion + dilatation + nécrose centrolobulaire
 - **Chronique** : fibrose centrolobulaire + **septas véno-veineux** + **cirrhose inversée**
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p29_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p29_01.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.8 Pathologie vasculaire du foie/p30_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.8%20Pathologie%20vasculaire%20du%20foie/p30_02.jpeg)
 
 ---
 
@@ -283,11 +283,11 @@ Définition : sinusoïdes médio/centro-lobulaires diffusément dilatés (largeu
 2. **Médicaments** : oxaliplatine, **thiopurines**, **hormones**
 3. **Bilan pro-thrombotique** → étiologies de MVPS
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p32_00.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p32_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p32_02.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p33_00.jpeg)
 
 ## Péliose
 
@@ -297,7 +297,7 @@ Définition : sinusoïdes médio/centro-lobulaires diffusément dilatés (largeu
 - Continuum lésionnel avec le **SOS** (rupture endothéliale)
 - Mêmes causes que SOS : médicaments, toxiques
 
-![[assets/digestif/pancreas/tumorale/03.3.3.8 Tumeurs intracanalaires pancréatiques/p36_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.8%20Tumeurs%20intracanalaires%20pancr%C3%A9atiques/p36_03.jpeg)
 
 ## Fibrose périsinusoïdale centrolobulaire
 
@@ -313,13 +313,13 @@ Définition : sinusoïdes médio/centro-lobulaires diffusément dilatés (largeu
 | **Chaînes légères monoclonales** (cristaux) | Hémopathie lympho-plasmocytaire |
 | **Drépanocytose** | Présence de **drépanocytes faciformes** intrasinusoïdaux ; surcharge ferrique secondaire (Perls+) ; possible **foie de choc hypoxique** lors de crises vaso-occlusives |
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.4 Oesophage de Barret/p37_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.4%20Oesophage%20de%20Barret/p37_03.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.8 Tumeurs intracanalaires pancréatiques/p42_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.8%20Tumeurs%20intracanalaires%20pancr%C3%A9atiques/p42_00.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.4 Adénocarcinome pancréatique et ses variants/p42_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.4%20Ad%C3%A9nocarcinome%20pancr%C3%A9atique%20et%20ses%20variants/p42_01.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.12 Pathologies medicamenteuses et toxiques hépatiques/p42_04.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.12%20Pathologies%20medicamenteuses%20et%20toxiques%20h%C3%A9patiques/p42_04.png)
 
 ---
 

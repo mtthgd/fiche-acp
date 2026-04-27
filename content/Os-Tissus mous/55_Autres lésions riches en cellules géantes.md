@@ -34,9 +34,9 @@ Devant une lésion osseuse riche en cellules géantes, il faut évoquer :
 | **Histiocytome fibreux bénin** de l'os | Rare, diagnostic d'exclusion | Storiforme + CG + sidérophages |
 
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p07_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p07_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p07_01.png)
 
 ## Granulome réparateur à cellules géantes
 
@@ -51,23 +51,23 @@ Devant une lésion osseuse riche en cellules géantes, il faut évoquer :
 - Fond fibreux, fibroblastes, hémorragies, **hémosidérine**, dépôts d'ostéoïde
 - Activité mitotique possible mais sans atypies sévères
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p10_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p10_00.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p10_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p10_01.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p12_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p14_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p15_00.jpeg)
 
 ### DD principal : TCG
 - TCG : CG **harmonieusement réparties**, H3.3 G34W+
 - Granulome réparateur : CG **focales péri-hémorragiques**, H3.3 G34W−
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p16_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p18_00.jpeg)
 
 ## Fibrome non ossifiant (NOF) / défect cortical fibreux
 
@@ -77,11 +77,11 @@ Devant une lésion osseuse riche en cellules géantes, il faut évoquer :
 - Lésion **excentrée, corticale**, ovalaire, bien limitée, **liseré d'ostéosclérose**
 - Régression spontanée à maturité squelettique
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p24_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p25_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p27_00.jpeg)
 
 ### Microscopie
 - Prolifération **fibroblastique storiforme**
@@ -90,16 +90,16 @@ Devant une lésion osseuse riche en cellules géantes, il faut évoquer :
 - **Sidérophages**
 - Pas d'atypies, pas de matrice ostéoïde tumorale
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p28_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p29_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p30_00.jpeg)
 
 ### Génétique
 - Mutations des gènes **MAP2K1 / KRAS** identifiées
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p31_00.jpeg)
 
 ## Histiocytome fibreux bénin (diagnostic d'exclusion)
 
@@ -107,13 +107,13 @@ Devant une lésion osseuse riche en cellules géantes, il faut évoquer :
 - Prolifération storiforme + cellules géantes + macrophages spumeux + sidérophages
 - Diagnostic d'exclusion après élimination TCG, NOF et autres lésions
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p34_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p34_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p36_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p36_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p37_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p37_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p38_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p38_00.jpeg)
 
 ## Tumeur brune (hyperparathyroïdie)
 
@@ -122,9 +122,9 @@ Devant une lésion osseuse riche en cellules géantes, il faut évoquer :
 - **Biologie** : ↑ calcémie, ↑ PTH
 - Souvent **multifocale**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p42_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p42_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p43_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p43_00.jpeg)
 
 ## Chondroblastome
 
@@ -133,13 +133,13 @@ Devant une lésion osseuse riche en cellules géantes, il faut évoquer :
 - Cellules géantes dispersées
 - Mutation **H3F3B p.K36M** (IHC spécifique)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p48_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p48_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p50_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p50_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p51_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p51_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p52_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p52_00.jpeg)
 
 ## Kyste anévrismal primitif
 
@@ -148,13 +148,13 @@ Devant une lésion osseuse riche en cellules géantes, il faut évoquer :
 - Réarrangement **USP6** (FISH/biologie moléculaire) : 70%
 - DD très difficile avec TCG remaniée → H3.3 G34W distingue
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p53_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p53_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p54_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p54_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p55_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p55_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p56_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p56_00.jpeg)
 
 ## Tableau synthétique final
 
@@ -168,11 +168,11 @@ Devant une lésion osseuse riche en cellules géantes, il faut évoquer :
 | Chondroblastome | Adolescent | Épiphyse | Dispersées | **H3F3B K36M** |
 | Kyste anévrismal | Jeune | Métaphyse | Septa | **USP6** |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p60_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p60_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p61_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p61_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264 Autres lésions riches en cellules géantes/p63_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-264%20Autres%20l%C3%A9sions%20riches%20en%20cellules%20g%C3%A9antes/p63_00.jpeg)
 
 ---
 

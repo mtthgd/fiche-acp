@@ -46,7 +46,7 @@ source: DES ACP - Cours de cardio-vasculaire
   - IRM : **rehaussement tardif** sous-endocardique global ou diffus
   - Scintigraphie osseuse (DPD/HMDP) : **fixation cardiaque** = signature de l'amylose **TTR**
 
-![[assets/cardio-vasculaire/coeur/Cardiopathies secondaires DVToquet/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiopathies%20secondaires%20DVToquet/p03_01.jpeg)
 
 
 ### Macroscopie
@@ -54,7 +54,7 @@ source: DES ACP - Cours de cardio-vasculaire
 - Atteinte **biventriculaire**, étages **ventriculaire ET auriculaire**
 - **Atteinte valvulaire** : épaississement valvulaire avec **petites irrégularités de surface**
 
-![[assets/cardio-vasculaire/coeur/Cardiopathies secondaires DVToquet/p04_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiopathies%20secondaires%20DVToquet/p04_01.png)
 
 
 
@@ -73,13 +73,13 @@ source: DES ACP - Cours de cardio-vasculaire
 - **Coloration rouge Congo** : dépôts colorés en rouge brique
 - **Biréfringence vert pomme** en lumière polarisée
 
-![[assets/cardio-vasculaire/coeur/Cardiopathies secondaires DVToquet/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiopathies%20secondaires%20DVToquet/p05_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Cardiopathies secondaires DVToquet/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiopathies%20secondaires%20DVToquet/p05_01.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Cardiopathies secondaires DVToquet/p05_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiopathies%20secondaires%20DVToquet/p05_04.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Cardiopathies secondaires DVToquet/p05_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiopathies%20secondaires%20DVToquet/p05_05.jpeg)
 
 ### Diagnostic étiologique de l'amylose
 
@@ -90,15 +90,15 @@ source: DES ACP - Cours de cardio-vasculaire
 | **ATTR** (mutée ou wt) | IHC sur paraffine, génétique TTR | Tafamidis, patisiran |
 | Amyloses rares (jeunes, atypiques) | **Génétique** ou **spectrométrie de masse** | Selon typage |
 
-![[assets/cardio-vasculaire/coeur/Cardiopathies secondaires DVToquet/p06_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiopathies%20secondaires%20DVToquet/p06_00.png)
 
-![[assets/cardio-vasculaire/coeur/Cardiopathies secondaires DVToquet/p06_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiopathies%20secondaires%20DVToquet/p06_02.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Cardiopathies secondaires DVToquet/p06_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiopathies%20secondaires%20DVToquet/p06_03.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Cardiopathies secondaires DVToquet/p06_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiopathies%20secondaires%20DVToquet/p06_04.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Cardiopathies secondaires DVToquet/p06_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiopathies%20secondaires%20DVToquet/p06_05.jpeg)
 
 ## Autres cardiopathies de surcharge non amyloïdes
 
@@ -113,14 +113,14 @@ Classées selon le **substrat accumulé** (non métabolisable) ou le **niveau du
 | Autres glycogénoses (PRKAG2, AMP-kinase) | Glycogène | Hypertrophie + pré-excitation |
 
 
-![[assets/cardio-vasculaire/coeur/Cardiopathies secondaires DVToquet/p08_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiopathies%20secondaires%20DVToquet/p08_00.png)
 
-![[assets/cardio-vasculaire/coeur/Cardiopathies secondaires DVToquet/p08_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiopathies%20secondaires%20DVToquet/p08_02.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Cardiopathies secondaires DVToquet/p08_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiopathies%20secondaires%20DVToquet/p08_03.jpeg)
 
 
-![[assets/cardio-vasculaire/coeur/Cardiopathies secondaires DVToquet/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiopathies%20secondaires%20DVToquet/p09_02.jpeg)
 
 ## Cardiopathie ischémique
 
@@ -137,11 +137,11 @@ Classées selon le **substrat accumulé** (non métabolisable) ou le **niveau du
 | 1-2 sem | **Bourgeon charnu** (granulation), néovaisseaux, fibroblastes |
 | > 4-6 sem | **Cicatrice fibreuse** collagène |
 
-![[assets/cardio-vasculaire/coeur/Cardiopathies secondaires DVToquet/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiopathies%20secondaires%20DVToquet/p10_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Cardiopathies secondaires DVToquet/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiopathies%20secondaires%20DVToquet/p10_01.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Cardiopathies secondaires DVToquet/p10_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiopathies%20secondaires%20DVToquet/p10_02.jpeg)
 
 ### Complications
 - Mort subite (troubles du rythme)
@@ -152,9 +152,9 @@ Classées selon le **substrat accumulé** (non métabolisable) ou le **niveau du
 - Insuffisance cardiaque chronique (cardiopathie ischémique)
 
 
-![[assets/cardio-vasculaire/coeur/Cardiopathies secondaires DVToquet/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiopathies%20secondaires%20DVToquet/p11_01.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Cardiopathies secondaires DVToquet/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiopathies%20secondaires%20DVToquet/p11_02.jpeg)
 
 ## Cardiopathie hypertensive
 
@@ -164,9 +164,9 @@ Classées selon le **substrat accumulé** (non métabolisable) ou le **niveau du
 - DD principal : cardiomyopathie hypertrophique sarcomérique → absence de **disarray** (désorganisation architecturale)
 - Lien avec [[60_HTA - Lésions vasculaires]] (atteinte vasculaire systémique associée)
 
-![[assets/cardio-vasculaire/coeur/Cardiopathies secondaires DVToquet/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiopathies%20secondaires%20DVToquet/p12_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Cardiopathies secondaires DVToquet/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiopathies%20secondaires%20DVToquet/p12_01.jpeg)
 
 ## Cardiopathies toxiques
 
@@ -179,11 +179,11 @@ Classées selon le **substrat accumulé** (non métabolisable) ou le **niveau du
 | **Alcool** (chronique) | Toxicité directe | Dilatation, fibrose, vacuolisation |
 | **Inhibiteurs check-point (ICI)** | Myocardite auto-immune | Infiltrat T (cf. [[14_Myocardite]]) |
 
-![[assets/cardio-vasculaire/coeur/Cardiopathies secondaires DVToquet/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiopathies%20secondaires%20DVToquet/p13_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Cardiopathies secondaires DVToquet/p13_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiopathies%20secondaires%20DVToquet/p13_02.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Cardiopathies secondaires DVToquet/p13_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiopathies%20secondaires%20DVToquet/p13_04.jpeg)
 
 ## Cardiomyopathie de Takotsubo
 
@@ -195,9 +195,9 @@ Classées selon le **substrat accumulé** (non métabolisable) ou le **niveau du
 - Histologie (rare) : **bandes de contraction**, infiltrat lymphocytaire discret, **pas** de nécrose franche
 - **Récupération** complète en quelques semaines dans la majorité des cas
 
-![[assets/cardio-vasculaire/coeur/Cardiopathies secondaires DVToquet/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiopathies%20secondaires%20DVToquet/p14_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Cardiopathies secondaires DVToquet/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiopathies%20secondaires%20DVToquet/p14_01.jpeg)
 
 ## Atteinte mitochondriale
 

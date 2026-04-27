@@ -41,7 +41,7 @@ Mélanocyte → NAEVUS (anomalie driver) → MÉLANOCYTOME (2e anomalie)
 | Naevus → mélanocytome | Inactivation **BAP1**, etc. |
 | Phase invasive / métastatique | Mutations **TP53**, **PTEN**, **TERT promoter** |
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1034-Melanome/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1034-Melanome/p03_01.jpeg)
 
 ## Démarche diagnostique (rappel)
 
@@ -88,9 +88,9 @@ Critères **ABCDE** :
 | **ALM** (Acral Lentiginous Melanoma) | **Acrale** (paume, plante, ongle) ou muqueuse | **Lentigineuse** | Rare en Europe ; **70 %** chez asiatiques/peau noire |
 | **MLM** (Mucosal Lentiginous Melanoma) | Muqueuse | Lentigineuse | Rare |
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1034-Melanome/p10_01.jpeg]]
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-222-Lichen plan/p11_01.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1034-Melanome/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1034-Melanome/p10_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-222-Lichen%20plan/p11_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1034-Melanome/p12_01.jpeg)
 
 ### Composante intra-épidermique inclassable ou inexistante
 - **Régression** de la composante intra-épidermique → assimilé à **SSM** (par défaut)
@@ -156,7 +156,7 @@ Repose sur l'épaisseur **selon Breslow** + **ulcération** :
 
 La reprise prévient les **récidives locales** mais pas les métastases.
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p21_00.jpeg)
 
 ### Définition histologique de l'**ulcération**
 
@@ -164,7 +164,7 @@ La reprise prévient les **récidives locales** mais pas les métastases.
 - **Réaction de l'hôte** : dépôts de fibrine, polynucléaires neutrophiles
 - **Amincissement ou hyperplasie réactionnelle** des berges
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1034-Melanome/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1034-Melanome/p24_01.jpeg)
 
 ### Stigmates de régression de type maligne
 
@@ -181,8 +181,8 @@ Phénomène immunitaire spontané, **non rapporté dans le TNM** mais **importan
 | **Cicatriciel** | Pseudo-cicatriciel ; ne peut affirmer la régression complète qu'en contexte de **métastase ganglionnaire connue** sans primitif |
 | **Mélanophages purs** | **Le seul cas de figure formel** : tumeur exclusivement faite de mélanophages = régression complète certaine |
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p27_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1034-Melanome/p28_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p27_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1034-Melanome/p28_01.jpeg)
 
 #### Conséquences selon la localisation
 | Site de la régression | Conséquence |
@@ -243,7 +243,7 @@ Phénomène immunitaire spontané, **non rapporté dans le TNM** mais **importan
 > - **Stade pT2a**
 > - **Berges** : exérèse complète latéralement et en profondeur ; profondeur passant en derme profond / hypodermique
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057 Lymphomes B à petites cellules/p34_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1057%20Lymphomes%20B%20%C3%A0%20petites%20cellules/p34_01.jpeg)
 
 ## Diagnostics différentiels
 

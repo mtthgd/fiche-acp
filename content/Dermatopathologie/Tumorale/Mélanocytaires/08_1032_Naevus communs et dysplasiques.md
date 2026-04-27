@@ -36,7 +36,7 @@ Un **naevus** = prolifération mélanocytaire **bénigne**. Attention en anglais
 - Régression progressive chez l'adulte (« on naît et on meurt sans naevus »)
 - Rôle du **soleil** ; mutation **BRAF** dans une grande partie des naevus acquis
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1032 Naevus communs et dysplasiques/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1032%20Naevus%20communs%20et%20dysplasiques/p06_00.jpeg)
 
 ## Histogenèse — séquence évolutive
 
@@ -46,8 +46,8 @@ Peau normale → Lentigo simplex → Lentigo (début thèques)
             → Naevus dermique pur → Disparition (peau sénile)
 ```
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1032 Naevus communs et dysplasiques/p08_01.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1032 Naevus communs et dysplasiques/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1032%20Naevus%20communs%20et%20dysplasiques/p08_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1032%20Naevus%20communs%20et%20dysplasiques/p09_00.jpeg)
 
 ## Macroscopie
 
@@ -59,8 +59,8 @@ Lésions variables : planes, tubéreuses, polypoïdes, verruqueuses, molluscifor
 
 **Histologie** : épiderme **papillomateux**, fortement pigmenté, augmentation des mélanocytes le long de la basale **sur un mode exclusivement lentigineux** (pas de thèques). Disposition en file indienne.
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1032 Naevus communs et dysplasiques/p11_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1032 Naevus communs et dysplasiques/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1032%20Naevus%20communs%20et%20dysplasiques/p11_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1032%20Naevus%20communs%20et%20dysplasiques/p11_01.jpeg)
 
 ### À ne pas confondre avec
 | Entité | Particularité |
@@ -69,9 +69,9 @@ Lésions variables : planes, tubéreuses, polypoïdes, verruqueuses, molluscifor
 | **Lentigo actinique / solaire** (tache actinique) | **Lésion épithéliale, NON mélanocytaire** ; allongement des crêtes, kératinocytes pigmentés au renflement basal |
 | **Lentigo sénile (de Dubreuilh débutant)** | Peau photo-exposée, atrophie, élastose, mélanocytes **atypiques hypertrophiques** ; phase débutante du **lentigo malin (Dubreuilh)** |
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1032 Naevus communs et dysplasiques/p15_01.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1032 Naevus communs et dysplasiques/p17_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1032 Naevus communs et dysplasiques/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1032%20Naevus%20communs%20et%20dysplasiques/p15_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1032%20Naevus%20communs%20et%20dysplasiques/p17_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1032%20Naevus%20communs%20et%20dysplasiques/p18_00.jpeg)
 
 ## Naevus jonctionnel
 
@@ -79,8 +79,8 @@ Défini par l'apparition de **thèques** (boules de mélanocytes). Mélanocytes 
 
 **Cytologie** : petits mélanocytes arrondis ou ovalaires, **peu pigmentés**, volontiers clarifiés.
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1032 Naevus communs et dysplasiques/p20_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1032 Naevus communs et dysplasiques/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1032%20Naevus%20communs%20et%20dysplasiques/p20_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1032%20Naevus%20communs%20et%20dysplasiques/p21_00.jpeg)
 
 > ⚠️ Ne pas confondre avec le **naevus épidermique** (= *epidermal nevus* = hamartome épidermique chez l'enfant : hyperkératose orthokératosique, acanthose, hypergranulose, papillomatose).
 
@@ -95,15 +95,15 @@ Association : **composante jonctionnelle + composante dermique**.
 - Partie supérieure dermique : mélanocytes volumineux, cytoplasme abondant éosinophile, pigmentés ; rares mitoses superficielles **sans valeur péjorative** ; cellules multinucléées, inclusions nucléaires possibles
 - Partie inférieure : mélanocytes **plus petits, plus basophiles** ; artefacts de clivage (pseudo-vasculaire)
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1032 Naevus communs et dysplasiques/p23_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1032 Naevus communs et dysplasiques/p26_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1032 Naevus communs et dysplasiques/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1032%20Naevus%20communs%20et%20dysplasiques/p23_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1032%20Naevus%20communs%20et%20dysplasiques/p26_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1032%20Naevus%20communs%20et%20dysplasiques/p27_00.jpeg)
 
 ## Naevus dermique
 
 Naevus **purement intra-dermique** (sans composante jonctionnelle) ; type le plus fréquent **chez l'adulte**.
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1032 Naevus communs et dysplasiques/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1032%20Naevus%20communs%20et%20dysplasiques/p30_00.jpeg)
 
 ## Variantes morphologiques et évolutives
 
@@ -117,8 +117,8 @@ Naevus **purement intra-dermique** (sans composante jonctionnelle) ; type le plu
 - Mélanocytes parfois dystrophiques, vaisseaux turgescents
 - IHC parfois utile pour révéler les mélanocytes au sein de l'infiltrat
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1032 Naevus communs et dysplasiques/p35_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1032 Naevus communs et dysplasiques/p38_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1032%20Naevus%20communs%20et%20dysplasiques/p35_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1032%20Naevus%20communs%20et%20dysplasiques/p38_00.jpeg)
 
 **DD principal** : halo-mélanome ou mélanome en cours de régression.
 
@@ -133,8 +133,8 @@ Naevus **purement intra-dermique** (sans composante jonctionnelle) ; type le plu
 - Mélanocytes **très pigmentés**, mélanine grossière
 - HMB45 conserve un **gradient de marquage** ; Ki67 faible
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1032 Naevus communs et dysplasiques/p43_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1032 Naevus communs et dysplasiques/p44_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1032%20Naevus%20communs%20et%20dysplasiques/p43_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1032%20Naevus%20communs%20et%20dysplasiques/p44_00.jpeg)
 
 **DD principal et piégeur** : récidive intra-épidermique d'un mélanome (atypies marquées, dépassement de la cicatrice).
 
@@ -142,14 +142,14 @@ Naevus **purement intra-dermique** (sans composante jonctionnelle) ; type le plu
 
 Inflexion **neuroïde** intense, étendue à la partie supérieure (normalement limitée à la base).
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1032 Naevus communs et dysplasiques/p47_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1032%20Naevus%20communs%20et%20dysplasiques/p47_00.jpeg)
 
 ### Naevus à cellules lipidiques (lipo-naevus, naevus en involution adipeuse)
 
 - Femme ≈ 50 ans, région céphalique
 - Adipocytes nombreux dans le naevus, **inversement proportionnels** au nombre de mélanocytes (involution)
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1032 Naevus communs et dysplasiques/p48_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1032%20Naevus%20communs%20et%20dysplasiques/p48_00.jpeg)
 
 ### Naevus dystrophique (« ancient nevus »)
 
@@ -159,8 +159,8 @@ Inflexion **neuroïde** intense, étendue à la partie supérieure (normalement 
 - **Architecture organoïde conservée + maturation** + pas de migration pagétoïde
 - L'œil est attiré par les atypies cytologiques, mais **pas de critères architecturaux de malignité**
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1032 Naevus communs et dysplasiques/p52_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1032 Naevus communs et dysplasiques/p53_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1032%20Naevus%20communs%20et%20dysplasiques/p52_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1032%20Naevus%20communs%20et%20dysplasiques/p53_00.jpeg)
 
 ### Naevus à cellules ballonisantes
 
@@ -171,19 +171,19 @@ Inflexion **neuroïde** intense, étendue à la partie supérieure (normalement 
 
 **DD** : mélanome à cellules ballonisantes (sujet âgé, ulcération, pagétoïde, mitoses profondes).
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1032 Naevus communs et dysplasiques/p56_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1032%20Naevus%20communs%20et%20dysplasiques/p56_00.jpeg)
 
 ### Naevus de Meyerson
 
 Phénomènes **eczématiformes** surajoutés (hyperplasie épidermique régulière, spongiose, parakératose humide) sur un naevus banal.
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1032 Naevus communs et dysplasiques/p58_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1032%20Naevus%20communs%20et%20dysplasiques/p58_00.jpeg)
 
 ### Folliculite kystique sur naevus
 
 Naevus pileux du visage, femme jeune ; folliculite banale (micro-abcès de polynucléaires, granulomes giganto-cellulaires) sous un naevus.
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1032 Naevus communs et dysplasiques/p60_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1032%20Naevus%20communs%20et%20dysplasiques/p60_00.jpeg)
 
 ## Naevus dysplasique
 

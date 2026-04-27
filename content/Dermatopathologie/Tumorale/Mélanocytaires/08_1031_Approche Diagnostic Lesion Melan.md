@@ -35,7 +35,7 @@ L'approche diagnostique d'une lésion mélanocytaire est **structurée en 4 éta
 - **Risque de faux négatifs après 45-50 ans** (mélanomes simulant des naevus)
 - Chez le nouveau-né : tolérer jusqu'à 1 an certaines images qui seraient considérées comme mélaniques chez l'adulte
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1031 Approche diagnostique des lésions mélanocytaires/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1031%20Approche%20diagnostique%20des%20l%C3%A9sions%20m%C3%A9lanocytaires/p03_01.jpeg)
 
 ### Siège lésionnel — sites à risque de **faux positifs**
 - **Zones génitales** (naevus de type génital)
@@ -44,7 +44,7 @@ L'approche diagnostique d'une lésion mélanocytaire est **structurée en 4 éta
 - **Cheville**
 - **Tronc** : piège majeur (naevus du tronc, syndrome des naevus atypiques, mélanome lentigineux du sujet âgé = équivalent SSM)
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1031 Approche diagnostique des lésions mélanocytaires/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1031%20Approche%20diagnostique%20des%20l%C3%A9sions%20m%C3%A9lanocytaires/p04_01.jpeg)
 
 ### Anamnèse
 | Anamnèse | Orientation |
@@ -60,7 +60,7 @@ L'approche diagnostique d'une lésion mélanocytaire est **structurée en 4 éta
 - Biopsie/exérèse antérieure → cicatrice visible
 - Cryothérapie antérieure → **collagène hyalin** caractéristique
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1031 Approche diagnostique des lésions mélanocytaires/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1031%20Approche%20diagnostique%20des%20l%C3%A9sions%20m%C3%A9lanocytaires/p05_01.jpeg)
 
 ### Aspect clinique — critères ABCDE
 - **A** = **A**symétrie
@@ -69,7 +69,7 @@ L'approche diagnostique d'une lésion mélanocytaire est **structurée en 4 éta
 - **D** = **D**iamètre > 6 mm (vraiment grand si > 10 mm)
 - **E** = **É**volution récente
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1031 Approche diagnostique des lésions mélanocytaires/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1031%20Approche%20diagnostique%20des%20l%C3%A9sions%20m%C3%A9lanocytaires/p07_01.jpeg)
 
 > **Règle d'or** : **toujours tenir compte de l'inquiétude du clinicien**. Si le clinicien est inquiet et l'anatomopathologiste rassuré, **trouver une explication** à cette inquiétude.
 
@@ -85,8 +85,8 @@ Avant de mettre la lame au microscope : **regarder à l'œil nu** (lumière du j
 | **Silhouette** | Symétrique (vert, bénin) vs asymétrique (rouge, suspect) |
 | **Profils caractéristiques** | Battant de cloche (naevus bleu cellulaire), profil spitzien, profil congénital |
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1031 Approche diagnostique des lésions mélanocytaires/p09_01.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1031 Approche diagnostique des lésions mélanocytaires/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1031%20Approche%20diagnostique%20des%20l%C3%A9sions%20m%C3%A9lanocytaires/p09_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1031%20Approche%20diagnostique%20des%20l%C3%A9sions%20m%C3%A9lanocytaires/p10_01.jpeg)
 
 ## Étape 3 — Analyse microscopique
 
@@ -96,7 +96,7 @@ Avant de mettre la lame au microscope : **regarder à l'œil nu** (lumière du j
 - **Dermique pure**
 - **Dermo-hypodermique**
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1031 Approche diagnostique des lésions mélanocytaires/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1031%20Approche%20diagnostique%20des%20l%C3%A9sions%20m%C3%A9lanocytaires/p12_02.jpeg)
 
 ### Composante intra-épidermique
 
@@ -139,15 +139,15 @@ Avant de mettre la lame au microscope : **regarder à l'œil nu** (lumière du j
 - Cytologie identique ou différente entre épiderme et derme ?
 - **Mitoses dermiques** : compter par mm² ; **mitoses profondes > superficielles** en valeur
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1031 Approche diagnostique des lésions mélanocytaires/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1031%20Approche%20diagnostique%20des%20l%C3%A9sions%20m%C3%A9lanocytaires/p21_01.jpeg)
 
 ### Réaction de l'hôte
 - Épiderme : psoriasiforme, hyperplasique, **atrophique** (inquiétant), ulcéré
 - Derme : cicatrice, stigmates de régression, stroma fibreux desmoplastique
 - **Inflammation** (« le lymphocyte est meilleur que le pathologiste pour détecter les atypies ») : chercher une explication (traumatisme, halo-naevus, mélanome in situ débutant infiltrant, régression)
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1031 Approche diagnostique des lésions mélanocytaires/p22_01.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1031 Approche diagnostique des lésions mélanocytaires/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1031%20Approche%20diagnostique%20des%20l%C3%A9sions%20m%C3%A9lanocytaires/p22_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1031%20Approche%20diagnostique%20des%20l%C3%A9sions%20m%C3%A9lanocytaires/p23_01.jpeg)
 
 ## Étape 4 — Immunohistochimie : les **4 mousquetaires**
 
@@ -158,7 +158,7 @@ Avant de mettre la lame au microscope : **regarder à l'œil nu** (lumière du j
 | **p16** | Perte = signe d'agressivité (avec FISH 9p21) |
 | **Ki67** | Taux de prolifération |
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1031 Approche diagnostique des lésions mélanocytaires/p27_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1031%20Approche%20diagnostique%20des%20l%C3%A9sions%20m%C3%A9lanocytaires/p27_01.jpeg)
 
 ### Melan A / A103
 - Toute tumeur mélanique = Melan A+ normalement
@@ -173,9 +173,9 @@ Avant de mettre la lame au microscope : **regarder à l'œil nu** (lumière du j
 | Diffusément positif | Variable : bénin si naevus bleu cellulaire / DPN ; rare clone HMB45+ dans naevus composite ou nodule de prolifération |
 | Totalement négatif | Variable : naevus communs, Spitz, mais aussi 20 % des mélanomes |
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1031 Approche diagnostique des lésions mélanocytaires/p28_01.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1031 Approche diagnostique des lésions mélanocytaires/p29_01.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1031 Approche diagnostique des lésions mélanocytaires/p30_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1031%20Approche%20diagnostique%20des%20l%C3%A9sions%20m%C3%A9lanocytaires/p28_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1031%20Approche%20diagnostique%20des%20l%C3%A9sions%20m%C3%A9lanocytaires/p29_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1031%20Approche%20diagnostique%20des%20l%C3%A9sions%20m%C3%A9lanocytaires/p30_06.jpeg)
 
 ### p16
 - Inhibiteur de **CDK4** (passage G1 → S)
@@ -184,16 +184,16 @@ Avant de mettre la lame au microscope : **regarder à l'œil nu** (lumière du j
 - p16 négatif → **demander FISH 9p21** dans les lésions ambiguës
 - p16 positif ou hétérogène mosaïque = non informatif (FISH inutile)
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1031 Approche diagnostique des lésions mélanocytaires/p31_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1031 Approche diagnostique des lésions mélanocytaires/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1031%20Approche%20diagnostique%20des%20l%C3%A9sions%20m%C3%A9lanocytaires/p31_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1031%20Approche%20diagnostique%20des%20l%C3%A9sions%20m%C3%A9lanocytaires/p32_00.jpeg)
 
 ### Ki67
 - Naevus : **< 5 %** habituellement
 - Mélanome : **> 20 %** en règle
 - Exceptions : mélanomes peu prolifératifs ; naevus de Spitz parfois > 5 %
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1031 Approche diagnostique des lésions mélanocytaires/p33_02.jpeg]]
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1031 Approche diagnostique des lésions mélanocytaires/p34_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1031%20Approche%20diagnostique%20des%20l%C3%A9sions%20m%C3%A9lanocytaires/p33_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1031%20Approche%20diagnostique%20des%20l%C3%A9sions%20m%C3%A9lanocytaires/p34_01.jpeg)
 
 ## Étape 5 — Outils moléculaires
 
@@ -203,7 +203,7 @@ Basés sur la **classification morpho-moléculaire OMS 2018** des tumeurs mélan
 - Problématique **bénin/malin** : **FISH** (4 couleurs, 9p21) ou **CGH array**
 - Problématique **théragnostique** : **NGS** ou **Cobas** (recherche de cibles, principalement BRAF)
 
-![[assets/dermato/tumorale/tumeurs-melanocytaires/08-1031 Approche diagnostique des lésions mélanocytaires/p35_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-melanocytaires/08-1031%20Approche%20diagnostique%20des%20l%C3%A9sions%20m%C3%A9lanocytaires/p35_01.jpeg)
 
 ## Diagnostics différentiels
 

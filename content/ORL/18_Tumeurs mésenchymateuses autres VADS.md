@@ -126,7 +126,7 @@ Les VADS sont le siège de tumeurs mésenchymateuses bénignes variées, souvent
 - Pas d'atypie, pas de mitose
 - Calcifications/ossification possibles
 
-![[assets/ORL/VADS/tumeurs_benignes/10.229 Tumeurs mesenchymateuses autres/p21_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/tumeurs_benignes/10.229%20Tumeurs%20mesenchymateuses%20autres/p21_00.png)
 
 ### Diagnostics différentiels
 
@@ -162,7 +162,7 @@ Les VADS sont le siège de tumeurs mésenchymateuses bénignes variées, souvent
   - **Hypocellulaire fusiforme** (fibreux)
 - Atypies légères possibles, mitoses non atypiques
 
-![[assets/ORL/VADS/tumeurs_benignes/10.229 Tumeurs mesenchymateuses autres/p28_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/tumeurs_benignes/10.229%20Tumeurs%20mesenchymateuses%20autres/p28_00.png)
 
 ### Critères de suspicion de malignité
 - Hypercellularité

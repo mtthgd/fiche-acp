@@ -61,9 +61,9 @@ Confrontation **clinico-biologique** indispensable car nombreuses causes mimant 
     - **Profonde** (éviter zones sous-corticales physiologiquement adipeuses)
     - Sans artefact
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-520_Lesions reactionelles Moelle hematopoietique/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-520_Lesions%20reactionelles%20Moelle%20hematopoietique/p09_00.jpeg)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-520_Lesions reactionelles Moelle hematopoietique/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-520_Lesions%20reactionelles%20Moelle%20hematopoietique/p09_01.jpeg)
 
 ### Histologie
 - Espaces médullaires remplacés par du **tissu adipeux**
@@ -76,9 +76,9 @@ Confrontation **clinico-biologique** indispensable car nombreuses causes mimant 
     - Présence ou non de **signes de régénération**
     - Recherche de **signes péjoratifs**
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-520_Lesions reactionelles Moelle hematopoietique/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-520_Lesions%20reactionelles%20Moelle%20hematopoietique/p10_00.jpeg)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-520_Lesions reactionelles Moelle hematopoietique/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-520_Lesions%20reactionelles%20Moelle%20hematopoietique/p10_01.jpeg)
 
 ### Diagnostics différentiels
 - **Leucémie à tricholeucocytes (HCL)** : infiltrat interstitiel diffus, cytoplasme clair, **DBA44**, **annexine A1**, **BRAF V600E**
@@ -92,11 +92,11 @@ Confrontation **clinico-biologique** indispensable car nombreuses causes mimant 
 - **Hyperéosinophilie** : parasitose, médicaments, lymphome (**Hodgkin** ++)
 - DD tumoral majeur : **leucémie myéloïde chronique** (LMC, BCR-ABL), **syndrome hyperéosinophilique** clonal
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-520_Lesions reactionelles Moelle hematopoietique/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-520_Lesions%20reactionelles%20Moelle%20hematopoietique/p13_00.jpeg)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-520_Lesions reactionelles Moelle hematopoietique/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-520_Lesions%20reactionelles%20Moelle%20hematopoietique/p13_01.jpeg)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-520_Lesions reactionelles Moelle hematopoietique/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-520_Lesions%20reactionelles%20Moelle%20hematopoietique/p14_00.jpeg)
 
 ### Hyperplasie érythroblastique
 - Réactionnelle : **séjour en altitude**, hypoxie chronique, hémolyse, hémorragie
@@ -112,11 +112,11 @@ Confrontation **clinico-biologique** indispensable car nombreuses causes mimant 
 
 > ⚠️ Ces tableaux sont **hautement trompeurs** : la confrontation **clinico-biologique** est indispensable pour ne pas porter à tort un diagnostic de syndrome myéloprolifératif ou myélodysplasique.
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-520_Lesions reactionelles Moelle hematopoietique/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-520_Lesions%20reactionelles%20Moelle%20hematopoietique/p07_00.jpeg)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-520_Lesions reactionelles Moelle hematopoietique/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-520_Lesions%20reactionelles%20Moelle%20hematopoietique/p07_01.jpeg)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-520_Lesions reactionelles Moelle hematopoietique/p07_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-520_Lesions%20reactionelles%20Moelle%20hematopoietique/p07_02.jpeg)
 
 ## 4. Modifications réactionnelles dans des contextes particuliers
 
@@ -125,11 +125,11 @@ Confrontation **clinico-biologique** indispensable car nombreuses causes mimant 
 - BOM : **hyperplasie érythroblastique** avec **proérythroblastes géants**, blocage de maturation, mégaloblastoïde
 - Inclusions virales intra-nucléaires possibles
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-520_Lesions reactionelles Moelle hematopoietique/p07_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-520_Lesions%20reactionelles%20Moelle%20hematopoietique/p07_03.jpeg)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-520_Lesions reactionelles Moelle hematopoietique/p07_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-520_Lesions%20reactionelles%20Moelle%20hematopoietique/p07_04.jpeg)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-520_Lesions reactionelles Moelle hematopoietique/p07_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-520_Lesions%20reactionelles%20Moelle%20hematopoietique/p07_05.jpeg)
 
 ### Carences (folates, vitamine B12)
 - **Mégaloblastoïde** : grandes cellules érythroïdes immatures
@@ -143,15 +143,15 @@ Confrontation **clinico-biologique** indispensable car nombreuses causes mimant 
     - Sinus dilatés contenant des hématies (« hématopoïèse extra-médullaire »)
 - → Renseignements cliniques **indispensables**
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-520_Lesions reactionelles Moelle hematopoietique/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-520_Lesions%20reactionelles%20Moelle%20hematopoietique/p04_00.jpeg)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-520_Lesions reactionelles Moelle hematopoietique/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-520_Lesions%20reactionelles%20Moelle%20hematopoietique/p04_01.jpeg)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-520_Lesions reactionelles Moelle hematopoietique/p04_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-520_Lesions%20reactionelles%20Moelle%20hematopoietique/p04_02.jpeg)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-520_Lesions reactionelles Moelle hematopoietique/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-520_Lesions%20reactionelles%20Moelle%20hematopoietique/p05_00.jpeg)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-520_Lesions reactionelles Moelle hematopoietique/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-520_Lesions%20reactionelles%20Moelle%20hematopoietique/p05_01.jpeg)
 
 ## 5. Lésions iatrogènes
 
@@ -164,11 +164,11 @@ Confrontation **clinico-biologique** indispensable car nombreuses causes mimant 
     - Hypoplasie érythroïde, plasmocytose, lymphocytose, mastocytose, **dépôts de fer**
     - Mégacaryocytes parfois atypiques (dispersés, mêmes états de maturation)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-520_Lesions reactionelles Moelle hematopoietique/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-520_Lesions%20reactionelles%20Moelle%20hematopoietique/p12_00.jpeg)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-520_Lesions reactionelles Moelle hematopoietique/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-520_Lesions%20reactionelles%20Moelle%20hematopoietique/p12_01.jpeg)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-520_Lesions reactionelles Moelle hematopoietique/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-520_Lesions%20reactionelles%20Moelle%20hematopoietique/p12_02.jpeg)
 
 > ⚠️ Dans un contexte post-chimiothérapie, ces aspects sont à intégrer comme **réactionnels** et **non comme une myélodysplasie**.
 
@@ -188,9 +188,9 @@ Confrontation **clinico-biologique** indispensable car nombreuses causes mimant 
 - **Perte d’expression du CD20** sur les cellules B (tumorales et normales)
 - → Toujours **associer CD79a** ± **PAX5** dans le suivi des **lymphomes B** traités par anti-CD20
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-520_Lesions reactionelles Moelle hematopoietique/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-520_Lesions%20reactionelles%20Moelle%20hematopoietique/p15_00.jpeg)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-520_Lesions reactionelles Moelle hematopoietique/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-520_Lesions%20reactionelles%20Moelle%20hematopoietique/p15_01.jpeg)
 
 ### Facteurs de croissance
 
@@ -202,9 +202,9 @@ Confrontation **clinico-biologique** indispensable car nombreuses causes mimant 
 
 > ⚠️ Sans renseignement clinique sur le traitement, ces tableaux peuvent être **piégés** et conduire à un faux diagnostic de myélodysplasie.
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-520_Lesions reactionelles Moelle hematopoietique/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-520_Lesions%20reactionelles%20Moelle%20hematopoietique/p14_01.jpeg)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-520_Lesions reactionelles Moelle hematopoietique/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-520_Lesions%20reactionelles%20Moelle%20hematopoietique/p14_02.jpeg)
 
 ## 6. Autres lésions réactionnelles élémentaires
 
@@ -216,11 +216,11 @@ Confrontation **clinico-biologique** indispensable car nombreuses causes mimant 
 | **Œdème** | Espaces clairs interstitiels | Toxique, allergique, post-chimio |
 | **Fibrose réactionnelle** | Réticuline ↑ Gordon-Sweet | Toxique, post-RT, métastase, NMP réactionnelle |
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-520_Lesions reactionelles Moelle hematopoietique/p05_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-520_Lesions%20reactionelles%20Moelle%20hematopoietique/p05_02.jpeg)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-520_Lesions reactionelles Moelle hematopoietique/p05_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-520_Lesions%20reactionelles%20Moelle%20hematopoietique/p05_03.jpeg)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-520_Lesions reactionelles Moelle hematopoietique/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-520_Lesions%20reactionelles%20Moelle%20hematopoietique/p06_00.jpeg)
 
 ## Diagnostics différentiels (synthèse)
 

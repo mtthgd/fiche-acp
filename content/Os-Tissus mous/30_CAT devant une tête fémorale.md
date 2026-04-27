@@ -32,7 +32,7 @@ Savoir prendre en charge une tête fémorale en macroscopie et faire le diagnost
 - Longueur du ligament rond (intérêt limité)
 
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p05_01.jpeg)
 
 ### Inspection avant ouverture — 4 items
 
@@ -48,19 +48,19 @@ Savoir prendre en charge une tête fémorale en macroscopie et faire le diagnost
 - Rechercher : **kystes sous-chondraux, foyer d'ostéonécrose, tumeur**
 - Prélèvements : 1 tranche frontale en 4 blocs (ou **mégacassette**) ; si fracture/tumeur → prélèvements du col ± tumeur non nécrosée (éviter la décalcification si possible)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p07_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p07_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p08_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p09_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p10_00.jpeg)
 
 Tête normale : sphéricité conservée, cartilage d'épaisseur normale (plus épais au sommet).
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p15_00.jpeg)
 
 ---
 
@@ -75,9 +75,9 @@ Tête normale : sphéricité conservée, cartilage d'épaisseur normale (plus é
 - **Pseudokystes sous-chondraux** (géodes) : sans paroi propre, contenu gélatineux/fibreux (infiltration du liquide articulaire)
 - **Ostéophytes** dans les zones de décharge (périphérie)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p22_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p23_00.jpeg)
 
 ### Microscopie
 
@@ -88,21 +88,21 @@ Tête normale : sphéricité conservée, cartilage d'épaisseur normale (plus é
 - Synoviale : **infiltrat lymphocytaire nodulaire périvasculaire** normal ; **pas de PNN** ; débris osseux/cartilagineux
 - **Corps libres intra-articulaires** : os spongieux + coiffe cartilagineuse
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p26_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p27_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p28_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p29_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p30_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p31_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p32_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p33_00.jpeg)
 
 ---
 
@@ -126,9 +126,9 @@ Tête normale : sphéricité conservée, cartilage d'épaisseur normale (plus é
 | **Ostéoarthrite infectieuse** | **PNN dans l'os ou la synoviale** (anormal) |
 | **ONA évoluée** avec arthrose secondaire | Foyer jaune pâle triangulaire, cartilage en coquille d'œuf |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p42_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p42_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p47_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p47_00.jpeg)
 
 ---
 
@@ -163,21 +163,21 @@ Nécrose ischémique dans le territoire osseux sous-chondral. Foyer **triangulai
 - **Cartilage en coquille d'œuf** : plissé, se décolle facilement
 - Stade 4 : foyer nécrotique réduit, ostéophytes, kystes sous-chondraux (prise à tort pour arthrose primitive)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p53_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p53_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p58_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p58_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p65_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p65_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p66_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p66_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p67_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p67_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p67_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p67_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p68_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p68_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p69_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p69_00.jpeg)
 
 ### Microscopie
 
@@ -189,23 +189,23 @@ Nécrose ischémique dans le territoire osseux sous-chondral. Foyer **triangulai
 - **Pas d'infiltrat inflammatoire, pas de PNN** ++++
 - Stade évolué : trait de fracture juste sous la plaque osseuse sous-chondrale (reste accrochée au cartilage)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p71_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p71_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p72_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p72_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p74_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p74_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p75_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p75_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p76_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p76_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p77_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p77_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p78_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p78_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p79_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p79_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212 Prise en charge dune tête fémorale/p80_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-212%20Prise%20en%20charge%20dune%20t%C3%AAte%20f%C3%A9morale/p80_00.jpeg)
 
 ---
 

@@ -127,7 +127,7 @@ La spectrophotométrie **quantifie toutes les bases azotées sans distinction** 
 → Pour les manipulations sensibles (NGS, **surtout sur FFPE**), la spectrophotométrie est **à proscrire** comme méthode unique.
 
 
-![[assets/pathologie-moleculaire/rappels-adn/16-180 Qualification et quantification des acides nucléiques/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-180%20Qualification%20et%20quantification%20des%20acides%20nucl%C3%A9iques/p08_01.jpeg)
 
 
 

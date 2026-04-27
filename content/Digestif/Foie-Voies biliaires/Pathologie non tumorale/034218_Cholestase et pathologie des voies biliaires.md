@@ -210,7 +210,7 @@ Cholestase **ictérique**.
 - **Ductules périportales** + **fibrose**
 - Fibrose **extensive** → **cirrhose biliaire secondaire**
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p15_01.jpeg)
 
 ## 6. Sepsis (cholestase septique)
 

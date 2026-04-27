@@ -28,7 +28,7 @@ Les tumeurs malignes de l'oreille se classent selon leur localisation :
 | **Conduit auditif externe (CAE)** | **Carcinome épidermoïde** (80 %), adénocarcinome cérumineux SAI, **carcinome adénoïde kystique**, **carcinome mucoépidermoïde** |
 | **Oreille moyenne / interne** | **Carcinome épidermoïde**, **tumeur du sac endolymphatique** |
 
-![[assets/ORL/oreille/pathologie_tumorale/10-532 Tm maligne oreille/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-532%20Tm%20maligne%20oreille/p03_00.jpeg)
 
 # I. PAVILLON (OREILLE EXTERNE)
 
@@ -54,9 +54,9 @@ Aspect classique de **carcinome épidermoïde**, kératinisant, parfois variants
 - **Acantholytique**
 - Type **adénoïde** (pseudo-glandulaire)
 
-![[assets/ORL/oreille/pathologie_tumorale/10-532 Tm maligne oreille/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-532%20Tm%20maligne%20oreille/p04_00.jpeg)
 
-![[assets/ORL/oreille/pathologie_tumorale/10-532 Tm maligne oreille/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-532%20Tm%20maligne%20oreille/p04_01.jpeg)
 
 ## Tumeurs glandulaires du CAE (« sérumineuses » dans l'OMS)
 
@@ -73,9 +73,9 @@ Les glandes cérumineuses sont des **glandes apocrines modifiées**. Les tumeurs
 
 DD avec adénome cérumineux : caractère infiltrant, atypies, mitoses, nécrose.
 
-![[assets/ORL/oreille/pathologie_tumorale/10-532 Tm maligne oreille/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-532%20Tm%20maligne%20oreille/p05_00.jpeg)
 
-![[assets/ORL/oreille/pathologie_tumorale/10-532 Tm maligne oreille/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-532%20Tm%20maligne%20oreille/p05_01.jpeg)
 
 ### Carcinome adénoïde kystique cérumineux
 
@@ -86,9 +86,9 @@ DD avec adénome cérumineux : caractère infiltrant, atypies, mitoses, nécrose
 - Mutation **MYB** caractéristique
 - Pour détails moléculaires et histologiques : voir [[60_Carcinome adénoïde kystique]]
 
-![[assets/ORL/oreille/pathologie_tumorale/10-532 Tm maligne oreille/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-532%20Tm%20maligne%20oreille/p06_00.jpeg)
 
-![[assets/ORL/oreille/pathologie_tumorale/10-532 Tm maligne oreille/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-532%20Tm%20maligne%20oreille/p06_01.jpeg)
 
 ### Carcinome mucoépidermoïde cérumineux
 
@@ -129,17 +129,17 @@ Plus rares, dérivent des glandes sudorales du CAE (non développés ici).
 - **Vascularisation très importante**, située directement **sous la couche de cellules épithéliales** (réseau capillaire sous-épithélial caractéristique)
 - Lumières kystiques contenant un **matériel de sécrétion éosinophile**
 
-![[assets/ORL/oreille/pathologie_tumorale/10-532 Tm maligne oreille/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-532%20Tm%20maligne%20oreille/p10_00.jpeg)
 
-![[assets/ORL/oreille/pathologie_tumorale/10-532 Tm maligne oreille/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-532%20Tm%20maligne%20oreille/p10_01.jpeg)
 
-![[assets/ORL/oreille/pathologie_tumorale/10-532 Tm maligne oreille/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-532%20Tm%20maligne%20oreille/p11_00.jpeg)
 
-![[assets/ORL/oreille/pathologie_tumorale/10-532 Tm maligne oreille/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-532%20Tm%20maligne%20oreille/p11_01.jpeg)
 
-![[assets/ORL/oreille/pathologie_tumorale/10-532 Tm maligne oreille/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-532%20Tm%20maligne%20oreille/p12_00.jpeg)
 
-![[assets/ORL/oreille/pathologie_tumorale/10-532 Tm maligne oreille/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_tumorale/10-532%20Tm%20maligne%20oreille/p12_01.jpeg)
 
 ### Immunohistochimie
 

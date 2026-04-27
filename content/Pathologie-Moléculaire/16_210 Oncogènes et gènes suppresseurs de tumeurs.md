@@ -54,7 +54,7 @@ Processus **darwinien** de sélection naturelle agissant sur des mutations aléa
 | **Régulateurs du cycle cellulaire** | Cycle | **Cycline D1** |
 
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-210 Oncogènes et gènes suppresseurs de tumeursJanvier/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-210%20Oncog%C3%A8nes%20et%20g%C3%A8nes%20suppresseurs%20de%20tumeursJanvier/p06_00.jpeg)
 
 ### Mécanismes d’activation moléculaire
 
@@ -68,13 +68,13 @@ Processus **darwinien** de sélection naturelle agissant sur des mutations aléa
 | **Dérégulation d’expression** | Surexpression sans modification de séquence | Cyclin D1 |
 | **Stabilisation d’ARNm** | ↑ ARNm de l’oncoprotéine | — |
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-210 Oncogènes et gènes suppresseurs de tumeursJanvier/p11_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-210%20Oncog%C3%A8nes%20et%20g%C3%A8nes%20suppresseurs%20de%20tumeursJanvier/p11_00.png)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-210 Oncogènes et gènes suppresseurs de tumeursJanvier/p13_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-210%20Oncog%C3%A8nes%20et%20g%C3%A8nes%20suppresseurs%20de%20tumeursJanvier/p13_00.png)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-210 Oncogènes et gènes suppresseurs de tumeursJanvier/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-210%20Oncog%C3%A8nes%20et%20g%C3%A8nes%20suppresseurs%20de%20tumeursJanvier/p14_00.jpeg)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-210 Oncogènes et gènes suppresseurs de tumeursJanvier/p15_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-210%20Oncog%C3%A8nes%20et%20g%C3%A8nes%20suppresseurs%20de%20tumeursJanvier/p15_00.png)
 
 ### Cas particulier : intégration virale (mécanisme historique)
 
@@ -86,9 +86,9 @@ Processus **darwinien** de sélection naturelle agissant sur des mutations aléa
 
 De plus en plus décrits, non seulement dans les sarcomes mais aussi dans des tumeurs **épithéliales**. Catalogue actualisé en ligne (Mitelman database, COSMIC).
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-210 Oncogènes et gènes suppresseurs de tumeursJanvier/p16_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-210%20Oncog%C3%A8nes%20et%20g%C3%A8nes%20suppresseurs%20de%20tumeursJanvier/p16_00.png)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-210 Oncogènes et gènes suppresseurs de tumeursJanvier/p17_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-210%20Oncog%C3%A8nes%20et%20g%C3%A8nes%20suppresseurs%20de%20tumeursJanvier/p17_00.png)
 
 ### Coopération oncogénique
 
@@ -110,9 +110,9 @@ Gènes qui :
 2. **2ᵉ étape** : mutation somatique acquise sur le **second allèle** au même locus (mutation, **perte d’hétérozygotie**, ou **méthylation aberrante** du promoteur)
 3. → inactivation totale → développement tumoral
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-210 Oncogènes et gènes suppresseurs de tumeursJanvier/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-210%20Oncog%C3%A8nes%20et%20g%C3%A8nes%20suppresseurs%20de%20tumeursJanvier/p18_00.jpeg)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-210 Oncogènes et gènes suppresseurs de tumeursJanvier/p19_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-210%20Oncog%C3%A8nes%20et%20g%C3%A8nes%20suppresseurs%20de%20tumeursJanvier/p19_00.png)
 
 ### Mécanismes d’inactivation
 
@@ -130,9 +130,9 @@ Gènes qui :
 
 > ⚠ La perte d’hétérozygotie peut être **difficile à interpréter** (déséquilibre allélique parfois dû à du **stroma non tumoral**).
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-210 Oncogènes et gènes suppresseurs de tumeursJanvier/p20_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-210%20Oncog%C3%A8nes%20et%20g%C3%A8nes%20suppresseurs%20de%20tumeursJanvier/p20_00.png)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-210 Oncogènes et gènes suppresseurs de tumeursJanvier/p21_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-210%20Oncog%C3%A8nes%20et%20g%C3%A8nes%20suppresseurs%20de%20tumeursJanvier/p21_00.png)
 
 ### Principaux gènes suppresseurs et syndromes héréditaires
 
@@ -148,7 +148,7 @@ Gènes qui :
 | **PTEN** | Cowden |
 | **CDH1** | Cancer gastrique diffus héréditaire |
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-210 Oncogènes et gènes suppresseurs de tumeursJanvier/p23_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-210%20Oncog%C3%A8nes%20et%20g%C3%A8nes%20suppresseurs%20de%20tumeursJanvier/p23_00.png)
 
 ## Voie RB / E2F / P21 / P53 — point central de contrôle G1/S
 
@@ -162,11 +162,11 @@ Les anti-oncogènes agissent principalement à la **transition G1/S**, sous dép
 4. Inhibiteurs (**CKI**) : **p16 (CDKN2A), p15, p18, p19, p21, p27, p57** se fixent sur les complexes Cycline/CDK et empêchent leur formation
 5. **p21 (CDKN1A)** = inhibiteur **universel** des CDK, transcrit par **TP53**
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-210 Oncogènes et gènes suppresseurs de tumeursJanvier/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-210%20Oncog%C3%A8nes%20et%20g%C3%A8nes%20suppresseurs%20de%20tumeursJanvier/p24_00.jpeg)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-210 Oncogènes et gènes suppresseurs de tumeursJanvier/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-210%20Oncog%C3%A8nes%20et%20g%C3%A8nes%20suppresseurs%20de%20tumeursJanvier/p25_00.jpeg)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-210 Oncogènes et gènes suppresseurs de tumeursJanvier/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-210%20Oncog%C3%A8nes%20et%20g%C3%A8nes%20suppresseurs%20de%20tumeursJanvier/p27_00.jpeg)
 
 ## La protéine p53 — « gardien du génome »
 
@@ -199,16 +199,16 @@ Toute lésion ADN → ATM/ATR → CHK1/CHK2 → ↑ p53 stable → :
 - **Perte des facteurs de survie**
 - **Chimiorésistance**
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-210 Oncogènes et gènes suppresseurs de tumeursJanvier/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-210%20Oncog%C3%A8nes%20et%20g%C3%A8nes%20suppresseurs%20de%20tumeursJanvier/p28_00.jpeg)
 
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-210 Oncogènes et gènes suppresseurs de tumeursJanvier/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-210%20Oncog%C3%A8nes%20et%20g%C3%A8nes%20suppresseurs%20de%20tumeursJanvier/p31_00.jpeg)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-210 Oncogènes et gènes suppresseurs de tumeursJanvier/p32_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-210%20Oncog%C3%A8nes%20et%20g%C3%A8nes%20suppresseurs%20de%20tumeursJanvier/p32_00.png)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-210 Oncogènes et gènes suppresseurs de tumeursJanvier/p33_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-210%20Oncog%C3%A8nes%20et%20g%C3%A8nes%20suppresseurs%20de%20tumeursJanvier/p33_00.png)
 
-![[assets/pathologie-moleculaire/connaissances-fondamentales/16-210 Oncogènes et gènes suppresseurs de tumeursJanvier/p34_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/connaissances-fondamentales/16-210%20Oncog%C3%A8nes%20et%20g%C3%A8nes%20suppresseurs%20de%20tumeursJanvier/p34_00.png)
 
 ## Comparatif oncogènes / gènes suppresseurs
 

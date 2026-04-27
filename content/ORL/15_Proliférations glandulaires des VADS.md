@@ -38,7 +38,7 @@ Ce chapitre regroupe les **proliférations épithéliales d'architecture glandul
 ### Macroscopie
 Masse **framboisée**, volumineuse, à revêtement lisse.
 
-![[assets/ORL/VADS/tumeurs_benignes/10.221proliferations glandulaires/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/tumeurs_benignes/10.221proliferations%20glandulaires/p04_01.jpeg)
 
 ### Histologie — 3 formes
 | Forme | Architecture | Épithélium |
@@ -54,13 +54,13 @@ Masse **framboisée**, volumineuse, à revêtement lisse.
 - **Micro-abcès intra-épithéliaux à PNN** (caractéristiques !)
 - Parfois **kératinisation** de surface discrète (~10 % des cas, différenciation pavimenteuse)
 
-![[assets/ORL/VADS/tumeurs_benignes/10.221proliferations glandulaires/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/tumeurs_benignes/10.221proliferations%20glandulaires/p05_01.jpeg)
 
-![[assets/ORL/VADS/tumeurs_benignes/10.221proliferations glandulaires/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/tumeurs_benignes/10.221proliferations%20glandulaires/p06_01.jpeg)
 
-![[assets/ORL/VADS/tumeurs_benignes/10.221proliferations glandulaires/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/tumeurs_benignes/10.221proliferations%20glandulaires/p07_01.jpeg)
 
-![[assets/ORL/VADS/tumeurs_benignes/10.221proliferations glandulaires/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/tumeurs_benignes/10.221proliferations%20glandulaires/p08_01.jpeg)
 
 ### Atypies
 - Environ **10 %** des papillomes Schneiderien endophytiques présentent des atypies :
@@ -85,7 +85,7 @@ Longtemps rapporté mais **remis en cause** : il s'agirait plutôt d'une **infec
 - **Stromaréaction**
 - Atypies marquées
 
-![[assets/ORL/VADS/tumeurs_benignes/10.221proliferations glandulaires/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/tumeurs_benignes/10.221proliferations%20glandulaires/p12_01.jpeg)
 
 ### Papillome Schneiderien oncocytaire
 - Architecture endophytique comme la forme inversée
@@ -93,7 +93,7 @@ Longtemps rapporté mais **remis en cause** : il s'agirait plutôt d'une **infec
 - **Risque supérieur de transformation** classiquement rapporté
 - **Micro-abcès à PNN** également présents
 
-![[assets/ORL/VADS/tumeurs_benignes/10.221proliferations glandulaires/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/tumeurs_benignes/10.221proliferations%20glandulaires/p13_01.jpeg)
 
 ### Papillome exophytique
 - Petite lésion **antérieure**, au niveau du **septum nasal**
@@ -121,7 +121,7 @@ Si le contingent séreux est prédominant → **hamartome séro-mucineux** (rare
 
 Architecture des acini **lobulaire**. Le contingent respiratoire classique est presque toujours associé → aide au diagnostic.
 
-![[assets/ORL/VADS/tumeurs_benignes/10.221proliferations glandulaires/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/tumeurs_benignes/10.221proliferations%20glandulaires/p16_01.jpeg)
 
 ### Caractéristiques
 - **Strictement bénin**
@@ -152,7 +152,7 @@ Irritation chronique → **métaplasie intestinale** de la muqueuse respiratoire
 | **Alvéolaire (colloïde)** | Larges alvéoles d'épithélium cylindrique avec flaques de mucus |
 | **À cellules en bague à chaton** | Cellules mucosécrétantes dans fond de mucus abondant — **plus mauvais pronostic** |
 
-![[assets/ORL/VADS/tumeurs_benignes/10.221proliferations glandulaires/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/tumeurs_benignes/10.221proliferations%20glandulaires/p19_01.jpeg)
 
 ### Immunohistochimie
 
@@ -188,7 +188,7 @@ Architecture **extrêmement variable** :
 - Axes fins revêtus d'épithélium cubique **uni-stratifié**
 - Tubules souvent **anastomosés et adossés** (différence avec l'hamartome)
 
-![[assets/ORL/VADS/tumeurs_benignes/10.221proliferations glandulaires/p25_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/tumeurs_benignes/10.221proliferations%20glandulaires/p25_01.jpeg)
 
 ### Immunohistochimie
 

@@ -25,7 +25,7 @@ Les **3 lymphomes T cutanés les plus fréquents** :
 
 Le MF et le Sézary = prototypes des **lymphomes T cutanés épidermotropes** : les cellules tumorales se localisent dans l'épiderme via expression de l'**intégrine α4β7 (αEβ7)**.
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p04_00.jpeg)
 
 # I. Mycosis fongoïde (MF)
 
@@ -43,11 +43,11 @@ Le MF et le Sézary = prototypes des **lymphomes T cutanés épidermotropes** : 
 - Évolution vers infiltration et squames
 - **Dépigmentation** possible chez les peaux pigmentées (MF **vitiligoïde**)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p05_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p05_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p06_00.jpeg)
 
 ## Histologie du MF
 
@@ -60,13 +60,13 @@ Le MF et le Sézary = prototypes des **lymphomes T cutanés épidermotropes** : 
    - **Halo clair** de rétraction péri-cellulaire
    - **Absence de signes inflammatoires marqués**
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p07_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p07_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p07_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p07_02.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p07_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p07_03.jpeg)
 
 ## Phénotype du MF
 
@@ -82,7 +82,7 @@ Le MF et le Sézary = prototypes des **lymphomes T cutanés épidermotropes** : 
 
 > La **perte du CD7** est un argument important pour le diagnostic.
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p08_00.jpeg)
 
 ### Variante CD8+ (10-20 % des MF)
 
@@ -90,13 +90,13 @@ Le MF et le Sézary = prototypes des **lymphomes T cutanés épidermotropes** : 
   - Plus fort = lymphocytes réactionnels
   - Plus faible mais significatif = cellules tumorales
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p09_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p09_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p09_02.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p09_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p09_03.jpeg)
 
 ## Clonalité dans le MF
 
@@ -120,17 +120,17 @@ Le MF et le Sézary = prototypes des **lymphomes T cutanés épidermotropes** : 
 - **Lichen folliculaire**
 - **Mucinoses primitives ou secondaires**
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p12_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p12_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p13_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p13_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p13_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p13_02.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p13_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p13_03.jpeg)
 
 ### 2. MF pagétoïde (réticulose pagétoïde de Woringer-Kolopp)
 
@@ -145,11 +145,11 @@ Le MF et le Sézary = prototypes des **lymphomes T cutanés épidermotropes** : 
 - **Phénotype TCD8+** volontiers (rarement CD4+)
 - Expression de marqueurs cytotoxiques : **perforine, granzyme**
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p14_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p14_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p14_02.jpeg)
 
 ### 3. MF chalasodermique granulomateux
 
@@ -164,13 +164,13 @@ Le MF et le Sézary = prototypes des **lymphomes T cutanés épidermotropes** : 
 - **Résorption du réseau élastique** dermique → laxité
 - Coloration de l'**orcéine** : rares fibres élastiques résiduelles
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p15_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p15_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p15_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p15_02.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p15_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p15_03.jpeg)
 
 ### 4. Autres variantes anatomocliniques
 
@@ -208,13 +208,13 @@ Le MF et le Sézary = prototypes des **lymphomes T cutanés épidermotropes** : 
 - **Papulose lymphomatoïde** (chez un patient connu pour MF) → pronostic favorable
 - ALCL cutané primitif
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p16_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p16_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p16_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p16_02.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p16_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p16_03.jpeg)
 
 # II. Syndrome de Sézary
 
@@ -232,7 +232,7 @@ Le MF et le Sézary = prototypes des **lymphomes T cutanés épidermotropes** : 
 - Reconnues sur étalements (frottis sanguin)
 - Décrites par Albert Sézary (début XXe s.)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p18_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p18_03.jpeg)
 
 
 ## Histologie
@@ -256,17 +256,17 @@ Le MF et le Sézary = prototypes des **lymphomes T cutanés épidermotropes** : 
 
 > ⚠️ Bien que **PD1+** et parfois **CXCL13+**, le Sézary **N'est PAS classé** dans les lymphomes T à différenciation TFH.
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p19_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p19_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p19_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p19_02.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p19_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p19_03.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p20_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p20_01.jpeg)
 
 ## Clonalité Sézary
 
@@ -297,15 +297,15 @@ Le MF et le Sézary = prototypes des **lymphomes T cutanés épidermotropes** : 
 - Marqueurs cytotoxiques possibles : **granzyme B, perforine**
 - **Clonalité** trouvée dans **70-80 %** des cas
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p23_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p23_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p23_02.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p24_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p24_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p24_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p24_02.jpeg)
 
 ### Variantes histologiques de la LyP
 
@@ -318,15 +318,15 @@ Le MF et le Sézary = prototypes des **lymphomes T cutanés épidermotropes** : 
 | **Type E** | **CD8+ > CD4+, angiotrope, nécrotique** | DD : lymphome **NK/T de type nasal** |
 | **Type F (folliculotrope)** | Pilotropisme | |
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p25_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p25_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p25_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p26_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p26_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p26_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p27_00.jpeg)
 
 ## B. Lymphome anaplasique cutané primitif à grandes cellules (ALCL cutané)
 
@@ -354,9 +354,9 @@ Le MF et le Sézary = prototypes des **lymphomes T cutanés épidermotropes** : 
 - **Radiothérapie** ou **méthotrexate** (formes localisées)
 - **Brentuximab vedotin** (anti-CD30) en cas d'évolution
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p28_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055 Lymphomes T cutanés fréquents/p28_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1055%20Lymphomes%20T%20cutan%C3%A9s%20fr%C3%A9quents/p28_01.jpeg)
 
 ## DD du spectre CD30+
 

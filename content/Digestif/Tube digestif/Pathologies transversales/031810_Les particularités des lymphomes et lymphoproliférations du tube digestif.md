@@ -63,15 +63,15 @@ Le prélèvement suspect d'hémopathie doit arriver **frais, non fixé**, et bé
 - **Lésions lympho-épithéliales** : destruction des glandes par les cellules lymphoïdes B (mieux vues à l'anti-cytokératine)
 - Architecture diffuse, parfois nodulaire
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.10 Les particularités des lymphomes et lymphoproliférations du tube digestif/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.10%20Les%20particularit%C3%A9s%20des%20lymphomes%20et%20lymphoprolif%C3%A9rations%20du%20tube%20digestif/p11_01.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.10 Les particularités des lymphomes et lymphoproliférations du tube digestif/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.10%20Les%20particularit%C3%A9s%20des%20lymphomes%20et%20lymphoprolif%C3%A9rations%20du%20tube%20digestif/p11_02.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.10 Les particularités des lymphomes et lymphoproliférations du tube digestif/p11_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.10%20Les%20particularit%C3%A9s%20des%20lymphomes%20et%20lymphoprolif%C3%A9rations%20du%20tube%20digestif/p11_03.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.10 Les particularités des lymphomes et lymphoproliférations du tube digestif/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.10%20Les%20particularit%C3%A9s%20des%20lymphomes%20et%20lymphoprolif%C3%A9rations%20du%20tube%20digestif/p12_01.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.10 Les particularités des lymphomes et lymphoproliférations du tube digestif/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.10%20Les%20particularit%C3%A9s%20des%20lymphomes%20et%20lymphoprolif%C3%A9rations%20du%20tube%20digestif/p12_02.jpeg)
 
 ### Phénotype
 | Marqueur | MALT |
@@ -127,13 +127,13 @@ Translocations possibles : ***t(11;18) API2-MALT1***, **t(14;18) MALT1-IGH**, **
 - Mitoses et apoptoses très nombreuses
 - ± inflammation granulomateuse
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.10 Les particularités des lymphomes et lymphoproliférations du tube digestif/p19_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.10%20Les%20particularit%C3%A9s%20des%20lymphomes%20et%20lymphoprolif%C3%A9rations%20du%20tube%20digestif/p19_01.png)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.10 Les particularités des lymphomes et lymphoproliférations du tube digestif/p20_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.10%20Les%20particularit%C3%A9s%20des%20lymphomes%20et%20lymphoprolif%C3%A9rations%20du%20tube%20digestif/p20_00.png)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.10 Les particularités des lymphomes et lymphoproliférations du tube digestif/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.10%20Les%20particularit%C3%A9s%20des%20lymphomes%20et%20lymphoprolif%C3%A9rations%20du%20tube%20digestif/p21_01.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.10 Les particularités des lymphomes et lymphoproliférations du tube digestif/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.10%20Les%20particularit%C3%A9s%20des%20lymphomes%20et%20lymphoprolif%C3%A9rations%20du%20tube%20digestif/p22_00.jpeg)
 
 ### Phénotype
 - B centro-germinatif : **CD20+, CD10+, BCL6+**
@@ -159,13 +159,13 @@ Translocations possibles : ***t(11;18) API2-MALT1***, **t(14;18) MALT1-IGH**, **
 - Cellules à allure **centrocytique**, monomorphes, sans excès de centroblastes
 - Correspond à un **lymphome folliculaire grade 1-2**
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.10 Les particularités des lymphomes et lymphoproliférations du tube digestif/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.10%20Les%20particularit%C3%A9s%20des%20lymphomes%20et%20lymphoprolif%C3%A9rations%20du%20tube%20digestif/p23_00.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.10 Les particularités des lymphomes et lymphoproliférations du tube digestif/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.10%20Les%20particularit%C3%A9s%20des%20lymphomes%20et%20lymphoprolif%C3%A9rations%20du%20tube%20digestif/p23_01.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.10 Les particularités des lymphomes et lymphoproliférations du tube digestif/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.10%20Les%20particularit%C3%A9s%20des%20lymphomes%20et%20lymphoprolif%C3%A9rations%20du%20tube%20digestif/p26_00.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.10 Les particularités des lymphomes et lymphoproliférations du tube digestif/p26_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.10%20Les%20particularit%C3%A9s%20des%20lymphomes%20et%20lymphoprolif%C3%A9rations%20du%20tube%20digestif/p26_03.jpeg)
 
 ### Phénotype et génétique
 - **CD20+, CD10+, BCL2+, BCL6+**
@@ -186,15 +186,15 @@ Translocations possibles : ***t(11;18) API2-MALT1***, **t(14;18) MALT1-IGH**, **
 - Phénotype lymphome du manteau : **CD20+, CD5+, cycline D1+**, BCL2+
 - ***t(11;14)*** *CCND1-IGH*
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.10 Les particularités des lymphomes et lymphoproliférations du tube digestif/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.10%20Les%20particularit%C3%A9s%20des%20lymphomes%20et%20lymphoprolif%C3%A9rations%20du%20tube%20digestif/p29_00.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.10 Les particularités des lymphomes et lymphoproliférations du tube digestif/p30_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.10%20Les%20particularit%C3%A9s%20des%20lymphomes%20et%20lymphoprolif%C3%A9rations%20du%20tube%20digestif/p30_05.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.10 Les particularités des lymphomes et lymphoproliférations du tube digestif/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.10%20Les%20particularit%C3%A9s%20des%20lymphomes%20et%20lymphoprolif%C3%A9rations%20du%20tube%20digestif/p34_00.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.10 Les particularités des lymphomes et lymphoproliférations du tube digestif/p34_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.10%20Les%20particularit%C3%A9s%20des%20lymphomes%20et%20lymphoprolif%C3%A9rations%20du%20tube%20digestif/p34_01.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.10 Les particularités des lymphomes et lymphoproliférations du tube digestif/p34_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.10%20Les%20particularit%C3%A9s%20des%20lymphomes%20et%20lymphoprolif%C3%A9rations%20du%20tube%20digestif/p34_03.jpeg)
 
 ---
 
@@ -213,11 +213,11 @@ Translocations possibles : ***t(11;18) API2-MALT1***, **t(14;18) MALT1-IGH**, **
 - Cellules de **grande taille, pléomorphes** ou anaplasiques
 - À distance de la tumeur : muqueuse en **entéropathie** + **épithéliotropisme** (LIE↑)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.10 Les particularités des lymphomes et lymphoproliférations du tube digestif/p38_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.10%20Les%20particularit%C3%A9s%20des%20lymphomes%20et%20lymphoprolif%C3%A9rations%20du%20tube%20digestif/p38_01.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.10 Les particularités des lymphomes et lymphoproliférations du tube digestif/p39_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.10%20Les%20particularit%C3%A9s%20des%20lymphomes%20et%20lymphoprolif%C3%A9rations%20du%20tube%20digestif/p39_04.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.10 Les particularités des lymphomes et lymphoproliférations du tube digestif/p40_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.10%20Les%20particularit%C3%A9s%20des%20lymphomes%20et%20lymphoprolif%C3%A9rations%20du%20tube%20digestif/p40_01.jpeg)
 
 ### Phénotype
 - T : **CD3+**, **CD103+**
@@ -242,15 +242,15 @@ Translocations possibles : ***t(11;18) API2-MALT1***, **t(14;18) MALT1-IGH**, **
 - **EBV+ (LMP1, EBER)** = clé
 - Cernées par un infiltrat T réactionnel
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.10 Les particularités des lymphomes et lymphoproliférations du tube digestif/p44_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.10%20Les%20particularit%C3%A9s%20des%20lymphomes%20et%20lymphoprolif%C3%A9rations%20du%20tube%20digestif/p44_00.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.10 Les particularités des lymphomes et lymphoproliférations du tube digestif/p45_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.10%20Les%20particularit%C3%A9s%20des%20lymphomes%20et%20lymphoprolif%C3%A9rations%20du%20tube%20digestif/p45_01.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.10 Les particularités des lymphomes et lymphoproliférations du tube digestif/p45_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.10%20Les%20particularit%C3%A9s%20des%20lymphomes%20et%20lymphoprolif%C3%A9rations%20du%20tube%20digestif/p45_03.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.10 Les particularités des lymphomes et lymphoproliférations du tube digestif/p45_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.10%20Les%20particularit%C3%A9s%20des%20lymphomes%20et%20lymphoprolif%C3%A9rations%20du%20tube%20digestif/p45_06.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.10 Les particularités des lymphomes et lymphoproliférations du tube digestif/p48_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.10%20Les%20particularit%C3%A9s%20des%20lymphomes%20et%20lymphoprolif%C3%A9rations%20du%20tube%20digestif/p48_01.jpeg)
 
 ---
 

@@ -95,7 +95,7 @@ Pléomorphisme nucléaire, hyperchromatisme, basophilie, **irrégularité de la 
 - **Récidive paravertébrale à 5 ans** avec nécrose, hypercellularité, atypies marquées, mitoses nombreuses.
 - 2 récidives totales (36 et 48 mois), patiente vivante.
 
-![[assets/gyneco-sein/corps_uterin/04_46 STUMP utérines SC/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_46%20STUMP%20ut%C3%A9rines%20SC/p11_00.jpeg)
 
 ### Cas 2 — patiente 42 ans, tumeur 20 cm
 - Atypies diffuses, < 5 mitoses, pas de nécrose → STUMP.

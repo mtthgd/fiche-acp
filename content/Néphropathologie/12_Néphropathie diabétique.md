@@ -37,7 +37,7 @@ source: DES ACP - Cours de néphropathologie
 | Début | **Brutal**, syndrome cardinal (polyurie, polydipsie, polyphagie, amaigrissement, asthénie) | **Asymptomatique**, découverte fortuite, déjà compliqué |
 | Comorbidités | — | HTA, hypertriglycéridémie |
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14 Diabete/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14%20Diabete/p03_00.jpeg)
 
 
 ## Facteurs de risque
@@ -59,7 +59,7 @@ Mécanisme **complexe et multifactoriel** :
 
 → **Glomérulosclérose** = lésion emblématique, conduit à la **protéinurie** puis à l'**insuffisance rénale**.
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14 Diabete/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14%20Diabete/p05_00.jpeg)
 
 ---
 
@@ -86,9 +86,9 @@ Délai moyen pour une néphropathie avérée : **15 ans** d'évolution d'un diab
 - Critère quantitatif : **> 2 noyaux** de cellules mésangiales d'épaisseur dans **> 2 lobules** du floculus
 - Réduction et déformation des capillaires glomérulaires → diminution de la **surface de filtration**
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14 Diabete/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14%20Diabete/p09_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14 Diabete/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14%20Diabete/p09_01.jpeg)
 
 
 ### Nodules mésangiaux de Kimmelstiel-Wilson
@@ -102,12 +102,12 @@ Délai moyen pour une néphropathie avérée : **15 ans** d'évolution d'un diab
 - Pas obligatoirement présents dans tous les glomérules
 
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14 Diabete/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14%20Diabete/p11_01.jpeg)
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14 Diabete/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14%20Diabete/p11_02.jpeg)
 
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14 Diabete/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14%20Diabete/p12_00.jpeg)
 
 ### Aspect "fleur de tournesol" et mésangiolyse
 
@@ -116,10 +116,10 @@ Délai moyen pour une néphropathie avérée : **15 ans** d'évolution d'un diab
 - **Mésangiolyse** : zones plus pâles ou feuilletées dans les nodules → témoin de **micro-angiopathie diabétique**
 - Hypothèse : nodules = **réparation exubérante** d'épisodes répétés de mésangiolyse
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14 Diabete/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14%20Diabete/p12_01.jpeg)
 
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14 Diabete/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14%20Diabete/p13_00.jpeg)
 
 
 ### Lésions de la jonction glomérulo-tubulaire
@@ -127,9 +127,9 @@ Délai moyen pour une néphropathie avérée : **15 ans** d'évolution d'un diab
 - **Sclérose segmentaire** au pôle urinaire avec **hypertrophie podocytaire** et **synéchies tip lesion**
 - **Glomérules atubulaires** : perte de la connexion avec le tube proximal qui devient atrophique
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14 Diabete/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14%20Diabete/p14_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14 Diabete/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14%20Diabete/p14_01.jpeg)
 
 ### Lésions exsudatives = hyalinose intra-glomérulaire
 
@@ -138,7 +138,7 @@ Délai moyen pour une néphropathie avérée : **15 ans** d'évolution d'un diab
 - **Fibrin cap** (terme obsolète, ce n'est pas de la fibrine) : sous-endothélial ou intra-luminal capillaire ; **non spécifique** (HSF, néphroangiosclérose, lupus)
 
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14 Diabete/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14%20Diabete/p15_01.jpeg)
 
 
 
@@ -149,11 +149,11 @@ Délai moyen pour une néphropathie avérée : **15 ans** d'évolution d'un diab
   - **Sujet jeune non hypertendu**
   - Atteinte **bilatérale afférente ET surtout efférente** du glomérule (caractéristique du diabète)
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14 Diabete/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14%20Diabete/p16_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14 Diabete/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14%20Diabete/p16_01.jpeg)
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14 Diabete/p16_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14%20Diabete/p16_02.jpeg)
 
 ---
 
@@ -165,7 +165,7 @@ Délai moyen pour une néphropathie avérée : **15 ans** d'évolution d'un diab
   - Dans la néphropathie diabétique : **fixation faible + albumine + basales tubulaires fixent**
   - Dans Goodpasture : **fixation intense IgG seule, pas d'albumine, pas de fixation tubulaire**
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14 Diabete/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14%20Diabete/p17_00.jpeg)
 
 
 ---
@@ -193,9 +193,9 @@ Classification internationale de référence (RPS — Renal Pathology Society).
 
 → Classification **didactique mais peu utilisée en pratique**.
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14 Diabete/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14%20Diabete/p20_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14 Diabete/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/atteintes-renales-maladies-generales/232-14%20Diabete/p20_01.jpeg)
 
 
 ---

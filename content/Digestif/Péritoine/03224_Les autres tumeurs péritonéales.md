@@ -55,9 +55,9 @@ source: DES ACP - Cours de Digestif
 - Nodules envahissant la paroi colique de **dehors en dedans**
 - IHC : **CK7+, WT1+, RH+, p53 muté** (haut grade)
 
-![[assets/digestif/peritoine/03.2.2.4 Les autres tumeurs péritonéales/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/peritoine/03.2.2.4%20Les%20autres%20tumeurs%20p%C3%A9riton%C3%A9ales/p06_01.jpeg)
 
-![[assets/digestif/peritoine/03.2.2.4 Les autres tumeurs péritonéales/p06_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/peritoine/03.2.2.4%20Les%20autres%20tumeurs%20p%C3%A9riton%C3%A9ales/p06_02.jpeg)
 
 ## Pseudomyxome péritonéal (maladie gélatineuse du péritoine)
 
@@ -77,9 +77,9 @@ Présence de **mucines dans la cavité abdominale** sous forme d'**ascite gélat
 | **Carcinose mucineuse de haut grade sans cellules en bague** (G2) | Cellularité ↑, atypies marquées, mitoses | **Massifs cribriformes**, atypies |
 | **Carcinose mucineuse de haut grade avec cellules en bague à chaton** (G3) | **Cellules en bague à chaton ≥ 10 %** convaincantes | Cellules flottant dans mucine ou stroma desmoplastique |
 
-![[assets/digestif/peritoine/03.2.2.4 Les autres tumeurs péritonéales/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/peritoine/03.2.2.4%20Les%20autres%20tumeurs%20p%C3%A9riton%C3%A9ales/p07_01.jpeg)
 
-![[assets/digestif/peritoine/03.2.2.4 Les autres tumeurs péritonéales/p10_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/peritoine/03.2.2.4%20Les%20autres%20tumeurs%20p%C3%A9riton%C3%A9ales/p10_02.jpeg)
 
 ### Bas grade vs haut grade
 - **Bas grade** : repousse les organes sous-jacents **sans les détruire** (musculeuse colique, parenchyme splénique respectés)
@@ -144,7 +144,7 @@ Présence de **mucines dans la cavité abdominale** sous forme d'**ascite gélat
 - **Stroma desmoplastique caractéristique**
 - Variants : à cellules géantes, à cellules en bague à chaton
 
-![[assets/digestif/peritoine/03.2.2.4 Les autres tumeurs péritonéales/p15_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/peritoine/03.2.2.4%20Les%20autres%20tumeurs%20p%C3%A9riton%C3%A9ales/p15_00.png)
 
 ### Immunophénotype — phénotype mixte (épithélial + mésenchymateux + neural)
 
@@ -161,7 +161,7 @@ Présence de **mucines dans la cavité abdominale** sous forme d'**ascite gélat
 - Mise en évidence : **FISH** ou **RT-PCR**
 - Variantes : t(21;22) (*EWSR1-ERG*)
 
-![[assets/digestif/peritoine/03.2.2.4 Les autres tumeurs péritonéales/p16_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/peritoine/03.2.2.4%20Les%20autres%20tumeurs%20p%C3%A9riton%C3%A9ales/p16_02.jpeg)
 
 ## Tumeur fibreuse solitaire (SFT)
 
@@ -181,7 +181,7 @@ Présence de **mucines dans la cavité abdominale** sous forme d'**ascite gélat
 | **STAT6** (nucléaire) | + (fusion *NAB2-STAT6*) |
 | Bcl-2 | + |
 
-![[assets/digestif/peritoine/03.2.2.4 Les autres tumeurs péritonéales/p17_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/peritoine/03.2.2.4%20Les%20autres%20tumeurs%20p%C3%A9riton%C3%A9ales/p17_01.png)
 
 ## GIST extra-digestives (EGIST)
 
@@ -194,7 +194,7 @@ Présence de **mucines dans la cavité abdominale** sous forme d'**ascite gélat
 - Volumineuses (> 10 cm), nécrotiques
 - Pléomorphisme + activité mitotique élevée
 
-![[assets/digestif/peritoine/03.2.2.4 Les autres tumeurs péritonéales/p17_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/peritoine/03.2.2.4%20Les%20autres%20tumeurs%20p%C3%A9riton%C3%A9ales/p17_03.png)
 
 ## Fibromatose mésentérique (tumeur desmoïde)
 
@@ -243,7 +243,7 @@ Atypies, nucléoles proéminents, cellules type Reed-Sternberg, mitoses nombreus
 - Infiltrat lymphocytes (en îlots) + plasmocytes + éosinophiles + mastocytes
 - IHC : **CD34+ et vimentine+** (co-expression)
 
-![[assets/digestif/peritoine/03.2.2.4 Les autres tumeurs péritonéales/p19_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/peritoine/03.2.2.4%20Les%20autres%20tumeurs%20p%C3%A9riton%C3%A9ales/p19_00.png)
 
 ## Lymphangiome kystique
 

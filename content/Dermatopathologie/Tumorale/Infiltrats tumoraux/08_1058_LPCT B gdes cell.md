@@ -51,13 +51,13 @@ Le diagnostic des infiltrats cutanés à grandes cellules est une **vraie diffic
 
 ⚠️ Mais : leg-type **PEUT** être ailleurs (bras), et clinique **non discriminante** dans nombreux cas.
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes cutané B à grandes cellules/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes%20cutan%C3%A9%20B%20%C3%A0%20grandes%20cellules/p03_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes cutané B à grandes cellules/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes%20cutan%C3%A9%20B%20%C3%A0%20grandes%20cellules/p04_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes cutané B à grandes cellules/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes%20cutan%C3%A9%20B%20%C3%A0%20grandes%20cellules/p04_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes cutané B à grandes cellules/p04_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes%20cutan%C3%A9%20B%20%C3%A0%20grandes%20cellules/p04_02.jpeg)
 
 ## 2. Étape architecturale
 
@@ -68,11 +68,11 @@ Le diagnostic des infiltrats cutanés à grandes cellules est une **vraie diffic
 
 → **Pas pathognomonique**
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes cutané B à grandes cellules/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes%20cutan%C3%A9%20B%20%C3%A0%20grandes%20cellules/p05_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes cutané B à grandes cellules/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes%20cutan%C3%A9%20B%20%C3%A0%20grandes%20cellules/p05_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes cutané B à grandes cellules/p05_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes%20cutan%C3%A9%20B%20%C3%A0%20grandes%20cellules/p05_02.jpeg)
 
 ## 3. Étape cytologique ⭐ Critère majeur
 
@@ -82,16 +82,16 @@ Le diagnostic des infiltrats cutanés à grandes cellules est une **vraie diffic
 | Majorité de **grands centrocytes clivés** (anguleux, fusiformes — **spécifique cutané**, rare au ganglion) | **PCFCL grandes cellules** |
 | Mélange immunoblastes + centroblastes | **Difficile** → IHC + 2e avis |
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes cutané B à grandes cellules/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes%20cutan%C3%A9%20B%20%C3%A0%20grandes%20cellules/p06_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes cutané B à grandes cellules/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes%20cutan%C3%A9%20B%20%C3%A0%20grandes%20cellules/p06_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes cutané B à grandes cellules/p06_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes%20cutan%C3%A9%20B%20%C3%A0%20grandes%20cellules/p06_02.jpeg)
 
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes cutané B à grandes cellules/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes%20cutan%C3%A9%20B%20%C3%A0%20grandes%20cellules/p07_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes cutané B à grandes cellules/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes%20cutan%C3%A9%20B%20%C3%A0%20grandes%20cellules/p07_01.jpeg)
 
 
 ## 4. Étape immunohistochimique
@@ -115,22 +115,22 @@ CD3, CD20, **CD10, BCL6, BCL2, MUM1/IRF4, MIB1 (Ki67)**, **CD21**
 
 ### Leg-type — IHC
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes cutané B à grandes cellules/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes%20cutan%C3%A9%20B%20%C3%A0%20grandes%20cellules/p08_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes cutané B à grandes cellules/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes%20cutan%C3%A9%20B%20%C3%A0%20grandes%20cellules/p08_01.jpeg)
 
 
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes cutané B à grandes cellules/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes%20cutan%C3%A9%20B%20%C3%A0%20grandes%20cellules/p09_01.jpeg)
 
 
 ### PCFCL à grandes cellules — IHC
 
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes cutané B à grandes cellules/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes%20cutan%C3%A9%20B%20%C3%A0%20grandes%20cellules/p10_01.jpeg)
 
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes cutané B à grandes cellules/p10_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes%20cutan%C3%A9%20B%20%C3%A0%20grandes%20cellules/p10_04.jpeg)
 
 
 
@@ -150,7 +150,7 @@ CD3, CD20, **CD10, BCL6, BCL2, MUM1/IRF4, MIB1 (Ki67)**, **CD21**
 - **Pronostic péjoratif** : MYD88 muté = survie diminuée
 
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes cutané B à grandes cellules/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes%20cutan%C3%A9%20B%20%C3%A0%20grandes%20cellules/p13_01.jpeg)
 
 
 ### Translocation **t(14;18)** *IGH-BCL2*
@@ -172,7 +172,7 @@ CD3, CD20, **CD10, BCL6, BCL2, MUM1/IRF4, MIB1 (Ki67)**, **CD21**
 
 - **Immunoblastes** : grandes cellules, noyau rond, nucléole central proéminent
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes cutané B à grandes cellules/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes%20cutan%C3%A9%20B%20%C3%A0%20grandes%20cellules/p07_00.jpeg)
 
 ## Phénotype
 
@@ -235,19 +235,19 @@ Quand la cytologie est **mixte** (immunoblastes + centroblastes) :
 3. **2e avis expert** + **MYD88 L265P** (si + → leg-type)
 4. **RCP**
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes cutané B à grandes cellules/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes%20cutan%C3%A9%20B%20%C3%A0%20grandes%20cellules/p11_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes cutané B à grandes cellules/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes%20cutan%C3%A9%20B%20%C3%A0%20grandes%20cellules/p11_02.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes cutané B à grandes cellules/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes%20cutan%C3%A9%20B%20%C3%A0%20grandes%20cellules/p12_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes cutané B à grandes cellules/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes%20cutan%C3%A9%20B%20%C3%A0%20grandes%20cellules/p12_02.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes cutané B à grandes cellules/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes%20cutan%C3%A9%20B%20%C3%A0%20grandes%20cellules/p14_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes cutané B à grandes cellules/p14_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes%20cutan%C3%A9%20B%20%C3%A0%20grandes%20cellules/p14_05.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes cutané B à grandes cellules/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes%20cutan%C3%A9%20B%20%C3%A0%20grandes%20cellules/p15_00.jpeg)
 
 
 ---
@@ -294,7 +294,7 @@ Quand la cytologie est **mixte** (immunoblastes + centroblastes) :
 
 
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes cutané B à grandes cellules/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1058-Lymphomes%20cutan%C3%A9%20B%20%C3%A0%20grandes%20cellules/p19_01.jpeg)
 
 ---
 

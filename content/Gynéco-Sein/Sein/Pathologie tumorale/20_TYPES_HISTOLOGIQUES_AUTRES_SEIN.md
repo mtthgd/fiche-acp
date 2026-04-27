@@ -52,9 +52,9 @@ OMS 2012 (en révision) : **17 sous-types spéciaux** + **6 types exceptionnels*
 - Stroma **desmoplastique**
 - Volontiers associé à : **CLIS, CCIS de bas grade, métaplasie cylindrique** simple ou atypique (= **spectre des lésions de bas grade**)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2  Type histologiques autres_V2/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2%20%20Type%20histologiques%20autres_V2/p05_00.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2  Type histologiques autres_V2/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2%20%20Type%20histologiques%20autres_V2/p06_00.jpeg)
 
 ### Phénotype
 
@@ -91,9 +91,9 @@ OMS 2012 (en révision) : **17 sous-types spéciaux** + **6 types exceptionnels*
 | **CCIS cribriforme pur** | Présence de cellules myoépithéliales (AML+, CK14+, p63+) |
 | **Carcinome adénoïde kystique** | Triple négatif, double population, dépôts de membrane basale |
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2  Type histologiques autres_V2/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2%20%20Type%20histologiques%20autres_V2/p08_01.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2  Type histologiques autres_V2/p08_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2%20%20Type%20histologiques%20autres_V2/p08_03.jpeg)
 
 ## 3. Carcinome mucineux pur
 
@@ -125,11 +125,11 @@ OMS 2012 (en révision) : **17 sous-types spéciaux** + **6 types exceptionnels*
 ### DD
 - **Macrobiopsie de flaques de mucus** : faire **niveaux de coupe** pour rechercher cellules carcinomateuses (mucineux A pauvre en cellules)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2  Type histologiques autres_V2/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2%20%20Type%20histologiques%20autres_V2/p10_00.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2  Type histologiques autres_V2/p10_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2%20%20Type%20histologiques%20autres_V2/p10_05.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2  Type histologiques autres_V2/p12_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2%20%20Type%20histologiques%20autres_V2/p12_03.jpeg)
 
 ## 4. Carcinomes neuroendocrines
 
@@ -216,11 +216,11 @@ OMS 2012 (en révision) : **17 sous-types spéciaux** + **6 types exceptionnels*
 - **Sphérulose collagène** : bénin, ER hétérogène +, topographie acini lobulaires
 - **Carcinome cribriforme** : ER+, PR+, CCIS associé, pas de myoépithéliales
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2  Type histologiques autres_V2/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2%20%20Type%20histologiques%20autres_V2/p14_00.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2  Type histologiques autres_V2/p14_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2%20%20Type%20histologiques%20autres_V2/p14_03.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2  Type histologiques autres_V2/p14_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2%20%20Type%20histologiques%20autres_V2/p14_05.jpeg)
 
 ## 7. Carcinome sécrétoire
 
@@ -249,9 +249,9 @@ OMS 2012 (en révision) : **17 sous-types spéciaux** + **6 types exceptionnels*
 ### Implication thérapeutique
 - **Inhibiteurs de NTRK** (entrectinib, larotrectinib) en phase d’essai
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2  Type histologiques autres_V2/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2%20%20Type%20histologiques%20autres_V2/p18_00.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2  Type histologiques autres_V2/p18_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2%20%20Type%20histologiques%20autres_V2/p18_05.jpeg)
 
 ## 8. Carcinome papillaire à polarité inversée
 
@@ -288,7 +288,7 @@ OMS 2012 (en révision) : **17 sous-types spéciaux** + **6 types exceptionnels*
 
 > ⚠️ **Entité moléculaire apocrine** = sous-classe des triples négatifs (signature transcriptomique) ≠ différenciation **histologique** apocrine. **Pas de stricte correspondance**.
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2  Type histologiques autres_V2/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2%20%20Type%20histologiques%20autres_V2/p20_00.jpeg)
 
 
 ## 10. Carcinome NST à stroma riche en lymphocytes (anciennement "médullaire")
@@ -317,7 +317,7 @@ OMS 2012 (en révision) : **17 sous-types spéciaux** + **6 types exceptionnels*
 - **Très radiosensible** (rapporté depuis > 30 ans)
 
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2  Type histologiques autres_V2/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2%20%20Type%20histologiques%20autres_V2/p23_00.jpeg)
 
 ## 11. Carcinomes métaplasiques
 
@@ -374,15 +374,15 @@ Groupe **très hétérogène**, taille au diagnostic 3-4 cm, **bien limitée**, 
 
 > Devant **toute prolifération fusiforme atypique** dans le sein → **panel large de cytokératines + p63 + p40** pour rechercher la différenciation épithéliale.
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2  Type histologiques autres_V2/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2%20%20Type%20histologiques%20autres_V2/p26_00.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2  Type histologiques autres_V2/p26_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2%20%20Type%20histologiques%20autres_V2/p26_01.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2  Type histologiques autres_V2/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2%20%20Type%20histologiques%20autres_V2/p27_00.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2  Type histologiques autres_V2/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2%20%20Type%20histologiques%20autres_V2/p30_00.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2  Type histologiques autres_V2/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_09_2%20%20Type%20histologiques%20autres_V2/p31_00.jpeg)
 
 ---
 

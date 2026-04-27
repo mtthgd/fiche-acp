@@ -28,11 +28,11 @@ source: DES ACP - Cours de Dermatopathologie
 
 
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p05_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p05_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p05_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p05_02.jpeg)
 
 ## Critères différenciateurs (primitif vs secondaire)
 
@@ -62,13 +62,13 @@ source: DES ACP - Cours de Dermatopathologie
 - Possibles **prolymphocytes / centroblastes**
 - **Centres de prolifération rares** (≠ ganglion)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p10_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p10_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p10_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p10_02.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p10_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p10_03.jpeg)
 
 ### Phénotype
 
@@ -80,11 +80,11 @@ source: DES ACP - Cours de Dermatopathologie
 | CD3 | − |
 | Cycline D1 | − |
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p12_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p12_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p13_00.jpeg)
 
 ### Particularité — **Papulose T associée à hémopathie B**
 
@@ -99,9 +99,9 @@ source: DES ACP - Cours de Dermatopathologie
 - Infiltrat **périvasculaire / périannexiel**, lymphocytes petits à moyens
 - Phénotype : **CD20+ CD5+ CD23±** + **Cycline D1+** ⭐ (= clé diagnostique)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p15_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p16_00.jpeg)
 
 ## C. Plasmocytome cutané / Localisation de myélome
 
@@ -124,9 +124,9 @@ source: DES ACP - Cours de Dermatopathologie
 | CD20 | − en règle |
 | **κ ou λ restriction** | **+** |
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p18_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p18_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p18_02.jpeg)
 
 ## D. Lymphome de **Burkitt** cutané
 
@@ -137,15 +137,15 @@ source: DES ACP - Cours de Dermatopathologie
 - Phénotype : **CD20+ CD10+ MIB1+ BCL2−**
 - **Translocation MYC** (FISH)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p19_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p19_01.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-222-Lichen plan/p19_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-222-Lichen%20plan/p19_02.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p19_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p19_04.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p19_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p19_05.jpeg)
 
 ## E. Lymphome **B intravasculaire**
 
@@ -154,13 +154,13 @@ source: DES ACP - Cours de Dermatopathologie
 - **CD20+**, fréquemment **CD5+**
 - Mauvais pronostic si extracutané
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p20_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p20_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p20_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p20_02.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p20_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p20_03.jpeg)
 
 ## F. Lymphome T angio-immunoblastique (TFH systémique)
 
@@ -170,11 +170,11 @@ source: DES ACP - Cours de Dermatopathologie
 - Phénotype : **TFH = CXCL13+, PD1+, ICOS+, BCL6+, CD10+**
 - Mutations détectables sur la peau : **RHOA G17V, IDH2 R172**
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p21_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p21_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p21_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p21_02.jpeg)
 
 ## G. ATLL (HTLV-1) — atteinte cutanée
 
@@ -184,9 +184,9 @@ source: DES ACP - Cours de Dermatopathologie
 - Phénotype : **CD4+ CD7− CD25+ FOXP3+**
 - → Voir [[08_1056_Lymphomes T cutanés rares, commenté]]
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p23_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p23_01.jpeg)
 
 ## H. Leucémie pro-lymphocytaire T (T-PLL)
 
@@ -195,13 +195,13 @@ source: DES ACP - Cours de Dermatopathologie
 - Histologie : infiltrat dermique **périvasculaire** sans épidermotropisme, lymphocytes moyens monomorphes **nucléolés**
 - Phénotype caractéristique : **CD7 fort+**, CD4 ou CD8 variables (souvent négatifs)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p24_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p24_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p25_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p25_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p25_01.jpeg)
 
 ## I. LAL B/T cutané (leucémie/lymphome lymphoblastique)
 
@@ -210,11 +210,11 @@ source: DES ACP - Cours de Dermatopathologie
 - Cellules **blastiques** moyennes, infiltrat dermique
 - **Marqueurs d'immaturité** : **TdT+, CD99+, CD34+, CD1a+** (LAL-T)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p26_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p26_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p26_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p26_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p26_02.jpeg)
 
 ---
 
@@ -229,9 +229,9 @@ source: DES ACP - Cours de Dermatopathologie
 | **LMMC** (myélomonocytaire chronique) | + (4 types) |
 | **Syndromes myélodysplasiques** | + (rare) |
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p28_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p28_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p28_01.jpeg)
 
 ## A. Localisation cutanée de **LAM**
 
@@ -240,11 +240,11 @@ source: DES ACP - Cours de Dermatopathologie
 - Papules / plaques infiltrées, **nodules roses à violacés**, parfois **purpuriques** ou ecchymotiques
 - **Atteinte muqueuse fréquente** : **gingivale dans 50 % des LAM 4 et 5**
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p32_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p32_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p32_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p33_00.jpeg)
 
 ### Histologie
 
@@ -252,13 +252,13 @@ source: DES ACP - Cours de Dermatopathologie
 - LAM 4/5 = **grandes cellules à cytoplasme abondant granuleux**
 - Topographie variable : périvasculaire à infiltrat **massif dermo-hypodermique tumoral**
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p35_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p36_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p36_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p37_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p37_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p38_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p38_00.jpeg)
 
 ### Phénotype LAM cutané
 
@@ -290,13 +290,13 @@ source: DES ACP - Cours de Dermatopathologie
 - Nodules **érythémato-violacés**, souvent ecchymotiques
 - Atteinte leucémique fréquente
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p39_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p39_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p39_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p39_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p39_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p39_02.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p39_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p39_03.jpeg)
 
 ### Histologie
 
@@ -306,15 +306,15 @@ source: DES ACP - Cours de Dermatopathologie
 - **Pas d'angiotropisme** (≠ NK/T)
 - Cytologie **proche LAM** → **phénotype indispensable**
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p40_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p40_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p41_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p41_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p42_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p42_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p43_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p43_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p43_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p43_01.jpeg)
 
 ### Phénotype BPDCN ⭐
 
@@ -331,13 +331,13 @@ source: DES ACP - Cours de Dermatopathologie
 
 > **Pour affirmer le diagnostic** : **CD4+ CD56+** + au moins **1 (idéalement 2)** marqueur PDC : **CD123, CD303, TCL1**
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p46_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p46_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p46_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p46_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p46_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p46_02.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p46_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p46_03.jpeg)
 
 ### LAM vs BPDCN
 
@@ -351,11 +351,11 @@ source: DES ACP - Cours de Dermatopathologie
 
 → Panel minimum différenciateur : **CD34, MPO, CD123, TCL1, TdT**
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p47_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p47_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p48_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p48_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p48_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p48_01.jpeg)
 
 ## C. LMMC (leucémie myélomonocytaire chronique)
 
@@ -392,20 +392,20 @@ source: DES ACP - Cours de Dermatopathologie
 - Hommes, âge médian 60 ans
 - Plaques érythémateuses du tronc, évolution par poussées
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p49_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p49_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p49_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p49_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p49_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p49_02.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p49_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p49_03.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p52_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p52_00.jpeg)
 
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p53_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p53_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060 Localisation cutanée dhémopathies malignes systémiques (myéloïdes et lymphoïdes)/p53_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1060%20Localisation%20cutan%C3%A9e%20dh%C3%A9mopathies%20malignes%20syst%C3%A9miques%20%28my%C3%A9lo%C3%AFdes%20et%20lympho%C3%AFdes%29/p53_01.jpeg)
 
 ---
 

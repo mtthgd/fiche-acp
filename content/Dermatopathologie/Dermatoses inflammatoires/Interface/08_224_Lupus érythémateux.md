@@ -35,9 +35,9 @@ source: DES ACP - Cours de Dermatopathologie
 
 > Ce chapitre traite uniquement des **manifestations lichénoïdes** (= épidermiques).
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p05_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p05_02.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p05_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p05_05.jpeg)
 
 ## Lupus érythémateux chronique discoïde (LECC)
 
@@ -49,7 +49,7 @@ source: DES ACP - Cours de Dermatopathologie
 - **Renforcement périphérique**
 - Cuir chevelu → **alopécie cicatricielle**
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p06_01.jpeg)
 
 ### Histologie
 
@@ -65,19 +65,19 @@ source: DES ACP - Cours de Dermatopathologie
 - Atteinte **folliculaire** : ostiums élargis, **bouchons cornés**, vacuolisation jonctionnelle péri-folliculaire
 - Infiltrat dermique en **manchons périvasculaires de grande taille**
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p07_01.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p08_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p08_02.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p08_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p08_03.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p09_02.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p09_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p09_03.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p10_01.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p10_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p10_02.jpeg)
 
 ## Immunofluorescence directe (IFD) — Bande lupique
 
@@ -98,11 +98,11 @@ source: DES ACP - Cours de Dermatopathologie
 > Une bande lupique positive **n'affirme pas** le diagnostic ; une bande négative **n'élimine pas** le diagnostic.
 > Dans les autres dermatoses lichénoïdes, on peut voir une bande, mais composée uniquement d'**IgM** ou de **C3**.
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p11_01.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p11_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p11_03.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p12_02.jpeg)
 
 ## Lupus érythémateux subaigu (LECS)
 
@@ -115,7 +115,7 @@ source: DES ACP - Cours de Dermatopathologie
 - **50 %** ont 4 critères ACR du lupus systémique mais **seuls 10-15 %** font des manifestations graves (rénales)
 - Sérologie : **AAN+** chez 70 %, **anti-Ro/SSA+** chez 70 % (surtout formes annulaires) ± anti-La/SSB
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p13_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p13_02.jpeg)
 
 ### Histologie
 
@@ -127,13 +127,13 @@ source: DES ACP - Cours de Dermatopathologie
 | Infiltrat | Lichénoïde **vacuolaire**, parfois **nécroses kératinocytaires nombreuses** |
 | Inflammation | **Moins abondante** que LECC |
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p13_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p13_03.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p13_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p13_04.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p15_01.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p15_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p15_02.jpeg)
 
 ## Lupus érythémateux aigu (lupus systémique)
 
@@ -143,7 +143,7 @@ source: DES ACP - Cours de Dermatopathologie
 - Lésions **œdémato-papuleuses, congestives**
 - **Photo-déclenché** dans 1 cas/2
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p16_01.jpeg)
 
 ### Histologie
 - **Anomalies discrètes**
@@ -152,11 +152,11 @@ source: DES ACP - Cours de Dermatopathologie
 - DD : **dermatomyosite** (souvent dépôts de mucine associés)
 - **PNN** possibles → très évocateurs d'une **poussée** du lupus érythémateux
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p16_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p16_04.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p17_01.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p17_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p17_04.jpeg)
 
 ## Tableau comparatif des 3 lupus épidermiques
 
@@ -173,7 +173,7 @@ source: DES ACP - Cours de Dermatopathologie
 | Bande lupique en peau lésée | 60-80 % | 60 % | 100 % |
 | Risque systémique | Faible | Modéré (10-15 %) | LED constant |
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p18_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p18_02.jpeg)
 
 ## Immunohistochimie complémentaire
 
@@ -195,9 +195,9 @@ source: DES ACP - Cours de Dermatopathologie
 - Mains : érythème sur les **articulations** (métacarpophalangiennes), **papules de Gottron** (érythémato-squameuses)
 - **Renforcement péri-unguéal**
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p19_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p19_02.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p19_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p19_03.jpeg)
 
 ### Histologie
 - **Anomalies subtiles**
@@ -208,15 +208,15 @@ source: DES ACP - Cours de Dermatopathologie
 - **Dépôts de mucine** fréquents
 - **IFD souvent négative** ; si + : dépôts granuleux **IgM** en bande sous-épidermique uniquement
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p22_01.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p22_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p22_04.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p23_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p23_02.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p24_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p24_02.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p24_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p24_03.jpeg)
 
 ## Diagnostics différentiels
 

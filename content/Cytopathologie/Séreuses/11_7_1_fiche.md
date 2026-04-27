@@ -55,7 +55,7 @@ Un épanchement = **processus pathologique par définition**
 - **Lavages péritonéaux** : grands **placards plans cohésifs** (cellules décrochées)
 
 
-![[assets/cytopathologie/sereuse/V2 11.7-1/p05_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/sereuse/V2%2011.7-1/p05_03.jpeg)
 
 ### Variations réactionnelles à connaître
 
@@ -64,7 +64,7 @@ Un épanchement = **processus pathologique par définition**
 - Aspect en **« jupe à froufrou »** caractéristique
 - Cellule binucléée possible
 
-![[assets/cytopathologie/sereuse/V2 11.7-1/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/sereuse/V2%2011.7-1/p06_01.jpeg)
 
 #### Cannibalisme
 - Une cellule mésothéliale en englobe une autre
@@ -77,14 +77,14 @@ Un épanchement = **processus pathologique par définition**
 - → Peut mimer un **adénocarcinome** ou un **mésothéliome**
 - **Études ancillaires nécessaires** (calretinine, WT1, claudine-4, BAP1)
 
-![[assets/cytopathologie/sereuse/V2 11.7-1/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/sereuse/V2%2011.7-1/p06_00.jpeg)
 
 #### Microvacuolisation
 - Cellules mésothéliales et macrophagiques peuvent être micro-vacuolisées
 - Aspect inquiétant pouvant mimer une cellule carcinomateuse
 - → Études ancillaires nécessaires
 
-![[assets/cytopathologie/sereuse/V2 11.7-1/p07_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/sereuse/V2%2011.7-1/p07_02.jpeg)
 
 ### Études ancillaires différentielles
 
@@ -110,7 +110,7 @@ Un épanchement = **processus pathologique par définition**
 - **Rapport N/C faible**
 - Aspect bénin évident
 
-![[assets/cytopathologie/sereuse/V2 11.7-1/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/sereuse/V2%2011.7-1/p07_00.jpeg)
 
 ### Variations réactionnelles piégeantes
 
@@ -118,7 +118,7 @@ Un épanchement = **processus pathologique par définition**
 - Macrovacuoles refoulant le noyau → mimer un **carcinome à cellules en bague à chaton**
 - Études ancillaires nécessaires si doute
 
-![[assets/cytopathologie/sereuse/V2 11.7-1/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/sereuse/V2%2011.7-1/p07_01.jpeg)
 
 #### Population trop monomorphe
 - Macrophages alignés monomorphes → mimer un **lymphome B à grandes cellules**
@@ -155,7 +155,7 @@ Un épanchement = **processus pathologique par définition**
 - Souvent entourées de cellules mésothéliales
 - **Bénignes**, rencontrées dans les processus hyperplasiques
 
-![[assets/cytopathologie/sereuse/V2 11.7-1/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/sereuse/V2%2011.7-1/p08_00.jpeg)
 
 ### Corps ciliaires
 - Très **rares**

@@ -63,14 +63,14 @@ Surtout à visée **thérapeutique** :
 - Geste non anodin, en milieu chirurgical
 - Volume modeste (microvolume)
 
-![[assets/ORL/oeil/pathologie_intra_oculaire/10-432- Cytologie intra-oculaire/p04_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_intra_oculaire/10-432-%20Cytologie%20intra-oculaire/p04_00.png)
 
 ### Pars plana vitrectomie
 - 3 canaux opérateurs introduits par la **pars plana** (zone post-limbique sans rétine)
 - Lumière + **vitréotome** (coupe et aspiration) + canal d'**infusion** (remplacement du vitré)
 - Microscope opératoire à travers la cornée, iris dilaté
 
-![[assets/ORL/oeil/pathologie_intra_oculaire/10-432- Cytologie intra-oculaire/p07_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_intra_oculaire/10-432-%20Cytologie%20intra-oculaire/p07_01.png)
 
 ## Macroscopie / Préparation
 
@@ -92,9 +92,9 @@ Surtout à visée **thérapeutique** :
 | **Fragments de cristallin** | Endophtalmie phaco-anaphylactique, glaucome phacolytique |
 | **Cellules lymphomateuses atypiques** | Lymphome intra-oculaire (rare) |
 
-![[assets/ORL/oeil/pathologie_intra_oculaire/10-432- Cytologie intra-oculaire/p05_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_intra_oculaire/10-432-%20Cytologie%20intra-oculaire/p05_01.png)
 
-![[assets/ORL/oeil/pathologie_intra_oculaire/10-432- Cytologie intra-oculaire/p06_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_intra_oculaire/10-432-%20Cytologie%20intra-oculaire/p06_00.png)
 
 ### Profils cytologiques de l'humeur vitrée
 
@@ -109,7 +109,7 @@ Surtout à visée **thérapeutique** :
 | **Granulomes giganto-cellulaires** | Sarcoïdose |
 | **Fragments cristalliniens** | Uvéite induite par cristallin |
 
-![[assets/ORL/oeil/pathologie_intra_oculaire/10-432- Cytologie intra-oculaire/p08_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_intra_oculaire/10-432-%20Cytologie%20intra-oculaire/p08_01.png)
 
 ### Particularités du vitré : **corps astéroïdes**
 - Petites boules rondes acellulaires
@@ -117,7 +117,7 @@ Surtout à visée **thérapeutique** :
 - Aspect **« croix de Malte »** en lumière polarisée
 - Peuvent expliquer des opacifications du vitré
 
-![[assets/ORL/oeil/pathologie_intra_oculaire/10-432- Cytologie intra-oculaire/p09_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_intra_oculaire/10-432-%20Cytologie%20intra-oculaire/p09_00.png)
 
 ## Diagnostics — focus sur le **lymphome vitréen**
 

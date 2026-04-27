@@ -129,9 +129,9 @@ Compléter par PAX8 + GATA3 :
 - → **Métastase ganglionnaire axillaire d’un carcinome séreux de haut grade**
 - Confirmation gynécologique : ascite + masse ovarienne droite + carcinose péritonéale
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_8 PiègesTumeursRH+/p05_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_8 PiègesTumeursRH+/p06_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_8 PiègesTumeursRH+/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_8%20Pi%C3%A8gesTumeursRH%2B/p05_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_8%20Pi%C3%A8gesTumeursRH%2B/p06_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_8%20Pi%C3%A8gesTumeursRH%2B/p06_01.jpeg)
 
 ### Cas 2 — Femme 49 ans
 
@@ -142,12 +142,12 @@ Compléter par PAX8 + GATA3 :
 - IHC : **RE faible mais significatif**, **TTF1 +++**
 - → **Métastase mammaire d’ADK pulmonaire** connu
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_8 PiègesTumeursRH+/p12_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_8 PiègesTumeursRH+/p12_01.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_8 PiègesTumeursRH+/p13_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_8 PiègesTumeursRH+/p14_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_8 PiègesTumeursRH+/p14_01.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_8 PiègesTumeursRH+/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_8%20Pi%C3%A8gesTumeursRH%2B/p12_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_8%20Pi%C3%A8gesTumeursRH%2B/p12_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_8%20Pi%C3%A8gesTumeursRH%2B/p13_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_8%20Pi%C3%A8gesTumeursRH%2B/p14_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_8%20Pi%C3%A8gesTumeursRH%2B/p14_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_8%20Pi%C3%A8gesTumeursRH%2B/p14_02.jpeg)
 
 ### Cas 3 — Femme 72 ans
 
@@ -159,10 +159,10 @@ Compléter par PAX8 + GATA3 :
 - IHC : **PAX8 −**, **GATA3 +++**
 - → **Métastase ovarienne bilatérale** de l’ADK mammaire connu
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_8 PiègesTumeursRH+/p16_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_8 PiègesTumeursRH+/p17_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_8 PiègesTumeursRH+/p17_01.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_8 PiègesTumeursRH+/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_8%20Pi%C3%A8gesTumeursRH%2B/p16_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_8%20Pi%C3%A8gesTumeursRH%2B/p17_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_8%20Pi%C3%A8gesTumeursRH%2B/p17_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_8%20Pi%C3%A8gesTumeursRH%2B/p18_00.jpeg)
 
 ### Cas 4 — Femme 84 ans
 
@@ -172,11 +172,11 @@ Compléter par PAX8 + GATA3 :
 - IHC : **RH +++**, **GATA3 −**, **PAX8 +++ diffus**, **p53 wild-type**
 - → **Métastase pulmonaire de l’ADK endométrioïde** connu
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_8 PiègesTumeursRH+/p20_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_8 PiègesTumeursRH+/p20_01.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_8 PiègesTumeursRH+/p21_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_8 PiègesTumeursRH+/p22_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_8 PiègesTumeursRH+/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_8%20Pi%C3%A8gesTumeursRH%2B/p20_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_8%20Pi%C3%A8gesTumeursRH%2B/p20_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_8%20Pi%C3%A8gesTumeursRH%2B/p21_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_8%20Pi%C3%A8gesTumeursRH%2B/p22_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_8%20Pi%C3%A8gesTumeursRH%2B/p22_01.jpeg)
 
 ## Pièges spécifiques à anticiper
 

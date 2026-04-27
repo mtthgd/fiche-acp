@@ -43,7 +43,7 @@ Classification **morphologique et fonctionnelle**, identifiant **4 phénotypes p
 Pour chaque phénotype : **formes familiales / génétiques** vs **formes non familiales / non génétiques**.
 
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p04_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p04_01.png)
 
 ## Démarche diagnostique multimodale
 
@@ -56,9 +56,9 @@ Pour chaque phénotype : **formes familiales / génétiques** vs **formes non fa
 
 > ⚠️ La génétique est **imparfaite seule** : il existe des **chevauchements** d'anomalies génétiques entre cardiomyopathies (un même gène peut donner CMH/CMD/CAVD).
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p07_01.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p07_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p07_03.jpeg)
 
 ## Approche anatomopathologique
 
@@ -70,9 +70,9 @@ Pour chaque phénotype : **formes familiales / génétiques** vs **formes non fa
    - Régression **fibro-adipeuse** du VD → CAVD
    - Cavités sub-normales → CMR ou phénotypes intermédiaires
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p09_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p09_01.png)
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p10_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p10_00.png)
 
 ### Microscopie — lésions élémentaires
 
@@ -93,11 +93,11 @@ Pour chaque phénotype : **formes familiales / génétiques** vs **formes non fa
 - **Cardiomyocytes vacuolisés / clarifiés** : aspect **pseudo-végétal** → surcharge (glycogène, Fabry, amylose intracellulaire)
 - **Apoptose** : cardiomyocytes éosinophiles → perte d'éosinophilie
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p07_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p07_02.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p07_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p07_04.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p07_07.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p07_07.jpeg)
 
 ### Types de fibrose
 
@@ -107,11 +107,11 @@ Pour chaque phénotype : **formes familiales / génétiques** vs **formes non fa
 | **Intramyocardique interstitielle** | Peu visible en imagerie ; mieux vue en **picrosirius** ou trichrome |
 | **Fibrose de remplacement** | Disparition des cardiomyocytes → territoires fibreux ou **fibro-adipeux** |
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p08_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p08_03.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p08_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p08_05.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p08_08.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p08_08.jpeg)
 
 ## Cardiomyopathie hypertrophique (CMH)
 
@@ -146,9 +146,9 @@ Hypertrophie pariétale du VG (≥ **15 mm** ou **13 mm** en contexte familial) 
 - Cavité VG **réduite**, OG dilatée
 - Variantes : apicale (Yamaguchi), médio-ventriculaire, concentrique
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p14_01.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p15_00.jpeg)
 
 ### Histologie
 - **Cardiomyocytes hypertrophiques dystrophiques** : noyaux volumineux, charbonneux, atypiques
@@ -156,9 +156,9 @@ Hypertrophie pariétale du VG (≥ **15 mm** ou **13 mm** en contexte familial) 
 - **Fibrose interstitielle** et **de remplacement**
 - Anomalies vasculaires : **artérioles intramyocardiques dysplasiques** (média épaisse, lumière réduite)
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p16_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p16_00.png)
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p16_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p16_02.jpeg)
 
 ### Pronostic / Traitement
 - Risque **majeur de mort subite** chez le sujet jeune (sportif)
@@ -167,11 +167,11 @@ Hypertrophie pariétale du VG (≥ **15 mm** ou **13 mm** en contexte familial) 
 - **Myectomie** chirurgicale (intervention de Morrow) ou **alcoolisation septale** dans la CMH obstructive
 - **DAI** en prévention secondaire ou primaire à haut risque
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p17_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p17_03.png)
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p17_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p17_05.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p17_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p17_06.jpeg)
 
 ## Cardiomyopathie dilatée (CMD)
 
@@ -190,9 +190,9 @@ Hypertrophie pariétale du VG (≥ **15 mm** ou **13 mm** en contexte familial) 
 - **Thrombi** intra-cavitaires fréquents (apex VG, OG)
 - Anneau mitral dilaté → insuffisance mitrale fonctionnelle
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p18_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p18_02.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p18_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p18_06.jpeg)
 
 ### Histologie
 - **Hypertrophie cardiomyocytaire** (en réponse à la dilatation)
@@ -201,13 +201,13 @@ Hypertrophie pariétale du VG (≥ **15 mm** ou **13 mm** en contexte familial) 
 - **Pas de disarray** (≠ CMH)
 - **Pas d'inflammation** significative (≠ myocardite — DD essentiel)
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p19_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p19_00.png)
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p19_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p19_02.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p19_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p19_04.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p19_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p19_06.jpeg)
 
 ### Pronostic / Traitement
 - Insuffisance cardiaque **chronique** progressive
@@ -236,15 +236,15 @@ Combinaison de critères : imagerie, ECG, arythmies, histologie, génétique, an
 - Anévrysmes pariétaux possibles
 - VG atteint dans 30-50 %
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p20_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p20_03.png)
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p20_60.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p20_60.png)
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p21_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p21_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p21_02.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p21_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p21_04.jpeg)
 
 ### Histologie
 - **Substitution fibro-adipeuse** transmurale du myocarde du VD
@@ -255,11 +255,11 @@ Combinaison de critères : imagerie, ECG, arythmies, histologie, génétique, an
 
 > ⚠️ Pièges : la graisse épicardique du VD est **physiologique** chez le sujet âgé → diagnostic = **substitution intramyocardique** + **fibrose**.
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p22_01.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p22_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p22_02.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Cardiomyopathies primitives. DV toquet/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Cardiomyopathies%20primitives.%20DV%20toquet/p23_01.jpeg)
 
 ### Pronostic / Traitement
 - **Arythmies ventriculaires** : TVNS, TV soutenue, FV → mort subite (premier symptôme dans 50 % des cas !)

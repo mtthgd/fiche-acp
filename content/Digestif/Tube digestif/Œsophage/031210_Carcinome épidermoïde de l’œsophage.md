@@ -112,9 +112,9 @@ Tumeur **épithéliale maligne de différenciation malpighienne** caractérisée
 - Perte de tous les aspects de différenciation malpighienne
 - IHC pour confirmer : **p63+, p40+** (différenciation malpighienne) ; marqueurs neuro-endocrines −
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p09_01.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p09_02.jpeg)
 
 
 ### 2. Carcinome verruqueux

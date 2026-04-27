@@ -44,9 +44,9 @@ Deux grandes catégories :
 - Réaction inflammatoire **granulomateuse** : cellules géantes phagocytant la kératine, infiltrat polymorphe (lymphocytes, plasmocytes, PNN).
 - Évolution possible vers **abcès** ou **fistule cutanée**.
 
-![[assets/gyneco-sein/sein/pathologie_mammelon/X04_11 Pathologie du Mammelon Laurent ARNOULD/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_mammelon/X04_11%20Pathologie%20du%20Mammelon%20Laurent%20ARNOULD/p06_00.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_mammelon/X04_11 Pathologie du Mammelon Laurent ARNOULD/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_mammelon/X04_11%20Pathologie%20du%20Mammelon%20Laurent%20ARNOULD/p08_00.jpeg)
 
 ### Diagnostic différentiel
 - **Abcès mamelonnaire** banal, lésion inflammatoire non spécifique → rechercher avec soin **lamelles de kératine** + métaplasie malpighienne du revêtement galactophorique.
@@ -73,9 +73,9 @@ Deux grandes catégories :
 - Stroma-réaction **abondante mais peu cellulaire**, mixoïde / hyaline.
 - Cellules très peu atypiques, mitoses très rares.
 
-![[assets/gyneco-sein/sein/pathologie_mammelon/X04_11 Pathologie du Mammelon Laurent ARNOULD/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_mammelon/X04_11%20Pathologie%20du%20Mammelon%20Laurent%20ARNOULD/p15_00.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_mammelon/X04_11 Pathologie du Mammelon Laurent ARNOULD/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_mammelon/X04_11%20Pathologie%20du%20Mammelon%20Laurent%20ARNOULD/p18_00.jpeg)
 
 ### Immunohistochimie
 
@@ -120,9 +120,9 @@ Deux grandes catégories :
 - Architecture complexe : papilles, fentes, structures glandulaires, aspects fenêtrés ; **double assise myoépithéliale conservée**.
 - Cytologie rassurante : pas d’hyperchromatisme ni de nucléoles proéminents ; nécrose possible mais sans signes inquiétants.
 
-![[assets/gyneco-sein/sein/pathologie_mammelon/X04_11 Pathologie du Mammelon Laurent ARNOULD/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_mammelon/X04_11%20Pathologie%20du%20Mammelon%20Laurent%20ARNOULD/p23_00.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_mammelon/X04_11 Pathologie du Mammelon Laurent ARNOULD/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_mammelon/X04_11%20Pathologie%20du%20Mammelon%20Laurent%20ARNOULD/p27_00.jpeg)
 
 ### Immunohistochimie
 
@@ -162,9 +162,9 @@ Deux grandes catégories :
 - Mitoses peu fréquentes ; possible extension annexielle.
 - Lésion continue ou discontinue.
 
-![[assets/gyneco-sein/sein/pathologie_mammelon/X04_11 Pathologie du Mammelon Laurent ARNOULD/p36_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_mammelon/X04_11%20Pathologie%20du%20Mammelon%20Laurent%20ARNOULD/p36_00.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_mammelon/X04_11 Pathologie du Mammelon Laurent ARNOULD/p38_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_mammelon/X04_11%20Pathologie%20du%20Mammelon%20Laurent%20ARNOULD/p38_00.jpeg)
 
 ### Immunohistochimie
 
@@ -192,7 +192,7 @@ Deux grandes catégories :
 | **Hyperplasie des cellules de Toker** | Cellules CK7+ mais **HER2 –** ; noyaux **peu atypiques**, taille proche d’une cellule épithéliale normale ; prolongements dendritiques |
 | **Carcinome à cellules de Merkel pagétoïde** | **CK20+**, CK7– |
 
-![[assets/gyneco-sein/sein/pathologie_mammelon/X04_11 Pathologie du Mammelon Laurent ARNOULD/p49_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_mammelon/X04_11%20Pathologie%20du%20Mammelon%20Laurent%20ARNOULD/p49_00.jpeg)
 
 ### Traitement
 - Dépend fortement de l’existence d’une lésion sous-jacente.

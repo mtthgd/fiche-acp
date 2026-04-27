@@ -29,7 +29,7 @@ source: DES ACP - Cours de cardio-vasculaire
   3. Vaisseaux
 
 
-![[assets/cardio-vasculaire/coeur/Prise en charge macroscopique dun prélèvement  - /p02_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Prise%20en%20charge%20macroscopique%20dun%20pr%C3%A9l%C3%A8vement%20%20-%20/p02_05.jpeg)
 
 ---
 
@@ -66,9 +66,9 @@ source: DES ACP - Cours de cardio-vasculaire
 
 > Repère essentiel en cas de **cardiopathie congénitale** avec ambiguïté de situs.
 
-![[assets/cardio-vasculaire/coeur/Prise en charge macroscopique dun prélèvement  - /p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Prise%20en%20charge%20macroscopique%20dun%20pr%C3%A9l%C3%A8vement%20%20-%20/p03_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Prise en charge macroscopique dun prélèvement  - /p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Prise%20en%20charge%20macroscopique%20dun%20pr%C3%A9l%C3%A8vement%20%20-%20/p03_01.jpeg)
 
 ### Faces du cœur
 - **Face antérieure** : repérer le **sillon interventriculaire antérieur** (artère IVA)
@@ -108,11 +108,11 @@ Coupe **transversale** du cœur, perpendiculaire au grand axe.
     - Postérieur = **coronaire droite** (réseau droit dominant)
   - **Non systématisées** = origine non ischémique (myocardite, cardiomyopathie)
 
-![[assets/cardio-vasculaire/coeur/Prise en charge macroscopique dun prélèvement  - /p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Prise%20en%20charge%20macroscopique%20dun%20pr%C3%A9l%C3%A8vement%20%20-%20/p04_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/Prise en charge macroscopique dun prélèvement  - /p04_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Prise%20en%20charge%20macroscopique%20dun%20pr%C3%A9l%C3%A8vement%20%20-%20/p04_01.png)
 
-![[assets/cardio-vasculaire/coeur/Prise en charge macroscopique dun prélèvement  - /p04_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/Prise%20en%20charge%20macroscopique%20dun%20pr%C3%A9l%C3%A8vement%20%20-%20/p04_03.jpeg)
 
 ## 1.6 Étape 5 — Sections coronaires
 

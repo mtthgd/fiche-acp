@@ -76,11 +76,11 @@ Association fréquente des cancers épidermoïdes de **l'œsophage** et de la **
 | **NIE de haut grade** (DHG) | Atteinte de **toute (ou presque toute) la hauteur** de l'épithélium |
 | **Carcinome in situ** | Inclus dans NIE haut grade — absence complète de maturation |
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.8 Mécanismes de carcinogenèse et lésions précancéreuses malpighiennes de l’œsophage/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.8%20M%C3%A9canismes%20de%20carcinogen%C3%A8se%20et%20l%C3%A9sions%20pr%C3%A9canc%C3%A9reuses%20malpighiennes%20de%20l%E2%80%99%C5%93sophage/p07_01.jpeg)
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.8 Mécanismes de carcinogenèse et lésions précancéreuses malpighiennes de l’œsophage/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.8%20M%C3%A9canismes%20de%20carcinogen%C3%A8se%20et%20l%C3%A9sions%20pr%C3%A9canc%C3%A9reuses%20malpighiennes%20de%20l%E2%80%99%C5%93sophage/p08_01.jpeg)
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.8 Mécanismes de carcinogenèse et lésions précancéreuses malpighiennes de l’œsophage/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.8%20M%C3%A9canismes%20de%20carcinogen%C3%A8se%20et%20l%C3%A9sions%20pr%C3%A9canc%C3%A9reuses%20malpighiennes%20de%20l%E2%80%99%C5%93sophage/p09_01.jpeg)
 
 ## Lésions de précurseur discutées
 
@@ -152,7 +152,7 @@ Les études de **reproductibilité interobservateur** ont montré de grandes dif
 | **0-III** | Excavé / ulcéré (témoigne souvent d'une infiltration sous-muqueuse) |
 
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.8 Mécanismes de carcinogenèse et lésions précancéreuses malpighiennes de l’œsophage/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.8%20M%C3%A9canismes%20de%20carcinogen%C3%A8se%20et%20l%C3%A9sions%20pr%C3%A9canc%C3%A9reuses%20malpighiennes%20de%20l%E2%80%99%C5%93sophage/p16_01.jpeg)
 
 ### Classification IPCL (boucles vasculaires intra-papillaires)
 | IPCL | Lésion |
@@ -161,9 +161,9 @@ Les études de **reproductibilité interobservateur** ont montré de grandes dif
 | B2 | Intra-épithéliale ou légèrement infiltrante |
 | BN | Sous-muqueuse infiltrante |
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.8 Mécanismes de carcinogenèse et lésions précancéreuses malpighiennes de l’œsophage/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.8%20M%C3%A9canismes%20de%20carcinogen%C3%A8se%20et%20l%C3%A9sions%20pr%C3%A9canc%C3%A9reuses%20malpighiennes%20de%20l%E2%80%99%C5%93sophage/p18_01.jpeg)
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.8 Mécanismes de carcinogenèse et lésions précancéreuses malpighiennes de l’œsophage/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.8%20M%C3%A9canismes%20de%20carcinogen%C3%A8se%20et%20l%C3%A9sions%20pr%C3%A9canc%C3%A9reuses%20malpighiennes%20de%20l%E2%80%99%C5%93sophage/p19_01.jpeg)
 
 ## Mucosectomie / dissection sous-muqueuse
 
@@ -178,9 +178,9 @@ Les études de **reproductibilité interobservateur** ont montré de grandes dif
 - Coupes en lames serrées **numérotées** (cartographie)
 - État des **berges** annoté (latérales et profonde)
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.8 Mécanismes de carcinogenèse et lésions précancéreuses malpighiennes de l’œsophage/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.8%20M%C3%A9canismes%20de%20carcinogen%C3%A8se%20et%20l%C3%A9sions%20pr%C3%A9canc%C3%A9reuses%20malpighiennes%20de%20l%E2%80%99%C5%93sophage/p21_01.jpeg)
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.8 Mécanismes de carcinogenèse et lésions précancéreuses malpighiennes de l’œsophage/p21_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.8%20M%C3%A9canismes%20de%20carcinogen%C3%A8se%20et%20l%C3%A9sions%20pr%C3%A9canc%C3%A9reuses%20malpighiennes%20de%20l%E2%80%99%C5%93sophage/p21_02.jpeg)
 
 ### Items à préciser sur le compte-rendu
 - **Différenciation / grade** de la NIE ou du carcinome
@@ -202,7 +202,7 @@ Les études de **reproductibilité interobservateur** ont montré de grandes dif
 
 > ⚠️ **Le seuil SM1 est de 200 μm** (≠ adénocarcinome sur Barrett où le seuil est de **500 μm**).
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.8 Mécanismes de carcinogenèse et lésions précancéreuses malpighiennes de l’œsophage/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.8%20M%C3%A9canismes%20de%20carcinogen%C3%A8se%20et%20l%C3%A9sions%20pr%C3%A9canc%C3%A9reuses%20malpighiennes%20de%20l%E2%80%99%C5%93sophage/p22_01.jpeg)
 
 ## Stratégie thérapeutique
 

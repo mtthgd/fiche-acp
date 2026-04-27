@@ -26,7 +26,7 @@ Le tractus génital féminin a une **double origine embryologique** :
 
 Cette dualité explique la grande diversité des tumeurs gynécologiques et la nécessité d’une bonne connaissance embryologique pour comprendre les **reliquats** et les phénomènes de **métaplasie müllérienne**.
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 embryologie du tractus génital féminin/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20embryologie%20du%20tractus%20g%C3%A9nital%20f%C3%A9minin/p03_00.jpeg)
 
 ## Mise en place des gonades
 
@@ -34,7 +34,7 @@ Cette dualité explique la grande diversité des tumeurs gynécologiques et la n
 - Présence de **gonocytes/gonies** issues du **sac vitellin**, qui migrent secondairement vers le territoire gonadique présomptif le long du mésoderme dorsal
 - Au début, la gonade est **indifférenciée** (asexuée)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 embryologie du tractus génital féminin/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20embryologie%20du%20tractus%20g%C3%A9nital%20f%C3%A9minin/p04_00.jpeg)
 
 ## Mise en place des canaux génitaux
 
@@ -47,9 +47,9 @@ Deux paires de canaux se développent en parallèle des gonades indifférenciée
 
 Les **cordons sexuels indifférenciés** se développent à partir du revêtement cœlomique de surface et pénètrent dans la gonade indifférenciée.
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 embryologie du tractus génital féminin/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20embryologie%20du%20tractus%20g%C3%A9nital%20f%C3%A9minin/p05_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 embryologie du tractus génital féminin/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20embryologie%20du%20tractus%20g%C3%A9nital%20f%C3%A9minin/p06_00.jpeg)
 
 ## Différenciation sexuelle
 
@@ -66,9 +66,9 @@ Les **cordons sexuels indifférenciés** se développent à partir du revêtemen
 - En l’absence d’AMH : **canaux de Müller maintenus**
 - En l’absence de testostérone : **canaux de Wolff régressent** (mais régression **incomplète** → reliquats embryonnaires wolffiens)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 embryologie du tractus génital féminin/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20embryologie%20du%20tractus%20g%C3%A9nital%20f%C3%A9minin/p07_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 embryologie du tractus génital féminin/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20embryologie%20du%20tractus%20g%C3%A9nital%20f%C3%A9minin/p08_00.jpeg)
 
 ## Devenir des canaux de Müller chez la femme
 
@@ -94,7 +94,7 @@ Les défauts de fusion des canaux de Müller donnent :
 | **Mésenchyme** | Muscle lisse (myomètre, paroi tubaire), stroma endométrial, **chorion cytogène** |
 
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 embryologie du tractus génital féminin/p10_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20embryologie%20du%20tractus%20g%C3%A9nital%20f%C3%A9minin/p10_00.png)
 
 ## Reliquats wolffiens (vestiges mésonéphriques)
 
@@ -117,11 +117,11 @@ Le long de la paroi latérale des canaux de Müller → on les retrouve :
 - **FATWO** (*Female Adnexal Tumor of probable Wolffian Origin*) en péri-annexiel
 - Tumeurs développées à partir du rete ovarii
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 embryologie du tractus génital féminin/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20embryologie%20du%20tractus%20g%C3%A9nital%20f%C3%A9minin/p11_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 embryologie du tractus génital féminin/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20embryologie%20du%20tractus%20g%C3%A9nital%20f%C3%A9minin/p12_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 embryologie du tractus génital féminin/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20embryologie%20du%20tractus%20g%C3%A9nital%20f%C3%A9minin/p13_00.jpeg)
 
 ## Système müllérien secondaire et müllérianoses
 
@@ -149,11 +149,11 @@ Reliquats müllériens du système secondaire avec **métaplasie** :
 | **Léiomyomatose** péritonéale | Muscle lisse | Péritoine |
 | **Déciduose** | Cellules stromales déciduales | Péritoine |
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 embryologie du tractus génital féminin/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20embryologie%20du%20tractus%20g%C3%A9nital%20f%C3%A9minin/p14_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 embryologie du tractus génital féminin/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20embryologie%20du%20tractus%20g%C3%A9nital%20f%C3%A9minin/p15_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 embryologie du tractus génital féminin/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20embryologie%20du%20tractus%20g%C3%A9nital%20f%C3%A9minin/p16_00.jpeg)
 
 ## Théorie d’implantation (théorie actuelle)
 
@@ -163,9 +163,9 @@ La théorie du système müllérien secondaire est **remplacée** aujourd’hui 
 - **Implantation de muqueuse endométriale** par **reflux sanguin menstruel** (théorie de Sampson) → endométriose
 - C’est le mécanisme dominant retenu pour expliquer la genèse des tumeurs müllériennes ovariennes et péritonéales
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 embryologie du tractus génital féminin/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20embryologie%20du%20tractus%20g%C3%A9nital%20f%C3%A9minin/p19_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 embryologie du tractus génital féminin/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20embryologie%20du%20tractus%20g%C3%A9nital%20f%C3%A9minin/p20_00.jpeg)
 
 ## Conséquences pratiques pour le pathologiste
 

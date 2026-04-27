@@ -38,14 +38,14 @@ source: DES ACP - Cours de dermatopathologie
 2. Infiltration de l'**hypoderme jusqu'à l'aponévrose** → masse ferme **plus palpable que visible**
 3. **Nodule protubérant**, parfois ulcéré → souvent stade de **transformation en sarcome plus agressif**
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1047 Dermatofibrosarcome (DFSP)/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1047%20Dermatofibrosarcome%20%28DFSP%29/p03_00.jpeg)
 
 ### Macroscopie
 - Lésion étoilée dermo-hypodermique mal délimitée
 - Tumeur volumineuse blanchâtre, accolée à l'aponévrose superficielle
 - Refoulement de la peau ± altération cutanée ulcérative
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1047 Dermatofibrosarcome (DFSP)/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1047%20Dermatofibrosarcome%20%28DFSP%29/p04_00.jpeg)
 
 ## Histologie classique
 
@@ -64,16 +64,16 @@ source: DES ACP - Cours de dermatopathologie
 - Stroma fibreux peu abondant, peu inflammatoire, quelques capillaires
 - **Activité mitotique faible** (en dehors des formes transformées)
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1047 Dermatofibrosarcome (DFSP)/p05_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1047 Dermatofibrosarcome (DFSP)/p06_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1047 Dermatofibrosarcome (DFSP)/p07_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1047 Dermatofibrosarcome (DFSP)/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1047%20Dermatofibrosarcome%20%28DFSP%29/p05_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1047%20Dermatofibrosarcome%20%28DFSP%29/p06_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1047%20Dermatofibrosarcome%20%28DFSP%29/p07_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1047%20Dermatofibrosarcome%20%28DFSP%29/p08_00.jpeg)
 
 ### Invasion
 - **Invasion des annexes** (poils, glandes)
 - Invasion de la **graisse hypodermique** massive ou le long des septas interlobulaires
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221 - Dermatoses lichénoïdes - approche diagnostique/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221%20-%20Dermatoses%20lich%C3%A9no%C3%AFdes%20-%20approche%20diagnostique/p09_00.jpeg)
 
 ## Immunohistochimie
 
@@ -88,7 +88,7 @@ source: DES ACP - Cours de dermatopathologie
 
 > Le **CD34** est le marqueur clé : sa positivité diffuse en contexte d'une prolifération monomorphe à cellules fusiformes d'allure fibroblastique a une grande **spécificité** dans cette présentation.
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1047 Dermatofibrosarcome (DFSP)/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1047%20Dermatofibrosarcome%20%28DFSP%29/p10_00.jpeg)
 
 ## Variantes histologiques
 
@@ -104,17 +104,17 @@ source: DES ACP - Cours de dermatopathologie
   - **Ki67 élevé** dans la zone transformée
 - **5 % de décès rapportés** (engage le pronostic vital)
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1047 Dermatofibrosarcome (DFSP)/p13_00.jpeg]]
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p14_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1047 Dermatofibrosarcome (DFSP)/p15_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1047 Dermatofibrosarcome (DFSP)/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1047%20Dermatofibrosarcome%20%28DFSP%29/p13_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p14_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1047%20Dermatofibrosarcome%20%28DFSP%29/p15_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1047%20Dermatofibrosarcome%20%28DFSP%29/p16_00.jpeg)
 
 ### Forme pigmentée — **tumeur de Bednar**
 
 - Cellules **dendritiques mélanocytaires** intriquées (mélanine + Fontana +, Mélan-A/SOX10 +)
 - Origine débattue : colonisation par mélanocytes épidermiques ou différenciation du sous-clone tumoral
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1047 Dermatofibrosarcome (DFSP)/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1047%20Dermatofibrosarcome%20%28DFSP%29/p11_00.jpeg)
 
 ### Forme myxoïde
 - Inflexion myxoïde du stroma
@@ -125,7 +125,7 @@ source: DES ACP - Cours de dermatopathologie
 - Adultes jeunes, enfants
 - Souvent associé à territoires DFSP classiques
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT Dermatoses psoriasiformes/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT%20Dermatoses%20psoriasiformes/p12_00.jpeg)
 
 ## Biologie moléculaire / FISH
 
@@ -147,8 +147,8 @@ source: DES ACP - Cours de dermatopathologie
 - Confirmation des variantes (Bednar, myxoïde, fibroblastome)
 - DD avec dermatofibrome ou autres tumeurs CD34+
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1047 Dermatofibrosarcome (DFSP)/p17_00.jpeg]]
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT Dermatoses psoriasiformes/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1047%20Dermatofibrosarcome%20%28DFSP%29/p17_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT%20Dermatoses%20psoriasiformes/p18_00.jpeg)
 
 ## Diagnostics différentiels
 
@@ -163,9 +163,9 @@ source: DES ACP - Cours de dermatopathologie
 
 > **Or standard du DD = recherche de réarrangement de PDGFB par FISH** (positivité = DFSP de certitude).
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1047 Dermatofibrosarcome (DFSP)/p21_00.jpeg]]
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p22_00.jpeg]]
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1047%20Dermatofibrosarcome%20%28DFSP%29/p21_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p22_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p23_00.jpeg)
 
 ## Pronostic et traitement
 

@@ -58,7 +58,7 @@ Facteur d’amplification théorique = **2ⁿ** (n = nombre de cycles).
 
 Formule : **X = X₀ × A^N** où A = facteur d’amplification (2 si efficacité 100 %).
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-310 Principes de la Q PCR/p05_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-310%20Principes%20de%20la%20Q%20PCR/p05_00.png)
 
 
 ## Efficacité de PCR
@@ -81,7 +81,7 @@ Causes de **chute d’efficacité** :
 - Au-delà parfois possible grâce aux progrès de fixation/extraction
 - **Jamais > 300 pb** sur FFPE
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-310 Principes de la Q PCR/p07_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-310%20Principes%20de%20la%20Q%20PCR/p07_00.png)
 
 ## Méthodes de détection
 
@@ -105,9 +105,9 @@ Causes de **chute d’efficacité** :
 - **Sondes beacon** (épingle à cheveux)
 
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-310 Principes de la Q PCR/p12_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-310%20Principes%20de%20la%20Q%20PCR/p12_00.png)
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-310 Principes de la Q PCR/p12_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-310%20Principes%20de%20la%20Q%20PCR/p12_01.png)
 
 ## Stratégies pour favoriser l’allèle muté
 
@@ -146,7 +146,7 @@ Causes de **chute d’efficacité** :
 | CT exploitable | **< 35** |
 | Variation entre réplicats | **< 0,5 cycle** ou Δ CT < 0,25 |
 
-![[assets/pathologie-moleculaire/methodes-analyses-adn-pcr/16-310 Principes de la Q PCR/p16_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-analyses-adn-pcr/16-310%20Principes%20de%20la%20Q%20PCR/p16_00.png)
 
 
 ## Applications en pathologie

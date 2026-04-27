@@ -49,7 +49,7 @@ source: DES ACP - Cours de digestif
 - Topographie : non systématisée mais plus souvent **portale ou périportale**
 
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.20 Maladies de système et foie/p06_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.20%20Maladies%20de%20syst%C3%A8me%20et%20foie/p06_03.png)
 
 ### Lésions associées
 
@@ -57,14 +57,14 @@ source: DES ACP - Cours de digestif
 - Granulomes près d'une voie biliaire → **destruction des canaux biliaires interlobulaires** → **cholestase chronique** → rarement **cirrhose biliaire**
 - DD principal : **cholangite biliaire primitive** (CBP) → distinguer par **AMA**
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.20 Maladies de système et foie/p08_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.20%20Maladies%20de%20syst%C3%A8me%20et%20foie/p08_01.png)
 
 #### Lésions vasculaires
 - Granulomes obstruant **veines portes** ± **veines hépatiques**
 - → **HNR** (hyperplasie nodulaire régénérative)
 - → **HTP non cirrhotique**
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.20 Maladies de système et foie/p09_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.20%20Maladies%20de%20syst%C3%A8me%20et%20foie/p09_00.png)
 
 #### Évolution rare vers fibrose / cirrhose
 - ~ **8 %** dans les séries
@@ -105,9 +105,9 @@ Les granulomes peuvent être observés jusqu'à **10 % des biopsies hépatiques*
 | **Portale / périportale** | **CBP**, **sarcoïdose**, bilharziose |
 | **Lobulaire** | **Tuberculose**, médicaments |
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.20 Maladies de système et foie/p13_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.20%20Maladies%20de%20syst%C3%A8me%20et%20foie/p13_02.png)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.20 Maladies de système et foie/p13_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.20%20Maladies%20de%20syst%C3%A8me%20et%20foie/p13_03.png)
 
 ---
 
@@ -144,9 +144,9 @@ Les granulomes peuvent être observés jusqu'à **10 % des biopsies hépatiques*
   - **Paroi des sinusoïdes**
 - Coloration **rouge Congo** + lumière polarisée → **biréfringence jaune-vert** caractéristique = diagnostic d'amylose
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.20 Maladies de système et foie/p16_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.20%20Maladies%20de%20syst%C3%A8me%20et%20foie/p16_00.png)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.20 Maladies de système et foie/p19_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.20%20Maladies%20de%20syst%C3%A8me%20et%20foie/p19_00.png)
 
 ## Typage
 
@@ -164,7 +164,7 @@ Les granulomes peuvent être observés jusqu'à **10 % des biopsies hépatiques*
 | **Immunofluorescence** sur prélèvement frais congelé | – |
 | **Spectrométrie de masse** | Récente, pas en routine |
 
-![[assets/digestif/pancreas/tumorale/03.3.3.2 Pathologie moléculaire de ladénocarcinome du pancréas/p20_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.2%20Pathologie%20mol%C3%A9culaire%20de%20lad%C3%A9nocarcinome%20du%20pancr%C3%A9as/p20_00.png)
 
 ---
 
@@ -185,7 +185,7 @@ Les granulomes peuvent être observés jusqu'à **10 % des biopsies hépatiques*
 - **Distension sinusoïdale**
 - **HNR** dans le contexte de **vascularite rhumatoïde**
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p21_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p21_01.png)
 
 ## Vascularites systémiques
 
@@ -197,7 +197,7 @@ Atteinte hépatique rare, le plus souvent au second plan.
 - **Destruction de la paroi** des artères hépatiques ± veines portes (obstruction)
 - Possibles **infarctus parenchymateux**
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p21_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p21_02.jpeg)
 
 ### Maladie de Behçet
 - Cause rare de **syndrome de Budd-Chiari** (occlusion des veines sus-hépatiques)

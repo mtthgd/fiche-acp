@@ -32,7 +32,7 @@ date: 2024
 
 B-NHL = **78 %** des LNH, T-NHL 6 %, Hodgkin 14 %. Parmi les B-NHL : DLBCL le plus fréquent, puis **LF (19,6 %)**, MALT (7,5 %), **LLC/SLL (7,1 %)**, **MCL (5,5 %)**.
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-321_Algorithme diagnostique des lymphomes B à petites cellules_FINAL/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-321_Algorithme%20diagnostique%20des%20lymphomes%20B%20%C3%A0%20petites%20cellules_FINAL/p03_01.jpeg)
 
 ## Cellule d'origine
 
@@ -47,7 +47,7 @@ B-NHL = **78 %** des LNH, T-NHL 6 %, Hodgkin 14 %. Parmi les B-NHL : DLBCL le pl
 
 Chaque entité possède un profil mutationnel propre (NOTCH1/XPO1 pour LLC/MCL ; CREBBP/EZH2 pour LF ; MYD88/CXCR4 pour WM ; BRAF pour HCL...).
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-321_Algorithme diagnostique des lymphomes B à petites cellules_FINAL/p06_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-321_Algorithme%20diagnostique%20des%20lymphomes%20B%20%C3%A0%20petites%20cellules_FINAL/p06_02.jpeg)
 
 ## Aspects cytologiques orientateurs
 
@@ -64,35 +64,35 @@ Chaque entité possède un profil mutationnel propre (NOTCH1/XPO1 pour LLC/MCL ;
 
 Aspect faible grossissement d'une prolifération B à petites cellules (infiltration diffuse du ganglion) :
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-321_Algorithme diagnostique des lymphomes B à petites cellules_FINAL/p07_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-321_Algorithme%20diagnostique%20des%20lymphomes%20B%20%C3%A0%20petites%20cellules_FINAL/p07_03.jpeg)
 
 Aspect cytologique à fort grossissement — petites cellules hyperchromatiques monomorphes :
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-321_Algorithme diagnostique des lymphomes B à petites cellules_FINAL/p07_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-321_Algorithme%20diagnostique%20des%20lymphomes%20B%20%C3%A0%20petites%20cellules_FINAL/p07_04.jpeg)
 
 ### Exemples selon l'entité
 
 LLC — petites cellules rondes monomorphes :
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-321_Algorithme diagnostique des lymphomes B à petites cellules_FINAL/p08_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-321_Algorithme%20diagnostique%20des%20lymphomes%20B%20%C3%A0%20petites%20cellules_FINAL/p08_05.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-321_Algorithme diagnostique des lymphomes B à petites cellules_FINAL/p08_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-321_Algorithme%20diagnostique%20des%20lymphomes%20B%20%C3%A0%20petites%20cellules_FINAL/p08_06.jpeg)
 
 Lymphome folliculaire — architecture nodulaire (fort vs faible grossissement) :
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-321_Algorithme diagnostique des lymphomes B à petites cellules_FINAL/p08_07.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-321_Algorithme%20diagnostique%20des%20lymphomes%20B%20%C3%A0%20petites%20cellules_FINAL/p08_07.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-321_Algorithme diagnostique des lymphomes B à petites cellules_FINAL/p08_08.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-321_Algorithme%20diagnostique%20des%20lymphomes%20B%20%C3%A0%20petites%20cellules_FINAL/p08_08.jpeg)
 
 MCL — cellules à noyaux crénelés, infiltration diffuse :
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-321_Algorithme diagnostique des lymphomes B à petites cellules_FINAL/p08_09.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-321_Algorithme%20diagnostique%20des%20lymphomes%20B%20%C3%A0%20petites%20cellules_FINAL/p08_09.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-321_Algorithme diagnostique des lymphomes B à petites cellules_FINAL/p08_10.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-321_Algorithme%20diagnostique%20des%20lymphomes%20B%20%C3%A0%20petites%20cellules_FINAL/p08_10.jpeg)
 
 Localisation médullaire d'un LBpc (trame osseuse + infiltrat lymphomateux) :
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-321_Algorithme diagnostique des lymphomes B à petites cellules_FINAL/p08_11.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-321_Algorithme%20diagnostique%20des%20lymphomes%20B%20%C3%A0%20petites%20cellules_FINAL/p08_11.jpeg)
 
 ## Marqueurs immunohistochimiques
 
@@ -121,27 +121,27 @@ CD3 → **négatif** (élimine lymphome T)
 
 **CD20 diffus** confirmant la nature B — architecture nodulaire (LF) :
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-321_Algorithme diagnostique des lymphomes B à petites cellules_FINAL/p09_12.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-321_Algorithme%20diagnostique%20des%20lymphomes%20B%20%C3%A0%20petites%20cellules_FINAL/p09_12.jpeg)
 
 **Réseau de cellules folliculaires dendritiques** (CD21 / CD23) conservé, dessinant les nodules d'un LF :
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-321_Algorithme diagnostique des lymphomes B à petites cellules_FINAL/p09_13.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-321_Algorithme%20diagnostique%20des%20lymphomes%20B%20%C3%A0%20petites%20cellules_FINAL/p09_13.jpeg)
 
 **Cycline D1** (nucléaire) — positivité diffuse caractéristique du **MCL** :
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-321_Algorithme diagnostique des lymphomes B à petites cellules_FINAL/p09_14.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-321_Algorithme%20diagnostique%20des%20lymphomes%20B%20%C3%A0%20petites%20cellules_FINAL/p09_14.jpeg)
 
 **BCL2** — positivité diffuse dans le LF (permet de distinguer d'une hyperplasie folliculaire réactionnelle : BCL2− dans les CG normaux) :
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-321_Algorithme diagnostique des lymphomes B à petites cellules_FINAL/p09_15.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-321_Algorithme%20diagnostique%20des%20lymphomes%20B%20%C3%A0%20petites%20cellules_FINAL/p09_15.jpeg)
 
 **CD5** — marquage cytoplasmique dans LLC/MCL (aberrant, B normal CD5−) :
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-321_Algorithme diagnostique des lymphomes B à petites cellules_FINAL/p09_16.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-321_Algorithme%20diagnostique%20des%20lymphomes%20B%20%C3%A0%20petites%20cellules_FINAL/p09_16.jpeg)
 
 **SOX11** — positivité nucléaire caractéristique du **MCL**, critique pour les MCL cycline D1− (CCND2/CCND3) :
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-321_Algorithme diagnostique des lymphomes B à petites cellules_FINAL/p09_17.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-321_Algorithme%20diagnostique%20des%20lymphomes%20B%20%C3%A0%20petites%20cellules_FINAL/p09_17.jpeg)
 
 ### Monotypie κ/λ
 - IHC (attention aux phénomènes d'absorption passive)
@@ -151,9 +151,9 @@ CD3 → **négatif** (élimine lymphome T)
 
 Aspect macroscopique spléno-histologique typique d'un lymphome splénique (pulpe blanche expansée, pulpe rouge infiltrée) :
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-321_Algorithme diagnostique des lymphomes B à petites cellules_FINAL/p11_18.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-321_Algorithme%20diagnostique%20des%20lymphomes%20B%20%C3%A0%20petites%20cellules_FINAL/p11_18.jpeg)
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-321_Algorithme diagnostique des lymphomes B à petites cellules_FINAL/p11_19.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-321_Algorithme%20diagnostique%20des%20lymphomes%20B%20%C3%A0%20petites%20cellules_FINAL/p11_19.jpeg)
 
 Distinguer :
 - **SMZL** (splénique zone marginale) : infiltrat biphasique, cellules centrales + zone marginale, **MYD88 L265P** parfois +
@@ -173,7 +173,7 @@ Distinguer :
 
 **FISH break-apart** : mise en évidence d'une translocation (signal vert et rouge dissociés sur le locus cible) :
 
-![[assets/hematologie/lymphome_b_petites_cellules/Diaporama 07-321_Algorithme diagnostique des lymphomes B à petites cellules_FINAL/p12_20.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_petites_cellules/Diaporama%2007-321_Algorithme%20diagnostique%20des%20lymphomes%20B%20%C3%A0%20petites%20cellules_FINAL/p12_20.jpeg)
 
 ## Algorithme décisionnel
 

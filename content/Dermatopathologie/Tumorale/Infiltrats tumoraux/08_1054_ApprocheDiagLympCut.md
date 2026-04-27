@@ -44,9 +44,9 @@ source: DES ACP - Cours de Dermatopathologie (Béatrice Vergier)
 - Permet l'**analyse architecturale** (impossible sur punch)
 - Peut être **coupé en deux** : congeler une moitié (à l'état frais) + fixer l'autre
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1054-Approche diagnostique des lymphomes cutanés/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1054-Approche%20diagnostique%20des%20lymphomes%20cutan%C3%A9s/p04_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1054-Approche diagnostique des lymphomes cutanés/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1054-Approche%20diagnostique%20des%20lymphomes%20cutan%C3%A9s/p04_01.jpeg)
 
 ## Démarche diagnostique générale
 
@@ -68,7 +68,7 @@ Discussion en RCP régionale → nationale (GFELC)
 Proposition thérapeutique
 ```
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1054-Approche diagnostique des lymphomes cutanés/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1054-Approche%20diagnostique%20des%20lymphomes%20cutan%C3%A9s/p05_00.jpeg)
 
 ## Données épidémiologiques (étude GFELC sur 2764 cas envoyés à Lymphopath)
 
@@ -79,9 +79,9 @@ Proposition thérapeutique
 | **Cas réactionnels** envoyés comme suspicion de lymphome | **17,3 %** |
 | Cas restant **douteux** en 2e lecture (sans confrontation clinique) | **16 %** |
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1054-Approche diagnostique des lymphomes cutanés/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1054-Approche%20diagnostique%20des%20lymphomes%20cutan%C3%A9s/p06_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1054-Approche diagnostique des lymphomes cutanés/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1054-Approche%20diagnostique%20des%20lymphomes%20cutan%C3%A9s/p06_01.jpeg)
 
 ### Concordance 1er pathologiste vs relecteur
 
@@ -91,9 +91,9 @@ Proposition thérapeutique
 | Restant douteux | 30 % |
 | **Discordants** | **8,5 %** (dont la moitié modifie la prise en charge) |
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1054-Approche diagnostique des lymphomes cutanés/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1054-Approche%20diagnostique%20des%20lymphomes%20cutan%C3%A9s/p07_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1054-Approche diagnostique des lymphomes cutanés/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1054-Approche%20diagnostique%20des%20lymphomes%20cutan%C3%A9s/p07_01.jpeg)
 
 ## Analyse des cas douteux
 
@@ -102,7 +102,7 @@ Proposition thérapeutique
 | **Réactionnel vs MF / Sézary** (eczéma, toxidermie...) | **50 %** | ~30 % seulement → **clinique++** |
 | **Réactionnel vs lymphome B à petites cellules** | ~5 % | **75 %** (méthodologie + IHC) |
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1054-Approche diagnostique des lymphomes cutanés/p08_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1054-Approche%20diagnostique%20des%20lymphomes%20cutan%C3%A9s/p08_00.png)
 
 
 ## Analyse des cas discordants
@@ -168,7 +168,7 @@ Le GFELC propose des algorithmes diagnostiques pour aider tous les pathologistes
 
 
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1054-Approche diagnostique des lymphomes cutanés/p15_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1054-Approche%20diagnostique%20des%20lymphomes%20cutan%C3%A9s/p15_03.jpeg)
 
 ### Étape 5 — Panel IHC indispensable (4 anticorps)
 
@@ -188,11 +188,11 @@ Le GFELC propose des algorithmes diagnostiques pour aider tous les pathologistes
 
 
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1054-Approche diagnostique des lymphomes cutanés/p16_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1054-Approche%20diagnostique%20des%20lymphomes%20cutan%C3%A9s/p16_03.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1054-Approche diagnostique des lymphomes cutanés/p16_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1054-Approche%20diagnostique%20des%20lymphomes%20cutan%C3%A9s/p16_04.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1054-Approche diagnostique des lymphomes cutanés/p16_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1054-Approche%20diagnostique%20des%20lymphomes%20cutan%C3%A9s/p16_05.jpeg)
 
 ## Synthèse de la démarche
 
@@ -213,11 +213,11 @@ Le diagnostic d'un lymphome cutané n'est presque jamais purement morphologique 
 | **FISH** | DUSP22, IRF4 (lymphoprolifération CD30+), TP63 |
 | **Sérologies** | VIH, HTLV-1, Borrelia (zones d'endémie) |
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1054-Approche diagnostique des lymphomes cutanés/p18_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1054-Approche%20diagnostique%20des%20lymphomes%20cutan%C3%A9s/p18_03.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1054-Approche diagnostique des lymphomes cutanés/p18_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1054-Approche%20diagnostique%20des%20lymphomes%20cutan%C3%A9s/p18_04.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1054-Approche diagnostique des lymphomes cutanés/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1054-Approche%20diagnostique%20des%20lymphomes%20cutan%C3%A9s/p19_00.jpeg)
 
 
 

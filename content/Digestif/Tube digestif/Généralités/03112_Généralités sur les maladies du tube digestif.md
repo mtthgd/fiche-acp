@@ -44,7 +44,7 @@ En **France** :
 - **Cancer colorectal = 2ᵉ cause de décès par cancer** (après bronchopulmonaire)
 - Ensemble des cancers digestifs ≈ **¼ des décès par cancer** en France
 
-![[assets/digestif/tube_digestif/generalites/03.1.1.2 Généralités sur les maladies du tube digestif/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/generalites/03.1.1.2%20G%C3%A9n%C3%A9ralit%C3%A9s%20sur%20les%20maladies%20du%20tube%20digestif/p07_00.jpeg)
 
 ## Pathologies par étage du tube digestif
 
@@ -61,7 +61,7 @@ En **France** :
 
 Cause non exceptionnelle de **diarrhée chronique**. Diagnostic uniquement microscopique sur biopsies coliques endoscopiques. Exemple : **colite collagène**.
 
-![[assets/digestif/tube_digestif/generalites/03.1.1.2 Généralités sur les maladies du tube digestif/p11_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/generalites/03.1.1.2%20G%C3%A9n%C3%A9ralit%C3%A9s%20sur%20les%20maladies%20du%20tube%20digestif/p11_05.jpeg)
 
 ## Rôle central de l'ACP dans les pathologies à risque de cancer
 
@@ -80,7 +80,7 @@ Endoscopies digestives régulières + **biopsies étagées en cartographie** :
 - Analyse anatomopathologique des **polypes adénomateux** (lésions précurseurs)
 - Le pathologiste joue un rôle **central** dans la prévention du CCR en population générale
 
-![[assets/digestif/tube_digestif/generalites/03.1.1.2 Généralités sur les maladies du tube digestif/p10_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/generalites/03.1.1.2%20G%C3%A9n%C3%A9ralit%C3%A9s%20sur%20les%20maladies%20du%20tube%20digestif/p10_05.jpeg)
 
 ## Place de l'ACP dans les cancers digestifs
 
@@ -97,11 +97,11 @@ Endoscopies digestives régulières + **biopsies étagées en cartographie** :
 - Importance croissante : **thérapies ciblées**, **immunothérapie**
 - Exemple : recherche du statut **MMR / MSI** (perte d'expression des protéines MMR + PCR pour instabilité des microsatellites) sur les CCR
 
-![[assets/digestif/tube_digestif/generalites/03.1.1.2 Généralités sur les maladies du tube digestif/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/generalites/03.1.1.2%20G%C3%A9n%C3%A9ralit%C3%A9s%20sur%20les%20maladies%20du%20tube%20digestif/p13_00.jpeg)
 
-![[assets/digestif/tube_digestif/generalites/03.1.1.2 Généralités sur les maladies du tube digestif/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/generalites/03.1.1.2%20G%C3%A9n%C3%A9ralit%C3%A9s%20sur%20les%20maladies%20du%20tube%20digestif/p13_01.jpeg)
 
-![[assets/digestif/tube_digestif/generalites/03.1.1.2 Généralités sur les maladies du tube digestif/p13_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/generalites/03.1.1.2%20G%C3%A9n%C3%A9ralit%C3%A9s%20sur%20les%20maladies%20du%20tube%20digestif/p13_02.jpeg)
 
 ### RCP et tumorothèques
 - Participation aux **réunions de concertation pluridisciplinaire** (RCP)

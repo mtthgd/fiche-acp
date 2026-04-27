@@ -49,7 +49,7 @@ Maladie **multifactorielle** (génétique + hormonale + immunitaire). Deux théo
 | **Sampson** | Menstruation **rétrograde** : muqueuse endométriale remonte par les trompes → cavité péritonéale → cul-de-sac de Douglas (déclive), implantation suivant le flux péritonéal (pelvis > abdomen ; droite > gauche) | Endométriose |
 | **Cullen** | Migration **centrifuge** de la muqueuse endométriale ectopique dans le myomètre depuis la jonction endomètre-myomètre | Adénomyose |
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 pdf adenomyose/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20pdf%20adenomyose/p03_00.jpeg)
 
 ---
 
@@ -70,7 +70,7 @@ Présence d’une muqueuse de type endométrial (glandes + chorion) **au sein du
 **Cut-off de profondeur** (le plus accepté) : glandes endométriales à au moins **2,5 mm** de la jonction endomètre-myomètre = environ **½ champ à l’objectif ×4**.
 
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 pdf adenomyose/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20pdf%20adenomyose/p04_01.jpeg)
 
 ## Macroscopie
 
@@ -85,9 +85,9 @@ Présence d’une muqueuse de type endométrial (glandes + chorion) **au sein du
 - Modifications sécrétoires/déciduales **rares**
 - **Hyperplasie/hypertrophie musculaire lisse au contact** des foyers (clé diagnostique dans formes limitées)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 pdf adenomyose/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20pdf%20adenomyose/p08_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 pdf adenomyose/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20pdf%20adenomyose/p09_00.jpeg)
 
 ## Topographie
 
@@ -97,7 +97,7 @@ Présence d’une muqueuse de type endométrial (glandes + chorion) **au sein du
 | **Localisée / focale** | Sans connexion apparente avec l’endomètre |
 | **Externe sub-séreuse** | Variante d’endométriose souvent contiguë à une endométriose profonde vésicale ou rectale |
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 pdf adenomyose/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20pdf%20adenomyose/p11_00.jpeg)
 
 ## Variantes microscopiques
 
@@ -117,9 +117,9 @@ DD : **adénosarcome**
 - Refaire un échantillonnage pour rechercher des foyers classiques
 - **Gradient de cellularité décroissante** de la périphérie vers le centre = argument
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 pdf adenomyose/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20pdf%20adenomyose/p13_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 pdf adenomyose/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20pdf%20adenomyose/p14_00.jpeg)
 
 ---
 
@@ -147,9 +147,9 @@ Kyste endométriosique de l’**ovaire**.
 | Corps jaune kystique hémorragique | Macroscopie |
 | Kyste simple | Histologie |
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 pdf adenomyose/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20pdf%20adenomyose/p16_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 pdf adenomyose/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20pdf%20adenomyose/p17_00.jpeg)
 
 ---
 
@@ -203,13 +203,13 @@ Kyste endométriosique de l’**ovaire**.
 - **CD10** : marqueur du chorion cytogène
 - **Récepteurs hormonaux RP/RE**
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 pdf adenomyose/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20pdf%20adenomyose/p18_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 pdf adenomyose/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20pdf%20adenomyose/p19_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 pdf adenomyose/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20pdf%20adenomyose/p22_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 pdf adenomyose/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20pdf%20adenomyose/p23_00.jpeg)
 
 ## Particularités
 
@@ -247,9 +247,9 @@ Parfois associés à des **lésions borderline**.
 
 Possibilité plus rare : **sarcome du stroma endométrial** (DD ovaire = tumeur de la **granulosa** dans la forme diffuse).
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 pdf adenomyose/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20pdf%20adenomyose/p24_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_01 pdf adenomyose/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_01%20pdf%20adenomyose/p25_00.jpeg)
 
 ---
 

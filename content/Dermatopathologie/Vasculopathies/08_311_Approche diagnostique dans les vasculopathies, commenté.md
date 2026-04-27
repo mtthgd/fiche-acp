@@ -35,9 +35,9 @@ La couleur cutanée résulte de **3 dominantes** : **brune** (mélanine épiderm
 | **Purpura** | **Rupture de la paroi**, extravasation des hématies dans le derme | Rouge sombre, **NE disparaît PAS à la vitropression** |
 | **Livedo** | Troubles vasculaires des vaisseaux profonds (hypoderme) → cyanose/congestion profonde | Teinte **violacée** réticulée |
 
-![[assets/dermato/vasculopathies-cutanees/08-311 Approche diagnostique dans les vasculopathies/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-311%20Approche%20diagnostique%20dans%20les%20vasculopathies/p04_01.jpeg)
 
-![[assets/dermato/vasculopathies-cutanees/08-311 Approche diagnostique dans les vasculopathies/p04_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-311%20Approche%20diagnostique%20dans%20les%20vasculopathies/p04_02.jpeg)
 
 Vascularite avec **nécrose cutanée** (aspect noirâtre) : témoigne d'une ischémie épidermique avancée.
 
@@ -59,12 +59,12 @@ Vascularite avec **nécrose cutanée** (aspect noirâtre) : témoigne d'une isch
 ### Histologie d'un purpura hématologique
 Nombreuses **hématies extravasées** péri-capillaires, **PAS d'infiltrat inflammatoire**, parois capillaires **intactes** (ni nécrose fibrinoïde, ni vacuolation endothéliale).
 
-![[assets/dermato/vasculopathies-cutanees/08-311 Approche diagnostique dans les vasculopathies/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-311%20Approche%20diagnostique%20dans%20les%20vasculopathies/p06_01.jpeg)
 
 ### Purpura inflammatoire sans vascularite
 Exemple : exanthème maculo-papuleux médicamenteux. Épiderme normal, infiltrat dermique modéré, **parois capillaires intactes**, mais hématies extravasées.
 
-![[assets/dermato/vasculopathies-cutanees/08-311 Approche diagnostique dans les vasculopathies/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-311%20Approche%20diagnostique%20dans%20les%20vasculopathies/p07_00.jpeg)
 
 ## Démarche diagnostique du pathologiste
 
@@ -97,7 +97,7 @@ Dans la peau (Chapel Hill = uniquement « petits vaisseaux ») :
 | **Connectivites** | + | **++** |
 | **PAN** (moyen calibre) | − | **++** (ramifications artériolaires hypodermiques) |
 
-![[assets/dermato/vasculopathies-cutanees/08-311 Approche diagnostique dans les vasculopathies/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-311%20Approche%20diagnostique%20dans%20les%20vasculopathies/p10_00.jpeg)
 
 ## Type de prélèvement et niveau analysé
 
@@ -116,7 +116,7 @@ Dans la peau (Chapel Hill = uniquement « petits vaisseaux ») :
 4. **Nécrose pariétale** + extravasation érythrocytaire
 
 
-![[assets/dermato/vasculopathies-cutanees/08-311 Approche diagnostique dans les vasculopathies/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-311%20Approche%20diagnostique%20dans%20les%20vasculopathies/p14_00.jpeg)
 
 ### Critères histologiques élémentaires
 
@@ -134,14 +134,14 @@ L'ischémie cutanée d'origine vasculaire entraîne :
 - Recrutement de PNN → formation possible de **pustules**
 
 
-![[assets/dermato/vasculopathies-cutanees/08-311 Approche diagnostique dans les vasculopathies/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-311%20Approche%20diagnostique%20dans%20les%20vasculopathies/p16_01.jpeg)
 
 ### Vascularite leucocytoclasique pustuleuse
 Collections de PNN sous la couche cornée / dans le corps muqueux. Devant une pustule sur vascularite, rechercher :
 - **Étiologie infectieuse** (colorations spéciales, rentabilité faible)
 - Réaction secondaire à la **nécrose ischémique**
 
-![[assets/dermato/vasculopathies-cutanees/08-311 Approche diagnostique dans les vasculopathies/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/vasculopathies-cutanees/08-311%20Approche%20diagnostique%20dans%20les%20vasculopathies/p17_00.jpeg)
 
 ## Algorithme synthétique
 

@@ -38,8 +38,8 @@ Cette fiche couvre la **pathologie inflammatoire, malformative et dégénérativ
 - Au contact, derme avec **gros vaisseaux et nerfs**
 - Au-dessus : infiltrat inflammatoire avec **acanthose** et parfois **squame croûte parakératosique**
 
-![[assets/ORL/oreille/pathologie_non_tumorale/10-521 pathologie inflammatoire oreille/p01_00.jpeg]]
-![[assets/ORL/oreille/pathologie_non_tumorale/10-521 pathologie inflammatoire oreille/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_non_tumorale/10-521%20pathologie%20inflammatoire%20oreille/p01_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_non_tumorale/10-521%20pathologie%20inflammatoire%20oreille/p02_00.jpeg)
 
 ### Polychondrite atrophiante
 
@@ -54,8 +54,8 @@ Cette fiche couvre la **pathologie inflammatoire, malformative et dégénérativ
 **Histologie**
 - Cartilage élastique **en partie détruit** et **grignoté** par l'infiltrat inflammatoire
 
-![[assets/ORL/oreille/pathologie_non_tumorale/10-521 pathologie inflammatoire oreille/p02_01.jpeg]]
-![[assets/ORL/oreille/pathologie_non_tumorale/10-521 pathologie inflammatoire oreille/p02_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_non_tumorale/10-521%20pathologie%20inflammatoire%20oreille/p02_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_non_tumorale/10-521%20pathologie%20inflammatoire%20oreille/p02_02.jpeg)
 
 ### Kystes et fistules préhéliciennes (auriculaires)
 
@@ -66,8 +66,8 @@ Cette fiche couvre la **pathologie inflammatoire, malformative et dégénérativ
 
 **Histologie** : revêtement **malpighien** ± annexes, remaniements inflammatoires
 
-![[assets/ORL/oreille/pathologie_non_tumorale/10-521 pathologie inflammatoire oreille/p03_00.jpeg]]
-![[assets/ORL/oreille/pathologie_non_tumorale/10-521 pathologie inflammatoire oreille/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_non_tumorale/10-521%20pathologie%20inflammatoire%20oreille/p03_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_non_tumorale/10-521%20pathologie%20inflammatoire%20oreille/p03_01.jpeg)
 
 ## Pathologie du conduit auditif externe
 
@@ -84,8 +84,8 @@ Cette fiche couvre la **pathologie inflammatoire, malformative et dégénérativ
 - Essentiellement **Pseudomonas aeruginosa**
 - Parfois biopsiée pour **éliminer un processus tumoral sous-jacent**
 
-![[assets/ORL/oreille/pathologie_non_tumorale/10-521 pathologie inflammatoire oreille/p04_00.jpeg]]
-![[assets/ORL/oreille/pathologie_non_tumorale/10-521 pathologie inflammatoire oreille/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_non_tumorale/10-521%20pathologie%20inflammatoire%20oreille/p04_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_non_tumorale/10-521%20pathologie%20inflammatoire%20oreille/p05_00.jpeg)
 
 ## Pathologie de l'oreille moyenne
 
@@ -99,8 +99,8 @@ Cette fiche couvre la **pathologie inflammatoire, malformative et dégénérativ
 - Infiltrat inflammatoire **polymorphe** : lymphocytes, plasmocytes, histiocytes
 - **Fibrose** qui englobe l'épithélium de la caisse, réalisant des **pseudoglandes** caractéristiques
 
-![[assets/ORL/oreille/pathologie_non_tumorale/10-521 pathologie inflammatoire oreille/p05_01.jpeg]]
-![[assets/ORL/oreille/pathologie_non_tumorale/10-521 pathologie inflammatoire oreille/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_non_tumorale/10-521%20pathologie%20inflammatoire%20oreille/p05_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_non_tumorale/10-521%20pathologie%20inflammatoire%20oreille/p06_00.jpeg)
 
 ### Complications de l'otite moyenne chronique
 
@@ -123,11 +123,11 @@ Cette fiche couvre la **pathologie inflammatoire, malformative et dégénérativ
 
 **Granulome (cholestérome) de l'apex pétreux** : correspond au **granulome à cholestérine**, **masse pseudotumorale kystique** avec érosion et destruction osseuse (os pétreux, labyrinthe, mur postérieur du rocher).
 
-![[assets/ORL/oreille/pathologie_non_tumorale/10-521 pathologie inflammatoire oreille/p06_01.jpeg]]
-![[assets/ORL/oreille/pathologie_non_tumorale/10-521 pathologie inflammatoire oreille/p06_02.jpeg]]
-![[assets/ORL/oreille/pathologie_non_tumorale/10-521 pathologie inflammatoire oreille/p07_00.jpeg]]
-![[assets/ORL/oreille/pathologie_non_tumorale/10-521 pathologie inflammatoire oreille/p07_01.jpeg]]
-![[assets/ORL/oreille/pathologie_non_tumorale/10-521 pathologie inflammatoire oreille/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_non_tumorale/10-521%20pathologie%20inflammatoire%20oreille/p06_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_non_tumorale/10-521%20pathologie%20inflammatoire%20oreille/p06_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_non_tumorale/10-521%20pathologie%20inflammatoire%20oreille/p07_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_non_tumorale/10-521%20pathologie%20inflammatoire%20oreille/p07_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_non_tumorale/10-521%20pathologie%20inflammatoire%20oreille/p08_00.jpeg)
 
 ## Cholestéatome
 
@@ -148,9 +148,9 @@ Présence dans **l'oreille moyenne** d'un **épithélium malpighien kératinisan
 4. **Poche de rétraction** (invagination)
 5. Formation du cholestéatome : caisse revêtue par un épithélium malpighien kératinisant + granulomes cholestéroliques au contact
 
-![[assets/ORL/oreille/pathologie_non_tumorale/10-521 pathologie inflammatoire oreille/p10_00.jpeg]]
-![[assets/ORL/oreille/pathologie_non_tumorale/10-521 pathologie inflammatoire oreille/p10_01.jpeg]]
-![[assets/ORL/oreille/pathologie_non_tumorale/10-521 pathologie inflammatoire oreille/p10_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_non_tumorale/10-521%20pathologie%20inflammatoire%20oreille/p10_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_non_tumorale/10-521%20pathologie%20inflammatoire%20oreille/p10_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_non_tumorale/10-521%20pathologie%20inflammatoire%20oreille/p10_02.jpeg)
 
 ### Histologie du cholestéatome acquis — composants possibles
 
@@ -167,14 +167,14 @@ Présence dans **l'oreille moyenne** d'un **épithélium malpighien kératinisan
 - Poche de rétraction : épithélium malpighien très kératinisant avec **multiples lamelles orthokératosiques**
 - Colonisation progressive : l'épithélium malpighien commence à revêtir la **mastoïde**
 
-![[assets/ORL/oreille/pathologie_non_tumorale/10-521 pathologie inflammatoire oreille/p15_00.jpeg]]
-![[assets/ORL/oreille/pathologie_non_tumorale/10-521 pathologie inflammatoire oreille/p15_01.jpeg]]
-![[assets/ORL/oreille/pathologie_non_tumorale/10-521 pathologie inflammatoire oreille/p16_00.jpeg]]
-![[assets/ORL/oreille/pathologie_non_tumorale/10-521 pathologie inflammatoire oreille/p16_01.jpeg]]
-![[assets/ORL/oreille/pathologie_non_tumorale/10-521 pathologie inflammatoire oreille/p17_00.jpeg]]
-![[assets/ORL/oreille/pathologie_non_tumorale/10-521 pathologie inflammatoire oreille/p17_01.jpeg]]
-![[assets/ORL/oreille/pathologie_non_tumorale/10-521 pathologie inflammatoire oreille/p18_00.jpeg]]
-![[assets/ORL/oreille/pathologie_non_tumorale/10-521 pathologie inflammatoire oreille/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_non_tumorale/10-521%20pathologie%20inflammatoire%20oreille/p15_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_non_tumorale/10-521%20pathologie%20inflammatoire%20oreille/p15_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_non_tumorale/10-521%20pathologie%20inflammatoire%20oreille/p16_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_non_tumorale/10-521%20pathologie%20inflammatoire%20oreille/p16_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_non_tumorale/10-521%20pathologie%20inflammatoire%20oreille/p17_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_non_tumorale/10-521%20pathologie%20inflammatoire%20oreille/p17_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_non_tumorale/10-521%20pathologie%20inflammatoire%20oreille/p18_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/pathologie_non_tumorale/10-521%20pathologie%20inflammatoire%20oreille/p18_01.jpeg)
 
 ## Diagnostics différentiels
 

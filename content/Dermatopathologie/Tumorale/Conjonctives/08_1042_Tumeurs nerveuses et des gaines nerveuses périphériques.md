@@ -41,7 +41,7 @@ source: DES ACP - Cours de dermatopathologie
 
 > 30 % des patients NF1 ont un neurofibrome plexiforme. Les neurofibromes profonds sont les plus à risque de transformation.
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042 - Tumeurs nerveuses et des gaines nerveuses périphériques/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042%20-%20Tumeurs%20nerveuses%20et%20des%20gaines%20nerveuses%20p%C3%A9riph%C3%A9riques/p08_00.jpeg)
 
 ### Histologie classique
 
@@ -53,9 +53,9 @@ source: DES ACP - Cours de dermatopathologie
 - Pas d'inflammation
 - **Axones irrégulièrement répartis** entrappés (NF +)
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042 - Tumeurs nerveuses et des gaines nerveuses périphériques/p10_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042 - Tumeurs nerveuses et des gaines nerveuses périphériques/p11_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042 - Tumeurs nerveuses et des gaines nerveuses périphériques/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042%20-%20Tumeurs%20nerveuses%20et%20des%20gaines%20nerveuses%20p%C3%A9riph%C3%A9riques/p10_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042%20-%20Tumeurs%20nerveuses%20et%20des%20gaines%20nerveuses%20p%C3%A9riph%C3%A9riques/p11_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042%20-%20Tumeurs%20nerveuses%20et%20des%20gaines%20nerveuses%20p%C3%A9riph%C3%A9riques/p12_00.jpeg)
 
 ### IHC
 
@@ -72,19 +72,19 @@ source: DES ACP - Cours de dermatopathologie
 - **Atypies cytonucléaires dystrophiques** = neurofibrome ancien sans valeur péjorative ; **mais aucune mitose tolérée** si atypies → suspicion de transformation
 - Forme plexiforme : NF1 → suivi rapproché, risque de **MPNST**
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042 - Tumeurs nerveuses et des gaines nerveuses périphériques/p14_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042 - Tumeurs nerveuses et des gaines nerveuses périphériques/p15_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042 - Tumeurs nerveuses et des gaines nerveuses périphériques/p16_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042 - Tumeurs nerveuses et des gaines nerveuses périphériques/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042%20-%20Tumeurs%20nerveuses%20et%20des%20gaines%20nerveuses%20p%C3%A9riph%C3%A9riques/p14_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042%20-%20Tumeurs%20nerveuses%20et%20des%20gaines%20nerveuses%20p%C3%A9riph%C3%A9riques/p15_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042%20-%20Tumeurs%20nerveuses%20et%20des%20gaines%20nerveuses%20p%C3%A9riph%C3%A9riques/p16_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042%20-%20Tumeurs%20nerveuses%20et%20des%20gaines%20nerveuses%20p%C3%A9riph%C3%A9riques/p17_00.jpeg)
 
 ### Transformation maligne (MPNST)
 
 - Caractères : hypercellularité, **aspect moiré/drapé** (densités alternantes), **nécrose**, mitoses, atypies marquées
 - Diffusion en dehors des troncs nerveux
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042 - Tumeurs nerveuses et des gaines nerveuses périphériques/p18_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042 - Tumeurs nerveuses et des gaines nerveuses périphériques/p20_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042 - Tumeurs nerveuses et des gaines nerveuses périphériques/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042%20-%20Tumeurs%20nerveuses%20et%20des%20gaines%20nerveuses%20p%C3%A9riph%C3%A9riques/p18_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042%20-%20Tumeurs%20nerveuses%20et%20des%20gaines%20nerveuses%20p%C3%A9riph%C3%A9riques/p20_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042%20-%20Tumeurs%20nerveuses%20et%20des%20gaines%20nerveuses%20p%C3%A9riph%C3%A9riques/p21_00.jpeg)
 
 ## Schwannome
 
@@ -114,11 +114,11 @@ source: DES ACP - Cours de dermatopathologie
 - Stroma hyalin, calcifié, ossifié
 - **Vaisseaux hyperplasiques béants, ectasiques, thromboses, paroi hyalinisée**
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042 - Tumeurs nerveuses et des gaines nerveuses périphériques/p25_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042 - Tumeurs nerveuses et des gaines nerveuses périphériques/p26_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042 - Tumeurs nerveuses et des gaines nerveuses périphériques/p27_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042 - Tumeurs nerveuses et des gaines nerveuses périphériques/p28_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042 - Tumeurs nerveuses et des gaines nerveuses périphériques/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042%20-%20Tumeurs%20nerveuses%20et%20des%20gaines%20nerveuses%20p%C3%A9riph%C3%A9riques/p25_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042%20-%20Tumeurs%20nerveuses%20et%20des%20gaines%20nerveuses%20p%C3%A9riph%C3%A9riques/p26_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042%20-%20Tumeurs%20nerveuses%20et%20des%20gaines%20nerveuses%20p%C3%A9riph%C3%A9riques/p27_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042%20-%20Tumeurs%20nerveuses%20et%20des%20gaines%20nerveuses%20p%C3%A9riph%C3%A9riques/p28_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042%20-%20Tumeurs%20nerveuses%20et%20des%20gaines%20nerveuses%20p%C3%A9riph%C3%A9riques/p29_00.jpeg)
 
 ### IHC
 - **PS100 + diffus** sur **toutes** les cellules
@@ -150,10 +150,10 @@ source: DES ACP - Cours de dermatopathologie
 - **Vacuoles nucléaires** possibles
 - Absence d'atypie
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042 - Tumeurs nerveuses et des gaines nerveuses périphériques/p33_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042 - Tumeurs nerveuses et des gaines nerveuses périphériques/p34_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042 - Tumeurs nerveuses et des gaines nerveuses périphériques/p35_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042 - Tumeurs nerveuses et des gaines nerveuses périphériques/p36_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042%20-%20Tumeurs%20nerveuses%20et%20des%20gaines%20nerveuses%20p%C3%A9riph%C3%A9riques/p33_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042%20-%20Tumeurs%20nerveuses%20et%20des%20gaines%20nerveuses%20p%C3%A9riph%C3%A9riques/p34_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042%20-%20Tumeurs%20nerveuses%20et%20des%20gaines%20nerveuses%20p%C3%A9riph%C3%A9riques/p35_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042%20-%20Tumeurs%20nerveuses%20et%20des%20gaines%20nerveuses%20p%C3%A9riph%C3%A9riques/p36_00.jpeg)
 
 ### IHC
 
@@ -183,7 +183,7 @@ source: DES ACP - Cours de dermatopathologie
 - Architecture conservée : périneuriales périphériques, Schwann, axones, collagène
 - Mastocytes présents
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042 - Tumeurs nerveuses et des gaines nerveuses périphériques/p41_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042%20-%20Tumeurs%20nerveuses%20et%20des%20gaines%20nerveuses%20p%C3%A9riph%C3%A9riques/p41_00.jpeg)
 
 ## Neurinome / Neurome palissadique encapsulé (PEN)
 
@@ -202,10 +202,10 @@ source: DES ACP - Cours de dermatopathologie
 - **PS100 + diffus** (cellules schwanniennes)
 - **Très NOMBREUX axones entrappés** (NF +) → différence majeure avec le schwannome
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042 - Tumeurs nerveuses et des gaines nerveuses périphériques/p44_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042 - Tumeurs nerveuses et des gaines nerveuses périphériques/p45_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042 - Tumeurs nerveuses et des gaines nerveuses périphériques/p47_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042 - Tumeurs nerveuses et des gaines nerveuses périphériques/p48_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042%20-%20Tumeurs%20nerveuses%20et%20des%20gaines%20nerveuses%20p%C3%A9riph%C3%A9riques/p44_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042%20-%20Tumeurs%20nerveuses%20et%20des%20gaines%20nerveuses%20p%C3%A9riph%C3%A9riques/p45_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042%20-%20Tumeurs%20nerveuses%20et%20des%20gaines%20nerveuses%20p%C3%A9riph%C3%A9riques/p47_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042%20-%20Tumeurs%20nerveuses%20et%20des%20gaines%20nerveuses%20p%C3%A9riph%C3%A9riques/p48_00.jpeg)
 
 ## Myxome des gaines nerveuses (Nerve Sheath Myxoma)
 
@@ -220,8 +220,8 @@ source: DES ACP - Cours de dermatopathologie
 - Cellules fusiformes/épithélioïdes, parfois vacuolisées, peu atypiques
 - **PS100 + diffus et intense** → différencie du neurothécome cellulaire (S100 −, NKI/C3 +)
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042 - Tumeurs nerveuses et des gaines nerveuses périphériques/p50_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042 - Tumeurs nerveuses et des gaines nerveuses périphériques/p51_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042%20-%20Tumeurs%20nerveuses%20et%20des%20gaines%20nerveuses%20p%C3%A9riph%C3%A9riques/p50_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042%20-%20Tumeurs%20nerveuses%20et%20des%20gaines%20nerveuses%20p%C3%A9riph%C3%A9riques/p51_00.jpeg)
 
 ## Tumeur à cellules granuleuses
 
@@ -239,9 +239,9 @@ source: DES ACP - Cours de dermatopathologie
 - **PS100 + et SOX10 +** (différenciation schwannienne)
 - TFE3 + dans certains cas
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042 - Tumeurs nerveuses et des gaines nerveuses périphériques/p55_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042 - Tumeurs nerveuses et des gaines nerveuses périphériques/p56_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042 - Tumeurs nerveuses et des gaines nerveuses périphériques/p58_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042%20-%20Tumeurs%20nerveuses%20et%20des%20gaines%20nerveuses%20p%C3%A9riph%C3%A9riques/p55_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042%20-%20Tumeurs%20nerveuses%20et%20des%20gaines%20nerveuses%20p%C3%A9riph%C3%A9riques/p56_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1042%20-%20Tumeurs%20nerveuses%20et%20des%20gaines%20nerveuses%20p%C3%A9riph%C3%A9riques/p58_00.jpeg)
 
 ## Tableau de synthèse
 

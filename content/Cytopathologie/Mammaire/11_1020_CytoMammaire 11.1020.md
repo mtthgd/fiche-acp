@@ -30,7 +30,7 @@ L'examen cytopathologique permet de diagnostiquer la majorité des lésions mamm
 | Lésions inflammatoires | | |
 | Lésions post-traumatiques | | |
 
-![[assets/cytopathologie/mammaire/CytoMammaire 11.1020/p01_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/CytoMammaire%2011.1020/p01_01.png)
 
 ## PARTIE 1 — Cytopathologie des lésions BÉNIGNES
 
@@ -45,17 +45,17 @@ L'examen cytopathologique permet de diagnostiquer la majorité des lésions mamm
 | **Cellules spumeuses** | Grandes, cytoplasme abondant vacuolisé, noyaux ovalaires réguliers ± petit nucléole |
 | **Macrophages pigmentés** | Grande taille, cytoplasme abondant, **pigment bleuâtre** |
 
-![[assets/cytopathologie/mammaire/CytoMammaire 11.1020/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/CytoMammaire%2011.1020/p05_01.jpeg)
 
-![[assets/cytopathologie/mammaire/CytoMammaire 11.1020/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/CytoMammaire%2011.1020/p06_01.jpeg)
 
 ### Variantes physiologiques
 - **Métaplasie apocrine débutante** : cytoplasme un peu plus abondant, noyaux discrètement plus grands mais réguliers entre eux
 - Noyaux nus myoépithéliaux dans le fond = **élément clé en faveur de la bénignité**
 
-![[assets/cytopathologie/mammaire/CytoMammaire 11.1020/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/CytoMammaire%2011.1020/p08_01.jpeg)
 
-![[assets/cytopathologie/mammaire/CytoMammaire 11.1020/p08_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/CytoMammaire%2011.1020/p08_02.jpeg)
 
 ### Kystes mammaires
 
@@ -72,11 +72,11 @@ L'examen cytopathologique permet de diagnostiquer la majorité des lésions mamm
 | **Contenu liquidien clair** | **Sérosité** parfois invisible après séchage. ⚠️ **Corréler à l'affaissement échographique** pour ne pas conclure "non contributif" |
 | **Contenu épais (opaque)** | Matériel amorphe **basophile abondant**, ± cellules épithéliales normales, cellules apocrines, cellules spumeuses, hématies |
 
-![[assets/cytopathologie/mammaire/CytoMammaire 11.1020/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/CytoMammaire%2011.1020/p10_00.jpeg)
 
-![[assets/cytopathologie/mammaire/CytoMammaire 11.1020/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/CytoMammaire%2011.1020/p11_01.jpeg)
 
-![[assets/cytopathologie/mammaire/CytoMammaire 11.1020/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/CytoMammaire%2011.1020/p11_02.jpeg)
 
 ### Fibroadénome (FA) — la plus fréquente des tumeurs bénignes
 
@@ -93,9 +93,9 @@ L'examen cytopathologique permet de diagnostiquer la majorité des lésions mamm
 
 ± cellules spumeuses et apocrines.
 
-![[assets/cytopathologie/mammaire/CytoMammaire 11.1020/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/CytoMammaire%2011.1020/p12_01.jpeg)
 
-![[assets/cytopathologie/mammaire/CytoMammaire 11.1020/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/CytoMammaire%2011.1020/p13_00.jpeg)
 
 ### Lésions inflammatoires et réactionnelles
 
@@ -104,7 +104,7 @@ L'examen cytopathologique permet de diagnostiquer la majorité des lésions mamm
 - ± **fibrine**
 - **Macrophages pigmentés** dans le fond (cytoplasme abondant, pigment bleuâtre)
 
-![[assets/cytopathologie/mammaire/CytoMammaire 11.1020/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/CytoMammaire%2011.1020/p15_00.jpeg)
 
 #### Cytostéatonécrose
 - Contexte : traumatisme ou chirurgie mammaire
@@ -113,11 +113,11 @@ L'examen cytopathologique permet de diagnostiquer la majorité des lésions mamm
 - **Adipocytes altérés**
 - **Macrophages**, **cellules géantes multinucléées** possibles
 
-![[assets/cytopathologie/orl/V2 11.9-3/p15_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/orl/V2%2011.9-3/p15_02.jpeg)
 
-![[assets/cytopathologie/mammaire/CytoMammaire 11.1020/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/CytoMammaire%2011.1020/p16_01.jpeg)
 
-![[assets/cytopathologie/orl/V2 11.9-3/p16_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/orl/V2%2011.9-3/p16_02.jpeg)
 
 #### Granulome inflammatoire à corps étranger
 - Contexte : chirurgie d'augmentation/réduction mammaire ou exérèse
@@ -125,9 +125,9 @@ L'examen cytopathologique permet de diagnostiquer la majorité des lésions mamm
 - Cytoponction : éléments **inflammatoires polymorphes** + macrophages
 - ⭐ Visualisation parfois d'un **fil de suture phagocyté** par des cellules géantes multinucléées
 
-![[assets/cytopathologie/orl/V2 11.9-2/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/orl/V2%2011.9-2/p19_01.jpeg)
 
-![[assets/cytopathologie/orl/V2 11.9-2/p19_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/orl/V2%2011.9-2/p19_02.jpeg)
 
 ## PARTIE 2 — Cytopathologie des lésions MALIGNES
 
@@ -161,22 +161,22 @@ L'examen cytopathologique permet de diagnostiquer la majorité des lésions mamm
 - **Mitoses** visibles
 - Contours nucléaires irréguliers
 
-![[assets/cytopathologie/mammaire/CytoMammaire 11.1020/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/CytoMammaire%2011.1020/p22_00.jpeg)
 
 #### Carcinome peu différencié à cellules indépendantes
 - **Éliminer un lymphome avant de conclure** :
   - Cytoplasme **trop peu basophile** et **trop abondant** pour un lymphome
   - Garder le panel IHC en réserve
 
-![[assets/cytopathologie/mammaire/CytoMammaire 11.1020/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/CytoMammaire%2011.1020/p23_01.jpeg)
 
-![[assets/cytopathologie/mammaire/CytoMammaire 11.1020/p23_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/CytoMammaire%2011.1020/p23_02.jpeg)
 
 #### Carcinome moyennement différencié
 - Aspect **mixte** : amas tridimensionnels + cellules isolées
 - **Atypies cytonucléaires modérées** : noyaux ≥ 2 × hématie, contours irréguliers, anisocaryose évidente
 
-![[assets/cytopathologie/mammaire/CytoMammaire 11.1020/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/CytoMammaire%2011.1020/p24_00.jpeg)
 
 #### Carcinome bien différencié — DIFFICILE
 - Matériel **peu cellulaire**, atypies discrètes, peu de cellules isolées
@@ -186,7 +186,7 @@ L'examen cytopathologique permet de diagnostiquer la majorité des lésions mamm
   - **Cellules carcinomateuses isolées** atypiques avec **vacuoles de sécrétion**
   - **Anisocaryose, contours irréguliers, noyaux volumineux**
 
-![[assets/cytopathologie/mammaire/CytoMammaire 11.1020/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/CytoMammaire%2011.1020/p26_00.jpeg)
 
 ### Carcinome lobulaire
 
@@ -207,11 +207,11 @@ L'examen cytopathologique permet de diagnostiquer la majorité des lésions mamm
   - **CLI : E-cadhérine NÉGATIVE**
   - CSAI : E-cadhérine positive
 
-![[assets/cytopathologie/mammaire/CytoMammaire 11.1020/p28_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/CytoMammaire%2011.1020/p28_01.jpeg)
 
-![[assets/cytopathologie/mammaire/CytoMammaire 11.1020/p28_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/CytoMammaire%2011.1020/p28_02.jpeg)
 
-![[assets/cytopathologie/mammaire/CytoMammaire 11.1020/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/CytoMammaire%2011.1020/p29_00.jpeg)
 
 ### Carcinome mucineux (colloïde)
 
@@ -221,9 +221,9 @@ L'examen cytopathologique permet de diagnostiquer la majorité des lésions mamm
   - **Fibroadénomes myxomateux** présentent une substance mucoïde **non mucineuse**
   - **Toujours s'assurer que les cellules épithéliales présentent les critères de malignité**
 
-![[assets/cytopathologie/mammaire/CytoMammaire 11.1020/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/CytoMammaire%2011.1020/p30_00.jpeg)
 
-![[assets/cytopathologie/mammaire/CytoMammaire 11.1020/p30_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/CytoMammaire%2011.1020/p30_02.jpeg)
 
 ## PARTIE 3 — Tumeurs fibroépithéliales (autres que FA)
 
@@ -239,11 +239,11 @@ L'examen cytopathologique permet de diagnostiquer la majorité des lésions mamm
 - **Phyllode bénigne** : tissu fibroconjonctif **densément cellulaire** mais **sans atypie**
 - **Phyllode maligne** : noyaux **allongés**, contours irréguliers, ± nucléoles, taille **2-3 × hématie**, chevauchement nucléaire dense
 
-![[assets/cytopathologie/mammaire/CytoMammaire 11.1020/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/CytoMammaire%2011.1020/p32_00.jpeg)
 
-![[assets/cytopathologie/mammaire/CytoMammaire 11.1020/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/CytoMammaire%2011.1020/p33_00.jpeg)
 
-![[assets/cytopathologie/mammaire/CytoMammaire 11.1020/p33_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/CytoMammaire%2011.1020/p33_01.jpeg)
 
 ## PARTIE 4 — Sarcomes mammaires (rares)
 
@@ -264,11 +264,11 @@ L'examen cytopathologique permet de diagnostiquer la majorité des lésions mamm
 | **Marqueurs vasculaires (CD31, CD34, ERG)** | + |
 | **Cytokératines (AE1/AE3, CK7)** | − |
 
-![[assets/cytopathologie/cervico_uterine/V2 11.2-2 et 3/p36_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/cervico_uterine/V2%2011.2-2%20et%203/p36_01.jpeg)
 
-![[assets/cytopathologie/mammaire/CytoMammaire 11.1020/p37_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/CytoMammaire%2011.1020/p37_01.jpeg)
 
-![[assets/cytopathologie/mammaire/CytoMammaire 11.1020/p37_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/CytoMammaire%2011.1020/p37_02.jpeg)
 
 ## PARTIE 5 — Lymphomes mammaires (rares)
 
@@ -285,9 +285,9 @@ L'examen cytopathologique permet de diagnostiquer la majorité des lésions mamm
 - Panel T : **CD3**
 - Phénotypage spécifique selon orientation (CD5, CD10, BCL2, BCL6, cycline D1, MUM1)
 
-![[assets/cytopathologie/mammaire/CytoMammaire 11.1020/p39_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/CytoMammaire%2011.1020/p39_00.jpeg)
 
-![[assets/cytopathologie/mammaire/CytoMammaire 11.1020/p39_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/mammaire/CytoMammaire%2011.1020/p39_02.jpeg)
 
 ## PARTIE 6 — Métastases mammaires
 

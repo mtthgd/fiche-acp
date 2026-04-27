@@ -49,8 +49,8 @@ Deux sarcomes rares à connaître spécifiquement en dermatopathologie :
 - **Nodule dermique bien délimité** ou plage irrégulière
 - Peut atteindre l'hypoderme
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1049 Sarcomes cutanés rares/p05_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1049 Sarcomes cutanés rares/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1049%20Sarcomes%20cutan%C3%A9s%20rares/p05_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1049%20Sarcomes%20cutan%C3%A9s%20rares/p06_00.jpeg)
 
 ### Histologie
 
@@ -70,11 +70,11 @@ Deux sarcomes rares à connaître spécifiquement en dermatopathologie :
 
 > Différenciation musculaire lisse claire et reconnaissable même avec atypies.
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1049 Sarcomes cutanés rares/p07_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1049 Sarcomes cutanés rares/p08_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1049 Sarcomes cutanés rares/p09_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1049 Sarcomes cutanés rares/p10_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1049 Sarcomes cutanés rares/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1049%20Sarcomes%20cutan%C3%A9s%20rares/p07_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1049%20Sarcomes%20cutan%C3%A9s%20rares/p08_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1049%20Sarcomes%20cutan%C3%A9s%20rares/p09_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1049%20Sarcomes%20cutan%C3%A9s%20rares/p10_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1049%20Sarcomes%20cutan%C3%A9s%20rares/p11_00.jpeg)
 
 ### Diagnostics différentiels
 
@@ -125,10 +125,10 @@ Deux sarcomes rares à connaître spécifiquement en dermatopathologie :
 - Cytoplasme abondant éosinophile, parfois globuleux
 - Forme proximale : volontiers **rhabdoïde**
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1049 Sarcomes cutanés rares/p14_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1049 Sarcomes cutanés rares/p15_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1049 Sarcomes cutanés rares/p16_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1049 Sarcomes cutanés rares/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1049%20Sarcomes%20cutan%C3%A9s%20rares/p14_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1049%20Sarcomes%20cutan%C3%A9s%20rares/p15_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1049%20Sarcomes%20cutan%C3%A9s%20rares/p16_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1049%20Sarcomes%20cutan%C3%A9s%20rares/p17_00.jpeg)
 
 ## Immunohistochimie
 
@@ -143,7 +143,7 @@ Deux sarcomes rares à connaître spécifiquement en dermatopathologie :
 
 > La **perte de INI1 / SMARCB1** (gène SMARCB1 sur 22q11) est très spécifique : marquage **conservé dans les cellules inflammatoires et endothéliales avoisinantes** (contrôle interne).
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1049 Sarcomes cutanés rares/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1049%20Sarcomes%20cutan%C3%A9s%20rares/p18_00.jpeg)
 
 ## Diagnostics différentiels
 
@@ -157,7 +157,7 @@ Deux sarcomes rares à connaître spécifiquement en dermatopathologie :
 
 > **Au moindre doute en présence de plages cellules épithélioïdes + nécrose** : faire **CK + INI1 + marqueurs histiocytaires** (CD68, CD163).
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p20_00.jpeg)
 
 ## Pronostic et traitement
 

@@ -28,7 +28,7 @@ source: DES ACP - Cours d'urologie
 - **Score = somme de 2 grades** → 9 scores potentiels de 2 à 10.
 
 
-![[assets/urologie/prostate/05-333-Score de Gleason/p01_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-333-Score%20de%20Gleason/p01_03.jpeg)
 
 
 ---
@@ -68,21 +68,21 @@ Toutes ces architectures sont **grade 4** :
 - **Glandes mal définies / mal dessinées**
 - **Aspect glomérloïde** : projection épithéliale en touffe dans une glande dilatée, **sans atteindre l'extrémité opposée**
 
-![[assets/urologie/prostate/05-333-Score de Gleason/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-333-Score%20de%20Gleason/p05_00.jpeg)
 
 
-![[assets/urologie/prostate/05-333-Score de Gleason/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-333-Score%20de%20Gleason/p06_00.jpeg)
 
 
 ### Grade 5 (le moins différencié)
 - **Massifs pleins**, travées, cordons, cellules isolées
 - **Comédonécrose** (nécrose centrale dans des massifs cribriformes/pleins)
 
-![[assets/urologie/prostate/05-333-Score de Gleason/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-333-Score%20de%20Gleason/p07_00.jpeg)
 
-![[assets/urologie/prostate/05-333-Score de Gleason/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-333-Score%20de%20Gleason/p07_01.jpeg)
 
-![[assets/urologie/prostate/05-333-Score de Gleason/p07_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-333-Score%20de%20Gleason/p07_02.jpeg)
 
 
 ---
@@ -106,20 +106,20 @@ Score = **grade majoritaire (1er)** + **grade le plus péjoratif (2nd)**.
 | Un seul foyer, tout grade 3 | **3+3** |
 | Adénocarcinome mucineux | **Grader sur l'architecture glandulaire** (ignorer le caractère mucineux) |
 
-![[assets/urologie/prostate/05-333-Score de Gleason/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-333-Score%20de%20Gleason/p08_00.jpeg)
 
 
-![[assets/urologie/prostate/05-333-Score de Gleason/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-333-Score%20de%20Gleason/p09_00.jpeg)
 
-![[assets/urologie/prostate/05-333-Score de Gleason/p09_01.jpeg]]
-
-
-![[assets/urologie/prostate/05-333-Score de Gleason/p10_00.jpeg]]
-
-![[assets/urologie/prostate/05-333-Score de Gleason/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-333-Score%20de%20Gleason/p09_01.jpeg)
 
 
-![[assets/urologie/prostate/05-333-Score de Gleason/p10_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-333-Score%20de%20Gleason/p10_00.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-333-Score%20de%20Gleason/p10_01.jpeg)
+
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-333-Score%20de%20Gleason/p10_03.jpeg)
 
 ---
 
@@ -140,12 +140,12 @@ Nouveau système en **5 groupes pronostiques** plus parlants pour le patient et 
 - Validé sur > 20 000 prostatectomies radicales (5 institutions américaines).
 - Maintien de la significativité en récidive biologique pour : prostatectomie seule, radiothérapie, prostatectomie + hormonothérapie.
 
-![[assets/urologie/prostate/05-333-Score de Gleason/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-333-Score%20de%20Gleason/p11_00.jpeg)
 
-![[assets/urologie/prostate/05-333-Score de Gleason/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-333-Score%20de%20Gleason/p11_01.jpeg)
 
 
-![[assets/urologie/prostate/05-333-Score de Gleason/p14_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-333-Score%20de%20Gleason/p14_00.png)
 
 
 ---

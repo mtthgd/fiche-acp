@@ -31,9 +31,9 @@ Sur un glomérule au **trichrome de Masson** :
 - Cellules tapissant les capillaires : **endothéliales** (face interne), **podocytes** (face externe)
 - **Mésangium** = axes collagéniques contenant des **cellules mésangiales** (synthèse + phagocytose)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14 Lesion glomérulaires/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14%20Lesion%20glom%C3%A9rulaires/p03_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14 Lesion glomérulaires/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14%20Lesion%20glom%C3%A9rulaires/p04_00.jpeg)
 
 ## Terminologie de distribution des lésions glomérulaires
 
@@ -59,7 +59,7 @@ L'analyse suit toujours **4 étapes** :
 3. **Membranes basales glomérulaires** (sur colorations argentiques type Jones)
 4. **Mésangium** (sclérose, hypertrophie, œdème)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14 Lesion glomérulaires/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14%20Lesion%20glom%C3%A9rulaires/p06_00.jpeg)
 
 ## 1. Cellularité
 
@@ -77,7 +77,7 @@ Augmentation du nombre de noyaux des cellules mésangiales ± élargissement des
 
 **Comblement** de la lumière des capillaires glomérulaires par des cellules **inflammatoires** (mononucléées et/ou polynucléaires neutrophiles), donnant un **aspect plein** au floculus.
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14 Lesion glomérulaires/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14%20Lesion%20glom%C3%A9rulaires/p08_00.jpeg)
 
 ### Prolifération extra-capillaire (croissants)
 
@@ -93,7 +93,7 @@ Augmentation du nombre de noyaux des cellules mésangiales ± élargissement des
 
 ➡️ Lésion typique des **glomérulonéphrites rapidement progressives** (vascularites, anti-MBG, GN cryoglobulinémique).
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14 Lesion glomérulaires/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14%20Lesion%20glom%C3%A9rulaires/p09_00.jpeg)
 
 ### Lésions de hyalinose segmentaire et focale
 
@@ -101,9 +101,9 @@ Augmentation du nombre de noyaux des cellules mésangiales ± élargissement des
 
 → Caractéristique de la **HSF** ([[06_HSF - Hyalinose segmentaire et focale]]).
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14 Lesion glomérulaires/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14%20Lesion%20glom%C3%A9rulaires/p10_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14 Lesion glomérulaires/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14%20Lesion%20glom%C3%A9rulaires/p11_00.jpeg)
 
 ## 2. Dépôts glomérulaires
 
@@ -116,11 +116,11 @@ Augmentation du nombre de noyaux des cellules mésangiales ± élargissement des
 | **Sous-endothéliaux** | Coincés entre MBG et endothélium (versant **interne**) | Hyalins, **moulent la paroi** capillaire, massifs et irréguliers (*wireloops* en IF du lupus) |
 | **Humps** | Versant **externe** de la MBG | Dépôts **en bosses**, rares mais volumineux ; complexes immuns |
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14 Lesion glomérulaires/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14%20Lesion%20glom%C3%A9rulaires/p12_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14 Lesion glomérulaires/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14%20Lesion%20glom%C3%A9rulaires/p13_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14 Lesion glomérulaires/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14%20Lesion%20glom%C3%A9rulaires/p14_00.jpeg)
 
 ### Caractérisation en immunofluorescence
 
@@ -146,19 +146,19 @@ Territoires **mal limités, infractueux**, colorés en **rouge vif** au trichrom
 
 Oblitération de la lumière par un matériel **fibrino-cruorique** ; ± congestion (présence de globules rouges dans la lumière capillaire).
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14 Lesion glomérulaires/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14%20Lesion%20glom%C3%A9rulaires/p17_00.jpeg)
 
 #### *Thrombi* hyalins
 
 **Dépôts d'immuns complexes oblitérants** la lumière capillaire — arrondis, **rouge ouverte** au trichrome. Ex : **GN cryoglobulinémique**.
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14 Lesion glomérulaires/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14%20Lesion%20glom%C3%A9rulaires/p18_00.jpeg)
 
 #### Dépôts amyloïdes
 
 Dépôts **extracellulaires, amorphes, vert clair** au trichrome de Masson, situés dans le mésangium, la paroi des vaisseaux et l'interstitium. **Rouge Congo +** avec **dichroïsme vert-jaune en lumière polarisée** caractéristique.
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14 Lesion glomérulaires/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14%20Lesion%20glom%C3%A9rulaires/p19_00.jpeg)
 
 ## 3. Anomalies des membranes basales glomérulaires (Jones / PAS)
 
@@ -175,7 +175,7 @@ Au cours des **vascularites** ([[11_Vascularites rénales]]) — fréquemment as
 - **Flaques de fibrine** (nécrose glomérulaire)
 - **Prolifération extra-capillaire**
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14 Lesion glomérulaires/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14%20Lesion%20glom%C3%A9rulaires/p20_00.jpeg)
 
 ### Spicules / chaînettes / massues / logettes (GEM)
 
@@ -199,7 +199,7 @@ Dépôts extra-membraneux (parfois invisibles en MO)
 
 L'IF anti-IgG met en évidence les **dépôts dans les logettes / chaînettes** → diagnostic de **GEM** ([[07_GEM - Glomérulonéphrite extra-membraneuse]]).
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14 Lesion glomérulaires/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14%20Lesion%20glom%C3%A9rulaires/p21_00.jpeg)
 
 ## 4. Anomalies du mésangium
 
@@ -217,7 +217,7 @@ Sclérose mésangiale organisée en **nodules**.
 | **Maladie à dépôts de chaînes légères (Randall)** | Nodules **multiples, taille identique**, présents dans **tous** les glomérules |
 | **GNMP forme lobulaire** | Nodules multiples de taille identique |
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14 Lesion glomérulaires/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/212-14%20Lesion%20glom%C3%A9rulaires/p22_00.jpeg)
 
 ## 5. Synthèse des lésions élémentaires
 

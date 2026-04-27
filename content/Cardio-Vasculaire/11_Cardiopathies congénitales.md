@@ -29,9 +29,9 @@ Les **anomalies cardiaques sont les plus fréquentes des malformations congénit
 - **Facteurs épigénétiques** (flux sanguin fœtal, environnement) → **risque de récurrence** non nul
 - Il existe des **groupes distincts** de malformations (obstacles du cœur gauche, défauts de latéralité, anomalies des voies d'éjection)
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p09_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p09_00.png)
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p09_01.jpeg)
 
 ## Classifications historiques
 
@@ -66,7 +66,7 @@ Exemple parfait : **microdélétion 22q11.2** (gène ***TBX1***) → toutes les 
 - **Phénotypes très hétérogènes** (ex : tétralogie de Fallot avec atrésie pulmonaire, AP confluentes ou absentes)
 - Influence des **gènes modificateurs** et des **flux fœtaux**
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p12_00.jpeg)
 
 ## Étude EPICARD et classification ACC-CHD
 
@@ -107,7 +107,7 @@ Exemple parfait : **microdélétion 22q11.2** (gène ***TBX1***) → toutes les 
 
 > **But** : unifier la nomenclature internationale + permettre l'usage à des fins de **codage administratif et de recherche clinique**.
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p13_01.jpeg)
 
 ## Revue par groupe (CIM-11)
 
@@ -121,9 +121,9 @@ Exemple parfait : **microdélétion 22q11.2** (gène ***TBX1***) → toutes les 
 | ***Criss-cross*** | Vecteurs AV croisés (valves AV orthogonales) |
 | **Anomalies de position des gros vaisseaux** | Vaisseaux parallèles, aorte antérieure |
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p14_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p14_01.jpeg)
 
 ### Groupe 2 — Anomalies des connexions AV / VA
 
@@ -137,15 +137,15 @@ Exemple parfait : **microdélétion 22q11.2** (gène ***TBX1***) → toutes les 
 - **VG à double issue**
 - **Tronc artériel commun** (classification de **Van Praagh** : types I-IV)
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p15_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p15_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p15_02.jpeg)
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p15_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p15_03.jpeg)
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p15_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p15_04.jpeg)
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p15_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p15_05.jpeg)
 
 ### Groupe 3 — Retours veineux
 
@@ -159,13 +159,13 @@ Exemple parfait : **microdélétion 22q11.2** (gène ***TBX1***) → toutes les 
 - **Retour partiel (RVPAP)**
 - Anomalies des veines pulmonaires elles-mêmes
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p16_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p16_01.jpeg)
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p16_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p16_02.jpeg)
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p16_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p16_03.jpeg)
 
 ### Groupe 4 — Oreillettes et septum interatrial
 
@@ -177,11 +177,11 @@ Exemple parfait : **microdélétion 22q11.2** (gène ***TBX1***) → toutes les 
 | **Cœur triatrial** | Défaut d'incorporation de la veine pulmonaire commune à l'OG (membrane cloisonnant l'OG) |
 | **Juxtaposition des auricules** | Le plus souvent gauche |
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p17_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p17_00.png)
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p17_01.jpeg)
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p17_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p17_02.jpeg)
 
 ### Groupe 5 — Valves AV / septum AV
 
@@ -196,9 +196,9 @@ Exemple parfait : **microdélétion 22q11.2** (gène ***TBX1***) → toutes les 
 | **CIV d'admission isolée** | Forme rare |
 | Mésalignement isolé des valves AV | Très rare |
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p18_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p18_01.jpeg)
 
 ### Groupe 6 — Ventricules et septum interventriculaire
 
@@ -219,9 +219,9 @@ Exemple parfait : **microdélétion 22q11.2** (gène ***TBX1***) → toutes les 
 | **Musculaire trabéculée** | N'importe où dans le septum trabéculé |
 | **De la voie d'éjection** (*outlet*) | Entre les 2 branches du Y de la bande septale (sous-aortique, sous-pulmonaire, *doubly committed*) |
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p19_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p19_01.jpeg)
 
 ### Groupe 7 — Cœur fonctionnellement univentriculaire
 
@@ -230,7 +230,7 @@ Exemple parfait : **microdélétion 22q11.2** (gène ***TBX1***) → toutes les 
 - **Atrésie mitrale**
 - **Syndrome d'hypoplasie du cœur gauche (HLHS)** : aorte ascendante filiforme, VG hypoplasique, atrésie mitrale et/ou aortique
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p20_00.jpeg)
 
 ### Groupe 8 — Valves ventriculo-artérielles
 
@@ -242,11 +242,11 @@ Exemple parfait : **microdélétion 22q11.2** (gène ***TBX1***) → toutes les 
 #### Anomalies de la valve aortique
 - Sténose **valvulaire**, **sous-aortique** (membraneuse, musculaire) ou **sus-valvulaire** (syndrome de Williams)
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p21_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p21_01.jpeg)
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p21_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p21_02.jpeg)
 
 ### Groupe 9 — Gros vaisseaux
 
@@ -257,11 +257,11 @@ Exemple parfait : **microdélétion 22q11.2** (gène ***TBX1***) → toutes les 
 - **Anomalies des arcs aortiques**
 - **Collatérales aorto-pulmonaires** (MAPCAs)
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p22_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p22_01.jpeg)
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p22_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p22_03.jpeg)
 
 ### Groupe 10 — Anomalies coronaires
 
@@ -271,16 +271,16 @@ Exemple parfait : **microdélétion 22q11.2** (gène ***TBX1***) → toutes les 
 | **Connexion anormale à l'aorte** | Ex : coronaire gauche naissant du sinus controlatéral droit, **trajet intra-mural** entre aorte et AP (mort subite à l'effort) |
 | **Fistules coronaro-cardiaques** | Communication anormale coronaires ↔ cavités (le plus souvent droites) |
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p23_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p23_01.jpeg)
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p24_00.jpeg)
 
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p24_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p24_02.jpeg)
 
-![[assets/cardio-vasculaire/coeur/02-12-01 Cardiopathies congénitales/p24_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/02-12-01%20Cardiopathies%20cong%C3%A9nitales/p24_03.jpeg)
 
 ## Récurrence et conseil génétique
 

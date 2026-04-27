@@ -83,9 +83,9 @@ Persistance au-delà de la décroissance théorique → **maladie micrométastat
   - **Invasion stromale/interstitielle** : infiltration du stroma conjonctif autour des tubes = **× 3,4 risque de rechute** (surtout si **> 4 cm**)
 
 
-![[assets/urologie/testicule_cordon_spermatique/05-424 Facteurs pronostiques Tumeurs du Testicule/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-424%20Facteurs%20pronostiques%20Tumeurs%20du%20Testicule/p11_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-424 Facteurs pronostiques Tumeurs du Testicule/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-424%20Facteurs%20pronostiques%20Tumeurs%20du%20Testicule/p11_01.jpeg)
 
 ## Tumeurs mixtes / TGNS
 
@@ -103,13 +103,13 @@ Persistance au-delà de la décroissance théorique → **maladie micrométastat
 - Classement direct **pT2** en cas de LVI
 - **Attention** : distinguer LVI vraie d'un artéfact de rétraction autour d'amas tumoraux
 
-![[assets/urologie/testicule_cordon_spermatique/05-424 Facteurs pronostiques Tumeurs du Testicule/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-424%20Facteurs%20pronostiques%20Tumeurs%20du%20Testicule/p12_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-424 Facteurs pronostiques Tumeurs du Testicule/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-424%20Facteurs%20pronostiques%20Tumeurs%20du%20Testicule/p12_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-424 Facteurs pronostiques Tumeurs du Testicule/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-424%20Facteurs%20pronostiques%20Tumeurs%20du%20Testicule/p13_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-424 Facteurs pronostiques Tumeurs du Testicule/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-424%20Facteurs%20pronostiques%20Tumeurs%20du%20Testicule/p14_00.jpeg)
 
 ## Autres invasions (séminomes + TGNS)
 
@@ -123,11 +123,11 @@ Persistance au-delà de la décroissance théorique → **maladie micrométastat
 | **Cordon — dépôts discontinus proximaux** | = métastases | **pM1** |
 
 
-![[assets/urologie/testicule_cordon_spermatique/05-424 Facteurs pronostiques Tumeurs du Testicule/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-424%20Facteurs%20pronostiques%20Tumeurs%20du%20Testicule/p16_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-424 Facteurs pronostiques Tumeurs du Testicule/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-424%20Facteurs%20pronostiques%20Tumeurs%20du%20Testicule/p16_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-424 Facteurs pronostiques Tumeurs du Testicule/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-424%20Facteurs%20pronostiques%20Tumeurs%20du%20Testicule/p17_00.jpeg)
 
 ---
 

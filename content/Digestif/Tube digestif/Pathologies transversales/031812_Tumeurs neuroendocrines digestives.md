@@ -56,7 +56,7 @@ source: DES ACP - Cours de digestif
 
 ⚠️ Dans les **TNE peu différenciées** : la synaptophysine doit être présente, la chromogranine A est souvent **focale, faible ou hétérogène**.
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.12 Tumeurs neuroendocrines digestives/p06_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.12%20Tumeurs%20neuroendocrines%20digestives/p06_02.jpeg)
 
 ### 2) Évaluer le risque de malignité
 
@@ -94,7 +94,7 @@ Grade = combinaison de **l'index mitotique** et du **Ki67**.
 - **Mitoses** : compter dans 50 champs × 400, additionner les **10 champs les plus riches**, vérifier que la surface fasse 2 mm² (selon le microscope)
 - **Ki67** : repérer les **hot spots** à faible grandissement, compter > 500 cellules dans la zone la plus marquée (algorithme automatique recommandé OMS 2017)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.12 Tumeurs neuroendocrines digestives/p13_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.12%20Tumeurs%20neuroendocrines%20digestives/p13_03.png)
 
 ---
 
@@ -173,15 +173,15 @@ Spécifique aux TNE bien différenciées **adaptée à chaque segment** depuis l
 
 **Type 3** : masse volumineuse, sous-muqueuse, muqueuse non spécifique (pas de gastrite atrophique).
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.12 Tumeurs neuroendocrines digestives/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.12%20Tumeurs%20neuroendocrines%20digestives/p18_00.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.12 Tumeurs neuroendocrines digestives/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.12%20Tumeurs%20neuroendocrines%20digestives/p18_01.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.12 Tumeurs neuroendocrines digestives/p18_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.12%20Tumeurs%20neuroendocrines%20digestives/p18_04.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.12 Tumeurs neuroendocrines digestives/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.12%20Tumeurs%20neuroendocrines%20digestives/p20_00.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.12 Tumeurs neuroendocrines digestives/p20_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.12%20Tumeurs%20neuroendocrines%20digestives/p20_02.jpeg)
 
 ### Algorithme décisionnel TNE gastriques
 
@@ -198,7 +198,7 @@ Différenciation ?
 
 → Communication endoscopiste-pathologiste **indispensable** : prélèvements de muqueuse non tumorale à distance.
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.12 Tumeurs neuroendocrines digestives/p21_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.12%20Tumeurs%20neuroendocrines%20digestives/p21_03.jpeg)
 
 ---
 
@@ -213,7 +213,7 @@ Différenciation ?
   - **Paragangliome gangliocytique** (3 contingents : neuroendocrine + schwannien + neuronal ganglionnaire) → tumeur **bénigne** péri-ampullaire
 
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.12 Tumeurs neuroendocrines digestives/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.12%20Tumeurs%20neuroendocrines%20digestives/p22_01.jpeg)
 
 
 ---
@@ -235,9 +235,9 @@ Différenciation ?
 - **N1** : 1-12 ganglions atteints
 - **N2** : ≥ 12 ganglions ou **nodules mésentériques** (dépôts tumoraux mésentériques sans structure ganglionnaire identifiable, particularité iléale)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.12 Tumeurs neuroendocrines digestives/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.12%20Tumeurs%20neuroendocrines%20digestives/p23_00.jpeg)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.12 Tumeurs neuroendocrines digestives/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.12%20Tumeurs%20neuroendocrines%20digestives/p23_01.jpeg)
 
 ---
 
@@ -263,7 +263,7 @@ Différenciation ?
 | **Grade G2** | Argument pour hémicolectomie |
 | **Méso-appendice > 3 mm** | **Argument fort** pour hémicolectomie |
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.12 Tumeurs neuroendocrines digestives/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.12%20Tumeurs%20neuroendocrines%20digestives/p24_00.jpeg)
 
 ---
 

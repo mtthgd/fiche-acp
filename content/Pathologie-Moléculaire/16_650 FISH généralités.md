@@ -29,7 +29,7 @@ Cours de rudiments pour la **lecture d’une lame de FISH** (Fluorescence In Sit
 - Des **types de sondes** ([[16_640 Les sondes utilisées en FISH]])
 - De l’interprétation du nombre et de la topographie des signaux
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p01_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p01_00.jpeg)
 
 ## Acteurs / Sondes / Réactifs
 
@@ -51,9 +51,9 @@ Cours de rudiments pour la **lecture d’une lame de FISH** (Fluorescence In Sit
 
 > **Piège majeur** : selon les fabricants, **HER2** peut être marqué en vert (CEP17 rouge) **ou inversement**. Une mauvaise identification = diagnostic FISH **complètement erroné**.
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p03_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p04_00.jpeg)
 
 ## Workflow technique de lecture
 
@@ -70,11 +70,11 @@ Cours de rudiments pour la **lecture d’une lame de FISH** (Fluorescence In Sit
   - Bonne digestion : noyaux **homogènes**, contours réguliers
   - Digestion **excessive** : noyaux **troués** → ne pas interpréter
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p06_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p07_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p08_00.jpeg)
 
 ### Étape 2 — Identifier vrais spots vs artefacts
 
@@ -87,9 +87,9 @@ Cours de rudiments pour la **lecture d’une lame de FISH** (Fluorescence In Sit
 
 > Préférer les **filtres monobandes** plutôt que multibandes pour discriminer les artefacts.
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p09_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p09_00.png)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p09_02.jpeg)
 
 ### Étape 3 — Acquisition et superposition des canaux
 
@@ -102,9 +102,9 @@ Deux stratégies possibles :
 
 > En automatisé : **acquisition Z-stack** (plusieurs plans focaux) = idéal.
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p10_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p11_00.jpeg)
 
 ## Lecture / Interprétation — Recommandations générales
 
@@ -119,9 +119,9 @@ Deux stratégies possibles :
 ### Exemple de mauvaise concordance sonde/contexte
 Si on attend une sonde break-apart (ex. **ALK**) et qu’on observe en territoire normal **2 verts + 2 rouges séparés** = **erreur de sonde** (la technicienne a posé une sonde d’énumération type HER2).
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p13_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p14_00.jpeg)
 
 ### Pièges fréquents
 
@@ -135,11 +135,11 @@ Si on attend une sonde break-apart (ex. **ALK**) et qu’on observe en territoir
 | **Superpositions nucléaires** | Spot vert non attribuable à un noyau précis | Chercher territoire mieux étalé |
 | **Stroma inflammatoire** abondant | Faux négatif par dilution de la tumeur dans cellules non tumorales | Identifier strictement les cellules tumorales |
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p16_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p17_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p18_00.jpeg)
 
 ## Analyse globale et comptage
 
@@ -167,13 +167,13 @@ Si on attend une sonde break-apart (ex. **ALK**) et qu’on observe en territoir
 - **Seconde lecture** par observateur indépendant
 - Analyser un **autre bloc** si nécessaire
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p21_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p22_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p23_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16.650_FISH_Generalites/p24_00.jpeg)
 
 ## Indications cliniques majeures
 

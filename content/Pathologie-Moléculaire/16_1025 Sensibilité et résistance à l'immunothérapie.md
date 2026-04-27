@@ -37,9 +37,9 @@ Quatre exigences pour une cytotoxicité efficace :
 3. **Reconnaissance** de l’antigène présenté par le **CMH des cellules tumorales**
 4. **Lyse** : voie mitochondriale (perforine/granzymes) ou voie des récepteurs de mort (Fas-L/Fas)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1025 sensibilité-résistance ImT Audio v1/p01_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1025%20sensibilit%C3%A9-r%C3%A9sistance%20ImT%20Audio%20v1/p01_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1025 sensibilité-résistance ImT Audio v1/p01_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1025%20sensibilit%C3%A9-r%C3%A9sistance%20ImT%20Audio%20v1/p01_01.jpeg)
 
 ## Rappel — modulation par les checkpoints
 
@@ -58,9 +58,9 @@ Les LT exprimant **CTLA-4, PD-1, TIM-3, LAG-3** deviennent **anergiques / épuis
 → Les **anti-CTLA-4** et **anti-PD-1/PD-L1** lèvent ces inhibitions et restaurent une réponse anti-tumorale efficace.
 
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1025 sensibilité-résistance ImT Audio v1/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1025%20sensibilit%C3%A9-r%C3%A9sistance%20ImT%20Audio%20v1/p03_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1025 sensibilité-résistance ImT Audio v1/p03_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1025%20sensibilit%C3%A9-r%C3%A9sistance%20ImT%20Audio%20v1/p03_01.png)
 
 ## Trois types de résistance
 
@@ -70,9 +70,9 @@ Les LT exprimant **CTLA-4, PD-1, TIM-3, LAG-3** deviennent **anergiques / épuis
 | **Résistance adaptative** | Mécanismes d’immuno-échappement qui diminuent l’efficacité au fil du traitement |
 | **Résistance acquise** | Réponse initiale puis **reprogression** sous immunothérapie |
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1025 sensibilité-résistance ImT Audio v1/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1025%20sensibilit%C3%A9-r%C3%A9sistance%20ImT%20Audio%20v1/p04_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1025 sensibilité-résistance ImT Audio v1/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1025%20sensibilit%C3%A9-r%C3%A9sistance%20ImT%20Audio%20v1/p04_01.jpeg)
 
 ## Mécanismes intrinsèques à la tumeur
 
@@ -97,13 +97,13 @@ Les LT exprimant **CTLA-4, PD-1, TIM-3, LAG-3** deviennent **anergiques / épuis
 - **Augmentation de Fas-L** sur cellule tumorale → lyse des LT effecteurs Fas+
 - **Surexpression de FLIP** → résistance aux récepteurs de mort
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1025 sensibilité-résistance ImT Audio v1/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1025%20sensibilit%C3%A9-r%C3%A9sistance%20ImT%20Audio%20v1/p05_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1025 sensibilité-résistance ImT Audio v1/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1025%20sensibilit%C3%A9-r%C3%A9sistance%20ImT%20Audio%20v1/p05_01.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1025 sensibilité-résistance ImT Audio v1/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1025%20sensibilit%C3%A9-r%C3%A9sistance%20ImT%20Audio%20v1/p06_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1025 sensibilité-résistance ImT Audio v1/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1025%20sensibilit%C3%A9-r%C3%A9sistance%20ImT%20Audio%20v1/p06_01.jpeg)
 
 ## Mécanismes extrinsèques à la tumeur
 
@@ -130,15 +130,15 @@ Les LT exprimant **CTLA-4, PD-1, TIM-3, LAG-3** deviennent **anergiques / épuis
 - **CCL2** → recrute Treg
 - **CCL5, CCL7, CXCL18** → recrutent MDSC
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1025 sensibilité-résistance ImT Audio v1/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1025%20sensibilit%C3%A9-r%C3%A9sistance%20ImT%20Audio%20v1/p07_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1025 sensibilité-résistance ImT Audio v1/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1025%20sensibilit%C3%A9-r%C3%A9sistance%20ImT%20Audio%20v1/p07_01.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1025 sensibilité-résistance ImT Audio v1/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1025%20sensibilit%C3%A9-r%C3%A9sistance%20ImT%20Audio%20v1/p08_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1025 sensibilité-résistance ImT Audio v1/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1025%20sensibilit%C3%A9-r%C3%A9sistance%20ImT%20Audio%20v1/p08_01.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1025 sensibilité-résistance ImT Audio v1/p08_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1025%20sensibilit%C3%A9-r%C3%A9sistance%20ImT%20Audio%20v1/p08_02.jpeg)
 
 ## Tableau de synthèse — résistance innée/adaptative vs acquise
 
@@ -166,17 +166,17 @@ Causes du **défaut d’infiltration** dans les tumeurs froides :
 - **Intrinsèques** : baisse TMB, altération des voies de signalisation diminuant le recrutement CD8
 - **Extrinsèques** : immuno-éditing du TCR non fonctionnel ; environnement immunosuppresseur favorisant l’exclusion lymphocytaire
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1025 sensibilité-résistance ImT Audio v1/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1025%20sensibilit%C3%A9-r%C3%A9sistance%20ImT%20Audio%20v1/p11_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1025 sensibilité-résistance ImT Audio v1/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1025%20sensibilit%C3%A9-r%C3%A9sistance%20ImT%20Audio%20v1/p11_01.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1025 sensibilité-résistance ImT Audio v1/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1025%20sensibilit%C3%A9-r%C3%A9sistance%20ImT%20Audio%20v1/p11_02.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1025 sensibilité-résistance ImT Audio v1/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1025%20sensibilit%C3%A9-r%C3%A9sistance%20ImT%20Audio%20v1/p12_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1025 sensibilité-résistance ImT Audio v1/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1025%20sensibilit%C3%A9-r%C3%A9sistance%20ImT%20Audio%20v1/p12_01.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1025 sensibilité-résistance ImT Audio v1/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1025%20sensibilit%C3%A9-r%C3%A9sistance%20ImT%20Audio%20v1/p12_02.jpeg)
 
 ## Stratégies pour transformer une tumeur froide en chaude
 
@@ -187,15 +187,15 @@ Causes du **défaut d’infiltration** dans les tumeurs froides :
 - Inhibiteurs d’**IDO**, **TGF-β**, **adénosine**
 - **CAR-T** (effecteurs prêts à l’emploi)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1025 sensibilité-résistance ImT Audio v1/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1025%20sensibilit%C3%A9-r%C3%A9sistance%20ImT%20Audio%20v1/p13_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1025 sensibilité-résistance ImT Audio v1/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1025%20sensibilit%C3%A9-r%C3%A9sistance%20ImT%20Audio%20v1/p13_01.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1025 sensibilité-résistance ImT Audio v1/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1025%20sensibilit%C3%A9-r%C3%A9sistance%20ImT%20Audio%20v1/p14_00.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1025 sensibilité-résistance ImT Audio v1/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1025%20sensibilit%C3%A9-r%C3%A9sistance%20ImT%20Audio%20v1/p14_01.jpeg)
 
-![[assets/pathologie-moleculaire/onco-immunologie/16-1025 sensibilité-résistance ImT Audio v1/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/onco-immunologie/16-1025%20sensibilit%C3%A9-r%C3%A9sistance%20ImT%20Audio%20v1/p14_02.jpeg)
 
 ## Pièges / Limites
 

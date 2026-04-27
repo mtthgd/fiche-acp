@@ -70,11 +70,11 @@ Diagnostic **difficile** du fait de la rareté et de la grande **hétérogénéi
 - Architecture parfois **papillaire** (variant des papillomes intracanalaires pour certains auteurs).
 - Métaplasies du contingent luminal : **apocrine**, **sébacée**, **malpighienne**.
 
-![[assets/gyneco-sein/sein/pathologie_non_tumorale/X04_12_4 Adénoépithéliome du sein/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_non_tumorale/X04_12_4%20Ad%C3%A9no%C3%A9pith%C3%A9liome%20du%20sein/p06_00.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_non_tumorale/X04_12_4 Adénoépithéliome du sein/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_non_tumorale/X04_12_4%20Ad%C3%A9no%C3%A9pith%C3%A9liome%20du%20sein/p11_00.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_non_tumorale/X04_12_4 Adénoépithéliome du sein/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_non_tumorale/X04_12_4%20Ad%C3%A9no%C3%A9pith%C3%A9liome%20du%20sein/p13_00.jpeg)
 
 ## Immunohistochimie
 
@@ -120,7 +120,7 @@ L’IHC est **essentielle** car elle souligne le **caractère biphasique** de la
 | **Myoépithéliome** | Composé **uniquement** de cellules myoépithéliales → bien échantillonner pour rechercher composante épithéliale |
 | **Carcinome adénoïde kystique** | Architecture **cribriforme** caractéristique ; cellules myoépithéliales **plus petites, hyperchromatiques, basaloïdes** ; mutation **MYB-NFIB** |
 
-![[assets/gyneco-sein/sein/pathologie_non_tumorale/X04_12_4 Adénoépithéliome du sein/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_non_tumorale/X04_12_4%20Ad%C3%A9no%C3%A9pith%C3%A9liome%20du%20sein/p28_00.jpeg)
 
 ## Pronostic / Traitement
 

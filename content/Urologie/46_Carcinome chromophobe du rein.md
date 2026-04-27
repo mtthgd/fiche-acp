@@ -43,9 +43,9 @@ source: DES ACP - Cours d'urologie
 - Remaniements nécrotiques / hémorragiques possibles
 - Multifocalité possible
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-123-Carcinome à cellules chromophobes/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-123-Carcinome%20%C3%A0%20cellules%20chromophobes/p03_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-123-Carcinome à cellules chromophobes/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-123-Carcinome%20%C3%A0%20cellules%20chromophobes/p04_00.jpeg)
 
 ---
 
@@ -76,17 +76,17 @@ source: DES ACP - Cours d'urologie
 | **Éosinophile pure** | Cytoplasme dense éosinophile granuleux, noyaux plus ronds | **Oncocytome** (DD difficile) |
 | **Sarcomatoïde** | Cellules fusiformes haut grade mélangées à composante chromophobe classique | Pronostic défavorable |
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-123-Carcinome à cellules chromophobes/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-123-Carcinome%20%C3%A0%20cellules%20chromophobes/p05_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-123-Carcinome à cellules chromophobes/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-123-Carcinome%20%C3%A0%20cellules%20chromophobes/p06_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-123-Carcinome à cellules chromophobes/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-123-Carcinome%20%C3%A0%20cellules%20chromophobes/p07_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-123-Carcinome à cellules chromophobes/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-123-Carcinome%20%C3%A0%20cellules%20chromophobes/p08_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-123-Carcinome à cellules chromophobes/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-123-Carcinome%20%C3%A0%20cellules%20chromophobes/p09_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-123-Carcinome à cellules chromophobes/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-123-Carcinome%20%C3%A0%20cellules%20chromophobes/p10_00.jpeg)
 
 ---
 
@@ -109,7 +109,7 @@ source: DES ACP - Cours d'urologie
 
 > **CK7 + diffus en cadre** + **CD117+** + **Vimentine −** + **CAIX −** = chRCC.
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-123-Carcinome à cellules chromophobes/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-123-Carcinome%20%C3%A0%20cellules%20chromophobes/p11_00.jpeg)
 
 ---
 

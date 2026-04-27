@@ -56,9 +56,9 @@ Du périoste vers l'endoste :
 5. Face endostée
 
 
-![[assets/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122 Bases histologiques du tissu osseux/p03_04.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122%20Bases%20histologiques%20du%20tissu%20osseux/p03_04.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122 Bases histologiques du tissu osseux/p03_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122%20Bases%20histologiques%20du%20tissu%20osseux/p03_05.jpeg)
 
 ## Os spongieux / trabéculaire
 
@@ -66,9 +66,9 @@ Du périoste vers l'endoste :
 - Espaces comblés par moelle (adipeuse ou hématopoïétique selon site/âge)
 - **Remodelage visible** : sur tête fémorale ostéoporotique, présence d'ostéons intercalés dans des travées → adaptation aux contraintes mécaniques
 
-![[assets/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122 Bases histologiques du tissu osseux/p04_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122%20Bases%20histologiques%20du%20tissu%20osseux/p04_04.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122 Bases histologiques du tissu osseux/p04_05.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122%20Bases%20histologiques%20du%20tissu%20osseux/p04_05.png)
 
 ## Enveloppes de l'os
 
@@ -84,7 +84,7 @@ Fixé à l'os par les **fibres de Sharpey** (collagène). Deux couches :
 **Variation avec l'âge** : chez l'enfant, périoste épais, vascularisé, actif, faiblement attaché ; chez l'adulte, fin, inactif, fermement adhérent.
 
 
-![[assets/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122 Bases histologiques du tissu osseux/p05_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122%20Bases%20histologiques%20du%20tissu%20osseux/p05_05.jpeg)
 
 ### Ostéogenèse périostée réactionnelle (patterns lésionnels)
 
@@ -94,9 +94,9 @@ Fixé à l'os par les **fibres de Sharpey** (collagène). Deux couches :
 | Active, expansive modérément | Se substitue à la corticale soufflée → **coque osseuse** limitant l'expansion |
 | Très agressive (haut grade) | Réaction périostée infiltrée, rompue, dépassée → radiologiquement **appositions en "feu d'herbe"** (ostéosarcome haut grade) |
 
-![[assets/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122 Bases histologiques du tissu osseux/p06_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122%20Bases%20histologiques%20du%20tissu%20osseux/p06_04.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122 Bases histologiques du tissu osseux/p06_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122%20Bases%20histologiques%20du%20tissu%20osseux/p06_05.jpeg)
 
 
 ### Endoste
@@ -108,7 +108,7 @@ Fixé à l'os par les **fibres de Sharpey** (collagène). Deux couches :
 - **Canaux de Volkmann** (transverses) reliant Havers à la surface et à la moelle, continuité avec le périoste
 
 
-![[assets/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122 Bases histologiques du tissu osseux/p07_11.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122%20Bases%20histologiques%20du%20tissu%20osseux/p07_11.jpeg)
 
 ## Les trois types de cellules osseuses
 
@@ -121,22 +121,22 @@ Fixé à l'os par les **fibres de Sharpey** (collagène). Deux couches :
 
 À l'issue de la formation osseuse, **~2/3 des ostéoblastes meurent par apoptose**, les autres deviennent ostéocytes ou cellules bordantes. Communication via **canalicules intraosseux** et **jonctions communiquantes** (gap junctions).
 
-![[assets/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122 Bases histologiques du tissu osseux/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122%20Bases%20histologiques%20du%20tissu%20osseux/p08_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122 Bases histologiques du tissu osseux/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122%20Bases%20histologiques%20du%20tissu%20osseux/p08_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122 Bases histologiques du tissu osseux/p08_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122%20Bases%20histologiques%20du%20tissu%20osseux/p08_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122 Bases histologiques du tissu osseux/p08_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122%20Bases%20histologiques%20du%20tissu%20osseux/p08_05.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122 Bases histologiques du tissu osseux/p08_08.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122%20Bases%20histologiques%20du%20tissu%20osseux/p08_08.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122 Bases histologiques du tissu osseux/p08_11.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122%20Bases%20histologiques%20du%20tissu%20osseux/p08_11.png)
 
 
-![[assets/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122 Bases histologiques du tissu osseux/p09_05.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122%20Bases%20histologiques%20du%20tissu%20osseux/p09_05.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122 Bases histologiques du tissu osseux/p09_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122%20Bases%20histologiques%20du%20tissu%20osseux/p09_06.jpeg)
 
 
 ## Remodelage osseux (ostéogenèse tertiaire)
@@ -149,12 +149,12 @@ Processus **permanent tout au long de la vie** assurant :
 Participation des trois types cellulaires, y compris l'ostéocyte via **ostéolyse ostéocytique**.
 
 
-![[assets/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122 Bases histologiques du tissu osseux/p10_10.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122%20Bases%20histologiques%20du%20tissu%20osseux/p10_10.jpeg)
 
 
-![[assets/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122 Bases histologiques du tissu osseux/p10_17.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122%20Bases%20histologiques%20du%20tissu%20osseux/p10_17.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122 Bases histologiques du tissu osseux/p11_15.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/tissus_normaux/09-122%20Bases%20histologiques%20du%20tissu%20osseux/p11_15.jpeg)
 
 ---
 

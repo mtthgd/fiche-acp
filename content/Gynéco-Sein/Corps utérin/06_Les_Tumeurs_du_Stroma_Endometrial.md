@@ -65,7 +65,7 @@ Tumeur **bénigne** composée de cellules ressemblant au stroma endométrial en 
 - Le plus typique : **t(7;17) JAZF1-SUZ12**.
 - FISH break-apart sur **JAZF1** : signal rouge/vert séparés = cassure.
 
-![[assets/gyneco-sein/corps_uterin/04-43  Les Tumeurs du Stroma Endométrial -S CROCE/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04-43%20%20Les%20Tumeurs%20du%20Stroma%20Endom%C3%A9trial%20-S%20CROCE/p09_00.jpeg)
 
 ### Catégorie intermédiaire — « avec infiltration limitée »
 Tumeur stromale endométriale **ne respectant pas la règle des 3** mais sans infiltration diffuse perméative.
@@ -80,7 +80,7 @@ Tumeur **maligne** de cellules de stroma endométrial en phase proliférative, p
 
 ### Macroscopie
 
-![[assets/gyneco-sein/corps_uterin/04-43  Les Tumeurs du Stroma Endométrial -S CROCE/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04-43%20%20Les%20Tumeurs%20du%20Stroma%20Endom%C3%A9trial%20-S%20CROCE/p14_00.jpeg)
 
 - Nodules **blanchâtres / jaunâtres multiples** + protrusions vermiculaires perméant le myomètre.
 - Nodules mal définis, parfois confluents.
@@ -91,14 +91,14 @@ Tumeur **maligne** de cellules de stroma endométrial en phase proliférative, p
 - **Différence = invasion myométriale perméative en doigts de gant** (sans destruction, sans stromaréaction).
 - **Emboles vasculaires** = critère majeur (un nodule + emboles = LG-ESS).
 
-![[assets/gyneco-sein/corps_uterin/04-43  Les Tumeurs du Stroma Endométrial -S CROCE/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04-43%20%20Les%20Tumeurs%20du%20Stroma%20Endom%C3%A9trial%20-S%20CROCE/p16_00.jpeg)
 
 ### Variantes morphologiques
 - **À cellules claires**.
 - **Sex-cord-like** (DD avec UTROSCT).
 - **Fibromyxoïde** (DD avec léiomyosarcome myxoïde).
 
-![[assets/gyneco-sein/corps_uterin/04-43  Les Tumeurs du Stroma Endométrial -S CROCE/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04-43%20%20Les%20Tumeurs%20du%20Stroma%20Endom%C3%A9trial%20-S%20CROCE/p17_00.jpeg)
 
 ### Immunohistochimie
 Identique au nodule : **CD10 +**, desmine +/-, **RE/RP +**, **kératines +/-** (attention).
@@ -135,8 +135,8 @@ Tumeur rare (âge moyen ≈ **50 ans**) ; pronostic intermédiaire entre LG-ESS 
 - **Mitoses élevées** : généralement **> 10 / 10 HPF**.
 - **Ne ressemble plus** à un stroma en phase proliférative.
 
-![[assets/gyneco-sein/corps_uterin/04-43  Les Tumeurs du Stroma Endométrial -S CROCE/p20_00.jpeg]]
-![[assets/gyneco-sein/corps_uterin/04-43  Les Tumeurs du Stroma Endométrial -S CROCE/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04-43%20%20Les%20Tumeurs%20du%20Stroma%20Endom%C3%A9trial%20-S%20CROCE/p20_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04-43%20%20Les%20Tumeurs%20du%20Stroma%20Endom%C3%A9trial%20-S%20CROCE/p21_00.jpeg)
 
 ### Sous-types moléculaires
 

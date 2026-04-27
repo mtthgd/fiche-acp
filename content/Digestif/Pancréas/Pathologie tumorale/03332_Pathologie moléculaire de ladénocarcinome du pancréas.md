@@ -56,9 +56,9 @@ Deux classes :
 | **Dysplasie haut grade** | Pluristratification massive, cellules cubiques (perte du clarifié) | Atypies majeures | **Anisocaryose**, nucléoles, mitoses ascensionnées, papilles |
 | **Adénocarcinome invasif** | Franchissement de la membrane basale | | |
 
-![[assets/digestif/pancreas/tumorale/03.3.3.2 Pathologie moléculaire de ladénocarcinome du pancréas/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.2%20Pathologie%20mol%C3%A9culaire%20de%20lad%C3%A9nocarcinome%20du%20pancr%C3%A9as/p06_00.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.2 Pathologie moléculaire de ladénocarcinome du pancréas/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.2%20Pathologie%20mol%C3%A9culaire%20de%20lad%C3%A9nocarcinome%20du%20pancr%C3%A9as/p07_00.jpeg)
 
 ## PanIN (pancreatic intraepithelial neoplasia)
 
@@ -80,9 +80,9 @@ Deux classes :
 - À ce stade : **pas de dysplasie**, en général **pas d'oncogène muté**
 - Évolution → PanIN avec **mutation activatrice KRAS**
 
-![[assets/digestif/pancreas/tumorale/03.3.3.2 Pathologie moléculaire de ladénocarcinome du pancréas/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.2%20Pathologie%20mol%C3%A9culaire%20de%20lad%C3%A9nocarcinome%20du%20pancr%C3%A9as/p11_00.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.2 Pathologie moléculaire de ladénocarcinome du pancréas/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.2%20Pathologie%20mol%C3%A9culaire%20de%20lad%C3%A9nocarcinome%20du%20pancr%C3%A9as/p12_01.jpeg)
 
 ### Séquence d'accumulation des anomalies moléculaires (modèle classique)
 

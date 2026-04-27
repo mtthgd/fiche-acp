@@ -27,7 +27,7 @@ La pathologie vasculaire splénique se classe en :
 2. **Pathologie vasculaire tumorale** : tumeurs bénignes (hémangiome, lymphangiome, **littoral cell angioma**) et malignes (**angiosarcome**)
 3. **Pathologie vasculaire pseudo-tumorale** : **hamartome**, **transformation angiomatoïde nodulaire sclérosante (SANT)**, **pseudo-tumeur inflammatoire** (dont type sarcome à cellules folliculaires dendritiques EBV+)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-750_Pathologie splénique vasculaire/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-750_Pathologie%20spl%C3%A9nique%20vasculaire/p02_00.jpeg)
 
 ---
 
@@ -50,7 +50,7 @@ Augmentation du volume splénique **> 1 kg** sur **congestion veineuse persistan
 - **Atrophie de la pulpe blanche**
 - **Épaississement péri-sinusal** : initialement réticulinique, puis **fibreux**
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-750_Pathologie splénique vasculaire/p02_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-750_Pathologie%20spl%C3%A9nique%20vasculaire/p02_01.jpeg)
 
 ## 1.2 Infarctus splénique
 
@@ -135,9 +135,9 @@ Origine **thrombo-embolique**, surtout dans :
 | **CD8** | **−** |
 | **CD21** | − |
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-750_Pathologie splénique vasculaire/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-750_Pathologie%20spl%C3%A9nique%20vasculaire/p06_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-750_Pathologie splénique vasculaire/p06_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-750_Pathologie%20spl%C3%A9nique%20vasculaire/p06_03.jpeg)
 
 ### 2.2.2 Lymphangiome
 
@@ -189,13 +189,13 @@ Origine **thrombo-embolique**, surtout dans :
 | **CD21** | + (souvent **hétérogène et faible**) |
 | **FVIII-RA** | +/− |
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-750_Pathologie splénique vasculaire/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-750_Pathologie%20spl%C3%A9nique%20vasculaire/p08_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-750_Pathologie splénique vasculaire/p08_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-750_Pathologie%20spl%C3%A9nique%20vasculaire/p08_03.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-750_Pathologie splénique vasculaire/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-750_Pathologie%20spl%C3%A9nique%20vasculaire/p09_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-750_Pathologie splénique vasculaire/p09_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-750_Pathologie%20spl%C3%A9nique%20vasculaire/p09_03.jpeg)
 
 ## 2.3 Tumeur vasculaire maligne : angiosarcome
 
@@ -226,9 +226,9 @@ Origine **thrombo-embolique**, surtout dans :
 | **CD8** | − |
 | **CD21** | − |
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-750_Pathologie splénique vasculaire/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-750_Pathologie%20spl%C3%A9nique%20vasculaire/p10_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-750_Pathologie splénique vasculaire/p10_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-750_Pathologie%20spl%C3%A9nique%20vasculaire/p10_03.jpeg)
 
 ---
 
@@ -256,9 +256,9 @@ Origine **thrombo-embolique**, surtout dans :
 | **CD34** | + (composante vasculaire) |
 | **CD8** | **+** (souligne la composante **sinusale** = signature !) |
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-750_Pathologie splénique vasculaire/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-750_Pathologie%20spl%C3%A9nique%20vasculaire/p12_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-750_Pathologie splénique vasculaire/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-750_Pathologie%20spl%C3%A9nique%20vasculaire/p12_02.jpeg)
 
 ## 3.2 Transformation angiomatoïde nodulaire sclérosante (SANT)
 
@@ -328,11 +328,11 @@ Origine **thrombo-embolique**, surtout dans :
 
 > ⚠️ **Tout bilan de pseudo-tumeur inflammatoire splénique impose la recherche de l’EBV par hybridation in situ (sondes EBER)**.
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-750_Pathologie splénique vasculaire/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-750_Pathologie%20spl%C3%A9nique%20vasculaire/p15_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-750_Pathologie splénique vasculaire/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-750_Pathologie%20spl%C3%A9nique%20vasculaire/p16_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-750_Pathologie splénique vasculaire/p16_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-750_Pathologie%20spl%C3%A9nique%20vasculaire/p16_03.jpeg)
 
 ---
 

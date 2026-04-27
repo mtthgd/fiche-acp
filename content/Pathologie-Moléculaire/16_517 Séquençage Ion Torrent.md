@@ -24,7 +24,7 @@ source: DES ACP - Pathologie moléculaire
 
 > Concept : « **Ion Torrent = pH-mètre** ». Chaque puits = un mini pH-mètre haute résolution.
 
-![[assets/pathologie-moleculaire/ngs/16-516 517 518  NGS 2eme generation au coeur des machines/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-516%20517%20518%20%20NGS%202eme%20generation%20au%20coeur%20des%20machines/p02_00.jpeg)
 
 ## Étapes techniques
 
@@ -47,9 +47,9 @@ Identique aux principes de [[16_515 Séquençage 2G - points communs]] : fragmen
 
 **Linéarité du signal** : un homopolymère **AA** donne un pic 2× plus grand que **A**. Bonne linéarité jusqu’à **5-6 bases identiques**.
 
-![[assets/pathologie-moleculaire/ngs/16-516 517 518  NGS 2eme generation au coeur des machines/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-516%20517%20518%20%20NGS%202eme%20generation%20au%20coeur%20des%20machines/p04_00.jpeg)
 
-![[assets/pathologie-moleculaire/ngs/16-516 517 518  NGS 2eme generation au coeur des machines/p06_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-516%20517%20518%20%20NGS%202eme%20generation%20au%20coeur%20des%20machines/p06_00.png)
 
 | Étape | Détail | Outil/Plate-forme |
 |---|---|---|
@@ -59,7 +59,7 @@ Identique aux principes de [[16_515 Séquençage 2G - points communs]] : fragmen
 | Détection | **Variation de pH (H+)** | **ISFET** sous chaque puits |
 | Acquisition | **Courant électrique** | Pas de chimie fluo, pas de caméra |
 
-![[assets/pathologie-moleculaire/ngs/16-516 517 518  NGS 2eme generation au coeur des machines/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-516%20517%20518%20%20NGS%202eme%20generation%20au%20coeur%20des%20machines/p07_00.jpeg)
 
 ## Spécifications / Métriques
 

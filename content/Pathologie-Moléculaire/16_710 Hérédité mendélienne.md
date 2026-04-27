@@ -32,7 +32,7 @@ L’hérédité mendélienne regroupe les maladies monogéniques transmises selo
 L’analyse repose sur l’**arbre généalogique** avec ses symboles standardisés en génétique médicale.
 
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-710 Hérédité mendélienne/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-710%20H%C3%A9r%C3%A9dit%C3%A9%20mend%C3%A9lienne/p05_00.jpeg)
 
 ## Hérédité autosomique dominante (AD)
 
@@ -43,7 +43,7 @@ L’analyse repose sur l’**arbre généalogique** avec ses symboles standardis
 - Transmission par l’un ou l’autre parent
 - **Risque de récurrence : 50 %** à chaque grossesse
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-710 Hérédité mendélienne/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-710%20H%C3%A9r%C3%A9dit%C3%A9%20mend%C3%A9lienne/p08_00.jpeg)
 
 
 ### Notions particulières AD à connaître
@@ -51,7 +51,7 @@ L’analyse repose sur l’**arbre généalogique** avec ses symboles standardis
 #### Pénétrance incomplète
 Sujet **porteur de la mutation mais non atteint**. Démontrée par la transmission à la descendance atteinte. Caractéristique des maladies AD.
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-710 Hérédité mendélienne/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-710%20H%C3%A9r%C3%A9dit%C3%A9%20mend%C3%A9lienne/p09_00.jpeg)
 
 #### Expressivité variable
 **Une même mutation** peut donner des phénotypes différents selon les sujets. Exemple : **neurofibromatose** (NF1) avec, dans la même famille :
@@ -60,9 +60,9 @@ Sujet **porteur de la mutation mais non atteint**. Démontrée par la transmissi
 - Nodules de **Lisch** (iris)
 - Tumeurs cérébrales (gliomes)
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-710 Hérédité mendélienne/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-710%20H%C3%A9r%C3%A9dit%C3%A9%20mend%C3%A9lienne/p09_01.jpeg)
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-710 Hérédité mendélienne/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-710%20H%C3%A9r%C3%A9dit%C3%A9%20mend%C3%A9lienne/p09_02.jpeg)
 
 #### Mutation *de novo*
 Mutation **apparue accidentellement** dans la nouvelle génération, absente des deux parents. Risque de récurrence faible mais **non nul**, lié au risque empirique de **mosaïque germinale (~1 %)**, à préciser au couple lors du conseil génétique.
@@ -71,7 +71,7 @@ Mutation **apparue accidentellement** dans la nouvelle génération, absente des
 #### Phénomène d’anticipation
 **Aggravation du phénotype d’une génération à la suivante**, liée à une **expansion de motifs répétés en tandem** (généralement trinucléotides). Instabilité lors de la **méiose** → augmentation du nombre de répétés à chaque génération = **mutations dynamiques**.
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-710 Hérédité mendélienne/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-710%20H%C3%A9r%C3%A9dit%C3%A9%20mend%C3%A9lienne/p14_00.jpeg)
 
 | Maladie | Gène | Triplet | Localisation | Seuil pathogène |
 |---------|------|---------|--------------|-----------------|
@@ -89,10 +89,10 @@ Mutation **apparue accidentellement** dans la nouvelle génération, absente des
 | 100-1000 | DM classique |
 | **> 1000** | DM **congénitale** (néonatale) |
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-710 Hérédité mendélienne/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-710%20H%C3%A9r%C3%A9dit%C3%A9%20mend%C3%A9lienne/p15_00.jpeg)
 
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-710 Hérédité mendélienne/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-710%20H%C3%A9r%C3%A9dit%C3%A9%20mend%C3%A9lienne/p16_00.jpeg)
 
 #### Mosaïcisme
 Mutation survenant en **post-zygotique** : seule une partie des cellules de l’organisme est mutée. Selon le stade auquel survient la mutation :
@@ -103,7 +103,7 @@ Mutation survenant en **post-zygotique** : seule une partie des cellules de l’
 
 Le **taux de mosaïcisme** (faible ou élevé) module la sévérité de l’expression phénotypique.
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-710 Hérédité mendélienne/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-710%20H%C3%A9r%C3%A9dit%C3%A9%20mend%C3%A9lienne/p18_00.jpeg)
 
 ## Hérédité autosomique récessive (AR)
 
@@ -116,9 +116,9 @@ Le **taux de mosaïcisme** (faible ou élevé) module la sévérité de l’expr
 - **Pénétrance souvent complète**, expressivité plus homogène que les maladies AD
 - **Risque de récurrence : 25 %** chez un couple de parents hétérozygotes
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-710 Hérédité mendélienne/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-710%20H%C3%A9r%C3%A9dit%C3%A9%20mend%C3%A9lienne/p19_00.jpeg)
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-710 Hérédité mendélienne/p23_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-710%20H%C3%A9r%C3%A9dit%C3%A9%20mend%C3%A9lienne/p23_00.png)
 
 ### Exemples
 - **Mucoviscidose** (*CFTR*) — la plus fréquente en France
@@ -132,7 +132,7 @@ Le **taux de mosaïcisme** (faible ou élevé) module la sévérité de l’expr
 - **Inactivation de l’X** chez la femme (compensation de dosage), aléatoire en mosaïque
 - **Pas de transmission père → fils** (le père transmet le Y au fils)
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-710 Hérédité mendélienne/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-710%20H%C3%A9r%C3%A9dit%C3%A9%20mend%C3%A9lienne/p25_00.jpeg)
 
 ### Sous-types
 
@@ -153,7 +153,7 @@ Le **taux de mosaïcisme** (faible ou élevé) module la sévérité de l’expr
 
 Mutation portée par le chromosome Y → **seuls les hommes atteints**, transmission **uniquement de père en fils**.
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-710 Hérédité mendélienne/p29_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-710%20H%C3%A9r%C3%A9dit%C3%A9%20mend%C3%A9lienne/p29_00.png)
 
 ## Tableau récapitulatif des modes mendéliens
 

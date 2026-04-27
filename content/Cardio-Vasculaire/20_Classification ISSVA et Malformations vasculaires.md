@@ -114,11 +114,11 @@ Lésion vasculaire
 - Forme hypertrophique : extension dermique pleine épaisseur + hypoderme
 - Lésions anciennes adultes : **regroupements nodulaires** en pelotons vasculaires à paroi fibreuse épaisse
 
-![[assets/cardio-vasculaire/vaisseaux/Classification ISSVA et Malformations vasculaires/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/Classification%20ISSVA%20et%20Malformations%20vasculaires/p12_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/Classification ISSVA et Malformations vasculaires/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/Classification%20ISSVA%20et%20Malformations%20vasculaires/p13_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/Classification ISSVA et Malformations vasculaires/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/Classification%20ISSVA%20et%20Malformations%20vasculaires/p14_00.jpeg)
 
 ### Immunohistochimie
 
@@ -129,7 +129,7 @@ Lésion vasculaire
 
 → phénotype **péricytaire** des cellules de la média (≠ veine/vénule normale).
 
-![[assets/cardio-vasculaire/vaisseaux/Classification ISSVA et Malformations vasculaires/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/Classification%20ISSVA%20et%20Malformations%20vasculaires/p15_00.jpeg)
 
 ## II — Malformations veineuses
 
@@ -155,13 +155,13 @@ Lésion vasculaire
   - Thrombus anciens **fibreux et calcifiés** = **phlébolithes** en imagerie
   - Thrombus reperméabilisé avec **hyperplasie papillaire intravasculaire (Masson)**
 
-![[assets/cardio-vasculaire/vaisseaux/Classification ISSVA et Malformations vasculaires/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/Classification%20ISSVA%20et%20Malformations%20vasculaires/p20_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/Classification ISSVA et Malformations vasculaires/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/Classification%20ISSVA%20et%20Malformations%20vasculaires/p21_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/Classification ISSVA et Malformations vasculaires/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/Classification%20ISSVA%20et%20Malformations%20vasculaires/p22_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/Classification ISSVA et Malformations vasculaires/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/Classification%20ISSVA%20et%20Malformations%20vasculaires/p23_00.jpeg)
 
 ### Sous-types
 
@@ -171,9 +171,9 @@ Lésion vasculaire
 | **Veineuse nodulaire** | Cavités veineuses sans tissu interposé, **bien limitée** | Nodule rond |
 | **Glomuveineuse** (« glomovénolyse ») | Présence de **cellules glomiques** dans la média (noyaux ronds réguliers) | **Cutanée hyperkératosique aux extrémités, douloureuse**, peu compressible |
 
-![[assets/cardio-vasculaire/vaisseaux/Classification ISSVA et Malformations vasculaires/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/Classification%20ISSVA%20et%20Malformations%20vasculaires/p25_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/Classification ISSVA et Malformations vasculaires/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/Classification%20ISSVA%20et%20Malformations%20vasculaires/p26_00.jpeg)
 
 ## III — Malformations lymphatiques
 
@@ -202,9 +202,9 @@ Lésion vasculaire
 - En profondeur : vaisseaux plus grands, lumière infractueuse, média muscularisée → ressemble à une malformation veineuse → **IHC indispensable**
 - Signes évocateurs : **lymphocytes intraluminaux**, infiltrat lymphocytaire diffus, **follicules lymphoïdes**
 
-![[assets/cardio-vasculaire/vaisseaux/Classification ISSVA et Malformations vasculaires/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/Classification%20ISSVA%20et%20Malformations%20vasculaires/p30_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/Classification ISSVA et Malformations vasculaires/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/Classification%20ISSVA%20et%20Malformations%20vasculaires/p31_00.jpeg)
 
 ### Immunohistochimie
 
@@ -218,9 +218,9 @@ Lésion vasculaire
 
 > Sur les vaisseaux profonds muscularisés, **toujours réaliser un D2-40** pour différencier malformation lymphatique vs veineuse.
 
-![[assets/cardio-vasculaire/vaisseaux/Classification ISSVA et Malformations vasculaires/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/Classification%20ISSVA%20et%20Malformations%20vasculaires/p32_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/Classification ISSVA et Malformations vasculaires/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/Classification%20ISSVA%20et%20Malformations%20vasculaires/p33_00.jpeg)
 
 ## IV — Malformations artério-veineuses (MAV)
 
@@ -238,15 +238,15 @@ Lésion vasculaire
 - **Nodule de prolifération capillaire** possible (lumière étroite)
 - En infiltration musculaire : aspect d'**hémangiome intramusculaire** (piège diagnostique sur biopsie)
 
-![[assets/cardio-vasculaire/vaisseaux/Classification ISSVA et Malformations vasculaires/p37_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/Classification%20ISSVA%20et%20Malformations%20vasculaires/p37_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/Classification ISSVA et Malformations vasculaires/p38_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/Classification%20ISSVA%20et%20Malformations%20vasculaires/p38_00.jpeg)
 
 ### Coloration de Weigert / orcéine
 - Différencie artères (LEI/LEE intactes) vs veines
 - Met en évidence la **continuité paroi artère/veine** au niveau d'un **shunt artério-veineux** (pathognomonique mais rare sur petits prélèvements)
 
-![[assets/cardio-vasculaire/vaisseaux/Classification ISSVA et Malformations vasculaires/p40_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/Classification%20ISSVA%20et%20Malformations%20vasculaires/p40_00.jpeg)
 
 ## V — Syndromes complexes
 

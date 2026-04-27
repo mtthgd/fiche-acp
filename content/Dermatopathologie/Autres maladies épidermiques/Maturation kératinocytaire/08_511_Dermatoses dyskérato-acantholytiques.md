@@ -42,7 +42,7 @@ Ces dermatoses peuvent être :
   - **Corps ronds** : kératinocytes apoptotiques arrondis, **noyau pycnotique**, **halo périnucléaire**, **couche granuleuse**
   - **Grains** : kératinocytes allongés, noyau rétréci, **couche cornée**
 
-![[assets/dermato/autres-maladies-epidermiques/trouble-maturation-keratinocytaire/08-511 Dermatoses dyskérato-acantholytiques/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/autres-maladies-epidermiques/trouble-maturation-keratinocytaire/08-511%20Dermatoses%20dysk%C3%A9rato-acantholytiques/p03_00.jpeg)
 
 ## 1. Maladie de Darier
 
@@ -61,7 +61,7 @@ Ces dermatoses peuvent être :
 - Code pour **SERCA2** (Sarco/Endoplasmic Reticulum Calcium-ATPase 2) : canal calcique du **réticulum endoplasmique**
 - Perte du transport calcique RE → cytoplasme → **stress cellulaire** + **altération du trafic des desmoplakines** → perte d'adhésion cellulaire et anomalie de différenciation kératinocytaire
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211 Approche Diagnostique Dans Les Dermatoses Spongiotiques/p07_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211%20Approche%20Diagnostique%20Dans%20Les%20Dermatoses%20Spongiotiques/p07_02.jpeg)
 
 ### Histologie
 
@@ -70,9 +70,9 @@ Ces dermatoses peuvent être :
 - **Hyperkératose ortho- et parakératosique**
 - **Cellules dyskératosiques** : **corps ronds** (granuleuse) + **grains** (cornée, en cours d'élimination)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-222-Lichen plan/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-222-Lichen%20plan/p08_01.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221 - Dermatoses lichénoïdes - approche diagnostique/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-221%20-%20Dermatoses%20lich%C3%A9no%C3%AFdes%20-%20approche%20diagnostique/p09_02.jpeg)
 
 ## 2. Maladie de Grover (dermatose acantholytique transitoire)
 
@@ -98,9 +98,9 @@ Infiltrat dermique **lymphocytaire** + parfois **PNE**.
 
 > Diagnostic souvent posé sur la **clinique** (homme âgé, prurit, tronc) + IFD **négative**.
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-222-Lichen plan/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-222-Lichen%20plan/p11_01.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus érythémateux/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-224-Lupus%20%C3%A9ryth%C3%A9mateux/p12_02.jpeg)
 
 ## 3. Maladie de Hailey-Hailey (pemphigus chronique bénin familial)
 
@@ -124,7 +124,7 @@ Infiltrat dermique **lymphocytaire** + parfois **PNE**.
 
 > ⚠ Pas d'**atteinte pilaire** dans Hailey-Hailey (≠ pemphigus vulgaire — mnémotechnique « PP »).
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-222-Lichen plan/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-222-Lichen%20plan/p13_01.jpeg)
 
 ## 4. Dyskératome verruqueux
 
@@ -142,7 +142,7 @@ Infiltrat dermique **lymphocytaire** + parfois **PNE**.
 - **Base festonnée** avec **papillomatose**
 - **Clivage suprabasal** + **cellules dyskératosiques + acantholytiques**
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-222-Lichen plan/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-interfaces/08-222-Lichen%20plan/p14_02.jpeg)
 
 ## 5. Dyskératose acantholytique des aires génito-crurales
 

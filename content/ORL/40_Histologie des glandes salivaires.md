@@ -32,9 +32,9 @@ L'unité fonctionnelle comprend :
 - **Canaux striés** : modifient la composition ionique
 - **Canaux excréteurs** : évacuent la salive, bordés de **cellules basales**
 
-![[assets/ORL/glandes_salivaires/introduction/10_311 Histologie des glandes salivaires audio/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/introduction/10_311%20Histologie%20des%20glandes%20salivaires%20audio/p03_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/introduction/10_311 Histologie des glandes salivaires audio/p03_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/introduction/10_311%20Histologie%20des%20glandes%20salivaires%20audio/p03_02.jpeg)
 
 Les **cellules basales** des canaux excréteurs ont un phénotype immunohistochimique très proche de celui des cellules **myoépithéliales** (conséquence en pathologie tumorale).
 
@@ -60,7 +60,7 @@ Les **cellules basales** des canaux excréteurs ont un phénotype immunohistochi
 
 ## Types cellulaires à reconnaître
 
-![[assets/ORL/glandes_salivaires/introduction/10_311 Histologie des glandes salivaires audio/p05_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/introduction/10_311%20Histologie%20des%20glandes%20salivaires%20audio/p05_02.jpeg)
 
 ### Cellules acineuses séreuses
 
@@ -68,9 +68,9 @@ Les **cellules basales** des canaux excréteurs ont un phénotype immunohistochi
 - **DOG1 +++** (pôle apical, aspect stellaire au centre de l'acinus)
 - Retrouvées surtout dans la parotide
 
-![[assets/ORL/glandes_salivaires/introduction/10_311 Histologie des glandes salivaires audio/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/introduction/10_311%20Histologie%20des%20glandes%20salivaires%20audio/p07_01.jpeg)
 
-![[assets/ORL/glandes_salivaires/introduction/10_311 Histologie des glandes salivaires audio/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/introduction/10_311%20Histologie%20des%20glandes%20salivaires%20audio/p08_00.jpeg)
 
 ### Cellules mucosécrétantes (mucocytes)
 
@@ -86,7 +86,7 @@ Les **cellules basales** des canaux excréteurs ont un phénotype immunohistochi
 - En pathologie tumorale : aspects **plasmocytoïdes** fréquents dans l'adénome pléomorphe de la cavité buccale
 - Synthétisent du **matériel de membrane basale** → cylindres hyalins
 
-![[assets/ORL/glandes_salivaires/introduction/10_311 Histologie des glandes salivaires audio/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/introduction/10_311%20Histologie%20des%20glandes%20salivaires%20audio/p11_00.jpeg)
 
 ### Cellules basales
 
@@ -112,7 +112,7 @@ Les **cellules basales** des canaux excréteurs ont un phénotype immunohistochi
 
 ## Panel immunohistochimique
 
-![[assets/ORL/glandes_salivaires/introduction/10_311 Histologie des glandes salivaires audio/p09_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/introduction/10_311%20Histologie%20des%20glandes%20salivaires%20audio/p09_00.png)
 
 ### Marqueurs myoépithéliaux
 
@@ -126,7 +126,7 @@ Les **cellules basales** des canaux excréteurs ont un phénotype immunohistochi
 | **Calponine** | + | Complément |
 | **Vimentine** | + | Non spécifique, utile en ultime recours |
 
-![[assets/ORL/glandes_salivaires/introduction/10_311 Histologie des glandes salivaires audio/p13_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/introduction/10_311%20Histologie%20des%20glandes%20salivaires%20audio/p13_00.png)
 
 ### Marqueurs épithéliaux (luminaux)
 
@@ -138,9 +138,9 @@ Les **cellules basales** des canaux excréteurs ont un phénotype immunohistochi
 | **CK19** | Cellules luminales |
 | **c-kit (CD117)** | **Non spécifique du carcinome adénoïde kystique !** Marque le contingent épithélial de nombreuses TGS |
 
-![[assets/ORL/glandes_salivaires/introduction/10_311 Histologie des glandes salivaires audio/p14_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/introduction/10_311%20Histologie%20des%20glandes%20salivaires%20audio/p14_00.png)
 
-![[assets/ORL/glandes_salivaires/introduction/10_311 Histologie des glandes salivaires audio/p15_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/introduction/10_311%20Histologie%20des%20glandes%20salivaires%20audio/p15_00.png)
 
 ### Marqueurs spécifiques de cellules acineuses / sécrétoires
 
@@ -158,9 +158,9 @@ Les **cellules basales** des canaux excréteurs ont un phénotype immunohistochi
 - **CD117 ≠ carcinome adénoïde kystique** (piège fréquent)
 - Le **matériel de membrane basale** (cylindres hyalins) indique simplement la présence d'un **contingent myoépithélial**, et NON un carcinome adénoïde kystique
 
-![[assets/ORL/glandes_salivaires/introduction/10_311 Histologie des glandes salivaires audio/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/introduction/10_311%20Histologie%20des%20glandes%20salivaires%20audio/p16_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/introduction/10_311 Histologie des glandes salivaires audio/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/introduction/10_311%20Histologie%20des%20glandes%20salivaires%20audio/p16_01.jpeg)
 
 ## Diagnostics différentiels
 

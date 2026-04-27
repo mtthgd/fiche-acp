@@ -106,7 +106,7 @@ Aspects **variables** selon le stade et la sévérité.
 
 
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/219-14 Néphropathie IgA/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/219-14%20N%C3%A9phropathie%20IgA/p17_01.jpeg)
 
 ## Microscopie électronique (ME)
 
@@ -127,7 +127,7 @@ Issue d'un consensus international (publication initiale 2009, **mise à jour 20
 | **C** — Prolifération extracapillaire (**croissants**) | Croissants cellulaires ou fibro-cellulaires (ajouté en 2017) | C0 / C1 / C2 |
 
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/219-14 Néphropathie IgA/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/219-14%20N%C3%A9phropathie%20IgA/p18_01.jpeg)
 
 ## Vascularite à IgA — particularités histologiques
 

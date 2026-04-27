@@ -76,11 +76,11 @@ La **fibrine** forme un "piège à cellules et cristaux" → toujours l'examiner
 - Colorations : **MGG** +++, papanicolaou (complémentaire)
 - **Formule leucocytaire** réalisée si > **1000 éléments/mm³** : distinction PNN vs mononucléés (sans sous-catégorie)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p07_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p08_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p08_01.jpeg)
 
 ### Si liquide hémorragique
 Compter les hématies : rapport leucocytes/hématies normal ≈ **1/1000** ; rapport augmenté = réaction inflammatoire.
@@ -106,18 +106,18 @@ Seuil d'inflammation fixé arbitrairement à ~**1000-2000/mm³** (variable dans 
 - MGG : parfois **germes intracellulaires** visibles
 
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p09_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p09_02.jpeg)
 
 ### Chondrocytes / micro-fragments cartilagineux
 - Témoins de **destruction des surfaces articulaires**
 - Destruction maximale dans les **arthrites septiques**
 - Amas de cellules dans matrice hyaline, parfois incrustés de cristaux de PPCa
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p12_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p12_01.jpeg)
 
 ---
 
@@ -141,13 +141,13 @@ Seuil d'inflammation fixé arbitrairement à ~**1000-2000/mm³** (variable dans 
 
 Combinaisons de ces lésions → orientation diagnostique.
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p13_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p13_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p13_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p13_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p13_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p13_03.jpeg)
 
 ## Arthrites infectieuses
 
@@ -162,15 +162,15 @@ Combinaisons de ces lésions → orientation diagnostique.
 - **Ulcération du revêtement** synoviocytaire : dépôts fibrineux directement sur le tissu de granulation (flèches)
 - Germes parfois identifiables (cocci Gram+)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p18_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p18_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p18_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p18_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p19_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p19_01.jpeg)
 
 
 ### Arthrites chroniques torpides
@@ -186,13 +186,13 @@ Combinaisons de ces lésions → orientation diagnostique.
 
 > ⚠️ **Toute synovite granulomateuse = tuberculose jusqu'à preuve du contraire.**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p22_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p22_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p23_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p23_01.jpeg)
 
 ## Arthropathies métaboliques
 
@@ -210,15 +210,15 @@ Diagnostic +++ sur **liquide articulaire** (examen simple et rentable).
 
 Possibles associations : chondrocalcinose + infection par exemple (cocci Gram+ intramacrophagiques + cristaux).
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p31_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p31_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p31_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p31_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p31_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p32_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p32_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p32_01.jpeg)
 
 
 ## Rhumatismes inflammatoires
@@ -239,18 +239,18 @@ Possibles associations : chondrocalcinose + infection par exemple (cocci Gram+ i
 - Cellules géantes plurinucléées possibles (non spécifiques)
 - Rare : **rupture tendineuse des extenseurs des doigts** = spécifique de la PR
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p35_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p35_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p35_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p35_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p35_02.jpeg)
 
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p37_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p37_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p37_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p37_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p37_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p37_02.jpeg)
 
 > **Règle utile** : en pathologie articulaire, **"bourgeon charnu" = infection** jusqu'à preuve du contraire (sauf **hygroma**).
 
@@ -265,9 +265,9 @@ Possibles associations : chondrocalcinose + infection par exemple (cocci Gram+ i
   - **Débris ostéocartilagineux** fréquents (surface ou axe des franges)
 
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p38_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p38_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p40_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p40_00.jpeg)
 
 ## Diagnostics différentiels — synthèse
 
@@ -279,28 +279,28 @@ Possibles associations : chondrocalcinose + infection par exemple (cocci Gram+ i
 | Bourgeon charnu | Rare | Rare | **Très fréquent** |
 | PNN | Poussées uniquement | Poussées uniquement | **+++ / suppuration** |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p42_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p42_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p42_01.jpeg]]
-
-
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p43_00.jpeg]]
-
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p43_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p42_01.jpeg)
 
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p43_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p43_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p43_04.jpeg]]
-
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p46_00.jpeg]]
-
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p46_01.jpeg]]
-
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p46_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p43_01.jpeg)
 
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164 Analyse dune biopsie synoviale, analyse dun liquide synovial/p46_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p43_03.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p43_04.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p46_00.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p46_01.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p46_02.jpeg)
+
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_non_tumorale/09-164%20Analyse%20dune%20biopsie%20synoviale%2C%20analyse%20dun%20liquide%20synovial/p46_04.jpeg)
 
 ---
 

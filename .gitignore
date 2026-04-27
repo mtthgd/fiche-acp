@@ -9,3 +9,4 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+rewrite_image_links.py

@@ -42,7 +42,7 @@ Lecture par **fluorescence ultra-sensible** :
 
 À la fin de la migration, juste avant que les fragments ne tombent dans la cuve inférieure, on lit la **fluorescence** ; les fluorochromes différents (un par base) défilent un par un.
 
-![[assets/pathologie-moleculaire/rappels-adn/16-160 Electrophorèse - Partie 2 pdf/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-160%20Electrophor%C3%A8se%20-%20Partie%202%20pdf/p02_00.jpeg)
 
 
 ## Fonctionnement du séquenceur capillaire
@@ -65,9 +65,9 @@ Lecture par **fluorescence ultra-sensible** :
 
 
 
-![[assets/pathologie-moleculaire/rappels-adn/16-160 Electrophorèse - Partie 2 pdf/p04_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-160%20Electrophor%C3%A8se%20-%20Partie%202%20pdf/p04_02.png)
 
-![[assets/pathologie-moleculaire/rappels-adn/16-160 Electrophorèse - Partie 2 pdf/p04_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-160%20Electrophor%C3%A8se%20-%20Partie%202%20pdf/p04_03.png)
 
 ## Lecture d’une réaction Sanger — exemple
 
@@ -112,10 +112,10 @@ Une migration produisant une lecture s’appelle un **run**.
 | **Dispositif de lecture** | Caméra CCD + laser |
 | **Système de pipetage / entrée échantillon** | Partie inférieure de l’appareil |
 
-![[assets/pathologie-moleculaire/rappels-adn/16-160 Electrophorèse - Partie 2 pdf/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-160%20Electrophor%C3%A8se%20-%20Partie%202%20pdf/p09_00.jpeg)
 
 
-![[assets/pathologie-moleculaire/rappels-adn/16-160 Electrophorèse - Partie 2 pdf/p09_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-160%20Electrophor%C3%A8se%20-%20Partie%202%20pdf/p09_02.png)
 
 ## Cycle d’un run — résumé
 
@@ -126,7 +126,7 @@ Une migration produisant une lecture s’appelle un **run**.
 5. **Lecture** en continu de la fluorescence
 6. Évacuation du polymère, prêt pour le run suivant
 
-![[assets/pathologie-moleculaire/rappels-adn/16-160 Electrophorèse - Partie 2 pdf/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-160%20Electrophor%C3%A8se%20-%20Partie%202%20pdf/p10_00.jpeg)
 
 ## Applications de l’électrophorèse capillaire en pathologie
 
@@ -137,10 +137,10 @@ Une migration produisant une lecture s’appelle un **run**.
 | **Recherche de perte d’hétérozygotie (LOH)** | Voir Partie 3 |
 | **Analyse de clonalité** (B/T) | Réarrangement Ig / TCR |
 
-![[assets/pathologie-moleculaire/rappels-adn/16-160 Electrophorèse - Partie 2 pdf/p11_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-160%20Electrophor%C3%A8se%20-%20Partie%202%20pdf/p11_00.png)
 
 
-![[assets/pathologie-moleculaire/rappels-adn/16-160 Electrophorèse - Partie 2 pdf/p11_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/rappels-adn/16-160%20Electrophor%C3%A8se%20-%20Partie%202%20pdf/p11_02.png)
 
 
 ---

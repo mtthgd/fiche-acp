@@ -39,7 +39,7 @@ source: DES ACP - Cours d'ORL
 
 ## Macroscopie
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome pleomorphe pdf/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome%20pleomorphe%20pdf/p03_00.jpeg)
 
 - Tumeur **bien délimitée** du parenchyme adjacent
 - **Aspects mixtes** :
@@ -50,7 +50,7 @@ source: DES ACP - Cours d'ORL
 - Dans les **glandes salivaires principales** : **encapsulé**
 - Dans les **glandes salivaires accessoires** : souvent **non encapsulé**
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome pleomorphe pdf/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome%20pleomorphe%20pdf/p03_01.jpeg)
 
 ## Histologie
 
@@ -62,13 +62,13 @@ source: DES ACP - Cours d'ORL
   - **Tissu conjonctif chondromyxoïde** (fibro-hyalin parfois)
 - Les **éléments épithéliaux et myoépithéliaux « flottent »** directement dans la matrice sans interposition de stroma fibreux
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome pleomorphe pdf/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome%20pleomorphe%20pdf/p04_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome pleomorphe pdf/p04_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome%20pleomorphe%20pdf/p04_02.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome pleomorphe pdf/p04_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome%20pleomorphe%20pdf/p04_04.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome pleomorphe pdf/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome%20pleomorphe%20pdf/p05_00.jpeg)
 
 ### Stroma
 
@@ -82,9 +82,9 @@ Le stroma est **la particularité majeure** de l'adénome pléomorphe :
 | Calcifié / ossifié | Rare | Métaplasie osseuse |
 | Adipeux | Rare | Métaplasie adipeuse (**piège** : ne pas confondre avec infiltration) |
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome pleomorphe pdf/p05_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome%20pleomorphe%20pdf/p05_02.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome pleomorphe pdf/p05_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome%20pleomorphe%20pdf/p05_04.jpeg)
 
 ### Composante myoépithéliale / basale
 
@@ -93,9 +93,9 @@ Le stroma est **la particularité majeure** de l'adénome pléomorphe :
 - Aspects **plasmocytoïdes** (piège : confusion avec plasmocytome, surtout en glande accessoire)
 - Cellules **claires** possibles
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome pleomorphe pdf/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome%20pleomorphe%20pdf/p07_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome pleomorphe pdf/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome%20pleomorphe%20pdf/p08_00.jpeg)
 
 ### Composante épithéliale
 
@@ -106,11 +106,11 @@ Le stroma est **la particularité majeure** de l'adénome pléomorphe :
   - **Cellules claires**
   - **Sébacée**
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome pleomorphe pdf/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome%20pleomorphe%20pdf/p09_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome pleomorphe pdf/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome%20pleomorphe%20pdf/p10_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome pleomorphe pdf/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome%20pleomorphe%20pdf/p11_00.jpeg)
 
 ## Immunohistochimie
 
@@ -129,9 +129,9 @@ Utile en cas de doute diagnostique, surtout sur biopsie des glandes accessoires.
 | **Calponine** | + | Complément |
 | **Vimentine** | + | Ultime recours (pattern périphérique) |
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome pleomorphe pdf/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome%20pleomorphe%20pdf/p12_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome pleomorphe pdf/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome%20pleomorphe%20pdf/p13_00.jpeg)
 
 ### Marqueurs épithéliaux
 
@@ -142,7 +142,7 @@ Utile en cas de doute diagnostique, surtout sur biopsie des glandes accessoires.
 | **c-kit (CD117)** | Peut être positif — **NON spécifique** du carcinome adénoïde kystique |
 | **CK7** | Plus intense dans le contingent épithélial (pattern bi-intensité avec myoépithéliales) |
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome pleomorphe pdf/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome%20pleomorphe%20pdf/p14_00.jpeg)
 
 ## Biologie moléculaire
 
@@ -164,7 +164,7 @@ Utile en cas de doute diagnostique, surtout sur biopsie des glandes accessoires.
 
 ### 1. Aspect cylindromateux (pseudo-cylindrome)
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome pleomorphe pdf/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome%20pleomorphe%20pdf/p16_00.jpeg)
 
 - Matériel de membrane basale accumulé par le contingent myoépithélial → **cylindres hyalins**
 - **Peut imiter un carcinome adénoïde kystique !!**
@@ -172,7 +172,7 @@ Utile en cas de doute diagnostique, surtout sur biopsie des glandes accessoires.
 
 ### 2. Métaplasie épidermoïde
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome pleomorphe pdf/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome%20pleomorphe%20pdf/p17_00.jpeg)
 
 - Îlots de métaplasie malpighienne, voire kératinisation
 - Piège : confusion avec **carcinome épidermoïde** (surtout en biopsie)
@@ -221,9 +221,9 @@ Le carcinome peut être de **n'importe quel type** :
 - Carcinome mucoépidermoïde
 - Carcinome myoépithélial
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome pleomorphe pdf/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome%20pleomorphe%20pdf/p18_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome pleomorphe pdf/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome%20pleomorphe%20pdf/p19_00.jpeg)
 
 ## Critères de transformation maligne
 
@@ -260,9 +260,9 @@ Dépend **du niveau d'invasion en dehors de la capsule** de l'adénome :
 
 **Point important** : un carcinome **intra-adénomateux** a pratiquement le même pronostic qu'un AP standard.
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome pleomorphe pdf/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome%20pleomorphe%20pdf/p21_00.jpeg)
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome pleomorphe pdf/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome%20pleomorphe%20pdf/p22_00.jpeg)
 
 ## Pronostic et traitement de l'AP
 
@@ -272,7 +272,7 @@ Dépend **du niveau d'invasion en dehors de la capsule** de l'adénome :
 
 ## Transgressions autorisées pour l'AP (VIT bénigne)
 
-![[assets/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome pleomorphe pdf/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/glandes_salivaires/tumeurs_begnine/10_331_Adenome%20pleomorphe%20pdf/p23_00.jpeg)
 
 - **Mauvaise limitation** si contours restent arrondis
 - Protrusions à travers la capsule **arrondies**

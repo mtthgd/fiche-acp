@@ -57,7 +57,7 @@ Ce cours aborde :
 - **Dysplasie de bas grade** ++ ; rarement haut grade
 - Peuvent évoluer vers un **adénocarcinome primitif appendiculaire**
 
-![[assets/digestif/tube_digestif/appendice/03.1.5.4 Tumeurs de lappendice/p06_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/appendice/03.1.5.4%20Tumeurs%20de%20lappendice/p06_02.jpeg)
 
 ### Diagnostics différentiels
 
@@ -82,7 +82,7 @@ Ce cours aborde :
 | **Sessile festonné (SSL)** — **plus fréquent** | Glandes **festonnées sur toute la hauteur** + **dilatations glandulaires basales en L ou T inversé** ; glandes pouvant s'invaginer dans la sous-muqueuse |
 | **Adénome festonné traditionnel (TSA)** (exceptionnel) | Architecture **villeuse**, cellules cylindriques **éosinophiles**, noyaux élargis, dysplasie de bas/haut grade, **cryptes ectopiques** |
 
-![[assets/digestif/tube_digestif/appendice/03.1.5.4 Tumeurs de lappendice/p08_15.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/appendice/03.1.5.4%20Tumeurs%20de%20lappendice/p08_15.jpeg)
 
 
 ### Génétique (controversée)
@@ -144,11 +144,11 @@ Bilan **coloscopique recommandé** car association possible avec adénocarcinome
 - **Perforations** possibles → "explosion" de mucus à travers la paroi
 - Aspect parfois faussement normal
 
-![[assets/digestif/tube_digestif/appendice/03.1.5.4 Tumeurs de lappendice/p13_08.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/appendice/03.1.5.4%20Tumeurs%20de%20lappendice/p13_08.jpeg)
 
-![[assets/digestif/tube_digestif/appendice/03.1.5.4 Tumeurs de lappendice/p14_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/appendice/03.1.5.4%20Tumeurs%20de%20lappendice/p14_05.jpeg)
 
-![[assets/digestif/tube_digestif/appendice/03.1.5.4 Tumeurs de lappendice/p15_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/appendice/03.1.5.4%20Tumeurs%20de%20lappendice/p15_05.jpeg)
 
 ### Histologie LAMN
 
@@ -161,11 +161,11 @@ Bilan **coloscopique recommandé** car association possible avec adénocarcinome
 - **Paroi fibrosée, hyalinée, calcifiée**
 - Extension à la paroi par **PUSHING INVASION** (refoulement) — pas de destruction
 
-![[assets/digestif/tube_digestif/appendice/03.1.5.4 Tumeurs de lappendice/p16_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/appendice/03.1.5.4%20Tumeurs%20de%20lappendice/p16_05.jpeg)
 
-![[assets/digestif/tube_digestif/appendice/03.1.5.4 Tumeurs de lappendice/p17_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/appendice/03.1.5.4%20Tumeurs%20de%20lappendice/p17_05.jpeg)
 
-![[assets/digestif/tube_digestif/appendice/03.1.5.4 Tumeurs de lappendice/p18_08.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/appendice/03.1.5.4%20Tumeurs%20de%20lappendice/p18_08.jpeg)
 
 ### Histologie HAMN (variant haut grade)
 
@@ -280,9 +280,9 @@ Dépend du stade TNM. Mucineux > non-mucineux. Cellules non cohésives / bague �
 - Rares cellules de Paneth
 - Composante neuroendocrine **focale** (chromogranine+, synaptophysine+ — peu nombreuses)
 
-![[assets/digestif/tube_digestif/appendice/03.1.5.4 Tumeurs de lappendice/p36_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/appendice/03.1.5.4%20Tumeurs%20de%20lappendice/p36_03.jpeg)
 
-![[assets/digestif/tube_digestif/appendice/03.1.5.4 Tumeurs de lappendice/p37_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/appendice/03.1.5.4%20Tumeurs%20de%20lappendice/p37_04.jpeg)
 
 ### Composante adénocarcinomateuse de haut grade
 

@@ -76,12 +76,12 @@ L’analyse histologique des trompes (notamment du **pavillon**) et des ovaires 
 - **Trompe quasi en totalité** (STIC à fréquence moindre)
 - **Ovaire** peut être inclus en totalité
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04 macroscopie ovaire et trompe1 IT/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04%20macroscopie%20ovaire%20et%20trompe1%20IT/p03_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04 macroscopie ovaire et trompe1 IT/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04%20macroscopie%20ovaire%20et%20trompe1%20IT/p04_00.jpeg)
 
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04 macroscopie ovaire et trompe1 IT/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04%20macroscopie%20ovaire%20et%20trompe1%20IT/p06_00.jpeg)
 
 ### Si pavillon difficilement repérable
 
@@ -90,13 +90,13 @@ L’analyse histologique des trompes (notamment du **pavillon**) et des ovaires 
 - Tranchage perpendiculaire/transversal du pavillon
 - Tranchage en rondelles 2-3 mm de la portion rectiligne
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04 macroscopie ovaire et trompe1 IT/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04%20macroscopie%20ovaire%20et%20trompe1%20IT/p07_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04 macroscopie ovaire et trompe1 IT/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04%20macroscopie%20ovaire%20et%20trompe1%20IT/p08_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04 macroscopie ovaire et trompe1 IT/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04%20macroscopie%20ovaire%20et%20trompe1%20IT/p09_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04 macroscopie ovaire et trompe1 IT/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04%20macroscopie%20ovaire%20et%20trompe1%20IT/p10_00.jpeg)
 
 ---
 
@@ -167,9 +167,9 @@ L’analyse histologique des trompes (notamment du **pavillon**) et des ovaires 
 - Mesurer 3 dimensions
 - Préciser nodules de carcinose et leur taille
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04 macroscopie ovaire et trompe1 IT/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04%20macroscopie%20ovaire%20et%20trompe1%20IT/p13_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04 macroscopie ovaire et trompe1 IT/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04%20macroscopie%20ovaire%20et%20trompe1%20IT/p14_00.jpeg)
 
 ---
 
@@ -237,15 +237,15 @@ L’analyse histologique des trompes (notamment du **pavillon**) et des ovaires 
 - **1 à 2 blocs par cm de tumeur**
 - Pour les **tumeurs mucineuses** : **2 blocs/cm** (privilégier zones solides = zones d’infiltration)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04 macroscopie ovaire et trompe1 IT/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04%20macroscopie%20ovaire%20et%20trompe1%20IT/p15_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04 macroscopie ovaire et trompe1 IT/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04%20macroscopie%20ovaire%20et%20trompe1%20IT/p16_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04 macroscopie ovaire et trompe1 IT/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04%20macroscopie%20ovaire%20et%20trompe1%20IT/p17_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04 macroscopie ovaire et trompe1 IT/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04%20macroscopie%20ovaire%20et%20trompe1%20IT/p18_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04 macroscopie ovaire et trompe1 IT/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04%20macroscopie%20ovaire%20et%20trompe1%20IT/p19_00.jpeg)
 
 ## Aspects macroscopiques selon le type tumoral
 
@@ -262,9 +262,9 @@ L’analyse histologique des trompes (notamment du **pavillon**) et des ovaires 
 | Plages blanchâtres = tissu nerveux | **Tératome immature** |
 | Volumineuses végétations exophytiques (peut faire évoquer un ADK) | **Tumeur séreuse borderline** |
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04 macroscopie ovaire et trompe1 IT/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04%20macroscopie%20ovaire%20et%20trompe1%20IT/p20_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04 macroscopie ovaire et trompe1 IT/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04%20macroscopie%20ovaire%20et%20trompe1%20IT/p21_00.jpeg)
 
 
 ---
@@ -320,13 +320,13 @@ L’analyse histologique des trompes (notamment du **pavillon**) et des ovaires 
 - **Ganglions recto-coliques** (parfois envahis)
 - **Tous les nodules** de carcinose sur recto-sigmoïde
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04 macroscopie ovaire et trompe1 IT/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04%20macroscopie%20ovaire%20et%20trompe1%20IT/p25_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04 macroscopie ovaire et trompe1 IT/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04%20macroscopie%20ovaire%20et%20trompe1%20IT/p26_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04 macroscopie ovaire et trompe1 IT/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04%20macroscopie%20ovaire%20et%20trompe1%20IT/p27_00.jpeg)
 
-![[assets/gyneco-sein/cours_transversaux/04_11_04 macroscopie ovaire et trompe1 IT/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/cours_transversaux/04_11_04%20macroscopie%20ovaire%20et%20trompe1%20IT/p28_00.jpeg)
 
 ---
 

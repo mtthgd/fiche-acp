@@ -47,11 +47,11 @@ Connaître les caractéristiques épidémiologiques, cliniques, endoscopiques, m
 - Discret infiltrat inflammatoire **mononucléé** ± **sidérophages**
 - Possible **dyskératose pagétoïde réactionnelle** dans l'épithélium malpighien superficiel : **cellules claires** sans signification néoplasique → **ne pas confondre** avec maladie de Paget
 
-![[assets/digestif/tube_digestif/anus/03.1.7.2 Pathologie non tumorale anale/p03_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/03.1.7.2%20Pathologie%20non%20tumorale%20anale/p03_02.jpeg)
 
-![[assets/digestif/tube_digestif/anus/03.1.7.2 Pathologie non tumorale anale/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/03.1.7.2%20Pathologie%20non%20tumorale%20anale/p04_01.jpeg)
 
-![[assets/digestif/tube_digestif/anus/03.1.7.2 Pathologie non tumorale anale/p06_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/03.1.7.2%20Pathologie%20non%20tumorale%20anale/p06_02.jpeg)
 
 ### Recommandations d'analyse (SFCP)
 
@@ -69,7 +69,7 @@ Données de littérature :
 - Pathologie associée : **fissure**, **fistule**, **condylome**
 - Sujets à risque de néoplasie intra-épithéliale
 
-![[assets/digestif/tube_digestif/anus/03.1.7.2 Pathologie non tumorale anale/p04_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/03.1.7.2%20Pathologie%20non%20tumorale%20anale/p04_02.jpeg)
 
 ## Lésions kystiques de la paroi anale
 
@@ -96,9 +96,9 @@ Tissus ectopiques décrits en regard de la muqueuse anorectale :
 - **Abcès riches en polynucléaires**
 - **Trajets fistuleux** bordés de **bourgeons charnus**
 
-![[assets/digestif/tube_digestif/anus/03.1.7.2 Pathologie non tumorale anale/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/03.1.7.2%20Pathologie%20non%20tumorale%20anale/p09_01.jpeg)
 
-![[assets/digestif/tube_digestif/anus/03.1.7.2 Pathologie non tumorale anale/p09_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/03.1.7.2%20Pathologie%20non%20tumorale%20anale/p09_03.jpeg)
 
 ### Objectifs de l'examen ACP
 
@@ -120,9 +120,9 @@ Tissus ectopiques décrits en regard de la muqueuse anorectale :
 - Augmentation de volume + douleur → exérèse chirurgicale
 - Objectif ACP : confirmer le diagnostic, exclure une rare transformation carcinomateuse
 
-![[assets/digestif/tube_digestif/anus/03.1.7.2 Pathologie non tumorale anale/p10_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/03.1.7.2%20Pathologie%20non%20tumorale%20anale/p10_05.jpeg)
 
-![[assets/digestif/tube_digestif/anus/03.1.7.2 Pathologie non tumorale anale/p11_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/03.1.7.2%20Pathologie%20non%20tumorale%20anale/p11_04.jpeg)
 
 ## Pathologies infectieuses anales
 
@@ -136,7 +136,7 @@ Tissus ectopiques décrits en regard de la muqueuse anorectale :
 | **Herpès anal** | Ulcérations + cellules **plurinucléaires** ± **noyaux en verre dépoli**. Confirmation : **anticorps anti-HSV** |
 | **Molluscum contagiosum** péri-anal | Lobules de **cellules dyskératosiques caractéristiques très éosinophiles** |
 
-![[assets/digestif/tube_digestif/anus/03.1.7.2 Pathologie non tumorale anale/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/03.1.7.2%20Pathologie%20non%20tumorale%20anale/p12_01.jpeg)
 
 ### Autres pathologies inflammatoires (cf. dermatopathologie)
 
@@ -160,7 +160,7 @@ Tissus ectopiques décrits en regard de la muqueuse anorectale :
 - Souvent **CD34 +**
 - Parfois **récepteurs hormonaux +** (notamment chez la femme)
 
-![[assets/digestif/tube_digestif/anus/03.1.7.2 Pathologie non tumorale anale/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/03.1.7.2%20Pathologie%20non%20tumorale%20anale/p14_02.jpeg)
 
 ## Syndrome du prolapsus muqueux rectal
 
@@ -191,7 +191,7 @@ Regroupe plusieurs entités partageant la même **pathogénie** (prolapsus muque
 - **Ascension de fibres musculaires lisses** entre les cryptes (signe clé)
 - Remaniements inflammatoires du chorion
 
-![[assets/digestif/tube_digestif/anus/03.1.7.2 Pathologie non tumorale anale/p15_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/03.1.7.2%20Pathologie%20non%20tumorale%20anale/p15_03.jpeg)
 
 ### Polype inflammatoire cloacogénique
 
@@ -217,7 +217,7 @@ Regroupe plusieurs entités partageant la même **pathogénie** (prolapsus muque
 - Aspect peut **mimer une pseudo-invasion sous-muqueuse**
 - **DD principal : adénocarcinome lucide / mucineux** → attention au piège
 
-![[assets/digestif/tube_digestif/anus/03.1.7.2 Pathologie non tumorale anale/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/anus/03.1.7.2%20Pathologie%20non%20tumorale%20anale/p16_01.jpeg)
 
 ### *Cap polyposis*
 

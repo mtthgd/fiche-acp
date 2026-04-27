@@ -28,9 +28,9 @@ source: DES ACP - Cours d'urologie
 - **Embryologie** : cloaque endodermique → sinus urogénital (vessie), allantoïde → ouraque, canaux de Wolff → trigone
 
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie normale vessie uretère et urèrtre/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie%20normale%20vessie%20uret%C3%A8re%20et%20ur%C3%A8rtre/p03_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie normale vessie uretère et urèrtre/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie%20normale%20vessie%20uret%C3%A8re%20et%20ur%C3%A8rtre/p04_00.jpeg)
 
 ---
 
@@ -44,9 +44,9 @@ Trois plans superposés :
 | **Musculeuse (détrusor, muscularis propria)** | Fibres musculaires lisses en 2 couches (longitudinale interne + circulaire externe) |
 | **Adventice** | Graisse périvésicale + séreuse péritonéale (dôme, faces postéro-latérales) |
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie normale vessie uretère et urèrtre/p05_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie%20normale%20vessie%20uret%C3%A8re%20et%20ur%C3%A8rtre/p05_00.png)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie normale vessie uretère et urèrtre/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie%20normale%20vessie%20uret%C3%A8re%20et%20ur%C3%A8rtre/p06_00.jpeg)
 
 ---
 
@@ -65,13 +65,13 @@ Trois plans superposés :
 | **Cellules intermédiaires** | Noyaux ovoïdes alignés perpendiculairement, attachés à la basale |
 | **Cellules superficielles = ombrella cells** | Cytoplasme éosinophile ± micro-vacuolisé, **multinucléées** possibles, disposition horizontale coiffant plusieurs intermédiaires, **pas de contact avec la membrane basale** |
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie normale vessie uretère et urèrtre/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie%20normale%20vessie%20uret%C3%A8re%20et%20ur%C3%A8rtre/p07_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie normale vessie uretère et urèrtre/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie%20normale%20vessie%20uret%C3%A8re%20et%20ur%C3%A8rtre/p08_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie normale vessie uretère et urèrtre/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie%20normale%20vessie%20uret%C3%A8re%20et%20ur%C3%A8rtre/p09_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie normale vessie uretère et urèrtre/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie%20normale%20vessie%20uret%C3%A8re%20et%20ur%C3%A8rtre/p10_00.jpeg)
 
 ### IHC de l'urothélium normal
 
@@ -82,9 +82,9 @@ Trois plans superposés :
 | **p63** | **Toutes** les cellules urothéliales |
 | **GATA3** | Toutes les cellules urothéliales |
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie normale vessie uretère et urèrtre/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie%20normale%20vessie%20uret%C3%A8re%20et%20ur%C3%A8rtre/p25_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie normale vessie uretère et urèrtre/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie%20normale%20vessie%20uret%C3%A8re%20et%20ur%C3%A8rtre/p26_00.jpeg)
 
 ---
 
@@ -104,9 +104,9 @@ Trois plans superposés :
 - Cellules urothéliales identiques à l'urothélium de surface
 - **Piège diagnostique** : ne pas prendre une hyperplasie de von Brunn pour un carcinome
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie normale vessie uretère et urèrtre/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie%20normale%20vessie%20uret%C3%A8re%20et%20ur%C3%A8rtre/p11_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie normale vessie uretère et urèrtre/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie%20normale%20vessie%20uret%C3%A8re%20et%20ur%C3%A8rtre/p12_00.jpeg)
 
 ---
 
@@ -125,13 +125,13 @@ Trois plans superposés :
 - Repère : suivre les **vaisseaux du chorion profond**
 - Mise en évidence par **actine musculaire lisse (α-SMA)**
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie normale vessie uretère et urèrtre/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie%20normale%20vessie%20uret%C3%A8re%20et%20ur%C3%A8rtre/p13_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie normale vessie uretère et urèrtre/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie%20normale%20vessie%20uret%C3%A8re%20et%20ur%C3%A8rtre/p14_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie normale vessie uretère et urèrtre/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie%20normale%20vessie%20uret%C3%A8re%20et%20ur%C3%A8rtre/p15_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie normale vessie uretère et urèrtre/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie%20normale%20vessie%20uret%C3%A8re%20et%20ur%C3%A8rtre/p16_00.jpeg)
 
 ---
 
@@ -152,11 +152,11 @@ Trois plans superposés :
 | **Desmine** | − / faible | **+** |
 | **Smoothelin** | − | **+** (distinction possible, mais pièges) |
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie normale vessie uretère et urèrtre/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie%20normale%20vessie%20uret%C3%A8re%20et%20ur%C3%A8rtre/p17_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie normale vessie uretère et urèrtre/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie%20normale%20vessie%20uret%C3%A8re%20et%20ur%C3%A8rtre/p18_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie normale vessie uretère et urèrtre/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie%20normale%20vessie%20uret%C3%A8re%20et%20ur%C3%A8rtre/p19_00.jpeg)
 
 ---
 
@@ -166,9 +166,9 @@ Trois plans superposés :
 - Recouverte au dôme + faces latérales et postérieures par la **séreuse péritonéale**
 - ⚠️ **Piège** : des **adipocytes** peuvent être présents dans le **chorion** et **entre les faisceaux** du détrusor → **la présence de graisse ne signifie pas pT3** (surtout sur RTUV)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie normale vessie uretère et urèrtre/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie%20normale%20vessie%20uret%C3%A8re%20et%20ur%C3%A8rtre/p20_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie normale vessie uretère et urèrtre/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie%20normale%20vessie%20uret%C3%A8re%20et%20ur%C3%A8rtre/p21_00.jpeg)
 
 ---
 
@@ -178,7 +178,7 @@ Trois plans superposés :
 - Bordé par un **urothélium régulier** (3 à 6 couches), parfois en **métaplasie intestinale**
 - Paroi constituée de fibres musculaires lisses
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie normale vessie uretère et urèrtre/p22_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie%20normale%20vessie%20uret%C3%A8re%20et%20ur%C3%A8rtre/p22_00.png)
 
 ---
 
@@ -199,9 +199,9 @@ Trois plans superposés :
 - **Fosse naviculaire** : épithélium **malpighien** (ectodermique, DHT-dépendante)
 - **Urètre féminin** : tiers proximal urothélium / 2/3 distaux épithélium malpighien
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie normale vessie uretère et urèrtre/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie%20normale%20vessie%20uret%C3%A8re%20et%20ur%C3%A8rtre/p23_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie normale vessie uretère et urèrtre/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie%20normale%20vessie%20uret%C3%A8re%20et%20ur%C3%A8rtre/p24_00.jpeg)
 
 ---
 
@@ -213,7 +213,7 @@ Trois plans superposés :
 - Musculeuse en **2 couches** : circulaire interne + longitudinale externe
 - Tissu adipeux rétropéritonéal en périphérie
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie normale vessie uretère et urèrtre/p22_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-211-Histologie%20normale%20vessie%20uret%C3%A8re%20et%20ur%C3%A8rtre/p22_03.jpeg)
 
 ---
 

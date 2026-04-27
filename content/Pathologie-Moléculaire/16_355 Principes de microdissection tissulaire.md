@@ -78,9 +78,9 @@ Le choix du tissu dépend du **matériel disponible** et des **technologies util
 - Comparer aux noyaux des **cellules normales et inflammatoires**
 - Permet de **corréler à l’ADN tumoral extrait**
 
-![[assets/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-355 Principes microdissection tissulaire/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-355%20Principes%20microdissection%20tissulaire/p15_00.jpeg)
 
-![[assets/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-355 Principes microdissection tissulaire/p15_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-355%20Principes%20microdissection%20tissulaire/p15_02.jpeg)
 
 
 ## Techniques de qualification des acides nucléiques
@@ -129,11 +129,11 @@ Variables additionnelles d’évaluation post-NGS :
 
 ⚠️ Pour le tissu congelé : **ne pas interrompre la chaîne du froid**.
 
-![[assets/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-355 Principes microdissection tissulaire/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-355%20Principes%20microdissection%20tissulaire/p18_00.jpeg)
 
-![[assets/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-355 Principes microdissection tissulaire/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-355%20Principes%20microdissection%20tissulaire/p19_00.jpeg)
 
-![[assets/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-355 Principes microdissection tissulaire/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-355%20Principes%20microdissection%20tissulaire/p20_00.jpeg)
 
 ## Exemples pratiques d’estimation du % tumoral
 
@@ -144,13 +144,13 @@ Variables additionnelles d’évaluation post-NGS :
 | Glandes tumorales + stroma lympho­ïde abondant | **< 30 %** |
 | Cellules tumorales dispersées + stroma fibreux inflammatoire | **~ 20 %** |
 
-![[assets/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-355 Principes microdissection tissulaire/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-355%20Principes%20microdissection%20tissulaire/p21_00.jpeg)
 
-![[assets/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-355 Principes microdissection tissulaire/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-355%20Principes%20microdissection%20tissulaire/p22_00.jpeg)
 
-![[assets/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-355 Principes microdissection tissulaire/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-355%20Principes%20microdissection%20tissulaire/p24_01.jpeg)
 
-![[assets/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-355 Principes microdissection tissulaire/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-355%20Principes%20microdissection%20tissulaire/p25_00.jpeg)
 
 ## Cas particulier des cytoblocs
 
@@ -158,13 +158,13 @@ Variables additionnelles d’évaluation post-NGS :
 - Peut impacter la qualité même avec cellularité tumorale élevée
 - Vérifier sur coupes sériées : épaisseur du dépôt + cellularité réelle
 
-![[assets/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-355 Principes microdissection tissulaire/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-355%20Principes%20microdissection%20tissulaire/p27_00.jpeg)
 
-![[assets/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-355 Principes microdissection tissulaire/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-355%20Principes%20microdissection%20tissulaire/p28_00.jpeg)
 
-![[assets/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-355 Principes microdissection tissulaire/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-355%20Principes%20microdissection%20tissulaire/p29_00.jpeg)
 
-![[assets/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-355 Principes microdissection tissulaire/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-355%20Principes%20microdissection%20tissulaire/p30_00.jpeg)
 
 ## Pièges / Contrôles qualité
 
@@ -173,7 +173,7 @@ Variables additionnelles d’évaluation post-NGS :
 - **Vérifier après prélèvement** par coloration standard (HE) si trocart ou scalpel
 - Préserver le matériel = **hiérarchiser** les analyses si bloc précieux
 
-![[assets/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-355 Principes microdissection tissulaire/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-355%20Principes%20microdissection%20tissulaire/p31_00.jpeg)
 
 ## 🔑 Points clés à retenir
 

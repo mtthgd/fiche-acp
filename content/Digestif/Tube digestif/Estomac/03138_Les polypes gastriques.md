@@ -48,9 +48,9 @@ source: DES ACP - Cours de digestif (D. Châtelain)
 - Lésions dysplasiques **exceptionnelles** (sauf PAF)
 - Différencier dysplasie vraie d'altérations régénératives inflammatoires
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.8 Les polypes gastriques/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.8%20Les%20polypes%20gastriques/p04_00.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.8 Les polypes gastriques/p05_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.8%20Les%20polypes%20gastriques/p05_04.jpeg)
 
 ### CAT
 - Polypose : biopsie d'un polype + biopsie des polypes ≥ 0,5 à 1 cm
@@ -71,9 +71,9 @@ source: DES ACP - Cours de digestif (D. Châtelain)
 - Chorion œdémateux inflammatoire
 - Faisceaux de fibres musculaires lisses hyperplasiques
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.8 Les polypes gastriques/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.8%20Les%20polypes%20gastriques/p06_00.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.8 Les polypes gastriques/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.8%20Les%20polypes%20gastriques/p08_01.jpeg)
 
 ### Risque néoplasique
 - Lésions dysplasiques/carcinomateuses : variable, jusqu'à **20 % surtout pour les polypes ≥ 2 cm**
@@ -98,10 +98,10 @@ Lésions **précancéreuses** (NIE bas/haut grade, voire ADK infiltrant en regar
 - **Marqueurs intestinaux** : MUC2+, CD10+ ; mucines gastriques MUC5AC−, MUC6−
 - CAT : **mucosectomie endoscopique** ; surveillance à 6 mois (NIE-HG) ou 1 an (NIE-BG)
 
-![[assets/digestif/tube_digestif/pathologies-transversales/03.1.8.10 Les particularités des lymphomes et lymphoproliférations du tube digestif/p11_07.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/pathologies-transversales/03.1.8.10%20Les%20particularit%C3%A9s%20des%20lymphomes%20et%20lymphoprolif%C3%A9rations%20du%20tube%20digestif/p11_07.jpeg)
 
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.8 Les polypes gastriques/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.8%20Les%20polypes%20gastriques/p13_01.jpeg)
 
 ### 3b. Adénome de type gastrique / pylorique
 
@@ -113,9 +113,9 @@ Lésions **précancéreuses** (NIE bas/haut grade, voire ADK infiltrant en regar
 - Lésions dysplasiques dans 30-60 %
 - CAT : exérèse endoscopique + surveillance
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.10 Tumeurs des voies biliaires et de la vésicule biliaire/p14_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.10%20Tumeurs%20des%20voies%20biliaires%20et%20de%20la%20v%C3%A9sicule%20biliaire/p14_03.png)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.8 Les polypes gastriques/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.8%20Les%20polypes%20gastriques/p15_00.jpeg)
 
 ### Tableau IHC adénomes
 
@@ -145,7 +145,7 @@ Lésions **précancéreuses** (NIE bas/haut grade, voire ADK infiltrant en regar
 - **Risque d'adénocarcinome gastrique** (type intestinal généralement)
 - CAT : **gastrectomie prophylactique** souvent préconisée, ou surveillance rapprochée
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.8 Les polypes gastriques/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.8%20Les%20polypes%20gastriques/p16_00.jpeg)
 
 ### Polyposes hamartomateuses (localisations gastriques)
 
@@ -162,7 +162,7 @@ Lésions **précancéreuses** (NIE bas/haut grade, voire ADK infiltrant en regar
 - Histologie : amas de **macrophages spumeux** dans le chorion superficiel
 - DD : **adénocarcinome à cellules indépendantes** → IHC : **CD68+, CD163+, cytokératine−**
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p17_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p17_00.png)
 
 ## 6. Hétérotopie pancréatique gastrique
 
@@ -173,7 +173,7 @@ Lésions **précancéreuses** (NIE bas/haut grade, voire ADK infiltrant en regar
 - Histologie : **parenchyme pancréatique normal** (acini, canaux ± îlots de Langerhans) dans la paroi
 - Complications rares : pancréatite, dystrophie kystique, pseudo-kystes, **transformation néoplasique exceptionnelle (< 1 %)**
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p19_00.jpeg)
 
 ## Diagnostics différentiels
 

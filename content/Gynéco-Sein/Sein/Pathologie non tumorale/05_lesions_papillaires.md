@@ -223,7 +223,7 @@ Juxtaposition de **nodules cellulaires pleins / massifs** au sein desquels on di
 - **3 cas** avec métastases ganglionnaires, **1 cas** avec métastase osseuse.
 - Considérée comme un **carcinome infiltrant indolent**.
 
-![[assets/gyneco-sein/sein/pathologie_non_tumorale/X04_12_3_03 internes lésions papillaires GMG/p44_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_non_tumorale/X04_12_3_03%20internes%20l%C3%A9sions%20papillaires%20GMG/p44_00.jpeg)
 
 ---
 

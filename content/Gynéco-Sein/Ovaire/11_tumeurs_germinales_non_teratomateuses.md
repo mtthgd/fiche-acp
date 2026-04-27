@@ -41,7 +41,7 @@ Les tumeurs germinales ovariennes se subdivisent en **2 grandes catégories** :
 | **Tumeurs germinales primitives non tératomateuses** | **3-5 %** | **Malignes**, aneuploïdes, **i(12p) + dans 80 %** |
 | **Tératomes purs** (cf. [[10_Teratomes_matures]] / [[09_teratomes_immatures]]) | majoritaires | Diploïdes ; mature = bénin / immature = malignité variable |
 
-![[assets/gyneco-sein/ovaire/04_58_02 Tératome immature MDS/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_58_02%20T%C3%A9ratome%20immature%20MDS/p06_00.jpeg)
 
 ## Correspondance embryologique
 
@@ -64,7 +64,7 @@ Les tumeurs germinales ovariennes se subdivisent en **2 grandes catégories** :
 | Tissus particuliers | **Thyroïde, plexus choroïde** | Tissu pancréatique |
 | **i(12p)** | **80 %** des TG malignes | 80 % |
 
-![[assets/gyneco-sein/ovaire/04_58_02 Tératome immature MDS/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_58_02%20T%C3%A9ratome%20immature%20MDS/p08_00.jpeg)
 
 L’**isochromosome 12p** = chromosome 12 ayant perdu son bras long et dupliqué son bras court de part et d’autre du centromère (marqueur cytogénétique commun aux TG malignes).
 
@@ -80,14 +80,14 @@ L’**isochromosome 12p** = chromosome 12 ayant perdu son bras long et dupliqué
 ### Macroscopie
 - Tumeur **solide**, **charnue**, **pêche / chamois** à la coupe
 
-![[assets/gyneco-sein/ovaire/04_58_02 Tératome immature MDS/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_58_02%20T%C3%A9ratome%20immature%20MDS/p10_00.jpeg)
 
 ### Histologie
 - Architecture **solide / trabéculaire / pseudo-papillaire** (par dissociation cellulaire)
 - Cellules **primitives** ressemblant aux **ovogonies/spermatogonies** : grandes, **cytoplasme clarifié éosinophile**, **noyau central volumineux vésiculeux nucléolé**
 - **Stroma lymphocytaire CARACTÉRISTIQUE** (petits lymphocytes T) ± histiocytes, **cellules épithélioïdes**, **granulomes à cellules géantes multinucléées**
 
-![[assets/gyneco-sein/ovaire/04_58_02 Tératome immature MDS/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_58_02%20T%C3%A9ratome%20immature%20MDS/p11_00.jpeg)
 
 
 ### IHC

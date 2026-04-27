@@ -106,9 +106,9 @@ source: DES ACP - Cours de digestif
 | **4.4** | **Adénocarcinome intra-muqueux** (= pT0 ; **pas de risque ganglionnaire**) |
 | **5** | **Adénocarcinome sous-muqueux (pT1)** = risque ganglionnaire |
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p13_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p13_02.jpeg)
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.10 Polypes colorectaux/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.10%20Polypes%20colorectaux/p14_01.jpeg)
 
 ### Dysplasie
 
@@ -152,7 +152,7 @@ source: DES ACP - Cours de digestif
 - Diagnostic facile si dysplasie BG en surface
 - Difficile si adénocarcinome mucineux superficiel associé
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p18_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p18_01.png)
 
 ## Polypes festonnés
 
@@ -166,7 +166,7 @@ Trois entités OMS :
 - Endoscopie : lésion blanchâtre, nacrée, translucide, légèrement surélevée
 - Histologie : **allongement et festonnage limités au tiers supérieur des cryptes**, pas de dysplasie, pas de dysmaturation, **épaississement de la membrane basale superficielle** souvent associé
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.10 Polypes colorectaux/p23_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.10%20Polypes%20colorectaux/p23_00.png)
 
 ### 2. Polype/Adénome sessile festonné (SSL — *Sessile Serrated Lesion*)
 
@@ -183,7 +183,7 @@ Trois entités OMS :
 > **SSL avec dysplasie** : aspect identique à un adénome conventionnel ; **perte d'expression de MLH1** par méthylation possible ; aspect alternatif éosinophile.
 
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.10 Tumeurs des voies biliaires et de la vésicule biliaire/p27_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.10%20Tumeurs%20des%20voies%20biliaires%20et%20de%20la%20v%C3%A9sicule%20biliaire/p27_04.jpeg)
 
 ### 3. Adénome festonné traditionnel (TSA — *Traditional Serrated Adenoma*)
 
@@ -194,7 +194,7 @@ Trois entités OMS :
 - **Petits bourgeonnements en périphérie = cryptes ectopiques** (caractéristique +++)
 - Cellules très éosinophiles, noyaux pseudo-stratifiés, nucléoles proéminents
 
-![[assets/digestif/pancreas/tumorale/03.3.3.8 Tumeurs intracanalaires pancréatiques/p32_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.8%20Tumeurs%20intracanalaires%20pancr%C3%A9atiques/p32_03.jpeg)
 
 ### Voie moléculaire « festonnée »
 

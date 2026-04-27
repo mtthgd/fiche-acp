@@ -46,7 +46,7 @@ Inflammation aiguë du pancréas. Classification clinique :
 - **Surinfection**
 - **Thromboses** (mésentériques)
 
-![[assets/digestif/pancreas/inflammatoire/03.3.2.2 Pancréatites aigues et chroniques/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/inflammatoire/03.3.2.2%20Pancr%C3%A9atites%20aigues%20et%20chroniques/p05_00.jpeg)
 
 ## Étiologies
 
@@ -70,9 +70,9 @@ Inflammation aiguë du pancréas. Classification clinique :
 - Formes étendues : nécrose étendue + hémorragie
 - Diffusion possible le long des mésos péritonéaux → **ascite**, cytostéatonécrose **péricardique** ou **sous-pleurale**
 
-![[assets/digestif/pancreas/inflammatoire/03.3.2.2 Pancréatites aigues et chroniques/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/inflammatoire/03.3.2.2%20Pancr%C3%A9atites%20aigues%20et%20chroniques/p08_00.jpeg)
 
-![[assets/digestif/pancreas/inflammatoire/03.3.2.2 Pancréatites aigues et chroniques/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/inflammatoire/03.3.2.2%20Pancr%C3%A9atites%20aigues%20et%20chroniques/p09_01.jpeg)
 
 ## Histologie
 
@@ -95,11 +95,11 @@ Lésions élémentaires **non spécifiques de l'étiologie** :
 - Macro : **taches de bougie** (jaunes/blanchâtres, crayeux)
 - Cytostéatonécrose **sous-cutanée** (panniculite nodulaire) possible → autres pathologies pancréatiques (tumeurs)
 
-![[assets/digestif/pancreas/inflammatoire/03.3.2.2 Pancréatites aigues et chroniques/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/inflammatoire/03.3.2.2%20Pancr%C3%A9atites%20aigues%20et%20chroniques/p10_00.jpeg)
 
-![[assets/digestif/pancreas/inflammatoire/03.3.2.2 Pancréatites aigues et chroniques/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/inflammatoire/03.3.2.2%20Pancr%C3%A9atites%20aigues%20et%20chroniques/p11_00.jpeg)
 
-![[assets/digestif/pancreas/inflammatoire/03.3.2.2 Pancréatites aigues et chroniques/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/inflammatoire/03.3.2.2%20Pancr%C3%A9atites%20aigues%20et%20chroniques/p13_01.jpeg)
 
 ### Aspect d'une PA débutante
 - **Architecture lobulée conservée**
@@ -107,7 +107,7 @@ Lésions élémentaires **non spécifiques de l'étiologie** :
 - **Infiltrat à polynucléaires neutrophiles**
 - Pas encore de nécrose parenchymateuse
 
-![[assets/digestif/pancreas/inflammatoire/03.3.2.2 Pancréatites aigues et chroniques/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/inflammatoire/03.3.2.2%20Pancr%C3%A9atites%20aigues%20et%20chroniques/p15_01.jpeg)
 
 ## Pseudokyste (complication classique)
 
@@ -118,9 +118,9 @@ Lésions élémentaires **non spécifiques de l'étiologie** :
 - Complications : compression, fistule, hémorragie
 - Aussi observé en pancréatite chronique (paroi alors plus épaisse)
 
-![[assets/digestif/pancreas/inflammatoire/03.3.2.2 Pancréatites aigues et chroniques/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/inflammatoire/03.3.2.2%20Pancr%C3%A9atites%20aigues%20et%20chroniques/p17_00.jpeg)
 
-![[assets/digestif/pancreas/inflammatoire/03.3.2.2 Pancréatites aigues et chroniques/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/inflammatoire/03.3.2.2%20Pancr%C3%A9atites%20aigues%20et%20chroniques/p18_00.jpeg)
 
 ## Cytologie (cytoponction)
 
@@ -174,9 +174,9 @@ Lésions élémentaires **non spécifiques de l'étiologie** :
 - **Modifications vasculaires** : épaississement fibreux, sténose lumière, complications vasculaires rares
 - **Pseudokyste** (paroi plus épaisse qu'en PA, fibreuse + tissu de granulation), **communique avec le système canalaire** ; rarement spontanément résolutif
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p27_00.jpeg)
 
-![[assets/digestif/pancreas/inflammatoire/03.3.2.2 Pancréatites aigues et chroniques/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/inflammatoire/03.3.2.2%20Pancr%C3%A9atites%20aigues%20et%20chroniques/p28_00.jpeg)
 
 > ⚠ Distribution pré**dominante péri-canalaire** d'inflammation = signe de **pancréatite auto-immune**.
 
@@ -206,9 +206,9 @@ Lésions élémentaires **non spécifiques de l'étiologie** :
 - **Endartérite oblitérante**
 - ⚠ **Toujours rechercher des lésions de PanIN**
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p33_00.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.4 Adénocarcinome pancréatique et ses variants/p36_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.4%20Ad%C3%A9nocarcinome%20pancr%C3%A9atique%20et%20ses%20variants/p36_00.jpeg)
 
 ## 2. Pancréatite chronique obstructive ("d'amont")
 
@@ -273,9 +273,9 @@ Lésions élémentaires **non spécifiques de l'étiologie** :
 > - **"Probable maladie à IgG4"** si **1 critère/3**
 > - Référence : consensus 2012 sur la maladie à IgG4
 
-![[assets/digestif/pancreas/tumorale/03.3.3.8 Tumeurs intracanalaires pancréatiques/p44_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.8%20Tumeurs%20intracanalaires%20pancr%C3%A9atiques/p44_00.jpeg)
 
-![[assets/digestif/pancreas/inflammatoire/03.3.2.2 Pancréatites aigues et chroniques/p46_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/inflammatoire/03.3.2.2%20Pancr%C3%A9atites%20aigues%20et%20chroniques/p46_00.jpeg)
 
 ### PAI type 2
 - Début vers 40 ans, sans prédominance de sexe

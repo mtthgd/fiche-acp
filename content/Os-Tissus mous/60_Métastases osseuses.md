@@ -50,9 +50,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 | Biopsie/exérèse chirurgicale | Ostéosynthèse, prothèse, décompression | Matériel abondant |
 | Produit d'alésage médullaire | Enclouage sans abord du foyer | **Qualité médiocre**, souvent non contributif |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274 Métastases osseuses/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274%20M%C3%A9tastases%20osseuses/p12_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274 Métastases osseuses/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274%20M%C3%A9tastases%20osseuses/p12_02.jpeg)
 
 ## Diagnostic positif
 
@@ -60,9 +60,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Stroma-réaction fibro-inflammatoire** avec disparition de la moelle normale
 - En cas d'écrasement : **pan-cytokératine** utile
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274 Métastases osseuses/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274%20M%C3%A9tastases%20osseuses/p13_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274 Métastases osseuses/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274%20M%C3%A9tastases%20osseuses/p14_00.jpeg)
 
 ## Métastases très bien différenciées (HES souvent suffisant)
 
@@ -74,17 +74,17 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 
 > Toujours confronter aux **antécédents** et à l'exploration de l'organe.
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274 Métastases osseuses/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274%20M%C3%A9tastases%20osseuses/p17_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274 Métastases osseuses/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274%20M%C3%A9tastases%20osseuses/p18_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274 Métastases osseuses/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274%20M%C3%A9tastases%20osseuses/p20_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274 Métastases osseuses/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274%20M%C3%A9tastases%20osseuses/p22_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274 Métastases osseuses/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274%20M%C3%A9tastases%20osseuses/p24_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274 Métastases osseuses/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274%20M%C3%A9tastases%20osseuses/p25_00.jpeg)
 
 ## Débrouillage IHC devant prolifération indifférenciée
 
@@ -98,9 +98,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Si mélanome → BRAF IHC, BRAF/NRAS/KIT en biomol
 - La vimentine **n'oriente pas** vers un sarcome (exprimée par carcinomes sarcomatoïdes, mélanomes)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274 Métastases osseuses/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274%20M%C3%A9tastases%20osseuses/p28_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274 Métastases osseuses/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274%20M%C3%A9tastases%20osseuses/p29_00.jpeg)
 
 ## Algorithme carcinome peu différencié
 
@@ -116,13 +116,13 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 5. **Pulmonaire peu différencié** ? → TTF1 → si + : PD-L1, ALK, ROS1, EGFR
 6. Sinon → **carcinome d'origine primitive inconnue** (2-3 %)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274 Métastases osseuses/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274%20M%C3%A9tastases%20osseuses/p30_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274 Métastases osseuses/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274%20M%C3%A9tastases%20osseuses/p31_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274 Métastases osseuses/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274%20M%C3%A9tastases%20osseuses/p32_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274 Métastases osseuses/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274%20M%C3%A9tastases%20osseuses/p33_00.jpeg)
 
 ## Marqueurs IHC utiles — mémo
 
@@ -142,13 +142,13 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 | CK5/6, p40, p63 | Épidermoïde, urothélial |
 | Synaptophysine, chromogranine | Neuroendocrine |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274 Métastases osseuses/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274%20M%C3%A9tastases%20osseuses/p35_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274 Métastases osseuses/p36_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274%20M%C3%A9tastases%20osseuses/p36_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274 Métastases osseuses/p45_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274%20M%C3%A9tastases%20osseuses/p45_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274 Métastases osseuses/p47_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274%20M%C3%A9tastases%20osseuses/p47_00.jpeg)
 
 ## Pièges
 
@@ -159,9 +159,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
   4. **En dernier** : sarcome primitif
 - **Cellules CK+ dans l'os ≠ métastase de carcinome** : tumeurs vasculaires épithélioïdes, **chordome** (localisations rachidiennes)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274 Métastases osseuses/p48_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274%20M%C3%A9tastases%20osseuses/p48_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274 Métastases osseuses/p49_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274%20M%C3%A9tastases%20osseuses/p49_00.jpeg)
 
 ## Problèmes techniques spécifiques de l'os
 
@@ -172,11 +172,11 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 | **Acide formique** (acide faible) | Moins de dégradation | Privilégié pour prélèvements standards |
 | **EDTA** | Préserve ADN/ARN (action lente) | **Privilégié pour microbiopsies** |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274 Métastases osseuses/p50_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274%20M%C3%A9tastases%20osseuses/p50_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274 Métastases osseuses/p51_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274%20M%C3%A9tastases%20osseuses/p51_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274 Métastases osseuses/p52_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-274%20M%C3%A9tastases%20osseuses/p52_00.jpeg)
 
 ---
 

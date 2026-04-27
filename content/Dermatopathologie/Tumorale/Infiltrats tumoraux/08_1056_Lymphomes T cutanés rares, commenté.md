@@ -74,13 +74,13 @@ Cellules atypiques caractéristiques avec **noyau polylobé** (aspect en **trèf
 
 Amas péri-vasculaires CD25+ FOXP3+ très évocateurs.
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056 Lymphomes T cutanés rares/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056%20Lymphomes%20T%20cutan%C3%A9s%20rares/p08_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056 Lymphomes T cutanés rares/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056%20Lymphomes%20T%20cutan%C3%A9s%20rares/p08_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056 Lymphomes T cutanés rares/p08_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056%20Lymphomes%20T%20cutan%C3%A9s%20rares/p08_02.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056 Lymphomes T cutanés rares/p08_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056%20Lymphomes%20T%20cutan%C3%A9s%20rares/p08_03.jpeg)
 
 ## 2. Lymphoprolifération T cutanée primitive CD4+ à petites/moyennes cellules (PCSM-TCL)
 
@@ -94,7 +94,7 @@ Amas péri-vasculaires CD25+ FOXP3+ très évocateurs.
 - **Lésion unique papulonodulaire érythémateuse en dôme**
 - **Zones photo-exposées** : visage, cou, épaules, parfois extrémités
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056 Lymphomes T cutanés rares/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056%20Lymphomes%20T%20cutan%C3%A9s%20rares/p10_00.jpeg)
 
 ### Histologie
 
@@ -102,11 +102,11 @@ Amas péri-vasculaires CD25+ FOXP3+ très évocateurs.
 - **Respect de l'épiderme** et des annexes (épidermotropisme/pilotropisme rares)
 - Cellules lymphoïdes **petites à moyennes**, parfois franchement atypiques, nucléolées
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056 Lymphomes T cutanés rares/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056%20Lymphomes%20T%20cutan%C3%A9s%20rares/p10_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056 Lymphomes T cutanés rares/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056%20Lymphomes%20T%20cutan%C3%A9s%20rares/p11_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056 Lymphomes T cutanés rares/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056%20Lymphomes%20T%20cutan%C3%A9s%20rares/p11_01.jpeg)
 
 ### Immunophénotype
 
@@ -118,11 +118,11 @@ Amas péri-vasculaires CD25+ FOXP3+ très évocateurs.
 | CXCL13 | ± (variable, intense ou absent) |
 | Effecteurs CD8 et lymphocytes B réactionnels intriqués | + |
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056 Lymphomes T cutanés rares/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056%20Lymphomes%20T%20cutan%C3%A9s%20rares/p12_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056 Lymphomes T cutanés rares/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056%20Lymphomes%20T%20cutan%C3%A9s%20rares/p12_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056 Lymphomes T cutanés rares/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056%20Lymphomes%20T%20cutan%C3%A9s%20rares/p12_02.jpeg)
 
 ## 3. Lymphomes cutanés CD8+ — vue d'ensemble
 
@@ -175,7 +175,7 @@ Amas péri-vasculaires CD25+ FOXP3+ très évocateurs.
 - **Syndrome d'activation macrophagique (SAM)** possible → grève le pronostic
 - Dissémination extra-cutanée **exceptionnelle**
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056 Lymphomes T cutanés rares/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056%20Lymphomes%20T%20cutan%C3%A9s%20rares/p18_00.jpeg)
 
 ### Histologie
 
@@ -185,7 +185,7 @@ Amas péri-vasculaires CD25+ FOXP3+ très évocateurs.
 - Cellules lymphoïdes plus ou moins atypiques formant des **couronnes péri-adipocytaires** (caractéristique)
 - **Cytophagie** (macrophages résorbant des débris nucléaires)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056 Lymphomes T cutanés rares/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056%20Lymphomes%20T%20cutan%C3%A9s%20rares/p19_00.jpeg)
 
 
 
@@ -201,11 +201,11 @@ Amas péri-vasculaires CD25+ FOXP3+ très évocateurs.
 | **Granzyme, perforine, TIA1** | **+** (cytotoxique) |
 | Pertes antigéniques | rares |
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056 Lymphomes T cutanés rares/p22_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056%20Lymphomes%20T%20cutan%C3%A9s%20rares/p22_03.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056 Lymphomes T cutanés rares/p22_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056%20Lymphomes%20T%20cutan%C3%A9s%20rares/p22_04.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056 Lymphomes T cutanés rares/p22_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056%20Lymphomes%20T%20cutan%C3%A9s%20rares/p22_05.jpeg)
 
 
 ### Diagnostic différentiel ++
@@ -239,13 +239,13 @@ Amas péri-vasculaires CD25+ FOXP3+ très évocateurs.
 | **BF1 (TCRβ)** | **−** ⭐ critère cardinal |
 | Granzyme, perforine, TIA1 | + |
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056 Lymphomes T cutanés rares/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056%20Lymphomes%20T%20cutan%C3%A9s%20rares/p26_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056 Lymphomes T cutanés rares/p26_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056%20Lymphomes%20T%20cutan%C3%A9s%20rares/p26_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056 Lymphomes T cutanés rares/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056%20Lymphomes%20T%20cutan%C3%A9s%20rares/p27_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056 Lymphomes T cutanés rares/p27_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056%20Lymphomes%20T%20cutan%C3%A9s%20rares/p27_01.jpeg)
 
 ## 7. Lymphome NK/T extra-nasal type — présentation cutanée
 
@@ -254,7 +254,7 @@ Amas péri-vasculaires CD25+ FOXP3+ très évocateurs.
 - Lésions **nodulaires ulcéro-nécrotiques**
 - Peut débuter par la peau (cuisses ++)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056 Lymphomes T cutanés rares/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056%20Lymphomes%20T%20cutan%C3%A9s%20rares/p29_00.jpeg)
 
 ### Histologie
 
@@ -263,11 +263,11 @@ Amas péri-vasculaires CD25+ FOXP3+ très évocateurs.
 - **Angiocentrisme, angio-invasion, angio-destruction** caractéristiques
 - Nécrose
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056 Lymphomes T cutanés rares/p29_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056%20Lymphomes%20T%20cutan%C3%A9s%20rares/p29_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056 Lymphomes T cutanés rares/p29_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056%20Lymphomes%20T%20cutan%C3%A9s%20rares/p29_02.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056 Lymphomes T cutanés rares/p29_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056%20Lymphomes%20T%20cutan%C3%A9s%20rares/p29_03.jpeg)
 
 ### Phénotype
 
@@ -280,13 +280,13 @@ Amas péri-vasculaires CD25+ FOXP3+ très évocateurs.
 | **Granzyme, TIA1, perforine** | **+ fort** |
 | **EBER (EBV)** | **+ dans 100 % des cas** ⭐ |
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056 Lymphomes T cutanés rares/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056%20Lymphomes%20T%20cutan%C3%A9s%20rares/p31_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056 Lymphomes T cutanés rares/p31_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056%20Lymphomes%20T%20cutan%C3%A9s%20rares/p31_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056 Lymphomes T cutanés rares/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056%20Lymphomes%20T%20cutan%C3%A9s%20rares/p34_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056 Lymphomes T cutanés rares/p34_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1056%20Lymphomes%20T%20cutan%C3%A9s%20rares/p34_01.jpeg)
 
 ## Synthèse — phénotypes différentiels
 

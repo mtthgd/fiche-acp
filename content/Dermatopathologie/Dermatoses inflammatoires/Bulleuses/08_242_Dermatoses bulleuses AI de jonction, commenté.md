@@ -47,7 +47,7 @@ Antigènes situés au niveau de l'**hémidesmosome** et de la membrane basale :
   - **PNE** prédominants → pemphigoïde, gestationis, EBA inflammatoire
   - **PNN** prédominants ± **micro-abcès papillaires** → IgA linéaire, dermatite herpétiforme, lupus bulleux, anti-p200, EBA inflammatoire
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242 Dermatoses bulleuses AI de jonction/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242%20Dermatoses%20bulleuses%20AI%20de%20jonction/p08_00.jpeg)
 
 ## 1. Pemphigoïde bulleuse (PB)
 
@@ -61,9 +61,9 @@ Antigènes situés au niveau de l'**hémidesmosome** et de la membrane basale :
   - **Phase de début** : lésions eczématiformes ou urticariennes, prurigineuses, chroniques
   - **Phase d'état** (mois/années) : **bulles tendues** sur peau saine ou érythémateuse, respect habituel du visage et des muqueuses, **pas de cicatrices atrophiques**
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242 Dermatoses bulleuses AI de jonction/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242%20Dermatoses%20bulleuses%20AI%20de%20jonction/p10_00.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242 Dermatoses bulleuses AI de jonction/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242%20Dermatoses%20bulleuses%20AI%20de%20jonction/p11_00.jpeg)
 
 ### Histologie
 
@@ -73,9 +73,9 @@ Antigènes situés au niveau de l'**hémidesmosome** et de la membrane basale :
 - Infiltrat dermique périvasculaire **riche en PNE**, parfois PNN
 - Bulle contenant fibrine + PNE
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242 Dermatoses bulleuses AI de jonction/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242%20Dermatoses%20bulleuses%20AI%20de%20jonction/p12_00.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242 Dermatoses bulleuses AI de jonction/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242%20Dermatoses%20bulleuses%20AI%20de%20jonction/p13_00.jpeg)
 
 **Phase pré-bulleuse / péri-bulleuse** :
 - Pas de décollement
@@ -83,7 +83,7 @@ Antigènes situés au niveau de l'**hémidesmosome** et de la membrane basale :
 - Images de **spongiose à éosinophiles** (PNE intra-épidermiques)
 - DD : toxidermies, urticaire
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242 Dermatoses bulleuses AI de jonction/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242%20Dermatoses%20bulleuses%20AI%20de%20jonction/p14_00.jpeg)
 
 
 ### Immunofluorescence
@@ -96,9 +96,9 @@ Antigènes situés au niveau de l'**hémidesmosome** et de la membrane basale :
 
 > Le dépôt **linéaire** est essentiel : un dépôt **granuleux** est non spécifique.
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242 Dermatoses bulleuses AI de jonction/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242%20Dermatoses%20bulleuses%20AI%20de%20jonction/p17_00.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242 Dermatoses bulleuses AI de jonction/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242%20Dermatoses%20bulleuses%20AI%20de%20jonction/p16_00.jpeg)
 
 ## 2. Variantes de pemphigoïde
 
@@ -114,7 +114,7 @@ Antigènes situés au niveau de l'**hémidesmosome** et de la membrane basale :
 - **Risques fœtaux** + récidive sur grossesses suivantes
 - IFD identique à la PB classique : C3 ± IgG linéaires DEJ
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242 Dermatoses bulleuses AI de jonction/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242%20Dermatoses%20bulleuses%20AI%20de%20jonction/p19_00.jpeg)
 
 
 ### Lichen plan pemphigoïde
@@ -123,9 +123,9 @@ Antigènes situés au niveau de l'**hémidesmosome** et de la membrane basale :
 - Mécanisme : agression cytotoxique de la couche basale par les LT du lichen → exposition de BP180 → immunisation secondaire
 - Lésions concomitantes ou sur sites différents
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242 Dermatoses bulleuses AI de jonction/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242%20Dermatoses%20bulleuses%20AI%20de%20jonction/p22_00.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242 Dermatoses bulleuses AI de jonction/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242%20Dermatoses%20bulleuses%20AI%20de%20jonction/p23_00.jpeg)
 
 ### Pemphigoïde anti-p200 / anti-laminine 332
 
@@ -155,7 +155,7 @@ Décollement jonctionnel ± infiltrat **inflammatoire variable** (souvent peu in
 | Biochimie (extrait cutané) | Bande **290 kDa = collagène VII** |
 | Microscopie électronique | Dépôt sous la lamina densa |
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242 Dermatoses bulleuses AI de jonction/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242%20Dermatoses%20bulleuses%20AI%20de%20jonction/p24_00.jpeg)
 
 ## 4. Dermatose à IgA linéaire
 
@@ -166,7 +166,7 @@ Décollement jonctionnel ± infiltrat **inflammatoire variable** (souvent peu in
 - Formes spontanées ou **médicamenteuses** : **vancomycine** ++, pénicillines, diurétiques, AINS
 - Cliniquement : **bulles regroupées en rosettes / cocardes**, tendues
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242 Dermatoses bulleuses AI de jonction/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242%20Dermatoses%20bulleuses%20AI%20de%20jonction/p26_00.jpeg)
 
 ### Histologie
 
@@ -174,9 +174,9 @@ Décollement jonctionnel ± infiltrat **inflammatoire variable** (souvent peu in
 - **Relief papillaire conservé**
 - Infiltrat **riche en PNN** avec **micro-abcès dans les papilles dermiques**
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242 Dermatoses bulleuses AI de jonction/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242%20Dermatoses%20bulleuses%20AI%20de%20jonction/p28_00.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242 Dermatoses bulleuses AI de jonction/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242%20Dermatoses%20bulleuses%20AI%20de%20jonction/p29_00.jpeg)
 
 ### IFD
 

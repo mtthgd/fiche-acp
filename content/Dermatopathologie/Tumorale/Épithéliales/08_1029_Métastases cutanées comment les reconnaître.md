@@ -51,9 +51,9 @@ source: DES ACP - Cours de Dermatopathologie
 | **Homme** | **Pulmonaire**, colique, ORL |
 | **Femme** | **Mammaire** très majoritairement |
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1029 Métastases cutanées  comment les reconnaître/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1029%20M%C3%A9tastases%20cutan%C3%A9es%20%20comment%20les%20reconna%C3%AEtre/p06_00.jpeg)
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1029 Métastases cutanées  comment les reconnaître/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1029%20M%C3%A9tastases%20cutan%C3%A9es%20%20comment%20les%20reconna%C3%AEtre/p09_00.jpeg)
 
 ---
 

@@ -93,12 +93,12 @@ Les DILI peuvent reproduire **toutes** les lésions élémentaires hépatiques :
 - Nécrose **panlobulaire** ou **multilobulaire** (plusieurs lobules contigus)
 - Couronne hépatocytaire périportale souvent respectée
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.12 Pathologies medicamenteuses et toxiques hépatiques/p14_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.12%20Pathologies%20medicamenteuses%20et%20toxiques%20h%C3%A9patiques/p14_00.png)
 
 ### Hépatite résolutive
 **Macrophages sinusoïdaux brunâtres** (pigments céroïdes) **PAS-diastase positifs** → témoin d'une poussée cytolytique antérieure.
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.12 Pathologies medicamenteuses et toxiques hépatiques/p15_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.12%20Pathologies%20medicamenteuses%20et%20toxiques%20h%C3%A9patiques/p15_00.png)
 
 ### Hépatites auto-immunes induites (« auto-immune-like »)
 - Périvénulite, nécrose inflammatoire confluente
@@ -111,13 +111,13 @@ Les DILI peuvent reproduire **toutes** les lésions élémentaires hépatiques :
 - Microgranulomes flous d'épithélioïdes et d'éosinophiles
 - Forme maximale : **hépatite granulomateuse**
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.12 Pathologies medicamenteuses et toxiques hépatiques/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.12%20Pathologies%20medicamenteuses%20et%20toxiques%20h%C3%A9patiques/p17_00.jpeg)
 
 ### Granulomes typiques
 - Granulome **polymorphe** (PNN éosinophiles, épithélioïdes, lymphocytes), non nécrosant
 - **Granulome avec anneaux de fibrine** (cellules géantes cernées de fibrine), parfois centré par une vacuole stéatosique → typique **allopurinol**
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.12 Pathologies medicamenteuses et toxiques hépatiques/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.12%20Pathologies%20medicamenteuses%20et%20toxiques%20h%C3%A9patiques/p18_00.jpeg)
 
 ## Hépatites chroniques médicamenteuses
 
@@ -126,7 +126,7 @@ Les DILI peuvent reproduire **toutes** les lésions élémentaires hépatiques :
 - Atteinte lobulaire minime, **pas de cholestase**
 - Cirrhose → transplantation discutée
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.12 Pathologies medicamenteuses et toxiques hépatiques/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.12%20Pathologies%20medicamenteuses%20et%20toxiques%20h%C3%A9patiques/p19_00.jpeg)
 
 ## Cholestases
 
@@ -149,7 +149,7 @@ Les DILI peuvent reproduire **toutes** les lésions élémentaires hépatiques :
 - Complications : **ductopénie / vanishing bile duct syndrome** (> **50 %** des EP avec disparition canalaire), **cirrhose biliaire** → transplantation
 
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.12 Pathologies medicamenteuses et toxiques hépatiques/p25_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.12%20Pathologies%20medicamenteuses%20et%20toxiques%20h%C3%A9patiques/p25_00.png)
 
 **DILI avec ductopénie prouvée** : ~7 % des DILI, surtout après hépatite aiguë mixte prolongée. Médicaments : **antibiotiques (Augmentin), AINS, psychotropes**.
 
@@ -162,7 +162,7 @@ Les DILI peuvent reproduire **toutes** les lésions élémentaires hépatiques :
 | **Microvésiculaire** | Petites vacuoles centrant le noyau, mode cholestatique, **IHCA grave si diffuse** | – |
 | **Stéatohépatite (NASH-like)** | Ballonisation + corps de Mallory + infiltrat polymorphe + fibrose **périsinusoïdale péricellulaire** | **Amiodarone**, **chimiothérapies** (irinotécan, 5-FU, oxaliplatine — **CASH** des cancers colorectaux) |
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.12 Pathologies medicamenteuses et toxiques hépatiques/p27_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.12%20Pathologies%20medicamenteuses%20et%20toxiques%20h%C3%A9patiques/p27_00.png)
 
 
 
@@ -181,7 +181,7 @@ Les DILI peuvent reproduire **toutes** les lésions élémentaires hépatiques :
 - Forme chronique : **fibrose périvénulaire** ± septale
 - Contextes : chimiothérapies du **cancer colorectal**, **immunosuppresseurs**, **allogreffe de moelle osseuse**
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.12 Pathologies medicamenteuses et toxiques hépatiques/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.12%20Pathologies%20medicamenteuses%20et%20toxiques%20h%C3%A9patiques/p34_00.jpeg)
 
 
 ### Hyperplasie nodulaire régénérative (HNR / NRH)
@@ -199,7 +199,7 @@ Les DILI peuvent reproduire **toutes** les lésions élémentaires hépatiques :
 - Architecture lobulaire conservée, fibrose septale possible (cirrhose incomplète)
 - Contextes : **chlorure de vinyle**, **azathioprine**
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.12 Pathologies medicamenteuses et toxiques hépatiques/p40_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.12%20Pathologies%20medicamenteuses%20et%20toxiques%20h%C3%A9patiques/p40_00.jpeg)
 
 ## Démarche diagnostique : un diagnostic d'EXCLUSION
 
@@ -209,7 +209,7 @@ Aucune lésion n'est spécifique → enquête multidisciplinaire :
 - **Imagerie** des voies biliaires et vaisseaux (échographie, TDM, bili-IRM, FibroScan)
 - ± **PBH**
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.12 Pathologies medicamenteuses et toxiques hépatiques/p42_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.12%20Pathologies%20medicamenteuses%20et%20toxiques%20h%C3%A9patiques/p42_00.png)
 
 ### Score d'imputabilité **RUCAM** (CIOMS)
 **7 items** (hépatites aiguës) :

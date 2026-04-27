@@ -35,7 +35,7 @@ source: DES ACP - Cours de sénologie
 
 > Le qualificatif « NST » remplace l'ancien « canalaire » car **tous** les carcinomes infiltrants se développent dans les **unités ductulo-lobulaires terminales (UDLT)**, et non dans les canaux ou les lobules. Le degré de différenciation de la cellule d'origine expliquerait les différences entre sous-types.
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/NST et lobulaires finale GB-AVS/p01_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/NST%20et%20lobulaires%20finale%20GB-AVS/p01_01.jpeg)
 
 ---
 
@@ -59,7 +59,7 @@ source: DES ACP - Cours de sénologie
 - Tumeur à **contours étoilés**, beige, **dure à la coupe**.
 - Plus rarement contours nets.
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/NST et lobulaires finale GB-AVS/p03_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/NST%20et%20lobulaires%20finale%20GB-AVS/p03_02.jpeg)
 
 ## Histologie
 
@@ -70,9 +70,9 @@ Diagnostic d'exclusion ; **groupe morphologiquement très hétérogène**.
 - Compte mitotique très variable.
 - Stroma : **desmoplasique** ou **inflammatoire**.
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/NST et lobulaires finale GB-AVS/p04_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/NST%20et%20lobulaires%20finale%20GB-AVS/p04_03.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/NST et lobulaires finale GB-AVS/p04_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/NST%20et%20lobulaires%20finale%20GB-AVS/p04_05.jpeg)
 
 ### Variants rattachés au NST (non reconnus comme entités OMS distinctes)
 
@@ -80,9 +80,9 @@ Diagnostic d'exclusion ; **groupe morphologiquement très hétérogène**.
 - Variant **à cellules pléomorphes**
 - Variant **choriocarcinomateux**
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/NST et lobulaires finale GB-AVS/p05_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/NST%20et%20lobulaires%20finale%20GB-AVS/p05_03.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/NST et lobulaires finale GB-AVS/p05_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/NST%20et%20lobulaires%20finale%20GB-AVS/p05_05.jpeg)
 
 ## Grade SBR (Elston-Ellis) — répartition dans les NST
 
@@ -99,7 +99,7 @@ Cf. [[11_GRADE]] pour le détail du score SBR-Elston-Ellis.
 - 17-20 % des cas, en général **lymphatiques**.
 - À rechercher en **périphérie** de la tumeur, entre lobules normaux ou dans un paquet vasculo-nerveux (souvent sur prélèvements en sagittal).
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/NST et lobulaires finale GB-AVS/p06_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/NST%20et%20lobulaires%20finale%20GB-AVS/p06_02.jpeg)
 
 ## Composante intracanalaire (CCIS) associée
 
@@ -108,9 +108,9 @@ Cf. [[11_GRADE]] pour le détail du score SBR-Elston-Ellis.
 - **CCIS extensif** = facteur de risque de récidive locale après traitement conservateur, **annulé** quand le statut des marges d'exérèse est précisé et pris en compte.
 - **À renseigner dans le compte rendu** : pourcentage de CCIS, distance aux berges (mm), pTNM de la composante infiltrante.
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/NST et lobulaires finale GB-AVS/p07_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/NST%20et%20lobulaires%20finale%20GB-AVS/p07_02.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/NST et lobulaires finale GB-AVS/p07_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/NST%20et%20lobulaires%20finale%20GB-AVS/p07_04.jpeg)
 
 ---
 
@@ -134,7 +134,7 @@ Cf. [[11_GRADE]] pour le détail du score SBR-Elston-Ellis.
 - Lésion **irrégulière, mal définie, difficile à mesurer**.
 - Souvent **plus étendue** que les NST.
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/NST et lobulaires finale GB-AVS/p09_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/NST%20et%20lobulaires%20finale%20GB-AVS/p09_03.jpeg)
 
 ## Histologie classique (typique)
 
@@ -152,9 +152,9 @@ Association de **2 critères** architectural et cytologique :
 - **Inclusions de mucus intracytoplasmiques** dans **60 %** des cas
 - Compte mitotique faible (< 5 mitoses/10 CFG)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/NST et lobulaires finale GB-AVS/p10_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/NST%20et%20lobulaires%20finale%20GB-AVS/p10_03.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/NST et lobulaires finale GB-AVS/p10_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/NST%20et%20lobulaires%20finale%20GB-AVS/p10_05.jpeg)
 
 ## 4 sous-types (variants) — diagnostic posé si > 90 % de la tumeur
 
@@ -167,11 +167,11 @@ Association de **2 critères** architectural et cytologique :
 
 > Variants **bague à chaton** et **pléomorphe** rapportés comme plus défavorables, mais données non confirmées sur grandes séries.
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/NST et lobulaires finale GB-AVS/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/NST%20et%20lobulaires%20finale%20GB-AVS/p12_02.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/NST et lobulaires finale GB-AVS/p12_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/NST%20et%20lobulaires%20finale%20GB-AVS/p12_03.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/NST et lobulaires finale GB-AVS/p12_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/NST%20et%20lobulaires%20finale%20GB-AVS/p12_04.jpeg)
 
 ## Grade SBR — répartition dans l'ILC
 
@@ -195,9 +195,9 @@ Association de **2 critères** architectural et cytologique :
 - Tropisme métastatique particulier : **os, tractus digestif, urogénital**.
 - IHC pour distinguer une métastase d'ILC d'une lésion digestive/urogénitale primitive : **E-cadhérine, CK7, CK20**.
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/NST et lobulaires finale GB-AVS/p13_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/NST%20et%20lobulaires%20finale%20GB-AVS/p13_03.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/NST et lobulaires finale GB-AVS/p13_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/NST%20et%20lobulaires%20finale%20GB-AVS/p13_05.jpeg)
 
 ## Biologie moléculaire — gène CDH1 / E-cadhérine
 
@@ -216,11 +216,11 @@ Association de **2 critères** architectural et cytologique :
 - Identification d'un **carcinome mixte** lobulaire / NST
 - **Carcinome tubulo-lobulaire**
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/NST et lobulaires finale GB-AVS/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/NST%20et%20lobulaires%20finale%20GB-AVS/p14_02.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/NST et lobulaires finale GB-AVS/p15_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/NST%20et%20lobulaires%20finale%20GB-AVS/p15_02.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/NST et lobulaires finale GB-AVS/p15_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/NST%20et%20lobulaires%20finale%20GB-AVS/p15_04.jpeg)
 
 ## Immunophénotype et profil moléculaire
 
@@ -256,11 +256,11 @@ Association de **2 critères** architectural et cytologique :
 - CCIS et/ou CLIS souvent associés.
 - Expression de l'E-cadhérine **souvent aberrante**, surtout dans le contingent lobulaire.
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/NST et lobulaires finale GB-AVS/p16_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/NST%20et%20lobulaires%20finale%20GB-AVS/p16_02.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/NST et lobulaires finale GB-AVS/p16_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/NST%20et%20lobulaires%20finale%20GB-AVS/p16_03.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/NST et lobulaires finale GB-AVS/p16_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/NST%20et%20lobulaires%20finale%20GB-AVS/p16_04.jpeg)
 
 ## Diagnostics différentiels
 

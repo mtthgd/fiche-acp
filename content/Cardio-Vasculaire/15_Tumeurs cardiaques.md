@@ -69,7 +69,7 @@ Distingue :
 - Plus rarement : hémorragique, calcifié (« coque »)
 - Coupe : remaniements **hémorragiques**, parfois **kystiques**
 
-![[assets/cardio-vasculaire/coeur/tumeurs cardiaques SIDES/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/tumeurs%20cardiaques%20SIDES/p05_00.jpeg)
 
 
 ### Histologie
@@ -78,13 +78,13 @@ Distingue :
 - **Disposition caractéristique** : **anneaux cellulaires autour de petites artères** (« ringing pattern ») = **pathognomonique** du myxome
 - À fort grossissement : cellules **allongées à bouts effilés**, noyaux allongés, **mitoses peu/pas visibles**
 
-![[assets/cardio-vasculaire/coeur/tumeurs cardiaques SIDES/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/tumeurs%20cardiaques%20SIDES/p07_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/tumeurs cardiaques SIDES/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/tumeurs%20cardiaques%20SIDES/p07_01.jpeg)
 
-![[assets/cardio-vasculaire/coeur/tumeurs cardiaques SIDES/p07_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/tumeurs%20cardiaques%20SIDES/p07_02.jpeg)
 
-![[assets/cardio-vasculaire/coeur/tumeurs cardiaques SIDES/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/tumeurs%20cardiaques%20SIDES/p08_00.jpeg)
 
 ### Immunohistochimie
 | Marqueur | Résultat |
@@ -94,7 +94,7 @@ Distingue :
 | Marqueurs vasculaires (CD31, CD34) | ± |
 | Cytokératines | **−** |
 
-![[assets/cardio-vasculaire/coeur/tumeurs cardiaques SIDES/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/tumeurs%20cardiaques%20SIDES/p09_00.jpeg)
 
 ### Variantes histologiques (à connaître pour les DD)
 - **Myxome cellulaire** : densité cellulaire élevée, aspect en nappes, possible aspect infiltrant → DD avec sarcome
@@ -102,11 +102,11 @@ Distingue :
 - Calcifications, **ossification hétéroplasique**
 - **Inclusions glandulaires / pseudo-glandulaires** → piège diagnostique avec un **adénocarcinome**
 
-![[assets/cardio-vasculaire/coeur/tumeurs cardiaques SIDES/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/tumeurs%20cardiaques%20SIDES/p10_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/tumeurs cardiaques SIDES/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/tumeurs%20cardiaques%20SIDES/p11_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/tumeurs cardiaques SIDES/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/tumeurs%20cardiaques%20SIDES/p11_01.jpeg)
 
 ### Évolution / complications
 - **Pas de transformation maligne** (contrairement à ce qui était autrefois écrit)
@@ -116,7 +116,7 @@ Distingue :
   - **Fragments tumoraux** eux-mêmes
   - Cibles : artères cérébrales, coronaires (peuvent provoquer un **infarctus**)
 
-![[assets/cardio-vasculaire/coeur/tumeurs cardiaques SIDES/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/tumeurs%20cardiaques%20SIDES/p12_00.jpeg)
 
 ### Formes familiales : complexe de Carney
 - Mutations **PRKAR1A** (autosomique dominant)
@@ -149,11 +149,11 @@ Distingue :
 - Nodule **blanchâtre / translucide**, en « pompon » ou « anémone de mer » dans l'eau
 - Petites papilles fines à la surface
 
-![[assets/cardio-vasculaire/coeur/tumeurs cardiaques SIDES/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/tumeurs%20cardiaques%20SIDES/p14_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/tumeurs cardiaques SIDES/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/tumeurs%20cardiaques%20SIDES/p15_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/tumeurs cardiaques SIDES/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/tumeurs%20cardiaques%20SIDES/p15_01.jpeg)
 
 #### Histologie
 - **Franges papillaires** de tissu fibreux
@@ -162,9 +162,9 @@ Distingue :
 - **Armature élastique centrale** (visible à la coloration **orcéine**)
 - IHC inutile pour le diagnostic
 
-![[assets/cardio-vasculaire/coeur/tumeurs cardiaques SIDES/p15_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/tumeurs%20cardiaques%20SIDES/p15_02.jpeg)
 
-![[assets/cardio-vasculaire/coeur/tumeurs cardiaques SIDES/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/tumeurs%20cardiaques%20SIDES/p18_00.jpeg)
 
 #### Évolution
 - **Risque embolique** majeur (microthrombi entre les franges, fragmentation)
@@ -172,7 +172,7 @@ Distingue :
 - **Anticoagulants inefficaces** sur les emboles tumoraux
 - **Traitement chirurgical recommandé** même si découverte fortuite asymptomatique
 
-![[assets/cardio-vasculaire/coeur/tumeurs cardiaques SIDES/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/tumeurs%20cardiaques%20SIDES/p19_00.jpeg)
 
 ## 1.3 Rhabdomyome
 
@@ -189,11 +189,11 @@ Distingue :
 - **Vimentine + marqueurs musculaires** (myogénine, desmine, actine)
 - Diagnostic histologique généralement aisé
 
-![[assets/cardio-vasculaire/coeur/tumeurs cardiaques SIDES/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/tumeurs%20cardiaques%20SIDES/p20_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/tumeurs cardiaques SIDES/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/tumeurs%20cardiaques%20SIDES/p20_01.jpeg)
 
-![[assets/cardio-vasculaire/coeur/tumeurs cardiaques SIDES/p20_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/tumeurs%20cardiaques%20SIDES/p20_02.jpeg)
 
 > **Régression spontanée** fréquente chez l'enfant.
 
@@ -206,7 +206,7 @@ Distingue :
 - Rapport collagène/fibroblastes augmente avec l'âge
 - Complication : **troubles du rythme** par extension intramurale
 
-![[assets/cardio-vasculaire/coeur/tumeurs cardiaques SIDES/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/tumeurs%20cardiaques%20SIDES/p24_00.jpeg)
 
 ---
 
@@ -222,7 +222,7 @@ Distingue :
 - Couleur **brun-noir** (remaniements hémorragiques)
 - Extension possible à la **VCI** ou au **péricarde**
 
-![[assets/cardio-vasculaire/coeur/tumeurs cardiaques SIDES/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/tumeurs%20cardiaques%20SIDES/p26_00.jpeg)
 
 ### Histologie
 - Identique aux angiosarcomes des tissus mous
@@ -239,11 +239,11 @@ Distingue :
 | Facteur VIII | ± (peu utilisé) |
 | HHV8 | **−** (sauf Kaposi) |
 
-![[assets/cardio-vasculaire/coeur/tumeurs cardiaques SIDES/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/tumeurs%20cardiaques%20SIDES/p27_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/tumeurs cardiaques SIDES/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/tumeurs%20cardiaques%20SIDES/p28_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/tumeurs cardiaques SIDES/p28_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/tumeurs%20cardiaques%20SIDES/p28_01.jpeg)
 
 ### Diagnostics différentiels
 | DD | Distinction |
@@ -264,7 +264,7 @@ Distingue :
 - **Oreillette gauche** fréquemment atteinte (forme intra-cavitaire)
 - Macroscopie : tumeur volumineuse, blanchâtre, aspects mixoïdes / kystiques
 
-![[assets/cardio-vasculaire/coeur/tumeurs cardiaques SIDES/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/tumeurs%20cardiaques%20SIDES/p30_00.jpeg)
 
 ## 2.3 Sarcome intimal cardiaque (entité émergente)
 
@@ -283,11 +283,11 @@ Distingue :
 
 > **Confirmation par FISH/biologie moléculaire** : amplification **MDM2** (très utile au diagnostic).
 
-![[assets/cardio-vasculaire/coeur/tumeurs cardiaques SIDES/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/tumeurs%20cardiaques%20SIDES/p32_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/tumeurs cardiaques SIDES/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/tumeurs%20cardiaques%20SIDES/p33_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/tumeurs cardiaques SIDES/p33_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/tumeurs%20cardiaques%20SIDES/p33_01.jpeg)
 
 ## 2.4 Métastases cardiaques
 
@@ -300,9 +300,9 @@ Distingue :
   4. **Lymphatique**
 - Diagnostic possible sur **biopsie péricardique** ou **cytologie péricardique** (épanchement)
 
-![[assets/cardio-vasculaire/coeur/tumeurs cardiaques SIDES/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/tumeurs%20cardiaques%20SIDES/p35_00.jpeg)
 
-![[assets/cardio-vasculaire/coeur/tumeurs cardiaques SIDES/p37_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/coeur/tumeurs%20cardiaques%20SIDES/p37_00.jpeg)
 
 ## Diagnostics différentiels (tableau de synthèse)
 

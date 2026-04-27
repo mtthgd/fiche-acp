@@ -31,9 +31,9 @@ Le **NLPHL** (*nodular lymphocyte-predominant Hodgkin lymphoma*, ancien **paragr
 - Atteinte **ganglionnaire périphérique** (cervicale, axillaire, inguinale)
 - Stades **localisés (I-II)** dans la majorité ; 20 % au stade **III-IV** (rate, moelle) → pronostic plus sombre
 
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p01_00.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p01_01.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p01_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p01_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p02_00.jpeg)
 
 ## Clinique / Épidémio
 
@@ -56,10 +56,10 @@ Le **NLPHL** (*nodular lymphocyte-predominant Hodgkin lymphoma*, ancien **paragr
 - Possibilité de **zones diffuses** (rarement entièrement diffus)
 - Sur fond **sombre lymphocytique** se détachent des **cellules tumorales claires de grande taille**
 
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p02_01.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p03_00.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p03_01.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p03_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p02_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p03_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p03_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p03_02.jpeg)
 
 ### Cellules tumorales — **cellules LP (lymphocyte-predominant)**
 
@@ -76,13 +76,13 @@ Le **NLPHL** (*nodular lymphocyte-predominant Hodgkin lymphoma*, ancien **paragr
 - Lymphocytes **T CD4+ PD-1+ CXCL13+ CD57+** formant des **rosettes** autour des cellules LP (phénotype TFH)
 - **Réseau folliculaire dendritique expansé** (CD21, CD23+)
 
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p04_00.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p04_01.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p04_02.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p04_03.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p04_04.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p04_05.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p04_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p04_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p04_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p04_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p04_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p04_04.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p04_05.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p04_06.jpeg)
 
 ### Patterns architecturaux (Fan, 6 patterns A→F)
 
@@ -100,11 +100,11 @@ Décrits dans les années 2000, **impact pronostique** validé récemment :
 → Patterns **A et B** : pronostic favorable.
 → Patterns **C-F** (notamment E « TCRBCL-like ») : pronostic plus réservé.
 
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p05_00.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p05_01.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p05_02.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p05_03.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p05_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p05_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p05_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p05_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p05_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p05_04.jpeg)
 
 ## Immunohistochimie
 
@@ -124,15 +124,15 @@ Décrits dans les années 2000, **impact pronostique** validé récemment :
 | **CD21 / CD23** | + sur le **réseau FDC expansé** | |
 | **PD-1, CD57, CXCL13** | + sur les **rosettes T** péri-tumorales (phénotype TFH) | |
 
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p06_00.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p06_01.png]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p07_00.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p07_01.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p07_02.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p07_03.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p08_00.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p08_01.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p08_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p06_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p06_01.png)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p07_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p07_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p07_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p07_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p08_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p08_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p08_02.jpeg)
 
 ### Panel recommandé pour le diagnostic
 **CD20, CD30, CD15, EBV (LMP1/EBER), PAX5, EMA, OCT2, IgD, CD3, PD-1, CD21 et/ou CD23**.
@@ -164,11 +164,11 @@ Décrits dans les années 2000, **impact pronostique** validé récemment :
   - **BCL2 négatif** dans les cellules du CG, **fortement positif** dans le manteau (souligne la dislocation)
 - Si nombreux PTGC → rechercher activement un NLPHL
 
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p09_00.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p09_01.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p09_02.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p10_00.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p09_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p09_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p09_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p10_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p10_01.jpeg)
 
 ### NLPHL vs cHL classique riche en lymphocytes (cHL-RL)
 
@@ -189,10 +189,10 @@ Décrits dans les années 2000, **impact pronostique** validé récemment :
 | **EBV** | exceptionnel | + dans **> 25 %** |
 | Rosettes péri-tumorales | T CD3+ **CD4+ PD-1+ CD57+** | T CD3+ |
 
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p11_00.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p11_01.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p11_02.jpeg]]
-![[assets/hematologie/lymphome-hodgkin/Diaporama 07-365_NLPHL Marie Parrens/p11_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p11_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p11_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p11_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome-hodgkin/Diaporama%2007-365_NLPHL%20Marie%20Parrens/p11_03.jpeg)
 
 ## Pronostic / Traitement
 

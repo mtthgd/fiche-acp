@@ -31,18 +31,18 @@ Entités abordées :
 - **Survie à 5 ans ~20%**
 - Pédiatrie : tête-cou (**langue, orbite**), variant **solide**, survie **100% à 5 ans**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p03_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p03_01.jpeg)
 
 ### Macroscopie
 - Masse bien limitée, multinodulaire, infiltrant le muscle
 - Blanchâtre à jaunâtre, **molle**, remaniements hémorragiques/nécrotiques
 - **Pédicule vasculaire** volumineux
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p03_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p03_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p03_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p03_03.jpeg)
 
 ### Histologie
 - **Architecture alvéolaire** = nids de cellules **non cohésives** (artefact de fixation)
@@ -53,13 +53,13 @@ Entités abordées :
 - **Cristaux/granules intracytoplasmiques PAS+**
 - **Embols vasculaires fréquents** (explique métastases)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p05_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p05_00.png)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p07_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p07_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p08_00.jpeg)
 
 ### IHC
 - **TFE3 nucléaire +++** (marquage **plus intense** que dans carcinomes rénaux à translocation TFE3)
@@ -69,11 +69,11 @@ Entités abordées :
 - Même translocation que carcinome rénal à translocation et certaines tumeurs à cellules granuleuses → **convergence des données** nécessaire
 - Détection : **RT-PCR, RNA-seq, FISH TFE3 break-apart**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p09_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p10_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p11_00.jpeg)
 
 ---
 
@@ -86,15 +86,15 @@ Entités abordées :
 - **Pronostic mauvais** : survie 20 ans **~10%**
 - Métastases semblables au mélanome : **ganglions lymphatiques**, os, poumon
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p12_00.jpeg)
 
 ### Macroscopie
 - Tumeur charnue, blanchâtre, polylobée, infiltrante (muscle, tendons)
 - **DD clinique/imagerie : tumeur ténosynoviale à cellules géantes** (ex-synovite villonodulaire)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p13_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p14_00.jpeg)
 
 ### Histologie
 - Architecture **fasciculée ou en nids**, cellules de grande taille, **fusiformes ou épithélioïdes**
@@ -105,20 +105,20 @@ Entités abordées :
 - **Septa fibreux**
 - **Pigment mélanique** variable (intracellulaire ou dans mélanophages), parfois absent
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p16_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p17_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p18_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p19_00.jpeg)
 
 ### IHC
 - **Marqueurs mélanocytaires +** : **S100, Melan-A, HMB45, SOX10** (expression variable)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p20_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p21_00.jpeg)
 
 ### Biologie moléculaire
 - **Translocation t(12;22)** → fusion **EWSR1–ATF1**
@@ -126,9 +126,9 @@ Entités abordées :
 - **Mélanome : PAS de remaniement EWSR1** → critère différentiel majeur
 - **Convergence des données** (clinique, imagerie, morphologie, IHC, moléculaire)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p21_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p22_00.jpeg)
 
 ---
 
@@ -140,42 +140,42 @@ Entités abordées :
 - Localisation **intra-abdominale**
 - **Pronostic très mauvais**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p23_00.jpeg)
 
 ### Macroscopie
 - **Multiples nodules péritonéaux** (présentation classique) ; formes localisées possibles
 - Nodules blanchâtres en surface de l'épiploon
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p23_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p23_03.jpeg)
 
 ### Histologie
 - **Massifs cohésifs de petites cellules rondes** dans un **stroma desmoplasique** (fibreux +++)
 - Proportions cellules/stroma variables
 - Cellules **monomorphes indifférenciées** : noyau arrondi, chromatine dense, cytoplasme peu abondant
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p25_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p25_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p25_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p26_00.jpeg)
 
 ### IHC — **Différenciation polyphénotypique** (caractéristique)
 - **Desmine +** (musculaire)
 - **Pan-cytokératines +, EMA +** (épithéliaux)
 - **WT1 nucléaire +** (anticorps dirigé contre la **partie C-terminale**)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p27_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p28_00.jpeg)
 
 ### Biologie moléculaire
 - **Translocation t(11;22)** → fusion **EWSR1–WT1**
 - FISH break-apart EWSR1 suffisante dans le contexte
 - RT-PCR / RNA-seq pour le transcrit
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p29_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p29_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p29_01.jpeg)
 
 ### Diagnostics différentiels
 | DD | Distinction |
@@ -194,16 +194,16 @@ Entités abordées :
 - Localisation : **tissus mous cuisse/fesses**, tête-cou
 - Pronostic mauvais : **60% de survie à 15 ans**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p30_00.jpeg)
 
 ### Macroscopie
 - Tumeur nodulaire/multinodulaire, beige blanchâtre, **translucide**
 - Remaniements kystiques, hémorragiques, nécrotiques
 - Limites microscopiques floues (nodules satellites dans TM adjacents)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p31_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p31_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p31_01.jpeg)
 
 ### Histologie
 - **Architecture réticulée ou cordonale, pseudo-acineuse** dans un **fond myxoïde**
@@ -213,32 +213,32 @@ Entités abordées :
 - Cytoplasme **éosinophile**
 - Mitoses rares
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p31_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p31_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p33_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p33_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p33_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p33_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p33_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p34_00.jpeg)
 
 ### IHC — Peu contributive
 - **S100 + dans 20%** seulement
 - **Cytokératines −**
 - Diagnostic différentiel principal = **tumeur mixte / myoépithéliome des TM** (IHC non discriminante) → morphologie++
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p35_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p35_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p35_01.jpeg)
 
 ### Biologie moléculaire
 - **Translocation t(9;22)** → fusion **EWSR1–NR4A3**
 - Recherche **NR4A3** break-apart (**plus spécifique** que EWSR1) car les myoépithéliomes aussi peuvent avoir un remaniement EWSR1
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p37_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p37_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p37_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p37_01.jpeg)
 
 ### Diagnostics différentiels
 | DD | Distinction |
@@ -248,7 +248,7 @@ Entités abordées :
 | **Sarcome épithélioïde** | **Pas de fond myxoïde** |
 | **Liposarcome myxoïde** | Vascularisation arborisée ; cellules non "en contact" |
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p38_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p38_00.jpeg)
 
 ---
 
@@ -261,7 +261,7 @@ Entités abordées :
 | **DSRCT** | Enfant/ado, M | Intra-abdominal | Petites cellules rondes + stroma desmoplasique | **Desmine+, CK+, EMA+, WT1+ (C-term)** | **t(11;22) EWSR1–WT1** |
 | **Chondrosarcome myxoïde ES** | Adulte moyen, M | Cuisse, fesses | Réticulé, "main dans la main", fond myxoïde | S100 ± (20%) | **t(9;22) EWSR1–NR4A3** |
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580 Sarcomes de différenciation incertaine (2)/p40_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-580%20Sarcomes%20de%20diff%C3%A9renciation%20incertaine%20%282%29/p40_01.jpeg)
 
 ---
 

@@ -132,13 +132,13 @@ Macronodule régénératif → Nodule dysplasique bas grade → Nodule dysplasiq
 
 > **Positivité de 2 marqueurs sur 3** = diagnostic de CHC avec **excellente spécificité**, mais **sensibilité ~60 %** sur biopsie.
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.14 orientations diagnostiques devant une tumeur hépatique/p10_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.14%20orientations%20diagnostiques%20devant%20une%20tumeur%20h%C3%A9patique/p10_01.png)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.14 orientations diagnostiques devant une tumeur hépatique/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.14%20orientations%20diagnostiques%20devant%20une%20tumeur%20h%C3%A9patique/p11_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.14 orientations diagnostiques devant une tumeur hépatique/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.14%20orientations%20diagnostiques%20devant%20une%20tumeur%20h%C3%A9patique/p11_01.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.14 orientations diagnostiques devant une tumeur hépatique/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.14%20orientations%20diagnostiques%20devant%20une%20tumeur%20h%C3%A9patique/p12_01.jpeg)
 
 ---
 
@@ -227,9 +227,9 @@ Macronodule régénératif → Nodule dysplasique bas grade → Nodule dysplasiq
 - IHC caractéristique : **CK7 + diffus** (hépatocyte CHC classique = CK7 −)
 - **Génétique** : transcrit de fusion **DNAJB1-PRKACA** (chr 19) **spécifique** = confirme le diagnostic
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.14 orientations diagnostiques devant une tumeur hépatique/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.14%20orientations%20diagnostiques%20devant%20une%20tumeur%20h%C3%A9patique/p17_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.14 orientations diagnostiques devant une tumeur hépatique/p17_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.14%20orientations%20diagnostiques%20devant%20une%20tumeur%20h%C3%A9patique/p17_03.jpeg)
 
 ### B. Carcinome cholangiocellulaire (sous-type d'hépatocholangiocarcinome OMS 2010)
 - Tumeur issue des **ductules** ou cellules progénitrices
@@ -243,9 +243,9 @@ Macronodule régénératif → Nodule dysplasique bas grade → Nodule dysplasiq
 - **Absence de sinusoïdes**, aspect parfois fusiforme, rares adipocytes
 - IHC : **HMB45+, Melan-A+**, SMA+ ; **HepPar1−, arginase−**
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.14 orientations diagnostiques devant une tumeur hépatique/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.14%20orientations%20diagnostiques%20devant%20une%20tumeur%20h%C3%A9patique/p18_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.14 orientations diagnostiques devant une tumeur hépatique/p18_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.14%20orientations%20diagnostiques%20devant%20une%20tumeur%20h%C3%A9patique/p18_02.jpeg)
 
 ### D. Hémangioendothéliome épithélioïde (HEHE)
 - Tumeur vasculaire **rare**, **malignité intermédiaire**
@@ -254,11 +254,11 @@ Macronodule régénératif → Nodule dysplasique bas grade → Nodule dysplasiq
 - **Lumières intracytoplasmiques avec hématies** = critère évocateur
 - IHC : CD31, **CD34, ERG**, **CAMTA1+** (translocation **WWTR1-CAMTA1** dans **95 %**)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.14 orientations diagnostiques devant une tumeur hépatique/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.14%20orientations%20diagnostiques%20devant%20une%20tumeur%20h%C3%A9patique/p19_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.14 orientations diagnostiques devant une tumeur hépatique/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.14%20orientations%20diagnostiques%20devant%20une%20tumeur%20h%C3%A9patique/p19_01.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.14 orientations diagnostiques devant une tumeur hépatique/p19_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.14%20orientations%20diagnostiques%20devant%20une%20tumeur%20h%C3%A9patique/p19_03.jpeg)
 
 ### E. Angiosarcome hépatique
 - Tumeur vasculaire **maligne haut grade**, **très mauvais pronostic**
@@ -266,11 +266,11 @@ Macronodule régénératif → Nodule dysplasique bas grade → Nodule dysplasiq
 - Diagnostic = **panel 3 marqueurs endothéliaux** : **CD31 + CD34 + ERG** (éviter les « trous phénotypiques »)
 - DD : HEHE (CAMTA1+), métastase d'angiosarcome cutané
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.14 orientations diagnostiques devant une tumeur hépatique/p20_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.14%20orientations%20diagnostiques%20devant%20une%20tumeur%20h%C3%A9patique/p20_00.png)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.14 orientations diagnostiques devant une tumeur hépatique/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.14%20orientations%20diagnostiques%20devant%20une%20tumeur%20h%C3%A9patique/p21_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.14 orientations diagnostiques devant une tumeur hépatique/p21_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.14%20orientations%20diagnostiques%20devant%20une%20tumeur%20h%C3%A9patique/p21_05.jpeg)
 
 ---
 

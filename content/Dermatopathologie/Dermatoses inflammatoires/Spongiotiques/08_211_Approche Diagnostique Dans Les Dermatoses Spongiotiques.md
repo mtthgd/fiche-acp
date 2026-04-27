@@ -23,9 +23,9 @@ source: DES ACP - Cours de Dermatopathologie
 - **Exocytose** d'éléments inflammatoires mononucléés
 - Infiltrat lymphocytaire du derme superficiel ± profond, ± **polynucléaires éosinophiles**
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211 Approche Diagnostique Dans Les Dermatoses Spongiotiques/p02_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211%20Approche%20Diagnostique%20Dans%20Les%20Dermatoses%20Spongiotiques/p02_01.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211 Approche Diagnostique Dans Les Dermatoses Spongiotiques/p02_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211%20Approche%20Diagnostique%20Dans%20Les%20Dermatoses%20Spongiotiques/p02_02.jpeg)
 
 ## Classification histologique en 3 stades
 
@@ -43,7 +43,7 @@ source: DES ACP - Cours de Dermatopathologie
 - Infiltrat périvasculaire lymphocytaire ± PNE
 - **Pas d'acanthose, pas de parakératose**
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211 Approche Diagnostique Dans Les Dermatoses Spongiotiques/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211%20Approche%20Diagnostique%20Dans%20Les%20Dermatoses%20Spongiotiques/p04_01.jpeg)
 
 ## Dermatose spongiotique subaiguë
 
@@ -53,9 +53,9 @@ source: DES ACP - Cours de Dermatopathologie
 - Cellules endothéliales **turgescentes**
 - Exemple : **eczéma nummulaire**
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211 Approche Diagnostique Dans Les Dermatoses Spongiotiques/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211%20Approche%20Diagnostique%20Dans%20Les%20Dermatoses%20Spongiotiques/p05_01.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211 Approche Diagnostique Dans Les Dermatoses Spongiotiques/p05_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211%20Approche%20Diagnostique%20Dans%20Les%20Dermatoses%20Spongiotiques/p05_02.jpeg)
 
 ## Dermatose spongiotique chronique (lichénification)
 
@@ -68,9 +68,9 @@ source: DES ACP - Cours de Dermatopathologie
 
 > ⚠️ **Devant toute parakératose : faire un PAS** pour éliminer une mycose.
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211 Approche Diagnostique Dans Les Dermatoses Spongiotiques/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211%20Approche%20Diagnostique%20Dans%20Les%20Dermatoses%20Spongiotiques/p07_01.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211 Approche Diagnostique Dans Les Dermatoses Spongiotiques/p07_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211%20Approche%20Diagnostique%20Dans%20Les%20Dermatoses%20Spongiotiques/p07_02.jpeg)
 
 ## Récapitulatif histologique selon le stade
 
@@ -83,7 +83,7 @@ source: DES ACP - Cours de Dermatopathologie
 | Œdème dermique | + | + | − |
 | Fibrose dermique papillaire | − | − | **+** |
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211 Approche Diagnostique Dans Les Dermatoses Spongiotiques/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211%20Approche%20Diagnostique%20Dans%20Les%20Dermatoses%20Spongiotiques/p08_01.jpeg)
 
 ## Étiologies des dermatoses spongiotiques
 
@@ -104,11 +104,11 @@ Nombreuses, dominées par la famille des **eczémas** :
 - Syndromes hyperéosinophiliques
 - Syndrome de Gianotti-Crosti (acrodermite papuleuse de l'enfance)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211 Approche Diagnostique Dans Les Dermatoses Spongiotiques/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211%20Approche%20Diagnostique%20Dans%20Les%20Dermatoses%20Spongiotiques/p09_01.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211 Approche Diagnostique Dans Les Dermatoses Spongiotiques/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211%20Approche%20Diagnostique%20Dans%20Les%20Dermatoses%20Spongiotiques/p09_02.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211 Approche Diagnostique Dans Les Dermatoses Spongiotiques/p09_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211%20Approche%20Diagnostique%20Dans%20Les%20Dermatoses%20Spongiotiques/p09_03.jpeg)
 
 ## Importance de la corrélation anatomo-clinique
 
@@ -131,11 +131,11 @@ Basé sur :
 | **Superficiel seul** | Eczéma de contact, dermatose photo-allergique, dermatophytie, miliaire sudorale, pityriasis rosé Gibert, érythème annulaire centrifuge, dermatite séborrhéique, dermatite irritative, toxidermie | Dermatose polymorphe de grossesse, **pemphigoïde bulleuse pré-bulleuse**, piqûre d'insecte, gale, toxidermie |
 | **Superficiel + profond** | Photo-allergie, lucite polymorphe | Piqûre d'insecte, gale, syndromes hyperéosinophiliques |
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211 Approche Diagnostique Dans Les Dermatoses Spongiotiques/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211%20Approche%20Diagnostique%20Dans%20Les%20Dermatoses%20Spongiotiques/p14_01.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211 Approche Diagnostique Dans Les Dermatoses Spongiotiques/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211%20Approche%20Diagnostique%20Dans%20Les%20Dermatoses%20Spongiotiques/p14_02.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211 Approche Diagnostique Dans Les Dermatoses Spongiotiques/p14_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211%20Approche%20Diagnostique%20Dans%20Les%20Dermatoses%20Spongiotiques/p14_03.jpeg)
 
 ## Exemples cliniques et histologiques
 
@@ -143,7 +143,7 @@ Basé sur :
 - Vésicules enchâssées dans l'épiderme, couche cornée épaisse (extrémités)
 - Spongiose + infiltrat périvasculaire
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211 Approche Diagnostique Dans Les Dermatoses Spongiotiques/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211%20Approche%20Diagnostique%20Dans%20Les%20Dermatoses%20Spongiotiques/p18_01.jpeg)
 
 ### Dermatite séborrhéique
 - Image intermédiaire entre psoriasis et eczéma
@@ -151,14 +151,14 @@ Basé sur :
 - Parakératose **proche des ostiums folliculaires**
 - Atteinte sourcils, paupières, ailes du nez, sillons naso-géniens
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211 Approche Diagnostique Dans Les Dermatoses Spongiotiques/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211%20Approche%20Diagnostique%20Dans%20Les%20Dermatoses%20Spongiotiques/p19_01.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211 Approche Diagnostique Dans Les Dermatoses Spongiotiques/p19_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211%20Approche%20Diagnostique%20Dans%20Les%20Dermatoses%20Spongiotiques/p19_02.jpeg)
 
 ### Miliaire sudorale
 - Spongiose + exocytose lymphocytaire **centrée sur l'acrosyringium**
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211 Approche Diagnostique Dans Les Dermatoses Spongiotiques/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211%20Approche%20Diagnostique%20Dans%20Les%20Dermatoses%20Spongiotiques/p20_01.jpeg)
 
 ### Pityriasis rosé de Gibert
 - Adultes jeunes, prédominance féminine, variations saisonnières (printemps/automne)
@@ -166,18 +166,18 @@ Basé sur :
 - Disparition spontanée en quelques semaines
 - Histologie : spongiose subaiguë, hyperkératose parakératosique (faire PAS), infiltrat périvasculaire lymphocytaire avec exocytose
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211 Approche Diagnostique Dans Les Dermatoses Spongiotiques/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211%20Approche%20Diagnostique%20Dans%20Les%20Dermatoses%20Spongiotiques/p21_01.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211 Approche Diagnostique Dans Les Dermatoses Spongiotiques/p21_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211%20Approche%20Diagnostique%20Dans%20Les%20Dermatoses%20Spongiotiques/p21_02.jpeg)
 
 ### Dermatose polymorphe de la grossesse (PUPPP)
 - Dernières semaines de grossesse, très prurigineuse
 - Papules, vésicules, plaques urticariennes débutant sur l'abdomen
 - Histologie : épiderme peu modifié, petite vésicule sous-cornée, infiltrat périvasculaire **avec PNE**
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211 Approche Diagnostique Dans Les Dermatoses Spongiotiques/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211%20Approche%20Diagnostique%20Dans%20Les%20Dermatoses%20Spongiotiques/p22_01.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211 Approche Diagnostique Dans Les Dermatoses Spongiotiques/p22_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-spongiotiques/08-211%20Approche%20Diagnostique%20Dans%20Les%20Dermatoses%20Spongiotiques/p22_02.jpeg)
 
 ### Syndrome de Gianotti-Crosti (acrodermite papuleuse de l'enfance)
 - Enfants 2-6 ans

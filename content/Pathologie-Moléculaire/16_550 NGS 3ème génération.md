@@ -55,7 +55,7 @@ Deux technologies dominent le marché :
 | Plate-formes | **Sequel II, Revio** |
 | Particularité | **Mode CCS HiFi** : circulariser et lire plusieurs fois → consensus précis |
 
-![[assets/pathologie-moleculaire/ngs/16-550 Les techniques  NGS de 3eme génération/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-550%20Les%20techniques%20%20NGS%20de%203eme%20g%C3%A9n%C3%A9ration/p02_00.jpeg)
 
 
 
@@ -87,7 +87,7 @@ Deux technologies dominent le marché :
 | Lecture | **Temps réel** — accessible dès la 1ʳᵉ molécule séquencée |
 | Particularité | **Détecte les modifications de bases** (méthylation directe) |
 
-![[assets/pathologie-moleculaire/ngs/16-550 Les techniques  NGS de 3eme génération/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-550%20Les%20techniques%20%20NGS%20de%203eme%20g%C3%A9n%C3%A9ration/p04_00.jpeg)
 
 
 ## Comparaison 3G — PacBio vs Nanopore

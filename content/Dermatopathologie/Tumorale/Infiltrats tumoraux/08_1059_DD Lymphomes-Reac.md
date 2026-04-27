@@ -53,9 +53,9 @@ Question **quotidienne** en dermatopathologie : différencier **lymphome cutané
 | Phénotype | **CD3+, CD4+** |
 | **CD20** | **−** (rares B) |
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic différentiel Lymphomes-Reactionnel/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic%20diff%C3%A9rentiel%20Lymphomes-Reactionnel/p03_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic différentiel Lymphomes-Reactionnel/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic%20diff%C3%A9rentiel%20Lymphomes-Reactionnel/p03_01.jpeg)
 
 
 
@@ -69,11 +69,11 @@ Question **quotidienne** en dermatopathologie : différencier **lymphome cutané
 | Lymphocytes **CD8+** épidermotropes | + (souvent toxidermie) |
 | **CD20+** présents | + |
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic différentiel Lymphomes-Reactionnel/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic%20diff%C3%A9rentiel%20Lymphomes-Reactionnel/p04_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic différentiel Lymphomes-Reactionnel/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic%20diff%C3%A9rentiel%20Lymphomes-Reactionnel/p04_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic différentiel Lymphomes-Reactionnel/p04_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic%20diff%C3%A9rentiel%20Lymphomes-Reactionnel/p04_02.jpeg)
 
 
 ⚠️ **Hyperplasie psoriasiforme** :
@@ -81,11 +81,11 @@ Question **quotidienne** en dermatopathologie : différencier **lymphome cutané
 - MF palmoplantaire ✔ (ne pas oublier)
 → Trancher sur la **clinique**
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic différentiel Lymphomes-Reactionnel/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic%20diff%C3%A9rentiel%20Lymphomes-Reactionnel/p05_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic différentiel Lymphomes-Reactionnel/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic%20diff%C3%A9rentiel%20Lymphomes-Reactionnel/p05_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic différentiel Lymphomes-Reactionnel/p05_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic%20diff%C3%A9rentiel%20Lymphomes-Reactionnel/p05_02.jpeg)
 
 ⚠️ **Atteinte de l'interface (vacuolisation basale)** :
 - Rares **MF lichénoïdes** existent → **éliminer toxidermie lichénoïde** d'abord
@@ -93,11 +93,11 @@ Question **quotidienne** en dermatopathologie : différencier **lymphome cutané
 ⚠️ **Nécrose kératinocytaire** :
 - **MF nécrosants** rares → éliminer **toxidermie pseudo-MF** ou **dermite caustique** (chimio caryolitique)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic différentiel Lymphomes-Reactionnel/p05_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic%20diff%C3%A9rentiel%20Lymphomes-Reactionnel/p05_05.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic différentiel Lymphomes-Reactionnel/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic%20diff%C3%A9rentiel%20Lymphomes-Reactionnel/p06_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic différentiel Lymphomes-Reactionnel/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic%20diff%C3%A9rentiel%20Lymphomes-Reactionnel/p06_01.jpeg)
 
 
 ## Importance du **CD20**
@@ -106,9 +106,9 @@ Question **quotidienne** en dermatopathologie : différencier **lymphome cutané
 - MF **ne contient PAS de B**
 - Beaucoup de B dans un infiltrat épidermotrope superficiel → penser **réactionnel** (médicament, piqûre d'insecte) ou **autre lymphome** (MF transformé avec CD20+)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic différentiel Lymphomes-Reactionnel/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic%20diff%C3%A9rentiel%20Lymphomes-Reactionnel/p07_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic différentiel Lymphomes-Reactionnel/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic%20diff%C3%A9rentiel%20Lymphomes-Reactionnel/p07_01.jpeg)
 
 
 ---
@@ -140,18 +140,18 @@ Question **quotidienne** en dermatopathologie : différencier **lymphome cutané
 
 → La **clinique** + suivi tranchent.
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic différentiel Lymphomes-Reactionnel/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic%20diff%C3%A9rentiel%20Lymphomes-Reactionnel/p08_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic différentiel Lymphomes-Reactionnel/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic%20diff%C3%A9rentiel%20Lymphomes-Reactionnel/p08_01.jpeg)
 
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic différentiel Lymphomes-Reactionnel/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic%20diff%C3%A9rentiel%20Lymphomes-Reactionnel/p09_00.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic différentiel Lymphomes-Reactionnel/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic%20diff%C3%A9rentiel%20Lymphomes-Reactionnel/p09_01.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic différentiel Lymphomes-Reactionnel/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic%20diff%C3%A9rentiel%20Lymphomes-Reactionnel/p09_02.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic différentiel Lymphomes-Reactionnel/p09_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic%20diff%C3%A9rentiel%20Lymphomes-Reactionnel/p09_03.jpeg)
 
 
 ---
@@ -177,11 +177,11 @@ Question **quotidienne** en dermatopathologie : différencier **lymphome cutané
 
 
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic différentiel Lymphomes-Reactionnel/p11_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic%20diff%C3%A9rentiel%20Lymphomes-Reactionnel/p11_03.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic différentiel Lymphomes-Reactionnel/p11_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic%20diff%C3%A9rentiel%20Lymphomes-Reactionnel/p11_04.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic différentiel Lymphomes-Reactionnel/p11_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic%20diff%C3%A9rentiel%20Lymphomes-Reactionnel/p11_05.jpeg)
 
 
 ## Cas 2 — Mélange B + T **intriqué** (PAS de nodules B distincts)
@@ -201,9 +201,9 @@ Question **quotidienne** en dermatopathologie : différencier **lymphome cutané
 
 
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic différentiel Lymphomes-Reactionnel/p13_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic%20diff%C3%A9rentiel%20Lymphomes-Reactionnel/p13_04.jpeg)
 
-![[assets/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic différentiel Lymphomes-Reactionnel/p13_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/infiltrats-tumoraux-cutanees/08-1059-Diagnostic%20diff%C3%A9rentiel%20Lymphomes-Reactionnel/p13_05.jpeg)
 
 
 ---

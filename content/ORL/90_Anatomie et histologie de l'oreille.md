@@ -30,7 +30,7 @@ L'oreille est un **convertisseur d'ondes sonores en signal électrique**. Elle c
 ## Physiologie rapide
 Pavillon (capteur/résonateur) → CAE (conduction) → tympan (vibration) → chaîne ossiculaire (amplification) → fenêtre ovale → endolymphe → cils des cellules de **l'organe de Corti** (cellules neuroépithéliales) → signal électrique au nerf cochléaire.
 
-![[assets/ORL/oreille/introduction/10-511 anatomie histologie oreille/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/introduction/10-511%20anatomie%20histologie%20oreille/p04_00.jpeg)
 
 ## Oreille externe
 
@@ -39,7 +39,7 @@ Pavillon (capteur/résonateur) → CAE (conduction) → tympan (vibration) → c
 - Revêtement cutané : épiderme + derme, **hypoderme très réduit**
 - Subdivisions : hélix, anthélix, conque, lobule, **tragus** (petite saillie protectrice du CAE)
 
-![[assets/ORL/oreille/introduction/10-511 anatomie histologie oreille/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/introduction/10-511%20anatomie%20histologie%20oreille/p05_00.jpeg)
 
 ### Conduit auditif externe
 - Portion **fibro-cartilagineuse** externe (1/3 externe)
@@ -56,8 +56,8 @@ Double assise :
 
 **Importance** : reconnaître cette différenciation **apocrine** permet d'identifier les tumeurs cérumineuses (voir [[92_Tumeurs bénignes de l'oreille]], [[93_Tumeurs malignes de l'oreille]]).
 
-![[assets/ORL/oreille/introduction/10-511 anatomie histologie oreille/p07_00.jpeg]]
-![[assets/ORL/oreille/introduction/10-511 anatomie histologie oreille/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/introduction/10-511%20anatomie%20histologie%20oreille/p07_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/introduction/10-511%20anatomie%20histologie%20oreille/p08_00.jpeg)
 
 ### Tympan
 - Membrane très fine : **0,1 mm** d'épaisseur, convexe en dedans
@@ -72,10 +72,10 @@ Double assise :
 - Sépare oreille externe/moyenne
 - Le **manche du marteau** est entièrement intégré dans l'épaisseur du tympan
 
-![[assets/ORL/oreille/introduction/10-511 anatomie histologie oreille/p09_00.jpeg]]
-![[assets/ORL/oreille/introduction/10-511 anatomie histologie oreille/p11_00.jpeg]]
-![[assets/ORL/oreille/introduction/10-511 anatomie histologie oreille/p11_01.jpeg]]
-![[assets/ORL/oreille/introduction/10-511 anatomie histologie oreille/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/introduction/10-511%20anatomie%20histologie%20oreille/p09_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/introduction/10-511%20anatomie%20histologie%20oreille/p11_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/introduction/10-511%20anatomie%20histologie%20oreille/p11_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/introduction/10-511%20anatomie%20histologie%20oreille/p11_02.jpeg)
 
 ## Oreille moyenne
 
@@ -100,16 +100,16 @@ Espaces aériques creusés dans la mastoïde, tapissés par l'épithélium de la
 - Épithélium de **type respiratoire** (cylindrique cilié pseudo-stratifié)
 - Corion : **glandes sous-muqueuses sero-muqueuses**, parfois **tissu lymphoïde**
 
-![[assets/ORL/oreille/introduction/10-511 anatomie histologie oreille/p12_00.jpeg]]
-![[assets/ORL/oreille/introduction/10-511 anatomie histologie oreille/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/introduction/10-511%20anatomie%20histologie%20oreille/p12_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/introduction/10-511%20anatomie%20histologie%20oreille/p14_00.jpeg)
 
 ### Osselets — les 3 plus petits os du corps humain
 1. **Marteau** (manche inclus dans le tympan) — s'articule avec...
 2. **Enclume** — s'articule avec...
 3. **Étrier** — platine appuyée sur la **fenêtre ovale (vestibulaire)**
 
-![[assets/ORL/oreille/introduction/10-511 anatomie histologie oreille/p15_00.jpeg]]
-![[assets/ORL/oreille/introduction/10-511 anatomie histologie oreille/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/introduction/10-511%20anatomie%20histologie%20oreille/p15_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/introduction/10-511%20anatomie%20histologie%20oreille/p15_01.jpeg)
 
 ## Oreille interne
 
@@ -129,12 +129,12 @@ Espaces aériques creusés dans la mastoïde, tapissés par l'épithélium de la
 - Reposent sur des **cellules de soutien**
 - Cilia → contraction → signal électrique au **nerf cochléaire (VIII)**
 
-![[assets/ORL/oreille/introduction/10-511 anatomie histologie oreille/p16_01.jpeg]]
-![[assets/ORL/oreille/introduction/10-511 anatomie histologie oreille/p16_02.jpeg]]
-![[assets/ORL/oreille/introduction/10-511 anatomie histologie oreille/p18_00.jpeg]]
-![[assets/ORL/oreille/introduction/10-511 anatomie histologie oreille/p19_00.jpeg]]
-![[assets/ORL/oreille/introduction/10-511 anatomie histologie oreille/p20_00.jpeg]]
-![[assets/ORL/oreille/introduction/10-511 anatomie histologie oreille/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/introduction/10-511%20anatomie%20histologie%20oreille/p16_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/introduction/10-511%20anatomie%20histologie%20oreille/p16_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/introduction/10-511%20anatomie%20histologie%20oreille/p18_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/introduction/10-511%20anatomie%20histologie%20oreille/p19_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/introduction/10-511%20anatomie%20histologie%20oreille/p20_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oreille/introduction/10-511%20anatomie%20histologie%20oreille/p21_00.jpeg)
 
 ## Tableau synthétique des épithéliums
 

@@ -23,7 +23,7 @@ source: DES ACP - Cours de gynéco-pathologie
 
 Le **sein** est appendu à la paroi antérieure du thorax, maintenu par le **fascia superficialis thoracique** qui se divise en lame **rétro-mammaire** et lame **pré-mammaire**, donnant naissance aux **ligaments suspenseurs** (ligaments de Cooper).
 
-![[assets/gyneco-sein/sein/anatomie-histologie/04_09 anatomie et carcinogénèse mammaire DES 2018/p03_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/anatomie-histologie/04_09%20anatomie%20et%20carcinog%C3%A9n%C3%A8se%20mammaire%20DES%202018/p03_00.png)
 
 ### Vascularisation
 - **Artères** : thoracique interne (subclavière) + thoracique latérale (axillaire) → intercostales ventrales/dorsales et rameaux profonds.
@@ -33,7 +33,7 @@ Le **sein** est appendu à la paroi antérieure du thorax, maintenu par le **fas
 - Voie principale : **groupe axillaire homolatéral** (sous-scapulaire, brachial, pectoral) divisé en **3 étages de Berg** (par rapport au petit pectoral).
 - Voies accessoires : groupe **thoracique interne**, **supra-claviculaire**, **axillaire controlatéral**.
 
-![[assets/gyneco-sein/sein/anatomie-histologie/04_09 anatomie et carcinogénèse mammaire DES 2018/p04_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/anatomie-histologie/04_09%20anatomie%20et%20carcinog%C3%A9n%C3%A8se%20mammaire%20DES%202018/p04_00.png)
 
 ### Innervation
 Nerf cutané médial du bras via le **nerf intercosto-brachial** et ses rameaux cutanés antérieurs et latéraux.
@@ -46,7 +46,7 @@ Nerf cutané médial du bras via le **nerf intercosto-brachial** et ses rameaux 
 - Architecture : **20 lobes** → **20 à 40 lobules** par lobe → **10 à 100 alvéoles (acini)** par lobule.
 - Unité fonctionnelle de base = **TDLU** (terminal duct-lobular unit).
 
-![[assets/gyneco-sein/sein/anatomie-histologie/04_09 anatomie et carcinogénèse mammaire DES 2018/p05_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/anatomie-histologie/04_09%20anatomie%20et%20carcinog%C3%A9n%C3%A8se%20mammaire%20DES%202018/p05_00.png)
 
 ## Histologie
 
@@ -57,13 +57,13 @@ Nerf cutané médial du bras via le **nerf intercosto-brachial** et ses rameaux 
 - **Cellules de Toker** : cellules arrondies **CK7+**, intra-épithéliales, à distinguer des cellules de la maladie de **Paget**.
 - **Canaux galactophores** traversent le tissu conjonctif et s’abouchent par les pores galactophores (souvent comblés de kératine en dehors de la grossesse).
 
-![[assets/gyneco-sein/sein/anatomie-histologie/04_09 anatomie et carcinogénèse mammaire DES 2018/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/anatomie-histologie/04_09%20anatomie%20et%20carcinog%C3%A9n%C3%A8se%20mammaire%20DES%202018/p07_00.jpeg)
 
 ### Canaux galactophores
 - Aspect **festonné** caractéristique en coupe transversale.
 - Bordés par **2 couches** : épithéliale (luminale) + **myoépithéliale** (basale).
 
-![[assets/gyneco-sein/sein/anatomie-histologie/04_09 anatomie et carcinogénèse mammaire DES 2018/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/anatomie-histologie/04_09%20anatomie%20et%20carcinog%C3%A9n%C3%A8se%20mammaire%20DES%202018/p08_00.jpeg)
 
 ### TDLU
 - Lobe = multiples lobules.
@@ -71,14 +71,14 @@ Nerf cutané médial du bras via le **nerf intercosto-brachial** et ses rameaux 
 - Acini soutenus par le **stroma intra-lobulaire** ; lobules dans le **stroma inter-lobulaire**.
 - Cellules myoépithéliales : entre épithélium et membrane basale, pouvoir contractile.
 
-![[assets/gyneco-sein/sein/anatomie-histologie/04_09 anatomie et carcinogénèse mammaire DES 2018/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/anatomie-histologie/04_09%20anatomie%20et%20carcinog%C3%A9n%C3%A8se%20mammaire%20DES%202018/p09_00.jpeg)
 
 ### Différenciation cellulaire (cellules progénitrices)
 - **Cellules progénitrices** : **CK5/6+**, donnent :
   - Précurseurs glandulaires : acquièrent **CK8/18**, puis perdent CK5/6 (cellules luminales matures).
   - Précurseurs myoépithéliaux : acquièrent l’**actine musculaire lisse**, puis perdent CK5/6.
 
-![[assets/gyneco-sein/sein/anatomie-histologie/04_09 anatomie et carcinogénèse mammaire DES 2018/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/anatomie-histologie/04_09%20anatomie%20et%20carcinog%C3%A9n%C3%A8se%20mammaire%20DES%202018/p10_00.jpeg)
 
 ## Carcinogenèse mammaire
 
@@ -128,7 +128,7 @@ Nerf cutané médial du bras via le **nerf intercosto-brachial** et ses rameaux 
 - Détection : **immunohistochimie** + **hybridation in situ (ISH)**.
 - Cible thérapeutique majeure (trastuzumab et thérapies anti-HER2).
 
-![[assets/gyneco-sein/sein/anatomie-histologie/04_09 anatomie et carcinogénèse mammaire DES 2018/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/anatomie-histologie/04_09%20anatomie%20et%20carcinog%C3%A9n%C3%A8se%20mammaire%20DES%202018/p15_00.jpeg)
 
 ## Étapes de la carcinogenèse — 4 stades anatomocliniques
 
@@ -145,7 +145,7 @@ Acquisition par la cellule des caractéristiques cancéreuses par mutations succ
 
 > **Attention** : le terme « lobulaire » ne signifie pas filiation avec le lobule, mais **perte de E-cadhérine** au cours de la carcinogenèse.
 
-![[assets/gyneco-sein/sein/anatomie-histologie/04_09 anatomie et carcinogénèse mammaire DES 2018/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/anatomie-histologie/04_09%20anatomie%20et%20carcinog%C3%A9n%C3%A8se%20mammaire%20DES%202018/p25_00.jpeg)
 
 ### 3. Invasion
 - Détachement intercellulaire.
@@ -158,7 +158,7 @@ Acquisition par la cellule des caractéristiques cancéreuses par mutations succ
 - Voies : **lymphatique** (ganglions loco-régionaux) et **hématogène** (organes distants).
 - Sites métastatiques préférentiels du sein : **cerveau, poumon, foie, os, sein controlatéral**.
 
-![[assets/gyneco-sein/sein/anatomie-histologie/04_09 anatomie et carcinogénèse mammaire DES 2018/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/anatomie-histologie/04_09%20anatomie%20et%20carcinog%C3%A9n%C3%A8se%20mammaire%20DES%202018/p30_00.jpeg)
 
 ## Intérêts cliniques de la carcinogenèse
 

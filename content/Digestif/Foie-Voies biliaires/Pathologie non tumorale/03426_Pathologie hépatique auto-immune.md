@@ -50,26 +50,26 @@ Lésions caractéristiques :
 - **PAS d'atteinte des canaux biliaires interlobulaires** (≠ CBP)
 - Formes atypiques et sévères possibles
 
-![[assets/digestif/pancreas/tumorale/03.3.3.10 Tumeurs neuro-endocrines et carcinome à cellules acineuses du pancréas/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.10%20Tumeurs%20neuro-endocrines%20et%20carcinome%20%C3%A0%20cellules%20acineuses%20du%20pancr%C3%A9as/p06_01.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p06_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p06_02.png)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p07_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/generalites/03.4.1.4 Lésions élémentaires en pathologie hépatique/p07_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/generalites/03.4.1.4%20L%C3%A9sions%20%C3%A9l%C3%A9mentaires%20en%20pathologie%20h%C3%A9patique/p07_02.png)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.6 Pathologie hépatique auto-immune/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.6%20Pathologie%20h%C3%A9patique%20auto-immune/p08_01.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.2 Pathologie moléculaire de ladénocarcinome du pancréas/p08_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.2%20Pathologie%20mol%C3%A9culaire%20de%20lad%C3%A9nocarcinome%20du%20pancr%C3%A9as/p08_02.jpeg)
 
 ### Forme grave avec **nécrose lobulaire massive**
 - Disparition d'hépatocytes remplacée par infiltrat inflammatoire
 - **Rapprochement** des EP et veines centrolobulaires
 - **Collapsus** sur rouge Sirius (légèrement coloré en rouge)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.6 Pathologie hépatique auto-immune/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.6%20Pathologie%20h%C3%A9patique%20auto-immune/p09_01.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.10 Tumeurs neuro-endocrines et carcinome à cellules acineuses du pancréas/p09_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.10%20Tumeurs%20neuro-endocrines%20et%20carcinome%20%C3%A0%20cellules%20acineuses%20du%20pancr%C3%A9as/p09_03.jpeg)
 
 ## Diagnostics différentiels
 - **Hépatites virales** (cf. [[03424_Hépatites virales aigues et chroniques]])
@@ -121,15 +121,15 @@ L'association des **3 signes** (interface modérée à marquée + plasmocytes + 
   - **Sévère** : > 50 % des EP
 - **Fibrose** plus ou moins étendue (selon stade)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p13_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p13_00.png)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.4 Adénocarcinome pancréatique et ses variants/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.4%20Ad%C3%A9nocarcinome%20pancr%C3%A9atique%20et%20ses%20variants/p15_00.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p15_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p15_02.png)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p17_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p17_00.png)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.2 Pathologie moléculaire de ladénocarcinome du pancréas/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.2%20Pathologie%20mol%C3%A9culaire%20de%20lad%C3%A9nocarcinome%20du%20pancr%C3%A9as/p17_01.jpeg)
 
 ### Stades de CBP selon **Scheuer**
 1. Cholangite lymphocytaire destructrice
@@ -176,11 +176,11 @@ L'association des **3 signes** (interface modérée à marquée + plasmocytes + 
 - Lésions **segmentaires et focales**
 - Touchent surtout les VB de **moyen et gros calibre** (peu accessibles à la PBH)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p18_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p18_01.png)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.14 orientations diagnostiques devant une tumeur hépatique/p18_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.14%20orientations%20diagnostiques%20devant%20une%20tumeur%20h%C3%A9patique/p18_03.png)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.6 Pathologie hépatique auto-immune/p19_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.6%20Pathologie%20h%C3%A9patique%20auto-immune/p19_01.png)
 
 > Les lésions canalaires fibro-obstructives sont **rares sur PBH = 20 %** des cas → toujours confronter à l'**imagerie**.
 
@@ -206,9 +206,9 @@ Signes de **cholestase chronique** :
 3. Fibrose en pont
 4. Cirrhose
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.6 Pathologie hépatique auto-immune/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.6%20Pathologie%20h%C3%A9patique%20auto-immune/p20_00.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.2 Pathologie moléculaire de ladénocarcinome du pancréas/p20_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.2%20Pathologie%20mol%C3%A9culaire%20de%20lad%C3%A9nocarcinome%20du%20pancr%C3%A9as/p20_02.png)
 
 ## Complications
 - **Infections biliaires** récurrentes
@@ -284,15 +284,15 @@ Au moins **2 critères CBP** + **2 critères AIH**.
 ## Traitement
 **Corticoïdes** ++
 
-![[assets/digestif/pancreas/tumorale/03.3.3.2 Pathologie moléculaire de ladénocarcinome du pancréas/p24_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.2%20Pathologie%20mol%C3%A9culaire%20de%20lad%C3%A9nocarcinome%20du%20pancr%C3%A9as/p24_01.png)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.2 Pathologie moléculaire de ladénocarcinome du pancréas/p24_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.2%20Pathologie%20mol%C3%A9culaire%20de%20lad%C3%A9nocarcinome%20du%20pancr%C3%A9as/p24_02.png)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.10 Tumeurs neuro-endocrines et carcinome à cellules acineuses du pancréas/p24_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.10%20Tumeurs%20neuro-endocrines%20et%20carcinome%20%C3%A0%20cellules%20acineuses%20du%20pancr%C3%A9as/p24_03.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p25_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p25_01.png)
 
-![[assets/digestif/foie-voie_biliaire/tumorale/03.4.3.8 Carcinome hépatocellulaire/p25_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/tumorale/03.4.3.8%20Carcinome%20h%C3%A9patocellulaire/p25_02.jpeg)
 
 ---
 

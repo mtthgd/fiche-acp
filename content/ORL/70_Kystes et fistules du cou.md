@@ -54,10 +54,10 @@ Toujours raisonner sur **2 axes** :
 - Revêtement **respiratoire** (le plus souvent) ou **malpighien**.
 - Tissu conjonctif de la paroi : présence possible de **vésicules thyroïdiennes** (signe quasi-pathognomonique).
 
-![[assets/ORL/cou/kystesfistules/p04_00.jpeg]]
-![[assets/ORL/cou/kystesfistules/p04_01.jpeg]]
-![[assets/ORL/cou/kystesfistules/p05_00.jpeg]]
-![[assets/ORL/cou/kystesfistules/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p04_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p04_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p05_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p05_01.jpeg)
 
 ⚠️ **Carcinome papillaire sur tractus thyréoglosse** : rare mais connu (à rechercher devant des vésicules atypiques).
 
@@ -72,8 +72,8 @@ Toujours raisonner sur **2 axes** :
 - Exérèse simple, curative.
 - Souvent retiré sur complication → remaniements inflammatoires.
 
-![[assets/ORL/cou/kystesfistules/p06_00.jpeg]]
-![[assets/ORL/cou/kystesfistules/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p06_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p06_01.jpeg)
 
 ---
 
@@ -93,8 +93,8 @@ Le pharynx primitif (semaine 4) comporte une succession de **renflements** (arcs
 
 L'ectoderme externe est responsable du conduit auditif externe.
 
-![[assets/ORL/cou/kystesfistules/p08_00.jpeg]]
-![[assets/ORL/cou/kystesfistules/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p08_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p09_00.jpeg)
 
 ---
 
@@ -107,8 +107,8 @@ L'ectoderme externe est responsable du conduit auditif externe.
 - **Type 1** (anomalie ectodermique pure) : épithélium **malpighien** seul.
 - **Type 2** (ectoderme + mésoderme) : épithélium malpighien + **annexes pilo-sébacées + cartilage + muscle** ; masse plus basse, le long de la parotide.
 
-![[assets/ORL/cou/kystesfistules/p10_00.jpeg]]
-![[assets/ORL/cou/kystesfistules/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p10_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p10_01.jpeg)
 
 ### Anomalies de mise en place des bourgeons auriculaires (à NE PAS confondre)
 
@@ -117,9 +117,9 @@ L'ectoderme externe est responsable du conduit auditif externe.
 | **Fistule pré-helicéenne** | Fréquente (4–10 % en Afrique) | Trajet bordé d'épithélium malpighien kératinisé | Asymptomatique le plus souvent |
 | **Tragus accessoire** (fibrochondrome / enchondrome prétragien) | Fréquent | Épiderme + annexes + **tissu cartilagineux élastique central** + tissu adipeux | **Association possible avec malformations rénales / squelettiques** |
 
-![[assets/ORL/cou/kystesfistules/p11_00.jpeg]]
-![[assets/ORL/cou/kystesfistules/p11_01.jpeg]]
-![[assets/ORL/cou/kystesfistules/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p11_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p11_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p11_02.jpeg)
 
 ### 3.2 2ᵉ arc branchial — kyste branchial latéro-cervical (le plus fréquent : > 90 %)
 
@@ -133,12 +133,12 @@ L'ectoderme externe est responsable du conduit auditif externe.
 - = **kyste amygdaloïde** (ressemble à une amygdale subnormale).
 - Plus rarement : épithélium **respiratoire** (< 10 % des cas, surtout chez l'enfant).
 
-![[assets/ORL/cou/kystesfistules/p12_00.jpeg]]
-![[assets/ORL/cou/kystesfistules/p12_01.jpeg]]
-![[assets/ORL/cou/kystesfistules/p12_02.jpeg]]
-![[assets/ORL/cou/kystesfistules/p13_00.jpeg]]
-![[assets/ORL/cou/kystesfistules/p14_00.jpeg]]
-![[assets/ORL/cou/kystesfistules/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p12_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p12_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p12_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p13_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p14_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p14_01.jpeg)
 
 ### 3.3 3ᵉ et 4ᵉ arcs branchiaux
 
@@ -151,11 +151,11 @@ L'ectoderme externe est responsable du conduit auditif externe.
 | **Parathyroïdien cervical** | Cubique unistratifié, parfois aplati | Nodules de **glande parathyroïde** dans la paroi |
 | **Thymique cervical** | Cubique unistratifié | **Tissu thymique** (involution adipeuse selon âge) |
 
-![[assets/ORL/cou/kystesfistules/p15_00.jpeg]]
-![[assets/ORL/cou/kystesfistules/p16_00.jpeg]]
-![[assets/ORL/cou/kystesfistules/p16_01.jpeg]]
-![[assets/ORL/cou/kystesfistules/p16_02.jpeg]]
-![[assets/ORL/cou/kystesfistules/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p15_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p16_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p16_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p16_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p17_00.jpeg)
 
 ---
 
@@ -167,8 +167,8 @@ L'ectoderme externe est responsable du conduit auditif externe.
 - Histologie : cavités kystiques bordées par un endothélium lymphatique.
 - IHC : **D2-40 (podoplanine) +**, **PROX1 +**, CD31+, CD34 ±.
 
-![[assets/ORL/cou/kystesfistules/p19_00.jpeg]]
-![[assets/ORL/cou/kystesfistules/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p19_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p19_01.jpeg)
 
 ---
 
@@ -205,15 +205,15 @@ L'ectoderme externe est responsable du conduit auditif externe.
 - P16 marque aussi les **métaplasies malpighiennes** (kyste branchial peut être faussement positif sur cytologie).
 - Sur cell-block : préférer **PCR HPV** ou **ISH ARN HPV**.
 
-![[assets/ORL/cou/kystesfistules/p21_01.jpeg]]
-![[assets/ORL/cou/kystesfistules/p21_02.jpeg]]
-![[assets/ORL/cou/kystesfistules/p22_00.jpeg]]
-![[assets/ORL/cou/kystesfistules/p22_01.jpeg]]
-![[assets/ORL/cou/kystesfistules/p23_00.jpeg]]
-![[assets/ORL/cou/kystesfistules/p23_01.jpeg]]
-![[assets/ORL/cou/kystesfistules/p23_02.jpeg]]
-![[assets/ORL/cou/kystesfistules/p24_00.jpeg]]
-![[assets/ORL/cou/kystesfistules/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p21_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p21_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p22_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p22_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p23_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p23_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p23_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p24_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p24_01.jpeg)
 
 ### 5.2 Algorithme — métastase kystique cervicale sans primitif connu
 
@@ -225,9 +225,9 @@ L'ectoderme externe est responsable du conduit auditif externe.
 | **P16 négative** + tumeur **non-kératinisante** | → **Confirmer HPV** par autre test (rares HPV+ P16−) |
 | Position **cervicale haute** | **Sonde EBER** : éliminer un carcinome **nasopharyngé EBV+** |
 
-![[assets/ORL/cou/kystesfistules/p25_00.jpeg]]
-![[assets/ORL/cou/kystesfistules/p25_01.jpeg]]
-![[assets/ORL/cou/kystesfistules/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p25_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p25_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p26_00.jpeg)
 
 ### Conduite à tenir devant un CE oropharyngé HPV+ ganglionnaire
 
@@ -242,9 +242,9 @@ L'ectoderme externe est responsable du conduit auditif externe.
 - Topographie : chaîne jugulaire **moyenne et inférieure**.
 - Diagnostic du primitif souvent par **échographie thyroïdienne** secondaire.
 
-![[assets/ORL/cou/kystesfistules/p28_00.jpeg]]
-![[assets/ORL/cou/kystesfistules/p28_01.jpeg]]
-![[assets/ORL/cou/kystesfistules/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p28_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p28_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/cou/kystesfistules/p29_00.jpeg)
 
 ---
 

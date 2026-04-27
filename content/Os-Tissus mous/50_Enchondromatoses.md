@@ -43,10 +43,10 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Mutation IDH1 au hotspot R132** → gain de fonction + production du métabolite oncogène **2-HG (R-2-hydroxyglutarate)** → dérégulation épigénétique par inhibition et hyperméthylation
 - Dans certaines enchondromatoses rares : mutations **PTHLH** (codant un récepteur PTH-like)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-254 Enchondromatoses/p06_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-254%20Enchondromatoses/p06_00.png)
 
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-254 Enchondromatoses/p06_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-254%20Enchondromatoses/p06_02.jpeg)
 
 ## Maladie d'Ollier
 
@@ -59,7 +59,7 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Si diffuse : souvent **asymétrique**, prédominance d'un côté / membre / segment
 
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-254 Enchondromatoses/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-254%20Enchondromatoses/p07_01.jpeg)
 
 ### Imagerie
 
@@ -68,9 +68,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Aux extrémités : **perpendiculaires au cortex**, extension dans les parties molles
 - Parfois : reproduisent la voie d'ossification à partir du cartilage de croissance
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-254 Enchondromatoses/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-254%20Enchondromatoses/p08_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-254 Enchondromatoses/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-254%20Enchondromatoses/p09_00.jpeg)
 
 ### Histologie
 
@@ -82,11 +82,11 @@ Particularités par rapport à un enchondrome solitaire :
 - Cellules étoilées ou fusiformes assez nombreuses
 - → **Cet aspect évoque un chondrosarcome G1** : **OBLIGATION de connaître le contexte clinique + imagerie** avant de porter le diagnostic
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-254 Enchondromatoses/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-254%20Enchondromatoses/p10_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-254 Enchondromatoses/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-254%20Enchondromatoses/p10_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-254 Enchondromatoses/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-254%20Enchondromatoses/p11_00.jpeg)
 
 ### Complications
 
@@ -114,13 +114,13 @@ Particularités par rapport à un enchondrome solitaire :
 Pronostic = même que chondrosarcomes primitifs (grade + localisation + qualité de la résection).
 
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-254 Enchondromatoses/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-254%20Enchondromatoses/p14_01.jpeg)
 
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-254 Enchondromatoses/p14_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-254%20Enchondromatoses/p14_03.jpeg)
 
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-254 Enchondromatoses/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-254%20Enchondromatoses/p15_00.jpeg)
 
 ## Syndrome de Maffucci
 
@@ -145,10 +145,10 @@ Pronostic = même que chondrosarcomes primitifs (grade + localisation + qualité
   - Également : anévrismes, fistules artério-veineuses, lymphangiomes
 - **Surviennent plus tardivement** que les lésions cartilagineuses → certains patients diagnostiqués Ollier puis reclassés Maffucci
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-254 Enchondromatoses/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-254%20Enchondromatoses/p16_01.jpeg)
 
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-254 Enchondromatoses/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-254%20Enchondromatoses/p17_01.jpeg)
 
 ### Biologie
 
@@ -166,10 +166,10 @@ Pronostic = même que chondrosarcomes primitifs (grade + localisation + qualité
 - → Suivi en service spécialisé
 
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-254 Enchondromatoses/p17_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-254%20Enchondromatoses/p17_03.jpeg)
 
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-254 Enchondromatoses/p17_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-254%20Enchondromatoses/p17_05.jpeg)
 
 ## Tableau synthétique Ollier vs Maffucci
 

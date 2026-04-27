@@ -27,9 +27,9 @@ source: DES ACP - Cours d'urologie
 - Connaître les **marqueurs IHC** permettant d'orienter vers une origine **tubulaire rénale** et d'en différencier les **sous-types histologiques**.
 - Connaître les **tests moléculaires** disponibles lorsque l'IHC ne permet pas de trancher.
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie et tests moléculaires tum Rein/p01_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie%20et%20tests%20mol%C3%A9culaires%20tum%20Rein/p01_00.png)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie et tests moléculaires tum Rein/p01_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie%20et%20tests%20mol%C3%A9culaires%20tum%20Rein/p01_01.png)
 
 ---
 
@@ -57,13 +57,13 @@ source: DES ACP - Cours d'urologie
 | **Carcinome urothélial** (DD) | **GATA3**, **CK5/6**, **p63** forts et diffus | PAX8 – ou faible |
 
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie et tests moléculaires tum Rein/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie%20et%20tests%20mol%C3%A9culaires%20tum%20Rein/p08_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie et tests moléculaires tum Rein/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie%20et%20tests%20mol%C3%A9culaires%20tum%20Rein/p08_01.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie et tests moléculaires tum Rein/p08_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie%20et%20tests%20mol%C3%A9culaires%20tum%20Rein/p08_02.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie et tests moléculaires tum Rein/p08_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie%20et%20tests%20mol%C3%A9culaires%20tum%20Rein/p08_03.jpeg)
 
 
 ---
@@ -76,7 +76,7 @@ source: DES ACP - Cours d'urologie
 4. Penser aux **tumeurs rares** : AE1/AE3, **SDHB** (perte d'expression = carcinome avec mutation **SDHB**), **FH** (carcinome FH-déficient).
 5. **Carcinome 100 % sarcomatoïde** → IHC inutile → classé **inclassé** sauf si FISH rattache à un sous-type (ex. MiT family).
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie et tests moléculaires tum Rein/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie%20et%20tests%20mol%C3%A9culaires%20tum%20Rein/p09_00.jpeg)
 
 
 ---
@@ -100,26 +100,26 @@ source: DES ACP - Cours d'urologie
 - **VHL** : gène suppresseur de tumeurs (3p25). Mutation et hyperméthylation du promoteur = anomalies **exclusives**.
 - Autres gènes fréquemment mutés en ccRCC (remodelage chromatine, **mauvais pronostic**) : **PBRM1**, **BAP1**, **SETD2**.
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie et tests moléculaires tum Rein/p12_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie%20et%20tests%20mol%C3%A9culaires%20tum%20Rein/p12_00.png)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie et tests moléculaires tum Rein/p12_01.png]]
-
-
-![[assets/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie et tests moléculaires tum Rein/p13_01.jpeg]]
-
-![[assets/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie et tests moléculaires tum Rein/p13_02.jpeg]]
-
-![[assets/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie et tests moléculaires tum Rein/p14_00.jpeg]]
-
-![[assets/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie et tests moléculaires tum Rein/p14_01.jpeg]]
-
-![[assets/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie et tests moléculaires tum Rein/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie%20et%20tests%20mol%C3%A9culaires%20tum%20Rein/p12_01.png)
 
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie et tests moléculaires tum Rein/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie%20et%20tests%20mol%C3%A9culaires%20tum%20Rein/p13_01.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie%20et%20tests%20mol%C3%A9culaires%20tum%20Rein/p13_02.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie%20et%20tests%20mol%C3%A9culaires%20tum%20Rein/p14_00.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie%20et%20tests%20mol%C3%A9culaires%20tum%20Rein/p14_01.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie%20et%20tests%20mol%C3%A9culaires%20tum%20Rein/p14_02.jpeg)
 
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie et tests moléculaires tum Rein/p16_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie%20et%20tests%20mol%C3%A9culaires%20tum%20Rein/p15_00.jpeg)
+
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-113-Immunohistochimie%20et%20tests%20mol%C3%A9culaires%20tum%20Rein/p16_00.png)
 
 
 ---

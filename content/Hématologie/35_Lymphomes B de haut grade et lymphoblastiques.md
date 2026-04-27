@@ -39,7 +39,7 @@ Remplace les anciens "BCL-U" (B-cell lymphoma unclassifiable) de 2008.
 | **Intermédiaire** (BCLU) | Activité mitotique+++, apoptose, Ki67++ | Intermédiaire |
 | **Blastoïde** (rare) | Aspect lymphoblastique | Pire |
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-336_Lymphomes B de haut grade et FISH et lymphomes lymphoblastiques B-Pr Copie-VF/p03_07.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-336_Lymphomes%20B%20de%20haut%20grade%20et%20FISH%20et%20lymphomes%20lymphoblastiques%20B-Pr%20Copie-VF/p03_07.jpeg)
 
 
 ### Phénotype
@@ -65,7 +65,7 @@ Remplace les anciens "BCL-U" (B-cell lymphoma unclassifiable) de 2008.
 - Lymphome du manteau avec double-hit → reste **MCL**
 - Amplifications isolées de MYC ou BCL2
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-336_Lymphomes B de haut grade et FISH et lymphomes lymphoblastiques B-Pr Copie-VF/p08_17.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-336_Lymphomes%20B%20de%20haut%20grade%20et%20FISH%20et%20lymphomes%20lymphoblastiques%20B-Pr%20Copie-VF/p08_17.jpeg)
 
 ## HGBL NOS
 
@@ -104,7 +104,7 @@ Morphologie intermédiaire ou blastoïde ?
 
 > ⚠️ Attention aux **sondes MYC** : aucune sonde ne détecte tous les points de cassure → coupler break-apart + double-fusion MYC-IGH
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-336_Lymphomes B de haut grade et FISH et lymphomes lymphoblastiques B-Pr Copie-VF/p13_32.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-336_Lymphomes%20B%20de%20haut%20grade%20et%20FISH%20et%20lymphomes%20lymphoblastiques%20B-Pr%20Copie-VF/p13_32.jpeg)
 
 ---
 
@@ -133,9 +133,9 @@ Morphologie intermédiaire ou blastoïde ?
 - Chromatine **fine, "poudrée"**
 - Mitoses +++
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-336_Lymphomes B de haut grade et FISH et lymphomes lymphoblastiques B-Pr Copie-VF/p16_33.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-336_Lymphomes%20B%20de%20haut%20grade%20et%20FISH%20et%20lymphomes%20lymphoblastiques%20B-Pr%20Copie-VF/p16_33.jpeg)
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-336_Lymphomes B de haut grade et FISH et lymphomes lymphoblastiques B-Pr Copie-VF/p17_35.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-336_Lymphomes%20B%20de%20haut%20grade%20et%20FISH%20et%20lymphomes%20lymphoblastiques%20B-Pr%20Copie-VF/p17_35.jpeg)
 
 ### Phénotype
 
@@ -150,7 +150,7 @@ Morphologie intermédiaire ou blastoïde ?
 | CD34 | Variable |
 | sIg | − (précurseur) |
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-336_Lymphomes B de haut grade et FISH et lymphomes lymphoblastiques B-Pr Copie-VF/p17_36.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-336_Lymphomes%20B%20de%20haut%20grade%20et%20FISH%20et%20lymphomes%20lymphoblastiques%20B-Pr%20Copie-VF/p17_36.jpeg)
 
 ### Diagnostics différentiels
 

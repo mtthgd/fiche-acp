@@ -24,7 +24,7 @@ La fixation est l’étape **préanalytique** clé qui conditionne la qualité d
 
 Le compromis fondamental : **morphologie vs biologie moléculaire**.
 
-![[assets/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-351 Effet de la fixation sur les acides nucléiques NON SONORISE/p01_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-351%20Effet%20de%20la%20fixation%20sur%20les%20acides%20nucl%C3%A9iques%20NON%20SONORISE/p01_03.jpeg)
 
 ## Phases d’un test moléculaire
 
@@ -34,7 +34,7 @@ Le compromis fondamental : **morphologie vs biologie moléculaire**.
 
 L’extraction des acides nucléiques (**ADN ou ARN**) se situe à la charnière entre préanalytique et analytique.
 
-![[assets/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-351 Effet de la fixation sur les acides nucléiques NON SONORISE/p02_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-351%20Effet%20de%20la%20fixation%20sur%20les%20acides%20nucl%C3%A9iques%20NON%20SONORISE/p02_02.jpeg)
 
 ## Historique des fixateurs
 
@@ -43,9 +43,9 @@ L’extraction des acides nucléiques (**ADN ou ARN**) se situe à la charnière
 - **Liquide de Bouin** (Paul Bouin, 1897) : acide picrique + formol + acide acétique → excellent morphologiquement mais **proscrit** car **hydrolyse l’ADN** et altère l’ARN
 - **Fixateurs alternatifs** type **RCL2** : peu toxiques, ADN haut PM, mais coûteux et incompatibles avec les anticorps IHC commerciaux validés sur formol
 
-![[assets/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-351 Effet de la fixation sur les acides nucléiques NON SONORISE/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-351%20Effet%20de%20la%20fixation%20sur%20les%20acides%20nucl%C3%A9iques%20NON%20SONORISE/p03_00.jpeg)
 
-![[assets/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-351 Effet de la fixation sur les acides nucléiques NON SONORISE/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-351%20Effet%20de%20la%20fixation%20sur%20les%20acides%20nucl%C3%A9iques%20NON%20SONORISE/p04_00.jpeg)
 
 ## Le formol tamponné — fixateur universel
 
@@ -61,7 +61,7 @@ L’extraction des acides nucléiques (**ADN ou ARN**) se situe à la charnière
 | Faible coût | Précipitation possible (**pigments formoliques**) |
 | Peu de masquage antigénique | Artefacts moléculaires |
 
-![[assets/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-351 Effet de la fixation sur les acides nucléiques NON SONORISE/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-351%20Effet%20de%20la%20fixation%20sur%20les%20acides%20nucl%C3%A9iques%20NON%20SONORISE/p05_01.jpeg)
 
 ## Paramètres clés de la fixation
 
@@ -75,7 +75,7 @@ L’extraction des acides nucléiques (**ADN ou ARN**) se situe à la charnière
 
 **Plus la fixation est longue, plus la taille moyenne de l’ADN extrait diminue.**
 
-![[assets/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-351 Effet de la fixation sur les acides nucléiques NON SONORISE/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-351%20Effet%20de%20la%20fixation%20sur%20les%20acides%20nucl%C3%A9iques%20NON%20SONORISE/p08_00.jpeg)
 
 ## Mécanismes chimiques d’altération de l’ADN par le formol
 
@@ -86,7 +86,7 @@ Quatre interactions principales formaldéhyde / ADN :
 3. Génération de **sites AP** (apuriniques / apyrimidiques) par hydrolyse des liaisons N-glycosidiques → résidus de **2-désoxyribose** instables
 4. **Hydrolyse lente des liaisons phosphodiester** → courtes chaînes de désoxyribose
 
-![[assets/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-351 Effet de la fixation sur les acides nucléiques NON SONORISE/p10_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-351%20Effet%20de%20la%20fixation%20sur%20les%20acides%20nucl%C3%A9iques%20NON%20SONORISE/p10_00.png)
 
 
 
@@ -107,10 +107,10 @@ Quatre interactions principales formaldéhyde / ADN :
 - Traitement par **uracile-DNA glycosylase (UNG)** d’*E. coli* : élimine l’uracile → site abasique → cassure de brin
 - Disparition des transitions artefactuelles G>A après UNG → confirme leur origine par désamination
 
-![[assets/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-351 Effet de la fixation sur les acides nucléiques NON SONORISE/p14_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-351%20Effet%20de%20la%20fixation%20sur%20les%20acides%20nucl%C3%A9iques%20NON%20SONORISE/p14_00.png)
 
 
-![[assets/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-351 Effet de la fixation sur les acides nucléiques NON SONORISE/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-351%20Effet%20de%20la%20fixation%20sur%20les%20acides%20nucl%C3%A9iques%20NON%20SONORISE/p17_00.jpeg)
 
 ## Recommandations pratiques (Am J Pathol 2002)
 
@@ -132,11 +132,11 @@ Quatre interactions principales formaldéhyde / ADN :
 4. **Conditions de stockage contrôlées** (éviter hydrolyse en milieu humide, temps long)
 5. **Amorces courtes** + amplicons réduits + double contrôle des mutations (moins nécessaire depuis l’accréditation **COFRAC ISO 15189**)
 
-![[assets/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-351 Effet de la fixation sur les acides nucléiques NON SONORISE/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-351%20Effet%20de%20la%20fixation%20sur%20les%20acides%20nucl%C3%A9iques%20NON%20SONORISE/p18_01.jpeg)
 
-![[assets/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-351 Effet de la fixation sur les acides nucléiques NON SONORISE/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-351%20Effet%20de%20la%20fixation%20sur%20les%20acides%20nucl%C3%A9iques%20NON%20SONORISE/p19_00.jpeg)
 
-![[assets/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-351 Effet de la fixation sur les acides nucléiques NON SONORISE/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-351%20Effet%20de%20la%20fixation%20sur%20les%20acides%20nucl%C3%A9iques%20NON%20SONORISE/p20_00.jpeg)
 
 ## ARN messagers et FFPE
 
@@ -146,11 +146,11 @@ Quatre interactions principales formaldéhyde / ADN :
 - **micro-ARN** : généralement **stables** dans les deux protocoles, varient seulement après ischémie froide **> 12 h**
 - Permet la recherche de **transcrits de fusion** sur FFPE
 
-![[assets/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-351 Effet de la fixation sur les acides nucléiques NON SONORISE/p22_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-351%20Effet%20de%20la%20fixation%20sur%20les%20acides%20nucl%C3%A9iques%20NON%20SONORISE/p22_00.png)
 
-![[assets/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-351 Effet de la fixation sur les acides nucléiques NON SONORISE/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-351%20Effet%20de%20la%20fixation%20sur%20les%20acides%20nucl%C3%A9iques%20NON%20SONORISE/p23_00.jpeg)
 
-![[assets/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-351 Effet de la fixation sur les acides nucléiques NON SONORISE/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/extraction-adn-bloc-ffpe/16-351%20Effet%20de%20la%20fixation%20sur%20les%20acides%20nucl%C3%A9iques%20NON%20SONORISE/p25_00.jpeg)
 
 ## Pièges / Contrôles qualité
 

@@ -39,11 +39,11 @@ source: DES ACP - Cours de digestif
 - **Écho-endoscopie** : permet de prélever ce qui n'est pas visible en endoscopie
 - Tomographie par cohérence optique (**OCT**), spectroscopie Raman → abord quasi-histologique sans biopsie
 
-![[assets/digestif/tube_digestif/generalites/03.1.1.4 Comment aborder lanalyse anatomopathologique dune biopsie du tube digestif/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/generalites/03.1.1.4%20Comment%20aborder%20lanalyse%20anatomopathologique%20dune%20biopsie%20du%20tube%20digestif/p08_00.jpeg)
 
 Exemple : œsophage de Barrett en endoscopie haute résolution — visualisation des vaisseaux, du relief épithélial, et de **lésions dysplasiques** par fluorescence (rose-violet).
 
-![[assets/digestif/tube_digestif/generalites/03.1.1.4 Comment aborder lanalyse anatomopathologique dune biopsie du tube digestif/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/generalites/03.1.1.4%20Comment%20aborder%20lanalyse%20anatomopathologique%20dune%20biopsie%20du%20tube%20digestif/p05_00.jpeg)
 
 ## Réalisation des biopsies
 
@@ -63,7 +63,7 @@ Exemple : œsophage de Barrett en endoscopie haute résolution — visualisation
 - **Jumbo forceps** = biopsies de plus grande taille
 - Taille des biopsies **opérateur-dépendante** (pression contre la paroi, expérience)
 
-![[assets/digestif/tube_digestif/generalites/03.1.1.4 Comment aborder lanalyse anatomopathologique dune biopsie du tube digestif/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/generalites/03.1.1.4%20Comment%20aborder%20lanalyse%20anatomopathologique%20dune%20biopsie%20du%20tube%20digestif/p12_00.jpeg)
 
 ### Fixation et envoi
 
@@ -125,11 +125,11 @@ Ordre de lecture : contexte d'abord, ou biopsies d'abord puis contexte (deux éc
   - Pince **chaude** → cautérisation, électrocoagulation, artefacts
   - Biopsies récentes (contrôle après prélèvements) → cicatrices
 
-![[assets/digestif/tube_digestif/generalites/03.1.1.4 Comment aborder lanalyse anatomopathologique dune biopsie du tube digestif/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/generalites/03.1.1.4%20Comment%20aborder%20lanalyse%20anatomopathologique%20dune%20biopsie%20du%20tube%20digestif/p17_01.jpeg)
 
 Exemple : polype du côlon — un fragment lit clairement un **adénome** (en bas), un autre fragment de la même lésion est non interprétable du fait des phénomènes d'**électrocoagulation** (en haut).
 
-![[assets/digestif/tube_digestif/generalites/03.1.1.4 Comment aborder lanalyse anatomopathologique dune biopsie du tube digestif/p17_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/generalites/03.1.1.4%20Comment%20aborder%20lanalyse%20anatomopathologique%20dune%20biopsie%20du%20tube%20digestif/p17_02.jpeg)
 
 ## Démarche systématique d'analyse
 
@@ -193,7 +193,7 @@ Mêmes signes qu'en surface +
 
 Biopsies de l'**antre** (gauche) et du **fundus** (droite), 2 patients (haut/bas) :
 
-![[assets/digestif/tube_digestif/generalites/03.1.1.4 Comment aborder lanalyse anatomopathologique dune biopsie du tube digestif/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/generalites/03.1.1.4%20Comment%20aborder%20lanalyse%20anatomopathologique%20dune%20biopsie%20du%20tube%20digestif/p19_01.jpeg)
 
 À faible grossissement, les biopsies semblent superficiellement comparables. L'analyse systématique aboutit à **deux diagnostics radicalement différents**.
 
@@ -203,13 +203,13 @@ Biopsies de l'**antre** (gauche) et du **fundus** (droite), 2 patients (haut/bas
 - Musculaire muqueuse bien visible, peu d'atrophie
 - Pas de métaplasie ni dysplasie évidentes
 
-![[assets/digestif/tube_digestif/generalites/03.1.1.4 Comment aborder lanalyse anatomopathologique dune biopsie du tube digestif/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/generalites/03.1.1.4%20Comment%20aborder%20lanalyse%20anatomopathologique%20dune%20biopsie%20du%20tube%20digestif/p20_01.jpeg)
 
 À fort grossissement : **petite atrophie focale** (étoiles rouges), inflammation faite de **lymphocytes + plasmocytes** (chronique), **polynucléaires intra-glandulaires** (flèches jaunes) = **activité**, et bactéries spiralées dans la lumière → **gastrite à *Helicobacter pylori***.
 
-![[assets/digestif/tube_digestif/generalites/03.1.1.4 Comment aborder lanalyse anatomopathologique dune biopsie du tube digestif/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/generalites/03.1.1.4%20Comment%20aborder%20lanalyse%20anatomopathologique%20dune%20biopsie%20du%20tube%20digestif/p21_01.jpeg)
 
-![[assets/digestif/tube_digestif/generalites/03.1.1.4 Comment aborder lanalyse anatomopathologique dune biopsie du tube digestif/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/generalites/03.1.1.4%20Comment%20aborder%20lanalyse%20anatomopathologique%20dune%20biopsie%20du%20tube%20digestif/p22_01.jpeg)
 
 ### Patient 2 — Fundus
 
@@ -220,17 +220,17 @@ Biopsies de l'**antre** (gauche) et du **fundus** (droite), 2 patients (haut/bas
 - Antre **non atrophique**, peu inflammatoire
 - → **Gastrite auto-immune** (probable maladie de Biermer)
 
-![[assets/digestif/tube_digestif/generalites/03.1.1.4 Comment aborder lanalyse anatomopathologique dune biopsie du tube digestif/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/generalites/03.1.1.4%20Comment%20aborder%20lanalyse%20anatomopathologique%20dune%20biopsie%20du%20tube%20digestif/p23_01.jpeg)
 
-![[assets/digestif/tube_digestif/generalites/03.1.1.4 Comment aborder lanalyse anatomopathologique dune biopsie du tube digestif/p25_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/generalites/03.1.1.4%20Comment%20aborder%20lanalyse%20anatomopathologique%20dune%20biopsie%20du%20tube%20digestif/p25_01.jpeg)
 
-![[assets/digestif/tube_digestif/generalites/03.1.1.4 Comment aborder lanalyse anatomopathologique dune biopsie du tube digestif/p26_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/generalites/03.1.1.4%20Comment%20aborder%20lanalyse%20anatomopathologique%20dune%20biopsie%20du%20tube%20digestif/p26_01.jpeg)
 
 ### Conclusion de l'exemple
 
 Compte rendu attendu : **précis et semi-quantitatif** (atrophie, métaplasie) en utilisant une **classification validée** (ex. **système de Sydney** pour les gastrites).
 
-![[assets/digestif/tube_digestif/generalites/03.1.1.4 Comment aborder lanalyse anatomopathologique dune biopsie du tube digestif/p27_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/generalites/03.1.1.4%20Comment%20aborder%20lanalyse%20anatomopathologique%20dune%20biopsie%20du%20tube%20digestif/p27_01.jpeg)
 
 ---
 

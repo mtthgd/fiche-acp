@@ -45,7 +45,7 @@ L’**IHC multiplexée** = détection **simultanée de plusieurs marqueurs** (pr
 
 
 
-![[assets/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p03_00.jpeg)
 
 # 1. Méthodes de détection
 
@@ -56,11 +56,11 @@ L’**IHC multiplexée** = détection **simultanée de plusieurs marqueurs** (pr
 | **Chromogénique** | Lumière blanche | Archivage **> 10 ans**, morphologie préservée | **2 marqueurs max**, palette limitée |
 | **Fluorescente** | Microscope à fluorescence (spectral si > 4 marqueurs) | Jusqu’à **20 marqueurs**, bibliothèque étendue, colocalisation aisée | Coût élevé, **fading** au cours du temps |
 
-![[assets/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p03_01.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p03_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p03_02.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p03_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p03_03.jpeg)
 
 ## Deux types de protocoles
 
@@ -88,11 +88,11 @@ L’**IHC multiplexée** = détection **simultanée de plusieurs marqueurs** (pr
 4. **Dénaturation par la chaleur** (élimination de l’anticorps primaire/secondaire mais conservation du signal)
 5. **Itération** avec un nouvel anticorps de la même ou autre espèce
 
-![[assets/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p04_00.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p04_01.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p04_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p04_02.jpeg)
 
 
 
@@ -111,14 +111,14 @@ L’**IHC multiplexée** = détection **simultanée de plusieurs marqueurs** (pr
 | Colocalisation | Difficile | **Facilitée** |
 | Morphologie | **Préservée** | Moins lisible |
 
-![[assets/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p06_00.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p06_01.jpeg)
 
 
-![[assets/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p07_00.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p07_01.jpeg)
 
 # 3. Recommandations générales
 
@@ -153,11 +153,11 @@ L’**IHC multiplexée** = détection **simultanée de plusieurs marqueurs** (pr
 
 
 
-![[assets/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p09_00.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p10_00.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p11_00.jpeg)
 
 
 # 4. Pré-traitement & démasquage
@@ -169,7 +169,7 @@ L’**IHC multiplexée** = détection **simultanée de plusieurs marqueurs** (pr
 
 → Anticiper les **co-marquages attendus** avec un outil de **prévisualisation**.
 
-![[assets/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p13_00.jpeg)
 
 
 # 5. Établir un protocole multiplex — étapes
@@ -197,11 +197,11 @@ Tous les CD8+ sont CD3+ ; tous les CD3+ ne sont **pas** CD8+.
 
 Une fois la séquence CD8 → CD3 établie, intercaler le **FoxP3 nucléaire** (visible dans tous les cas).
 
-![[assets/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p15_00.jpeg)
 
 
 
-![[assets/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p18_00.jpeg)
 
 ## Séquence des fluorophores
 
@@ -225,9 +225,9 @@ Exemple duplex CD3 (FITC) + CD8 (rhodamine) :
 - Recherche de **réactions croisées** de l’anticorps primaire (rôle du titrage)
 - **Tests de décrochage** (notamment pour la méthode séquentielle)
 
-![[assets/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p21_00.jpeg)
 
-![[assets/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/proteine/16-940_IHCmultiplex_Audio/p21_01.jpeg)
 
 # 7. Analyse digitale
 

@@ -26,15 +26,15 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Régulation du flux sanguin cutané sous contrôle nerveux (**shunt**)
 - **CML modifiées** : noyau **arrondi**, plusieurs couches concentriques autour du capillaire
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566 Tumeurs péricytaires/p03_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566%20Tumeurs%20p%C3%A9ricytaires/p03_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566 Tumeurs péricytaires/p03_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566%20Tumeurs%20p%C3%A9ricytaires/p03_04.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566 Tumeurs péricytaires/p03_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566%20Tumeurs%20p%C3%A9ricytaires/p03_05.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566 Tumeurs péricytaires/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566%20Tumeurs%20p%C3%A9ricytaires/p04_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566 Tumeurs péricytaires/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566%20Tumeurs%20p%C3%A9ricytaires/p04_01.jpeg)
 
 ## Caractéristiques communes des tumeurs péricytaires
 
@@ -58,7 +58,7 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 
 **Desmine** = marqueur différentiel **intra-groupe** : diffuse dans **angioléiomyome**, peu/pas dans tumeur glomique et myopéricytome.
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566 Tumeurs péricytaires/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566%20Tumeurs%20p%C3%A9ricytaires/p07_00.jpeg)
 
 ---
 
@@ -71,7 +71,7 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Nodule **douloureux/sensible**, croissance lente, **< 2 cm**
 - Macro : nodule blanchâtre bien limité
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566 Tumeurs péricytaires/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566%20Tumeurs%20p%C3%A9ricytaires/p08_00.jpeg)
 
 ## Histologie
 - Nodule cellulaire éosinophile, bien limité
@@ -80,13 +80,13 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Architecture concentrique autour de capillaires**
 - **Cytologie de CML typique** : noyaux en cigare, cytoplasme abondant fibrillaire, **fasciculée**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566 Tumeurs péricytaires/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566%20Tumeurs%20p%C3%A9ricytaires/p09_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566 Tumeurs péricytaires/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566%20Tumeurs%20p%C3%A9ricytaires/p10_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566 Tumeurs péricytaires/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566%20Tumeurs%20p%C3%A9ricytaires/p11_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566 Tumeurs péricytaires/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566%20Tumeurs%20p%C3%A9ricytaires/p11_01.jpeg)
 
 ## IHC
 - **Caldesmon + diffus**
@@ -111,15 +111,15 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Cytoplasmes éosinophiles
 - **Orientation concentrique** autour des vaisseaux dilatés
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566 Tumeurs péricytaires/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566%20Tumeurs%20p%C3%A9ricytaires/p13_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566 Tumeurs péricytaires/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566%20Tumeurs%20p%C3%A9ricytaires/p14_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566 Tumeurs péricytaires/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566%20Tumeurs%20p%C3%A9ricytaires/p15_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566 Tumeurs péricytaires/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566%20Tumeurs%20p%C3%A9ricytaires/p16_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566 Tumeurs péricytaires/p16_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566%20Tumeurs%20p%C3%A9ricytaires/p16_02.png)
 
 ## IHC
 
@@ -153,9 +153,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Mutation constitutionnelle **GLMN** (glomuline), transmission **autosomique dominante**
 - Lésions violacées d'allure vasculaire veineuse sur le tégument
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566 Tumeurs péricytaires/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566%20Tumeurs%20p%C3%A9ricytaires/p17_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566 Tumeurs péricytaires/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566%20Tumeurs%20p%C3%A9ricytaires/p17_01.jpeg)
 
 ## Histologie
 - **Mélange variable de 3 composants** :
@@ -167,21 +167,21 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 ### Variante : **glomangiomyome**
 - Zones importantes de cellules myoïdes/musculaires lisses en faisceaux
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566 Tumeurs péricytaires/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566%20Tumeurs%20p%C3%A9ricytaires/p18_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566 Tumeurs péricytaires/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566%20Tumeurs%20p%C3%A9ricytaires/p19_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566 Tumeurs péricytaires/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566%20Tumeurs%20p%C3%A9ricytaires/p20_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566 Tumeurs péricytaires/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566%20Tumeurs%20p%C3%A9ricytaires/p21_00.jpeg)
 
 ### Malformation glomuveineuse
 - Grandes structures **vasculaires dilatées** (comme malformations veineuses)
 - **Paroi faite de cellules glomiques cuboïdes** (et non de CML fusiformes)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566 Tumeurs péricytaires/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566%20Tumeurs%20p%C3%A9ricytaires/p22_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566 Tumeurs péricytaires/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566%20Tumeurs%20p%C3%A9ricytaires/p23_00.jpeg)
 
 ## IHC
 
@@ -202,9 +202,9 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 | **Glomangiopéricytome** | Myopéricytome, angioléiomyome, TFS |
 | **Myopéricytome** | TFS (CD34+/STAT6+), angioléiomyome (desmine+) |
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566 Tumeurs péricytaires/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566%20Tumeurs%20p%C3%A9ricytaires/p24_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566 Tumeurs péricytaires/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-566%20Tumeurs%20p%C3%A9ricytaires/p25_00.jpeg)
 
 ## Formes malignes
 - **Rarissimes** pour les 3 entités

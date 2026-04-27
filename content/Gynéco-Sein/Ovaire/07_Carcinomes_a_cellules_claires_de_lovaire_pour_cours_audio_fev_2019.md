@@ -66,7 +66,7 @@ Caractéristiques du cancer ovarien Lynch :
 - **Nodules de couleur jaunâtre** caractéristiques
 - **Kyste endométriosique** souvent retrouvé en périphérie
 
-![[assets/gyneco-sein/ovaire/04_54_03_02 Carcinomes à cellules claires de lovaire pour cours audio fev 2019/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03_02%20Carcinomes%20%C3%A0%20cellules%20claires%20de%20lovaire%20pour%20cours%20audio%20fev%202019/p05_00.jpeg)
 
 ## Histologie
 
@@ -80,11 +80,11 @@ Variée et trompeuse :
 
 ⚠️ Aspect parfois trompeur : **revêtement kystique aplati** d’un kyste endométriosique → toujours **regarder à fort grossissement**.
 
-![[assets/gyneco-sein/ovaire/04_54_03_02 Carcinomes à cellules claires de lovaire pour cours audio fev 2019/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03_02%20Carcinomes%20%C3%A0%20cellules%20claires%20de%20lovaire%20pour%20cours%20audio%20fev%202019/p09_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_03_02 Carcinomes à cellules claires de lovaire pour cours audio fev 2019/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03_02%20Carcinomes%20%C3%A0%20cellules%20claires%20de%20lovaire%20pour%20cours%20audio%20fev%202019/p10_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_03_02 Carcinomes à cellules claires de lovaire pour cours audio fev 2019/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03_02%20Carcinomes%20%C3%A0%20cellules%20claires%20de%20lovaire%20pour%20cours%20audio%20fev%202019/p11_00.jpeg)
 
 ### Cellules
 
@@ -105,27 +105,27 @@ Variée et trompeuse :
 - **Psammomes** possibles
 - **Carcinome de haut grade par définition** (pas de grading)
 
-![[assets/gyneco-sein/ovaire/04_54_03_02 Carcinomes à cellules claires de lovaire pour cours audio fev 2019/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03_02%20Carcinomes%20%C3%A0%20cellules%20claires%20de%20lovaire%20pour%20cours%20audio%20fev%202019/p12_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_03_02 Carcinomes à cellules claires de lovaire pour cours audio fev 2019/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03_02%20Carcinomes%20%C3%A0%20cellules%20claires%20de%20lovaire%20pour%20cours%20audio%20fev%202019/p13_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_03_02 Carcinomes à cellules claires de lovaire pour cours audio fev 2019/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03_02%20Carcinomes%20%C3%A0%20cellules%20claires%20de%20lovaire%20pour%20cours%20audio%20fev%202019/p14_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_03_02 Carcinomes à cellules claires de lovaire pour cours audio fev 2019/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03_02%20Carcinomes%20%C3%A0%20cellules%20claires%20de%20lovaire%20pour%20cours%20audio%20fev%202019/p15_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_03_02 Carcinomes à cellules claires de lovaire pour cours audio fev 2019/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03_02%20Carcinomes%20%C3%A0%20cellules%20claires%20de%20lovaire%20pour%20cours%20audio%20fev%202019/p16_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_03_02 Carcinomes à cellules claires de lovaire pour cours audio fev 2019/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03_02%20Carcinomes%20%C3%A0%20cellules%20claires%20de%20lovaire%20pour%20cours%20audio%20fev%202019/p17_00.jpeg)
 
 ### CCC sur kyste endométriosique
 
 À rechercher systématiquement : épithélium aplati de transition entre l’endométriose bénigne et le carcinome papillaire à cellules claires.
 
-![[assets/gyneco-sein/ovaire/04_54_03_02 Carcinomes à cellules claires de lovaire pour cours audio fev 2019/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03_02%20Carcinomes%20%C3%A0%20cellules%20claires%20de%20lovaire%20pour%20cours%20audio%20fev%202019/p19_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_03_02 Carcinomes à cellules claires de lovaire pour cours audio fev 2019/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03_02%20Carcinomes%20%C3%A0%20cellules%20claires%20de%20lovaire%20pour%20cours%20audio%20fev%202019/p19_01.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_03_02 Carcinomes à cellules claires de lovaire pour cours audio fev 2019/p19_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03_02%20Carcinomes%20%C3%A0%20cellules%20claires%20de%20lovaire%20pour%20cours%20audio%20fev%202019/p19_02.jpeg)
 
 ## Immunohistochimie
 
@@ -143,9 +143,9 @@ Variée et trompeuse :
 
 ⚠️ **HNF1β** : marqueur peu spécifique → toujours **corréler à la morphologie** et aux autres marqueurs. Bien évaluer le **marquage nucléaire** (un bruit de fond cytoplasmique est fréquent).
 
-![[assets/gyneco-sein/ovaire/04_54_03_02 Carcinomes à cellules claires de lovaire pour cours audio fev 2019/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03_02%20Carcinomes%20%C3%A0%20cellules%20claires%20de%20lovaire%20pour%20cours%20audio%20fev%202019/p21_00.jpeg)
 
-![[assets/gyneco-sein/ovaire/04_54_03_02 Carcinomes à cellules claires de lovaire pour cours audio fev 2019/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/ovaire/04_54_03_02%20Carcinomes%20%C3%A0%20cellules%20claires%20de%20lovaire%20pour%20cours%20audio%20fev%202019/p22_00.jpeg)
 
 ## Biologie moléculaire
 

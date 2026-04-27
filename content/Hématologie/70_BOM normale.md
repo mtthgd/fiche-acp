@@ -23,7 +23,7 @@ source: DES ACP - Cours d’hématologie
     - **Cytologique** : ponction sternale → **myélogramme**
     - **Histologique** : **BOM** = cylindre médullaire prélevé au niveau de l’**os iliaque** (corticale + os spongieux contenant le tissu hématopoïétique délimité par les **travées osseuses**)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-510_Biopsie osteo-médullaire normale DES BF/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-510_Biopsie%20osteo-m%C3%A9dullaire%20normale%20DES%20BF/p04_00.jpeg)
 
 ## Myélogramme vs BOM — informations complémentaires
 
@@ -43,9 +43,9 @@ source: DES ACP - Cours d’hématologie
 - Une biopsie petite peut suffire si l’infiltration tumorale est **homogène**
 - Artefacts à reconnaître : os écrasé, espaces vidés artefactuellement, fragmentation
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-510_Biopsie osteo-médullaire normale DES BF/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-510_Biopsie%20osteo-m%C3%A9dullaire%20normale%20DES%20BF/p15_00.jpeg)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-510_Biopsie osteo-médullaire normale DES BF/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-510_Biopsie%20osteo-m%C3%A9dullaire%20normale%20DES%20BF/p16_00.jpeg)
 
 ## Technique histologique
 
@@ -68,11 +68,11 @@ source: DES ACP - Cours d’hématologie
 - Règle pratique : **cellularité ≈ 100 − âge** (en %)
 - Ne pas évaluer dans les **espaces sous-corticaux** (physiologiquement adipeux)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-510_Biopsie osteo-médullaire normale DES BF/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-510_Biopsie%20osteo-m%C3%A9dullaire%20normale%20DES%20BF/p18_00.jpeg)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-510_Biopsie osteo-médullaire normale DES BF/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-510_Biopsie%20osteo-m%C3%A9dullaire%20normale%20DES%20BF/p18_01.jpeg)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-510_Biopsie osteo-médullaire normale DES BF/p18_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-510_Biopsie%20osteo-m%C3%A9dullaire%20normale%20DES%20BF/p18_03.jpeg)
 
 ## Lignées hématopoïétiques
 
@@ -85,9 +85,9 @@ source: DES ACP - Cours d’hématologie
 - En cas d’anomalie : seules les anomalies **nucléaires** (hypolobulé, hyperchromatique, dispersé) sont détectables en IHC
 - IHC : **CD61**, **CD42b**
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-510_Biopsie osteo-médullaire normale DES BF/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-510_Biopsie%20osteo-m%C3%A9dullaire%20normale%20DES%20BF/p07_00.jpeg)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-510_Biopsie osteo-médullaire normale DES BF/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-510_Biopsie%20osteo-m%C3%A9dullaire%20normale%20DES%20BF/p07_01.jpeg)
 
 ### Lignée granuleuse
 
@@ -98,9 +98,9 @@ source: DES ACP - Cours d’hématologie
 - Granulations souvent mal visibles à l’HES
 - IHC : **myéloperoxydase (MPO)**, CD15, CD33
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-510_Biopsie osteo-médullaire normale DES BF/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-510_Biopsie%20osteo-m%C3%A9dullaire%20normale%20DES%20BF/p08_00.jpeg)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-510_Biopsie osteo-médullaire normale DES BF/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-510_Biopsie%20osteo-m%C3%A9dullaire%20normale%20DES%20BF/p08_01.jpeg)
 
 ### Lignée érythroïde
 
@@ -112,11 +112,11 @@ source: DES ACP - Cours d’hématologie
 - Rapport **myéloïde/érythroïde (M/E) ≈ 3/1**
 - IHC : **glycophorine A**, **E-cadhérine** (meilleure lisibilité, ne marque pas les amas)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-510_Biopsie osteo-médullaire normale DES BF/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-510_Biopsie%20osteo-m%C3%A9dullaire%20normale%20DES%20BF/p11_00.jpeg)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-510_Biopsie osteo-médullaire normale DES BF/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-510_Biopsie%20osteo-m%C3%A9dullaire%20normale%20DES%20BF/p11_01.jpeg)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-510_Biopsie osteo-médullaire normale DES BF/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-510_Biopsie%20osteo-m%C3%A9dullaire%20normale%20DES%20BF/p12_00.jpeg)
 
 > ⚠️ Ne **pas confondre** un érythroblaste acidophile (noyau rond à l’emporte-pièce, chromatine dense) avec un **lymphocyte** (chromatine plus irrégulière, noyau moins bien délimité).
 
@@ -132,7 +132,7 @@ source: DES ACP - Cours d’hématologie
     - Lymphocytes **B** prédominants dans les nodules + quelques plasmocytes et histiocytes
 - Marqueurs : panel ganglionnaire habituel (CD20, CD3, CD5, CD23, BCL2, BCL6, CD10…)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-510_Biopsie osteo-médullaire normale DES BF/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-510_Biopsie%20osteo-m%C3%A9dullaire%20normale%20DES%20BF/p13_00.jpeg)
 
 ### Plasmocytes
 - **< 5 %** des cellules
@@ -140,7 +140,7 @@ source: DES ACP - Cours d’hématologie
 - Noyau excentré, **halo périnucléaire**
 - IHC : **CD138**, **CD38**, **MUM1**, **EMA**, **chaînes légères κ et λ** (polytypiques)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-510_Biopsie osteo-médullaire normale DES BF/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-510_Biopsie%20osteo-m%C3%A9dullaire%20normale%20DES%20BF/p14_00.jpeg)
 
 ## Cellules mineures
 
@@ -157,9 +157,9 @@ source: DES ACP - Cours d’hématologie
 - **Fibres de réticuline** (Gordon-Sweet) : quelques fibres péri-vasculaires normales, pas de cerclage des adipocytes
 - En cas d’augmentation : **score de fibrose** (cf. cours dédié)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-510_Biopsie osteo-médullaire normale DES BF/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-510_Biopsie%20osteo-m%C3%A9dullaire%20normale%20DES%20BF/p17_00.jpeg)
 
-![[assets/hematologie/lesions-elementaires/Diaporama 07-510_Biopsie osteo-médullaire normale DES BF/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lesions-elementaires/Diaporama%2007-510_Biopsie%20osteo-m%C3%A9dullaire%20normale%20DES%20BF/p17_01.jpeg)
 
 ## Indications de la BOM
 

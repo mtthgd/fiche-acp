@@ -29,7 +29,7 @@ source: DES ACP - Cours d'urologie
 4. **Atteinte des marges** sur pièce de prostatectomie
 5. **Pronostic** (Ki67, PTEN)
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p01_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p01_00.jpeg)
 
 
 ---
@@ -61,30 +61,30 @@ Cocktail courant : **p63 + AMACR** (nucléaire + cytoplasmique).
 | Hyperplasie basale | **+** (diffus basal, architecture conservée) | − |
 | Carcinome à cellules basales | **+** + **cycline D1+**, **Ki67 élevé** | − |
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p05_00.jpeg)
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p06_00.jpeg)
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p07_00.jpeg)
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p08_00.jpeg)
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p08_01.jpeg)
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p08_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p08_02.jpeg)
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p09_00.jpeg)
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p09_01.jpeg)
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p10_00.jpeg)
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p10_01.jpeg)
 
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p12_00.jpeg)
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p13_00.jpeg)
 
 ## Pièges à connaître
 
@@ -96,13 +96,13 @@ Cocktail courant : **p63 + AMACR** (nucléaire + cytoplasmique).
 - **Artéfacts d'électrocoagulation** (copeaux RTUP) : choisir la zone la mieux conservée
 - **Glandes coliques écrasées** : peuvent exprimer PSA/AMACR → multi-marqueurs
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p14_00.jpeg)
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p15_00.jpeg)
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p16_00.jpeg)
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p17_00.jpeg)
 
 ---
 
@@ -119,11 +119,11 @@ Cocktail courant : **p63 + AMACR** (nucléaire + cytoplasmique).
 | **HOXB13** | ++ | ++ | **+** endomètre, pancréas, CHC |
 | **ERG** | 40-50 % | – | Marque HGPIN + certains sarcomes/vasculaires |
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p18_00.jpeg)
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p19_00.jpeg)
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p20_00.jpeg)
 
 ## DD vessie vs prostate
 
@@ -143,11 +143,11 @@ Cocktail courant : **p63 + AMACR** (nucléaire + cytoplasmique).
 | **CDX2 / CK20** | − | **+** |
 | β-caténine nucléaire | − | **+** |
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p21_00.jpeg)
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p22_00.jpeg)
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p23_00.jpeg)
 
 > ⚠️ **Marquage hétérogène** entre primitif et métastases (équipe Kaiser) — un marquage discordant n'exclut pas l'origine prostatique.
 
@@ -163,11 +163,11 @@ Cocktail courant : **p63 + AMACR** (nucléaire + cytoplasmique).
 
 ⚠️ Quelques cellules NE dispersées dans un CaP = cellules de Paneth / NE normales, **pas une DNE tumorale**.
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p24_00.jpeg)
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p25_00.jpeg)
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p26_00.jpeg)
 
 ---
 
@@ -177,9 +177,9 @@ Cocktail courant : **p63 + AMACR** (nucléaire + cytoplasmique).
 - **Cocktail KL1** (contient CK17 et CK18 de bas poids moléculaire) **préféré à AE1/AE3** — marquage plus intense des cellules luminales/tumorales
 - Seuil : atteinte de marge significative si **≥ 0,5 mm** de contact tumoral avec l'encre
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p27_00.jpeg)
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p28_00.jpeg)
 
 ---
 
@@ -216,13 +216,13 @@ Cocktail courant : **p63 + AMACR** (nucléaire + cytoplasmique).
 - Marque aussi les HGPIN (sur biopsie, ↑ probabilité de CaP invasif ultérieur)
 - Pas de valeur prédictive hormonothérapie ; possible rôle prédictif **taxanes**
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p29_00.jpeg)
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p32_00.jpeg)
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p33_00.jpeg)
 
-![[assets/urologie/prostate/05-314 Place de l’immunohistochimie et des tests moléculaires en pathologie prostatique/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-314%20Place%20de%20l%E2%80%99immunohistochimie%20et%20des%20tests%20mol%C3%A9culaires%20en%20pathologie%20prostatique/p34_00.jpeg)
 
 ## Résistance à l'hormonothérapie
 

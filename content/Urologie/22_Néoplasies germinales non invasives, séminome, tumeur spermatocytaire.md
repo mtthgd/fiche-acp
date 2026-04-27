@@ -51,7 +51,7 @@ source: DES ACP - Cours d'urologie
 - Antécédent de TG contro-latérale
 
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p07_01.jpeg)
 
 ### Histologie
 - Grandes cellules analogues aux cellules séminomateuses
@@ -60,12 +60,12 @@ source: DES ACP - Cours d'urologie
 - Visibles dès **faible grossissement (× 2,5 ou × 4)**
 - **Extension pagétoïde** possible : tubes en spermatogenèse ou **rete testis** (facteur pronostique dans le séminome pur)
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p08_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p08_01.jpeg)
 
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p09_00.jpeg)
 
 
 ### IHC de la GCNIS
@@ -75,11 +75,11 @@ source: DES ACP - Cours d'urologie
 - **CD117 (KIT)** : marquage en **« collier de perles »**
 - **Podoplanine (D2-40)**
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p10_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p10_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p10_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p10_02.jpeg)
 
 
 ## Néoplasie germinale intratubulaire (NGIT)
@@ -92,9 +92,9 @@ Stade **intermédiaire** entre GCNIS et TG invasive OU **propagation intratubula
 - ~**15%** des TGNS
 - Isolé rarement → considéré comme **précurseur avancé**
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p11_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p11_01.jpeg)
 
 
 ### Carcinome embryonnaire intratubulaire
@@ -103,13 +103,13 @@ Stade **intermédiaire** entre GCNIS et TG invasive OU **propagation intratubula
 - **10-15%** des TGNS
 - Jamais dans séminome pur ; presque jamais isolé → = **propagation intratubulaire rétrograde**
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p12_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p12_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p12_02.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p12_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p12_03.jpeg)
 
 
 ## SÉMINOME
@@ -121,9 +121,9 @@ Stade **intermédiaire** entre GCNIS et TG invasive OU **propagation intratubula
 - **3%** métastatiques au diagnostic
 - Dérive de la **GCNIS**
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p13_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p13_01.jpeg)
 
 
 ### Métastases
@@ -138,11 +138,11 @@ Stade **intermédiaire** entre GCNIS et TG invasive OU **propagation intratubula
 - **Chair de poisson**
 - Nécrose / hémorragie **limitées**
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p14_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p14_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p14_02.jpeg)
 
 
 ### Histologie
@@ -154,15 +154,15 @@ Stade **intermédiaire** entre GCNIS et TG invasive OU **propagation intratubula
 - **GCNIS** associée dans **90%** des cas
 - **Séminome intratubulaire** dans 30%
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p15_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p15_02.jpeg]]
-
-
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p15_02.jpeg)
 
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p16_00.jpeg)
+
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p17_00.jpeg)
 
 
 ### Variantes morphologiques
@@ -173,20 +173,20 @@ Stade **intermédiaire** entre GCNIS et TG invasive OU **propagation intratubula
 | **À cellules syncytiotrophoblastiques** | 10-20% ; **β-HCG < 1000 UI/L** ; pas de cytotrophoblaste associé (sinon = choriocarcinome) |
 | **Interstitiel** | Entre tubes séminifères préservés (forme précoce ou périphérie) |
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p18_00.jpeg)
 
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p19_00.jpeg)
 
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p20_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p20_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p20_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p20_02.jpeg)
 
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p21_00.jpeg)
 
 
 ### IHC du séminome
@@ -206,16 +206,16 @@ Stade **intermédiaire** entre GCNIS et TG invasive OU **propagation intratubula
 | **β-HCG** | **−** (sauf cellules ScT) |
 | **EMA** | **−** |
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p22_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p22_01.jpeg)
 
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p23_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p23_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p23_01.png)
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p23_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p23_02.jpeg)
 
 
 ### Diagnostics différentiels
@@ -227,12 +227,12 @@ Stade **intermédiaire** entre GCNIS et TG invasive OU **propagation intratubula
 | **Tumeur spermatocytaire** | **OCT4−**, cellules de 3 tailles, pas de stroma lymphocytaire |
 | **Lymphome** | CD20/CD3+, OCT4− |
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p24_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p24_01.jpeg)
 
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p25_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p25_01.jpeg)
 
 
 ### Pronostic et stade
@@ -242,16 +242,16 @@ Stade **intermédiaire** entre GCNIS et TG invasive OU **propagation intratubula
 - Oncologues : seuil à **4 cm**
 - **Cytogénétique** : **i(12p)** / **amplification 12p** = marqueur des TG type II
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p26_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p26_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p26_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p26_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p26_02.jpeg)
 
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p28_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p28_00.png)
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p28_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p28_01.png)
 
 
 ## TUMEUR SPERMATOCYTAIRE (type III)
@@ -267,9 +267,9 @@ Stade **intermédiaire** entre GCNIS et TG invasive OU **propagation intratubula
 - Risque : **dédifférenciation sarcomatoïde** rare (rhabdomyosarcome, sarcome indifférencié) → pronostic agressif
 
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p31_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p31_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p31_01.jpeg)
 
 
 ### Macroscopie
@@ -288,18 +288,18 @@ Stade **intermédiaire** entre GCNIS et TG invasive OU **propagation intratubula
 - **Pas de GCNIS** dans les tubes adjacents
 - **Tumeur spermatocytaire intratubulaire** rare possible
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p32_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p32_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p32_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p32_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p32_02.jpeg)
 
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p33_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p33_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p33_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p33_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p33_02.jpeg)
 
 
 ### IHC de la tumeur spermatocytaire
@@ -313,11 +313,11 @@ Stade **intermédiaire** entre GCNIS et TG invasive OU **propagation intratubula
 | **Séminome** | **Stroma lymphocytaire**, septa fibreux, **OCT4+**, GCNIS+ |
 | **Lymphome** | CD20/CD3+, cellules plus irrégulières, **OCT4−** |
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p34_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p34_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p34_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p34_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p34_02.jpeg)
 
 
 ## Synthèse comparative séminome vs tumeur spermatocytaire
@@ -337,9 +337,9 @@ Stade **intermédiaire** entre GCNIS et TG invasive OU **propagation intratubula
 | Métastases | Possibles | **Très rares** |
 | i(12p) | **+** | − |
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p36_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p36_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-422 Néoplasies germinales non invasives, séminome, tumeur spermatocytaire/p36_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-422%20N%C3%A9oplasies%20germinales%20non%20invasives%2C%20s%C3%A9minome%2C%20tumeur%20spermatocytaire/p36_01.jpeg)
 
 
 ---

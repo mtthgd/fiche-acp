@@ -32,11 +32,11 @@ source: DES ACP - Cours d'urologie
   - **Tumeur de bas potentiel de malignité**
 - Importance : **ne pas confondre avec le ccRCC** (principal DD) pour éviter un surtraitement
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-124-Carcinome papillaire à cellules claires du rein/p01_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-124-Carcinome%20papillaire%20%C3%A0%20cellules%20claires%20du%20rein/p01_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-124-Carcinome papillaire à cellules claires du rein/p02_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-124-Carcinome%20papillaire%20%C3%A0%20cellules%20claires%20du%20rein/p02_00.png)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-124-Carcinome papillaire à cellules claires du rein/p03_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-124-Carcinome%20papillaire%20%C3%A0%20cellules%20claires%20du%20rein/p03_00.png)
 
 ---
 
@@ -53,9 +53,9 @@ source: DES ACP - Cours d'urologie
   - Pas d'infiltration de la graisse périrénale ni du sinus
   - Pas d'infiltration des cavités pyélocalicielles
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-124-Carcinome papillaire à cellules claires du rein/p04_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-124-Carcinome%20papillaire%20%C3%A0%20cellules%20claires%20du%20rein/p04_00.png)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-124-Carcinome papillaire à cellules claires du rein/p05_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-124-Carcinome%20papillaire%20%C3%A0%20cellules%20claires%20du%20rein/p05_00.png)
 
 ---
 
@@ -75,23 +75,23 @@ source: DES ACP - Cours d'urologie
   - Calcifications (en général)
 - **Stroma** d'abondance variable, plus ou moins **scléro-hyalin**, parfois riche en **fibres musculaires lisses**
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-124-Carcinome papillaire à cellules claires du rein/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-124-Carcinome%20papillaire%20%C3%A0%20cellules%20claires%20du%20rein/p06_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-124-Carcinome papillaire à cellules claires du rein/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-124-Carcinome%20papillaire%20%C3%A0%20cellules%20claires%20du%20rein/p07_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-124-Carcinome papillaire à cellules claires du rein/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-124-Carcinome%20papillaire%20%C3%A0%20cellules%20claires%20du%20rein/p08_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-124-Carcinome papillaire à cellules claires du rein/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-124-Carcinome%20papillaire%20%C3%A0%20cellules%20claires%20du%20rein/p09_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-124-Carcinome papillaire à cellules claires du rein/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-124-Carcinome%20papillaire%20%C3%A0%20cellules%20claires%20du%20rein/p10_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-124-Carcinome papillaire à cellules claires du rein/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-124-Carcinome%20papillaire%20%C3%A0%20cellules%20claires%20du%20rein/p11_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-124-Carcinome papillaire à cellules claires du rein/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-124-Carcinome%20papillaire%20%C3%A0%20cellules%20claires%20du%20rein/p12_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-124-Carcinome papillaire à cellules claires du rein/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-124-Carcinome%20papillaire%20%C3%A0%20cellules%20claires%20du%20rein/p13_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-124-Carcinome papillaire à cellules claires du rein/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-124-Carcinome%20papillaire%20%C3%A0%20cellules%20claires%20du%20rein/p14_00.jpeg)
 
 ---
 
@@ -113,7 +113,7 @@ Profil **typique et constant** :
 
 Diagnostic possible sur **biopsie** avec le même phénotype IHC.
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-124-Carcinome papillaire à cellules claires du rein/p15_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-124-Carcinome%20papillaire%20%C3%A0%20cellules%20claires%20du%20rein/p15_00.png)
 
 ---
 
@@ -138,11 +138,11 @@ Diagnostic possible sur **biopsie** avec le même phénotype IHC.
 | **Carcinome à translocation MiT (sujet jeune)** | TFE3/TFEB+ |
 | **Carcinome rénal à stroma léiomyomateux** (entité émergente) | Partage **CK7+ diffus / AMACR −** ; associe cellules claires + cellules éosinophiles plus larges effilées cylindriques hautes, noyaux plus haut grade (ISUP 3), **stroma musculaire lisse abondant** nodulant/disséquant les travées, **gros vaisseaux dans la capsule** |
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-124-Carcinome papillaire à cellules claires du rein/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-124-Carcinome%20papillaire%20%C3%A0%20cellules%20claires%20du%20rein/p16_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-124-Carcinome papillaire à cellules claires du rein/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-124-Carcinome%20papillaire%20%C3%A0%20cellules%20claires%20du%20rein/p17_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-124-Carcinome papillaire à cellules claires du rein/p18_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-124-Carcinome%20papillaire%20%C3%A0%20cellules%20claires%20du%20rein/p18_00.png)
 
 ---
 
@@ -152,7 +152,7 @@ Diagnostic possible sur **biopsie** avec le même phénotype IHC.
 - Tumeur de **bas potentiel de malignité**
 - **Enjeu = ne pas surtraiter** en le confondant avec un ccRCC
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-124-Carcinome papillaire à cellules claires du rein/p19_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-124-Carcinome%20papillaire%20%C3%A0%20cellules%20claires%20du%20rein/p19_00.png)
 
 ---
 

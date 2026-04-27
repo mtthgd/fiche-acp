@@ -41,9 +41,9 @@ La classification **OMS 2016** sépare les carcinomes épidermoïdes selon le **
 - **PCR** (référence)
 - **Immunomarquage p16** (surexpression = marqueur de substitution de l'HPV)
 
-![[assets/urologie/verge/05-522 Diagnostic des carcinomes epidermoïdes de la verge/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/verge/05-522%20Diagnostic%20des%20carcinomes%20epidermo%C3%AFdes%20de%20la%20verge/p05_00.jpeg)
 
-![[assets/urologie/verge/05-522 Diagnostic des carcinomes epidermoïdes de la verge/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/verge/05-522%20Diagnostic%20des%20carcinomes%20epidermo%C3%AFdes%20de%20la%20verge/p05_01.jpeg)
 
 ---
 
@@ -73,11 +73,11 @@ La classification **OMS 2016** sépare les carcinomes épidermoïdes selon le **
 | **p53** | **Fortement positif** (CIS de surface + composante infiltrante) |
 | **p16** | **NÉGATIF** |
 
-![[assets/urologie/verge/05-522 Diagnostic des carcinomes epidermoïdes de la verge/p05_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/verge/05-522%20Diagnostic%20des%20carcinomes%20epidermo%C3%AFdes%20de%20la%20verge/p05_02.jpeg)
 
-![[assets/urologie/verge/05-522 Diagnostic des carcinomes epidermoïdes de la verge/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/verge/05-522%20Diagnostic%20des%20carcinomes%20epidermo%C3%AFdes%20de%20la%20verge/p06_00.jpeg)
 
-![[assets/urologie/verge/05-522 Diagnostic des carcinomes epidermoïdes de la verge/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/verge/05-522%20Diagnostic%20des%20carcinomes%20epidermo%C3%AFdes%20de%20la%20verge/p06_01.jpeg)
 
 ## Aspects histologiques particuliers
 
@@ -85,9 +85,9 @@ La classification **OMS 2016** sépare les carcinomes épidermoïdes selon le **
 - **Carcinome verruqueux** : très peu infiltrant (DD hyperplasie verruqueuse)
 - **Carcinome sarcomatoïde** : cellules indifférenciées fusiformes, parfois rhabdoïdes
 
-![[assets/urologie/verge/05-522 Diagnostic des carcinomes epidermoïdes de la verge/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/verge/05-522%20Diagnostic%20des%20carcinomes%20epidermo%C3%AFdes%20de%20la%20verge/p07_00.jpeg)
 
-![[assets/urologie/verge/05-522 Diagnostic des carcinomes epidermoïdes de la verge/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/verge/05-522%20Diagnostic%20des%20carcinomes%20epidermo%C3%AFdes%20de%20la%20verge/p07_01.jpeg)
 
 ---
 
@@ -114,13 +114,13 @@ La classification **OMS 2016** sépare les carcinomes épidermoïdes selon le **
 - **Condylomateux** : axes vasculaires épais, koïlocytose, **p16 fortement +**
 - **Basaloïde** : cellules hyperchromatiques, indifférenciées, **densité cellulaire élevée**
 
-![[assets/urologie/verge/05-522 Diagnostic des carcinomes epidermoïdes de la verge/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/verge/05-522%20Diagnostic%20des%20carcinomes%20epidermo%C3%AFdes%20de%20la%20verge/p08_00.jpeg)
 
-![[assets/urologie/verge/05-522 Diagnostic des carcinomes epidermoïdes de la verge/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/verge/05-522%20Diagnostic%20des%20carcinomes%20epidermo%C3%AFdes%20de%20la%20verge/p08_01.jpeg)
 
-![[assets/urologie/verge/05-522 Diagnostic des carcinomes epidermoïdes de la verge/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/verge/05-522%20Diagnostic%20des%20carcinomes%20epidermo%C3%AFdes%20de%20la%20verge/p09_00.jpeg)
 
-![[assets/urologie/verge/05-522 Diagnostic des carcinomes epidermoïdes de la verge/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/verge/05-522%20Diagnostic%20des%20carcinomes%20epidermo%C3%AFdes%20de%20la%20verge/p09_01.jpeg)
 
 ---
 
@@ -135,9 +135,9 @@ La classification **OMS 2016** sépare les carcinomes épidermoïdes selon le **
 
 > **À mentionner : pourcentage de composante de grade 3** (impact thérapeutique).
 
-![[assets/urologie/verge/05-522 Diagnostic des carcinomes epidermoïdes de la verge/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/verge/05-522%20Diagnostic%20des%20carcinomes%20epidermo%C3%AFdes%20de%20la%20verge/p11_00.jpeg)
 
-![[assets/urologie/verge/05-522 Diagnostic des carcinomes epidermoïdes de la verge/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/verge/05-522%20Diagnostic%20des%20carcinomes%20epidermo%C3%AFdes%20de%20la%20verge/p12_00.jpeg)
 
 ---
 
@@ -173,13 +173,13 @@ Critères : aspect des papilles, axes vasculaires, base tumorale, **koïlocytes*
 - **Spongiose**
 - **IHC d'appoint** : **p16** (HPV), **Ki-67** (prolifération), **p53** (mutation)
 
-![[assets/urologie/verge/05-522 Diagnostic des carcinomes epidermoïdes de la verge/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/verge/05-522%20Diagnostic%20des%20carcinomes%20epidermo%C3%AFdes%20de%20la%20verge/p17_00.jpeg)
 
-![[assets/urologie/verge/05-522 Diagnostic des carcinomes epidermoïdes de la verge/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/verge/05-522%20Diagnostic%20des%20carcinomes%20epidermo%C3%AFdes%20de%20la%20verge/p17_01.jpeg)
 
-![[assets/urologie/verge/05-522 Diagnostic des carcinomes epidermoïdes de la verge/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/verge/05-522%20Diagnostic%20des%20carcinomes%20epidermo%C3%AFdes%20de%20la%20verge/p18_00.jpeg)
 
-![[assets/urologie/verge/05-522 Diagnostic des carcinomes epidermoïdes de la verge/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/verge/05-522%20Diagnostic%20des%20carcinomes%20epidermo%C3%AFdes%20de%20la%20verge/p18_01.jpeg)
 
 > Remarque : cette classification en sous-types et les DD sont **superposables** à ceux des CE ORL/maxillo-facial et gynécologiques.
 

@@ -76,13 +76,13 @@ Après involution : peau normale ou **résidu inesthétique** réséqué et envo
 | **Différenciée** | **Capillaires bien organisés**, lumière arrondie, paroi avec endothélium aplati + membrane hyaline contenant des péricytes ; **engainements péri-nerveux** et infiltration des annexes/muscles **ne sont PAS des signes d'agressivité** |
 | **Évoluée (résidu)** | **Involution adipeuse marquée** + petits capillaires atrophiques épars à paroi hyalinisée |
 
-![[assets/cardio-vasculaire/vaisseaux/tumeurs vasculaires bénignes/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/tumeurs%20vasculaires%20b%C3%A9nignes/p10_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/tumeurs vasculaires bénignes/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/tumeurs%20vasculaires%20b%C3%A9nignes/p11_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/tumeurs vasculaires bénignes/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/tumeurs%20vasculaires%20b%C3%A9nignes/p12_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/tumeurs vasculaires bénignes/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/tumeurs%20vasculaires%20b%C3%A9nignes/p13_00.jpeg)
 
 ### Immunohistochimie
 
@@ -95,7 +95,7 @@ Après involution : peau normale ou **résidu inesthétique** réséqué et envo
 > ⚠️ **GLUT1** = transporteur du glucose des **globules rouges** : la positivité des hématies sert de **contrôle interne**. Si tumeur GLUT1−, **vérifier que les globules rouges sont marqués** sur la même lame.
 > Les vaisseaux normaux sont **GLUT1−** au niveau endothélial.
 
-![[assets/cardio-vasculaire/vaisseaux/tumeurs vasculaires bénignes/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/tumeurs%20vasculaires%20b%C3%A9nignes/p14_00.jpeg)
 
 ### Traitement
 - **Propranolol** (bêta-bloquant) en première intention pour formes graves/évolutives
@@ -129,11 +129,11 @@ Après involution : peau normale ou **résidu inesthétique** réséqué et envo
 - En involution : lobules plus petits, fibrose interlobulaire, vaisseaux extra-lobulaires regroupés au centre
 - Aspect parfois piégeant simulant une **MAV** sur fragment → caractère **lobulé et bien limité** sur pièce d'exérèse oriente
 
-![[assets/cardio-vasculaire/vaisseaux/tumeurs vasculaires bénignes/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/tumeurs%20vasculaires%20b%C3%A9nignes/p17_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/tumeurs vasculaires bénignes/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/tumeurs%20vasculaires%20b%C3%A9nignes/p19_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/tumeurs vasculaires bénignes/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/tumeurs%20vasculaires%20b%C3%A9nignes/p21_00.jpeg)
 
 ## III — Tufted angioma (angiome en touffe / Nakagawa)
 
@@ -153,9 +153,9 @@ Après involution : peau normale ou **résidu inesthétique** réséqué et envo
 - **D2-40 / podoplanine + (hétérogène)**
 - Met en évidence des **fentes lymphatiques entre les lobules tumoraux**
 
-![[assets/cardio-vasculaire/vaisseaux/tumeurs vasculaires bénignes/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/tumeurs%20vasculaires%20b%C3%A9nignes/p24_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/tumeurs vasculaires bénignes/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/tumeurs%20vasculaires%20b%C3%A9nignes/p25_00.jpeg)
 
 ## IV — Granulome pyogénique (hémangiome capillaire lobulaire)
 
@@ -176,11 +176,11 @@ Après involution : peau normale ou **résidu inesthétique** réséqué et envo
 - **Mitoses possibles, parfois nombreuses** (croissance rapide)
 - **Rares atypies nucléaires isolées tolérées**
 
-![[assets/cardio-vasculaire/vaisseaux/tumeurs vasculaires bénignes/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/tumeurs%20vasculaires%20b%C3%A9nignes/p28_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/tumeurs vasculaires bénignes/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/tumeurs%20vasculaires%20b%C3%A9nignes/p30_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/tumeurs vasculaires bénignes/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/tumeurs%20vasculaires%20b%C3%A9nignes/p32_00.jpeg)
 
 ## V — Hémangiome épithélioïde
 
@@ -200,9 +200,9 @@ Après involution : peau normale ou **résidu inesthétique** réséqué et envo
 - Lésions anciennes : **fibrose lamellaire circonférentielle** péri-vasculaire
 - Atypies nucléaires isolées tolérées **sans mitose**
 
-![[assets/cardio-vasculaire/vaisseaux/tumeurs vasculaires bénignes/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/tumeurs%20vasculaires%20b%C3%A9nignes/p34_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/tumeurs vasculaires bénignes/p36_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/tumeurs%20vasculaires%20b%C3%A9nignes/p36_00.jpeg)
 
 ## VI — Hémangiome à cellules fusiformes
 
@@ -224,11 +224,11 @@ Après involution : peau normale ou **résidu inesthétique** réséqué et envo
 - **Mutations *IDH1 / IDH2*** somatiques
 - Risque : **transformation enchondromes → chondrosarcomes** dans **30-40 %** ; autres tumeurs bénignes/malignes associées
 
-![[assets/cardio-vasculaire/vaisseaux/tumeurs vasculaires bénignes/p38_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/tumeurs%20vasculaires%20b%C3%A9nignes/p38_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/tumeurs vasculaires bénignes/p40_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/tumeurs%20vasculaires%20b%C3%A9nignes/p40_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/tumeurs vasculaires bénignes/p41_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/tumeurs%20vasculaires%20b%C3%A9nignes/p41_00.jpeg)
 
 ## Immunohistochimie — récapitulatif
 

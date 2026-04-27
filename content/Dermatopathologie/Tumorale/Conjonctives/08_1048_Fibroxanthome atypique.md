@@ -46,7 +46,7 @@ source: DES ACP - Cours de dermatopathologie
 | Aspect | **Nodule unique ULCÉRÉ** |
 | **Taille** | **< 20 mm** |
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1048 - Fibroxanthome atypique - SDP/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1048%20-%20Fibroxanthome%20atypique%20-%20SDP/p03_00.jpeg)
 
 ## Critères diagnostiques (TOUS exigés)
 
@@ -62,10 +62,10 @@ source: DES ACP - Cours de dermatopathologie
 - **Pas d'engainement périnerveux**
 - **Pas d'angio-invasion**
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT Dermatoses psoriasiformes/p06_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1048 - Fibroxanthome atypique - SDP/p07_00.jpeg]]
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT Dermatoses psoriasiformes/p08_00.jpeg]]
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT%20Dermatoses%20psoriasiformes/p06_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1048%20-%20Fibroxanthome%20atypique%20-%20SDP/p07_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-231-CAT%20Dermatoses%20psoriasiformes/p08_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p10_00.jpeg)
 
 ## Histologie
 
@@ -75,16 +75,16 @@ source: DES ACP - Cours de dermatopathologie
 - **Refoulement de l'élastose dermique** (témoin d'une naissance dermique superficielle qui refoule le tissu en profondeur)
 - Cytologie type **UPS** (sarcome pléomorphe indifférencié) : grandes cellules irrégulières, hyperchromatiques, **monstrueuses**, mitoses fréquentes ± atypiques
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1048 - Fibroxanthome atypique - SDP/p13_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1048 - Fibroxanthome atypique - SDP/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1048%20-%20Fibroxanthome%20atypique%20-%20SDP/p13_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1048%20-%20Fibroxanthome%20atypique%20-%20SDP/p14_00.jpeg)
 
 ### Variantes morphologiques
 - FXA à cellules **fusiformes**
 - FXA **hémorragique** (cliniquement pigmenté)
 - FXA à cellules **claires/épithélioïdes**
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1048 - Fibroxanthome atypique - SDP/p15_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1048 - Fibroxanthome atypique - SDP/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1048%20-%20Fibroxanthome%20atypique%20-%20SDP/p15_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1048%20-%20Fibroxanthome%20atypique%20-%20SDP/p16_00.jpeg)
 
 ## Immunohistochimie : panel exhaustif (diagnostic d'EXCLUSION)
 
@@ -141,7 +141,7 @@ source: DES ACP - Cours de dermatopathologie
 - **Création de fentes vasculaires**, pictage inflammatoire ± plasmocytes
 - **CD31 + membranaire continu**, **ERG + nucléaire**
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1048 - Fibroxanthome atypique - SDP/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1048%20-%20Fibroxanthome%20atypique%20-%20SDP/p17_00.jpeg)
 
 ---
 
@@ -160,7 +160,7 @@ source: DES ACP - Cours de dermatopathologie
 - Même terrain (sujet âgé, photo-exposition)
 - Plage **plus volontiers asymétrique**, **plus grande taille**, **plus infiltrée à la palpation**
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1048 - Fibroxanthome atypique - SDP/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1048%20-%20Fibroxanthome%20atypique%20-%20SDP/p18_00.jpeg)
 
 ## Critères histologiques de SDP (= au moins UN des critères suivants exclut le FXA)
 
@@ -181,8 +181,8 @@ source: DES ACP - Cours de dermatopathologie
 - Nécrose tumorale
 - Engainements périnerveux à rechercher
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1048 - Fibroxanthome atypique - SDP/p19_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1048 - Fibroxanthome atypique - SDP/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1048%20-%20Fibroxanthome%20atypique%20-%20SDP/p19_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1048%20-%20Fibroxanthome%20atypique%20-%20SDP/p20_00.jpeg)
 
 ## IHC
 

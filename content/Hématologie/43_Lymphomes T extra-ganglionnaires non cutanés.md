@@ -46,9 +46,9 @@ Les cellules de l'immunité innée sont localisées dans les **tissus barrière*
 - Cellules monotones de taille moyenne
 - Pulpe blanche splénique atrophique, infiltration pulpe rouge
 
-![[assets/hematologie/lymphome_t:nk/Diaporama 07-356_Lymphomes T périphériques extra-ganglionnaires non cutanés DES R3C final sonorisé/p06_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_t%3Ank/Diaporama%2007-356_Lymphomes%20T%20p%C3%A9riph%C3%A9riques%20extra-ganglionnaires%20non%20cutan%C3%A9s%20DES%20R3C%20final%20sonoris%C3%A9/p06_05.jpeg)
 
-![[assets/hematologie/lymphome_t:nk/Diaporama 07-356_Lymphomes T périphériques extra-ganglionnaires non cutanés DES R3C final sonorisé/p07_07.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_t%3Ank/Diaporama%2007-356_Lymphomes%20T%20p%C3%A9riph%C3%A9riques%20extra-ganglionnaires%20non%20cutan%C3%A9s%20DES%20R3C%20final%20sonoris%C3%A9/p07_07.jpeg)
 
 ### Phénotype
 - **CD3+ CD4− CD8−**, CD5−, CD7 variable
@@ -96,11 +96,11 @@ Les cellules de l'immunité innée sont localisées dans les **tissus barrière*
 - **Atrophie villositaire** dans la muqueuse adjacente (critère diagnostic +++)
 - Hyperlymphocytose intra-épithéliale
 
-![[assets/hematologie/lymphome_t:nk/Diaporama 07-356_Lymphomes T périphériques extra-ganglionnaires non cutanés DES R3C final sonorisé/p14_26.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_t%3Ank/Diaporama%2007-356_Lymphomes%20T%20p%C3%A9riph%C3%A9riques%20extra-ganglionnaires%20non%20cutan%C3%A9s%20DES%20R3C%20final%20sonoris%C3%A9/p14_26.jpeg)
 
-![[assets/hematologie/lymphome_t:nk/Diaporama 07-356_Lymphomes T périphériques extra-ganglionnaires non cutanés DES R3C final sonorisé/p14_28.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_t%3Ank/Diaporama%2007-356_Lymphomes%20T%20p%C3%A9riph%C3%A9riques%20extra-ganglionnaires%20non%20cutan%C3%A9s%20DES%20R3C%20final%20sonoris%C3%A9/p14_28.jpeg)
 
-![[assets/hematologie/lymphome_t:nk/Diaporama 07-356_Lymphomes T périphériques extra-ganglionnaires non cutanés DES R3C final sonorisé/p15_30.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_t%3Ank/Diaporama%2007-356_Lymphomes%20T%20p%C3%A9riph%C3%A9riques%20extra-ganglionnaires%20non%20cutan%C3%A9s%20DES%20R3C%20final%20sonoris%C3%A9/p15_30.jpeg)
 
 ### Phénotype
 - **CD3+ CD5− CD8− CD4− CD7+**, **CD103+** (hétérogène)
@@ -140,9 +140,9 @@ Les cellules de l'immunité innée sont localisées dans les **tissus barrière*
 - **Pas d'atrophie villositaire** (critère distinctif avec EATL)
 - **Épithéliotropisme marqué** dans la muqueuse adjacente
 
-![[assets/hematologie/lymphome_t:nk/Diaporama 07-356_Lymphomes T périphériques extra-ganglionnaires non cutanés DES R3C final sonorisé/p17_37.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_t%3Ank/Diaporama%2007-356_Lymphomes%20T%20p%C3%A9riph%C3%A9riques%20extra-ganglionnaires%20non%20cutan%C3%A9s%20DES%20R3C%20final%20sonoris%C3%A9/p17_37.jpeg)
 
-![[assets/hematologie/lymphome_t:nk/Diaporama 07-356_Lymphomes T périphériques extra-ganglionnaires non cutanés DES R3C final sonorisé/p17_38.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_t%3Ank/Diaporama%2007-356_Lymphomes%20T%20p%C3%A9riph%C3%A9riques%20extra-ganglionnaires%20non%20cutan%C3%A9s%20DES%20R3C%20final%20sonoris%C3%A9/p17_38.jpeg)
 
 ### Phénotype
 - **CD3+ CD8+ CD56+** (caractéristique)
@@ -177,9 +177,9 @@ Les cellules de l'immunité innée sont localisées dans les **tissus barrière*
 - TIA1+, GranzB− (cytotoxique **non activé**)
 - **Ki67 très faible (5-10%)** → **critère clé** distinguant des vrais lymphomes
 
-![[assets/hematologie/lymphome_t:nk/Diaporama 07-356_Lymphomes T périphériques extra-ganglionnaires non cutanés DES R3C final sonorisé/p30_77.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_t%3Ank/Diaporama%2007-356_Lymphomes%20T%20p%C3%A9riph%C3%A9riques%20extra-ganglionnaires%20non%20cutan%C3%A9s%20DES%20R3C%20final%20sonoris%C3%A9/p30_77.jpeg)
 
-![[assets/hematologie/lymphome_t:nk/Diaporama 07-356_Lymphomes T périphériques extra-ganglionnaires non cutanés DES R3C final sonorisé/p30_82.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_t%3Ank/Diaporama%2007-356_Lymphomes%20T%20p%C3%A9riph%C3%A9riques%20extra-ganglionnaires%20non%20cutan%C3%A9s%20DES%20R3C%20final%20sonoris%C3%A9/p30_82.jpeg)
 
 ---
 

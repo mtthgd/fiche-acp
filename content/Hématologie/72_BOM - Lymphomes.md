@@ -30,9 +30,9 @@ source: DES ACP - Cours d’hématologie (diapositives uniquement)
 - BOM **bilatérale** parfois utile (ex : LF, MCL) pour augmenter la sensibilité
 - Couplée à la **cytométrie en flux** sur aspirat médullaire
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p01_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p01_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p05_00.jpeg)
 
 ## Patterns d’envahissement médullaire
 
@@ -46,13 +46,13 @@ source: DES ACP - Cours d’hématologie (diapositives uniquement)
 
 > Plusieurs patterns peuvent **coexister** dans un même lymphome.
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p06_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p06_01.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p06_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p06_02.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p06_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p06_03.jpeg)
 
 ## Lymphome folliculaire (LF)
 
@@ -63,13 +63,13 @@ source: DES ACP - Cours d’hématologie (diapositives uniquement)
 - FISH **t(14;18) BCL2-IGH**
 - BOM bilatérale recommandée
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p17_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p17_01.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p17_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p17_02.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p17_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p17_03.jpeg)
 
 ## LLC-B / Lymphome lymphocytique
 
@@ -79,11 +79,11 @@ source: DES ACP - Cours d’hématologie (diapositives uniquement)
 - **Centres de prolifération** parfois visibles (pseudo-nodules clairs)
 - IHC : CD20+ (faible), **CD5+**, **CD23+**, LEF1+, **cycline D1−**
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p20_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p21_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p21_01.jpeg)
 
 ## Lymphome du manteau (MCL)
 
@@ -92,13 +92,13 @@ source: DES ACP - Cours d’hématologie (diapositives uniquement)
 - IHC : CD20+, **CD5+**, **cycline D1+**, **SOX11+**, CD23−, BCL2+
 - FISH **t(11;14) CCND1-IGH**
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p22_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p22_01.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p22_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p22_02.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p22_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p22_03.jpeg)
 
 ## Lymphome splénique de la zone marginale (SMZL)
 
@@ -108,11 +108,11 @@ source: DES ACP - Cours d’hématologie (diapositives uniquement)
 - IHC : CD20+, CD5−/+, CD10−, **CD23−**, **cycline D1−**, MUM1 ±
 - Mutations **MYD88 L265P** dans une minorité (DD avec LPL)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p23_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p23_01.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p23_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p23_02.jpeg)
 
 ## Lymphome lymphoplasmocytaire / Waldenström (LPL/WM)
 
@@ -123,13 +123,13 @@ source: DES ACP - Cours d’hématologie (diapositives uniquement)
 - **MYD88 L265P** ≈ **90 %** (essentiel pour le diagnostic)
 - ± mutation CXCR4
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p26_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p26_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p26_01.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p27_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p27_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p27_01.jpeg)
 
 ## Leucémie à tricholeucocytes (HCL)
 
@@ -138,11 +138,11 @@ source: DES ACP - Cours d’hématologie (diapositives uniquement)
 - Réticuline souvent **augmentée** → myélogramme inaspirable (« dry tap »)
 - IHC : CD20+ fort, **DBA44 (CD72)+, CD25+, CD103+, annexine A1+**, **BRAF V600E+** (IHC clone VE1 ou PCR)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p30_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p30_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p30_01.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p31_00.jpeg)
 
 ## Lymphome de Burkitt et LBL
 
@@ -152,9 +152,9 @@ source: DES ACP - Cours d’hématologie (diapositives uniquement)
 - FISH **MYC** réarrangé **t(8;14)** (Burkitt)
 - LBL : TdT+, CD34+, CD99+, phénotype B ou T précurseur
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p32_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p33_00.jpeg)
 
 ## DLBCL et lymphomes B agressifs
 
@@ -163,9 +163,9 @@ source: DES ACP - Cours d’hématologie (diapositives uniquement)
 - IHC : CD20+, classification **Hans** (CD10/BCL6/MUM1), Ki67 ↑
 - Recherche de réarrangements **MYC**, **BCL2**, **BCL6** (lymphome de haut grade « double-/triple-hit »)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p35_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p35_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p35_01.jpeg)
 
 ## Lymphome de Hodgkin classique
 
@@ -175,13 +175,13 @@ source: DES ACP - Cours d’hématologie (diapositives uniquement)
 - Fibrose souvent marquée
 - IHC : **CD30+, CD15+/−, PAX5 faible+, CD20−/+, CD45−**, EBER ± (selon contexte)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p38_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p38_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p38_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p38_01.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p40_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p40_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p40_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p40_01.jpeg)
 
 ## Lymphomes T
 
@@ -193,11 +193,11 @@ source: DES ACP - Cours d’hématologie (diapositives uniquement)
 | **Hépato-splénique γ/δ** | **Pattern intrasinusoïdal** ++ | CD3+, **TCRγδ+**, CD56+, isochr 7q |
 | **Leucémie à grands lymphocytes granuleux** | Interstitiel discret | CD3+, CD8+, **CD57+, TIA1+, granzyme B+** |
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p47_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p47_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p48_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p48_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p49_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p49_00.jpeg)
 
 ## Démarche diagnostique sur BOM en pathologie lymphomateuse
 
@@ -225,9 +225,9 @@ source: DES ACP - Cours d’hématologie (diapositives uniquement)
 | Histiocytose | CD68, CD163, CD1a, langérine selon contexte |
 | Sérose / nécrose | Ne pas confondre avec un lymphome déserté |
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p52_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p52_00.jpeg)
 
-![[assets/hematologie/hemopathies-lymphoides/Diaporama 07-530_BOM lymphome/p53_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-lymphoides/Diaporama%2007-530_BOM%20lymphome/p53_00.jpeg)
 
 ---
 

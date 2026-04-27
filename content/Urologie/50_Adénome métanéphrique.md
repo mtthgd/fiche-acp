@@ -45,9 +45,9 @@ source: DES ACP - Cours d'urologie
 - Peu de remaniements (kystiques/nécrotiques/hémorragiques sauf grandes tumeurs)
 - Possibles **calcifications**
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-133-Adénome métanéphrique/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-133-Ad%C3%A9nome%20m%C3%A9tan%C3%A9phrique/p05_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-133-Adénome métanéphrique/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-133-Ad%C3%A9nome%20m%C3%A9tan%C3%A9phrique/p07_00.jpeg)
 
 ## Histologie
 
@@ -64,19 +64,19 @@ source: DES ACP - Cours d'urologie
 - **Calcosphérites / calcifications dystrophiques** fréquentes
 - Grandes tumeurs : remaniements nécrotiques ischémiques
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-133-Adénome métanéphrique/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-133-Ad%C3%A9nome%20m%C3%A9tan%C3%A9phrique/p09_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-133-Adénome métanéphrique/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-133-Ad%C3%A9nome%20m%C3%A9tan%C3%A9phrique/p10_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-133-Adénome métanéphrique/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-133-Ad%C3%A9nome%20m%C3%A9tan%C3%A9phrique/p12_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-133-Adénome métanéphrique/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-133-Ad%C3%A9nome%20m%C3%A9tan%C3%A9phrique/p13_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-133-Adénome métanéphrique/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-133-Ad%C3%A9nome%20m%C3%A9tan%C3%A9phrique/p14_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-133-Adénome métanéphrique/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-133-Ad%C3%A9nome%20m%C3%A9tan%C3%A9phrique/p16_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-133-Adénome métanéphrique/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-133-Ad%C3%A9nome%20m%C3%A9tan%C3%A9phrique/p18_00.jpeg)
 
 ## IHC — profil caractéristique
 
@@ -93,9 +93,9 @@ source: DES ACP - Cours d'urologie
 
 > **Panel minimal** : CK7 **+** (WT1 **ou** CD57).
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-133-Adénome métanéphrique/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-133-Ad%C3%A9nome%20m%C3%A9tan%C3%A9phrique/p21_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-133-Adénome métanéphrique/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-133-Ad%C3%A9nome%20m%C3%A9tan%C3%A9phrique/p22_00.jpeg)
 
 ## Génétique
 
@@ -125,12 +125,12 @@ source: DES ACP - Cours d'urologie
 - Noyaux **hyperchromatiques**, mitoses **nombreuses**, pléomorphisme
 - **CD57 focal** (≠ diffus dans l'adénome métanéphrique), WT1+ comme l'adénome
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-133-Adénome métanéphrique/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-133-Ad%C3%A9nome%20m%C3%A9tan%C3%A9phrique/p24_00.jpeg)
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-133-Adénome métanéphrique/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-133-Ad%C3%A9nome%20m%C3%A9tan%C3%A9phrique/p25_00.jpeg)
 
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-133-Adénome métanéphrique/p29_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-133-Ad%C3%A9nome%20m%C3%A9tan%C3%A9phrique/p29_00.png)
 
 ## Lésions apparentées
 
@@ -143,7 +143,7 @@ source: DES ACP - Cours d'urologie
 - Les 2 dernières : enfants plus jeunes, **infiltrent le parenchyme** (limites moins nettes)
 - **Fibrose concentrique péri-vasculaire** commune
 
-![[assets/urologie/tumeurs_parenchyme_renale/05-133-Adénome métanéphrique/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/tumeurs_parenchyme_renale/05-133-Ad%C3%A9nome%20m%C3%A9tan%C3%A9phrique/p30_00.jpeg)
 
 ## Pronostic
 

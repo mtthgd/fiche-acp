@@ -58,9 +58,9 @@ Les tumeurs des glandes salivaires :
 - Cellules épithéliales bénignes ± macrophages
 - ⚠️ Si lésion kystique : **plus d'1/3 des kystes salivaires sont néoplasiques** → si non résolutif après ponction → exérèse
 
-![[assets/cytopathologie/orl/V2 11.9-1/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/orl/V2%2011.9-1/p03_00.jpeg)
 
-![[assets/cytopathologie/orl/V2 11.9-1/p03_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/orl/V2%2011.9-1/p03_03.jpeg)
 
 ### Conduite à tenir
 - **Concordant clinique/imagerie** → suivi
@@ -103,10 +103,10 @@ Les tumeurs des glandes salivaires :
 2. **Lymphocytes matures** abondants (fond lymphoïde polymorphe)
 3. **Fond protéinacé/débris** kystiques (mucineux ou granuleux)
 
-![[assets/cytopathologie/orl/V2 11.9-1/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/orl/V2%2011.9-1/p09_00.jpeg)
 
 
-![[assets/cytopathologie/orl/V2 11.9-1/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/orl/V2%2011.9-1/p11_00.jpeg)
 
 
 ### Conduite à tenir cat. IVa
@@ -130,7 +130,7 @@ Les tumeurs des glandes salivaires :
   - Décider d'une **lymphadénectomie**
 
 
-![[assets/cytopathologie/orl/V2 11.9-1/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/orl/V2%2011.9-1/p14_00.jpeg)
 
 
 ## Diagnostics différentiels — récapitulatif

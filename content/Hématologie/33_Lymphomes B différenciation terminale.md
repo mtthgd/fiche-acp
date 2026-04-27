@@ -39,9 +39,9 @@ Toutes ces entités partagent une morphologie à différenciation terminale (pla
 - Mitoses +++
 
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-334-Lymphomes B à grandes cellules avec differenciation terminale-Pr Copie-AUDIO/p05_09.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-334-Lymphomes%20B%20%C3%A0%20grandes%20cellules%20avec%20differenciation%20terminale-Pr%20Copie-AUDIO/p05_09.jpeg)
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-334-Lymphomes B à grandes cellules avec differenciation terminale-Pr Copie-AUDIO/p06_10.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-334-Lymphomes%20B%20%C3%A0%20grandes%20cellules%20avec%20differenciation%20terminale-Pr%20Copie-AUDIO/p06_10.jpeg)
 
 ### Phénotype
 - **CD20−, PAX5−** (perte des marqueurs B matures)
@@ -58,9 +58,9 @@ Toutes ces entités partagent une morphologie à différenciation terminale (pla
 ### Pronostic
 - **Agressif**
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-334-Lymphomes B à grandes cellules avec differenciation terminale-Pr Copie-AUDIO/p07_12.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-334-Lymphomes%20B%20%C3%A0%20grandes%20cellules%20avec%20differenciation%20terminale-Pr%20Copie-AUDIO/p07_12.jpeg)
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-334-Lymphomes B à grandes cellules avec differenciation terminale-Pr Copie-AUDIO/p09_18.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-334-Lymphomes%20B%20%C3%A0%20grandes%20cellules%20avec%20differenciation%20terminale-Pr%20Copie-AUDIO/p09_18.jpeg)
 
 ---
 
@@ -76,9 +76,9 @@ Toutes ces entités partagent une morphologie à différenciation terminale (pla
 - **Différenciation plasmocytaire**
 - **Tropisme sinusal** (particularité)
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-334-Lymphomes B à grandes cellules avec differenciation terminale-Pr Copie-AUDIO/p11_24.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-334-Lymphomes%20B%20%C3%A0%20grandes%20cellules%20avec%20differenciation%20terminale-Pr%20Copie-AUDIO/p11_24.jpeg)
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-334-Lymphomes B à grandes cellules avec differenciation terminale-Pr Copie-AUDIO/p12_26.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-334-Lymphomes%20B%20%C3%A0%20grandes%20cellules%20avec%20differenciation%20terminale-Pr%20Copie-AUDIO/p12_26.jpeg)
 
 ### Phénotype
 - **CD20−, PAX5−**
@@ -91,7 +91,7 @@ Toutes ces entités partagent une morphologie à différenciation terminale (pla
 - **t(2;17)** : *ALK-CLTC* (clatrine) → marquage granulaire cytoplasmique
 - Confirmé par FISH ALK break-apart
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-334-Lymphomes B à grandes cellules avec differenciation terminale-Pr Copie-AUDIO/p12_28.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-334-Lymphomes%20B%20%C3%A0%20grandes%20cellules%20avec%20differenciation%20terminale-Pr%20Copie-AUDIO/p12_28.png)
 
 ### Pronostic
 - **Agressif** : survie 5 ans ~25%
@@ -114,9 +114,9 @@ Toutes ces entités partagent une morphologie à différenciation terminale (pla
 - Différenciation plasmablastique
 - Noyaux avec nucléoles proéminents, nombreuses mitoses
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-334-Lymphomes B à grandes cellules avec differenciation terminale-Pr Copie-AUDIO/p15_29.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-334-Lymphomes%20B%20%C3%A0%20grandes%20cellules%20avec%20differenciation%20terminale-Pr%20Copie-AUDIO/p15_29.jpeg)
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-334-Lymphomes B à grandes cellules avec differenciation terminale-Pr Copie-AUDIO/p15_30.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-334-Lymphomes%20B%20%C3%A0%20grandes%20cellules%20avec%20differenciation%20terminale-Pr%20Copie-AUDIO/p15_30.jpeg)
 
 ### Phénotype
 - **CD20−, PAX5−**, parfois **CD79A+** faible
@@ -134,9 +134,9 @@ Toutes ces entités partagent une morphologie à différenciation terminale (pla
 ### Pronostic
 - **Très sombre** : survie médiane < 6 mois
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-334-Lymphomes B à grandes cellules avec differenciation terminale-Pr Copie-AUDIO/p18_35.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-334-Lymphomes%20B%20%C3%A0%20grandes%20cellules%20avec%20differenciation%20terminale-Pr%20Copie-AUDIO/p18_35.jpeg)
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-334-Lymphomes B à grandes cellules avec differenciation terminale-Pr Copie-AUDIO/p18_37.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-334-Lymphomes%20B%20%C3%A0%20grandes%20cellules%20avec%20differenciation%20terminale-Pr%20Copie-AUDIO/p18_37.jpeg)
 
 ---
 
@@ -166,9 +166,9 @@ Toutes ces entités partagent une morphologie à différenciation terminale (pla
 ### Cellule d'origine
 - **Cellule B naïve IgM+** **sans mutation somatique** → distingue du PEL (B post-CG muté)
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-334-Lymphomes B à grandes cellules avec differenciation terminale-Pr Copie-AUDIO/p22_44.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-334-Lymphomes%20B%20%C3%A0%20grandes%20cellules%20avec%20differenciation%20terminale-Pr%20Copie-AUDIO/p22_44.jpeg)
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-334-Lymphomes B à grandes cellules avec differenciation terminale-Pr Copie-AUDIO/p23_45.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-334-Lymphomes%20B%20%C3%A0%20grandes%20cellules%20avec%20differenciation%20terminale-Pr%20Copie-AUDIO/p23_45.jpeg)
 
 ### Pronostic
 - **Très sombre**

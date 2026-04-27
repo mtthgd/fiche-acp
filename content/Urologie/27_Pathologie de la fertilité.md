@@ -58,18 +58,18 @@ source: DES ACP - Cours d'urologie
 | **Cellules de Sertoli** | Couche unistratifiée au-dessus des spermatogonies | Noyau **ovalaire/triangulaire**, **nucléole visible** |
 
 
-![[assets/urologie/testicule_cordon_spermatique/05-452 Pathologie de la fertilité/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-452%20Pathologie%20de%20la%20fertilit%C3%A9/p06_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-452 Pathologie de la fertilité/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-452%20Pathologie%20de%20la%20fertilit%C3%A9/p07_00.jpeg)
 
 ### Interstitium
 - Tissu conjonctif lâche
 - **Cellules de Leydig** : noyau arrondi nucléolé, cytoplasme éosinophile, **cristaloïdes de Reinke**
 - **< 10 cellules de Leydig** par section de tube = normal
 
-![[assets/urologie/testicule_cordon_spermatique/05-452 Pathologie de la fertilité/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-452%20Pathologie%20de%20la%20fertilit%C3%A9/p08_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-452 Pathologie de la fertilité/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-452%20Pathologie%20de%20la%20fertilit%C3%A9/p08_01.jpeg)
 
 ---
 
@@ -87,9 +87,9 @@ source: DES ACP - Cours d'urologie
 - Seules **cellules de Sertoli** présentes, parfois **vacuolisées**
 - Non spécifique d'une étiologie
 
-![[assets/urologie/testicule_cordon_spermatique/05-452 Pathologie de la fertilité/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-452%20Pathologie%20de%20la%20fertilit%C3%A9/p09_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-452 Pathologie de la fertilité/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-452%20Pathologie%20de%20la%20fertilit%C3%A9/p10_00.jpeg)
 
 ### 2. Blocage homogène de maturation méiotique
 
@@ -97,9 +97,9 @@ source: DES ACP - Cours d'urologie
 - Tubes séminifères **de taille normale**, tous d'aspect **comparable**
 - **Arrêt de maturation à un stade donné** (le plus souvent **spermatocytes**)
 
-![[assets/urologie/testicule_cordon_spermatique/05-452 Pathologie de la fertilité/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-452%20Pathologie%20de%20la%20fertilit%C3%A9/p11_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-452 Pathologie de la fertilité/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-452%20Pathologie%20de%20la%20fertilit%C3%A9/p12_00.jpeg)
 
 ### 3. Mosaïcisme morphologique avec hypospermatogenèse (le + fréquent)
 
@@ -110,15 +110,15 @@ source: DES ACP - Cours d'urologie
   - Tubes avec uniquement cellules de Sertoli
   - Tubes avec **blocage de maturation** (spermatocytes ou spermatides)
 
-![[assets/urologie/testicule_cordon_spermatique/05-452 Pathologie de la fertilité/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-452%20Pathologie%20de%20la%20fertilit%C3%A9/p13_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-452 Pathologie de la fertilité/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-452%20Pathologie%20de%20la%20fertilit%C3%A9/p13_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-452 Pathologie de la fertilité/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-452%20Pathologie%20de%20la%20fertilit%C3%A9/p14_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-452 Pathologie de la fertilité/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-452%20Pathologie%20de%20la%20fertilit%C3%A9/p15_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-452 Pathologie de la fertilité/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-452%20Pathologie%20de%20la%20fertilit%C3%A9/p15_01.jpeg)
 
 ---
 

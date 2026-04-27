@@ -41,15 +41,15 @@ Prolifération de cellules mononucléées **synoviocyte-like** (OMS). Deux forme
 - **Diffuse** : > 5 cm, mal limitée, **sans capsule**, contingents **villeux** (longues franges rouille) et **nodulaire** — couleur rouille liée aux **dépôts d'hémosidérine**
 
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192 Synovite villonodulaire, chondromatose synoviale, hémangiome synovial/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192%20Synovite%20villonodulaire%2C%20chondromatose%20synoviale%2C%20h%C3%A9mangiome%20synovial/p07_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192 Synovite villonodulaire, chondromatose synoviale, hémangiome synovial/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192%20Synovite%20villonodulaire%2C%20chondromatose%20synoviale%2C%20h%C3%A9mangiome%20synovial/p08_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192 Synovite villonodulaire, chondromatose synoviale, hémangiome synovial/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192%20Synovite%20villonodulaire%2C%20chondromatose%20synoviale%2C%20h%C3%A9mangiome%20synovial/p09_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192 Synovite villonodulaire, chondromatose synoviale, hémangiome synovial/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192%20Synovite%20villonodulaire%2C%20chondromatose%20synoviale%2C%20h%C3%A9mangiome%20synovial/p10_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192 Synovite villonodulaire, chondromatose synoviale, hémangiome synovial/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192%20Synovite%20villonodulaire%2C%20chondromatose%20synoviale%2C%20h%C3%A9mangiome%20synovial/p11_00.jpeg)
 
 ### Histologie
 
@@ -65,21 +65,21 @@ Proportion variable :
 Forme localisée : bien limitée, capsule fibreuse, septas lobulaires.
 Forme diffuse : **infiltrante**, contingents villeux (hyperplasie des franges synoviales, cellules mononucléées + ostéoclastes dans l'axe) + contingent nodulaire sous-revêtement.
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192 Synovite villonodulaire, chondromatose synoviale, hémangiome synovial/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192%20Synovite%20villonodulaire%2C%20chondromatose%20synoviale%2C%20h%C3%A9mangiome%20synovial/p13_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192 Synovite villonodulaire, chondromatose synoviale, hémangiome synovial/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192%20Synovite%20villonodulaire%2C%20chondromatose%20synoviale%2C%20h%C3%A9mangiome%20synovial/p14_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192 Synovite villonodulaire, chondromatose synoviale, hémangiome synovial/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192%20Synovite%20villonodulaire%2C%20chondromatose%20synoviale%2C%20h%C3%A9mangiome%20synovial/p15_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192 Synovite villonodulaire, chondromatose synoviale, hémangiome synovial/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192%20Synovite%20villonodulaire%2C%20chondromatose%20synoviale%2C%20h%C3%A9mangiome%20synovial/p16_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192 Synovite villonodulaire, chondromatose synoviale, hémangiome synovial/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192%20Synovite%20villonodulaire%2C%20chondromatose%20synoviale%2C%20h%C3%A9mangiome%20synovial/p17_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192 Synovite villonodulaire, chondromatose synoviale, hémangiome synovial/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192%20Synovite%20villonodulaire%2C%20chondromatose%20synoviale%2C%20h%C3%A9mangiome%20synovial/p18_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192 Synovite villonodulaire, chondromatose synoviale, hémangiome synovial/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192%20Synovite%20villonodulaire%2C%20chondromatose%20synoviale%2C%20h%C3%A9mangiome%20synovial/p19_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192 Synovite villonodulaire, chondromatose synoviale, hémangiome synovial/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192%20Synovite%20villonodulaire%2C%20chondromatose%20synoviale%2C%20h%C3%A9mangiome%20synovial/p20_00.jpeg)
 
 ### IHC / génétique
 
@@ -118,11 +118,11 @@ Aucun critère n'est formel à lui seul.
 - **Multiples nodules** gris-blancs, taille homogène, **libres ou inclus** dans la synoviale
 - Calcification possible → **ostéochondromatose synoviale** (à ne pas confondre avec l'ostéochondrome)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192 Synovite villonodulaire, chondromatose synoviale, hémangiome synovial/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192%20Synovite%20villonodulaire%2C%20chondromatose%20synoviale%2C%20h%C3%A9mangiome%20synovial/p25_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192 Synovite villonodulaire, chondromatose synoviale, hémangiome synovial/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192%20Synovite%20villonodulaire%2C%20chondromatose%20synoviale%2C%20h%C3%A9mangiome%20synovial/p26_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192 Synovite villonodulaire, chondromatose synoviale, hémangiome synovial/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192%20Synovite%20villonodulaire%2C%20chondromatose%20synoviale%2C%20h%C3%A9mangiome%20synovial/p27_00.jpeg)
 
 ### Histologie
 
@@ -132,20 +132,20 @@ Aucun critère n'est formel à lui seul.
 - Nodules parfois calcifiés/ossifiés
 - Nodules enchâssés dans la synoviale ou libres dans l'articulation
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192 Synovite villonodulaire, chondromatose synoviale, hémangiome synovial/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192%20Synovite%20villonodulaire%2C%20chondromatose%20synoviale%2C%20h%C3%A9mangiome%20synovial/p28_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192 Synovite villonodulaire, chondromatose synoviale, hémangiome synovial/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192%20Synovite%20villonodulaire%2C%20chondromatose%20synoviale%2C%20h%C3%A9mangiome%20synovial/p29_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192 Synovite villonodulaire, chondromatose synoviale, hémangiome synovial/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192%20Synovite%20villonodulaire%2C%20chondromatose%20synoviale%2C%20h%C3%A9mangiome%20synovial/p30_00.jpeg)
 
 ### Pronostic
 
 - **Récidive locale 15-20 %**, agressivité locale possible (érosion osseuse, ex : tête fémorale)
 - **Transformation maligne** (chondrosarcome) extrêmement rare, dans les maladies anciennes/récidivantes
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192 Synovite villonodulaire, chondromatose synoviale, hémangiome synovial/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192%20Synovite%20villonodulaire%2C%20chondromatose%20synoviale%2C%20h%C3%A9mangiome%20synovial/p32_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192 Synovite villonodulaire, chondromatose synoviale, hémangiome synovial/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192%20Synovite%20villonodulaire%2C%20chondromatose%20synoviale%2C%20h%C3%A9mangiome%20synovial/p33_00.jpeg)
 
 ---
 
@@ -171,15 +171,15 @@ Quatre types :
 - Cavités vasculaires (capillaires à caverneuses) dans le tissu sous-synoviocytaire
 - **Synoviale adjacente hyperplasique**, parfois pigmentée / villeuse
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192 Synovite villonodulaire, chondromatose synoviale, hémangiome synovial/p37_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192%20Synovite%20villonodulaire%2C%20chondromatose%20synoviale%2C%20h%C3%A9mangiome%20synovial/p37_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192 Synovite villonodulaire, chondromatose synoviale, hémangiome synovial/p38_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192%20Synovite%20villonodulaire%2C%20chondromatose%20synoviale%2C%20h%C3%A9mangiome%20synovial/p38_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192 Synovite villonodulaire, chondromatose synoviale, hémangiome synovial/p39_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192%20Synovite%20villonodulaire%2C%20chondromatose%20synoviale%2C%20h%C3%A9mangiome%20synovial/p39_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192 Synovite villonodulaire, chondromatose synoviale, hémangiome synovial/p40_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192%20Synovite%20villonodulaire%2C%20chondromatose%20synoviale%2C%20h%C3%A9mangiome%20synovial/p40_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192 Synovite villonodulaire, chondromatose synoviale, hémangiome synovial/p41_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_articulaire_tumorale/09-192%20Synovite%20villonodulaire%2C%20chondromatose%20synoviale%2C%20h%C3%A9mangiome%20synovial/p41_00.jpeg)
 
 ### Traitement
 

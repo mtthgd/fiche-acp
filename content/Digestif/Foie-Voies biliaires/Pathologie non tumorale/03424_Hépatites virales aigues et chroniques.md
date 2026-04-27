@@ -89,7 +89,7 @@ La PBH **n'est pas obligatoire**, indications :
 ### Pigments
 - **Macrophages avec pigments céroïdes** (PAS-diastase+) en cas de cytolyse chronique
 
-![[assets/digestif/pancreas/tumorale/03.3.3.2 Pathologie moléculaire de ladénocarcinome du pancréas/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.2%20Pathologie%20mol%C3%A9culaire%20de%20lad%C3%A9nocarcinome%20du%20pancr%C3%A9as/p10_00.jpeg)
 
 
 
@@ -127,11 +127,11 @@ La PBH **n'est pas obligatoire**, indications :
 | **HSV 1/2** | Nécrose **hémorragique** parenchymateuse, infiltrat minime, **inclusions nucléaires vitreuses en "sac de billes"** |
 
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.4 Hépatites virales aigues et chroniques/p18_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.4%20H%C3%A9patites%20virales%20aigues%20et%20chroniques/p18_02.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p19_00.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.2 Pathologie moléculaire de ladénocarcinome du pancréas/p20_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.2%20Pathologie%20mol%C3%A9culaire%20de%20lad%C3%A9nocarcinome%20du%20pancr%C3%A9as/p20_00.png)
 
 ## Diagnostics différentiels d'une hépatite aiguë
 
@@ -217,7 +217,7 @@ Combinaison de :
 
 
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p32_00.jpeg)
 
 ## Lésions spécifiques par virus
 
@@ -229,13 +229,13 @@ Combinaison de :
 | **VHD** | Activité particulièrement marquée en cas de surinfection ; IHC anti-delta cytoplasmique |
 
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.4 Hépatites virales aigues et chroniques/p34_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.4%20H%C3%A9patites%20virales%20aigues%20et%20chroniques/p34_01.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.4 Hépatites virales aigues et chroniques/p35_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.4%20H%C3%A9patites%20virales%20aigues%20et%20chroniques/p35_00.png)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.4 Hépatites virales aigues et chroniques/p36_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.4%20H%C3%A9patites%20virales%20aigues%20et%20chroniques/p36_00.png)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.4 Hépatites virales aigues et chroniques/p36_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.4%20H%C3%A9patites%20virales%20aigues%20et%20chroniques/p36_02.jpeg)
 
 ## Qualité de la biopsie pour score METAVIR
 
@@ -263,11 +263,11 @@ Critères indirects :
 → Confronter aux données cliniques/biologiques/imagerie pour **certitude diagnostique** (conditionne le suivi : varices œsophagiennes, dépistage **CHC**).
 
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.4 Hépatites virales aigues et chroniques/p44_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.4%20H%C3%A9patites%20virales%20aigues%20et%20chroniques/p44_03.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.4 Hépatites virales aigues et chroniques/p47_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.4%20H%C3%A9patites%20virales%20aigues%20et%20chroniques/p47_00.jpeg)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.4 Hépatites virales aigues et chroniques/p47_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.4%20H%C3%A9patites%20virales%20aigues%20et%20chroniques/p47_02.jpeg)
 
 
 ---

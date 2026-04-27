@@ -64,7 +64,7 @@ L'état de méthylation est **réversible** (enzymes de méthylation / déméthy
 - Image "planisphère" (t-SNE sur ~3 000 tumeurs) : chaque tumeur = un point, les tumeurs de profil similaire se regroupent en **"pays" = classes de méthylation**
 - L'**océan** entre les pays = classes à découvrir (depuis 2018, de nouveaux territoires ont émergé)
 
-![[assets/neurologie/tumeurs_snc/2022-10 Methylome/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/2022-10%20Methylome/p05_01.jpeg)
 
 ### Trois situations par rapport à l'histologie
 
@@ -85,7 +85,7 @@ L'état de méthylation est **réversible** (enzymes de méthylation / déméthy
 3. **Hybridation sur puce Illumina EPIC** (850 000 CpG analysés) → fichiers **IDAT** (format image)
 4. **Analyse bioinformatique** sur le pipeline du **DKFZ** (en ligne, accès communautaire) — seule méthode donnant un **score de classe de méthylation**
 
-![[assets/neurologie/tumeurs_snc/2022-10 Methylome/p14_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/2022-10%20Methylome/p14_01.png)
 
 ### Principe du classifier : forêts d'arbres décisionnels (random forest)
 
@@ -94,9 +94,9 @@ L'état de méthylation est **réversible** (enzymes de méthylation / déméthy
 - Chaque arbre pose des **questions binaires** (ce CpG est-il méthylé ou non ?)
 - Propagation à travers l'arbre → aboutit à une **classe de méthylation + score de probabilité**
 
-![[assets/neurologie/tumeurs_snc/2022-10 Methylome/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/2022-10%20Methylome/p16_01.jpeg)
 
-![[assets/neurologie/tumeurs_snc/2022-10 Methylome/p17_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/2022-10%20Methylome/p17_01.png)
 
 ## Output du pipeline DKFZ (en pratique)
 
@@ -109,7 +109,7 @@ Après soumission du fichier IDAT, on obtient :
 | **CGH déduite** (profil de CNV) | Amplifications/délétions spécifiques (ex : C19MC pour ETMR, gain 1q pour médulloblastome…) |
 | **Statut de méthylation MGMT** | Prédictif de réponse au témozolomide |
 
-![[assets/neurologie/tumeurs_snc/2022-10 Methylome/p18_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/2022-10%20Methylome/p18_01.png)
 
 ### Interprétation du score de calibration
 
@@ -126,7 +126,7 @@ Après soumission du fichier IDAT, on obtient :
 | **V11** | Historique ; CGH + MGMT inclus |
 | **V12.5** | Nouvelles classes, **meilleure gestion du tissu sain et de la réaction inflammatoire**, classes repositionnées dans le cadre **OMS** |
 
-![[assets/neurologie/tumeurs_snc/2022-10 Methylome/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/2022-10%20Methylome/p20_01.jpeg)
 
 ## MGMT (méthylation du promoteur)
 
@@ -134,7 +134,7 @@ Après soumission du fichier IDAT, on obtient :
 - **MGMT méthylé** = activité de réparation de l'ADN bloquée → **bonne réponse au témozolomide** (dont le but est d'induire des altérations de l'ADN)
 - Intégré dans les critères thérapeutiques du **glioblastome** (association radio-témozolomide)
 
-![[assets/neurologie/tumeurs_snc/2022-10 Methylome/p21_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/2022-10%20Methylome/p21_02.jpeg)
 
 ## CGH déduite (copy number variation)
 
@@ -150,7 +150,7 @@ Exemples classiques :
 | Perte 1p/19q codélétée | Oligodendrogliome (IDH muté) |
 | Chromothripsis | Glioblastome pédiatrique |
 
-![[assets/neurologie/tumeurs_snc/2022-10 Methylome/p13_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/2022-10%20Methylome/p13_03.png)
 
 ## Indications cliniques du méthylome
 
@@ -187,7 +187,7 @@ Exemples classiques :
 - **Classe de méthylation** : ETMR (*embryonal tumor with multilayered rosettes*)
 - **Concordance CGH – classe de méthylation** → diagnostic consolidé
 
-![[assets/neurologie/tumeurs_snc/2022-10 Methylome/p22_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/neurologie/tumeurs_snc/2022-10%20Methylome/p22_01.png)
 
 ---
 

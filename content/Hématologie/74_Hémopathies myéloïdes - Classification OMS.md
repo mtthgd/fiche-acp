@@ -37,7 +37,7 @@ source: DES ACP - Cours d'hématologie
 | **2017** | **OMS 4e édition révisée** (référence du cours) |
 | 2022 | OMS 5e édition |
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-550_Classification OMS 2017  myeloide DES/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-550_Classification%20OMS%202017%20%20myeloide%20DES/p03_01.jpeg)
 
 
 ## Données intégrées au diagnostic
@@ -53,7 +53,7 @@ Chaque diagnostic d’hémopathie myéloïde repose désormais sur **5 piliers**
 | **Cytogénétique + biologie moléculaire** | Translocations, mutations driver/pronostiques |
 
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-550_Classification OMS 2017  myeloide DES/p04_07.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-550_Classification%20OMS%202017%20%20myeloide%20DES/p04_07.jpeg)
 
 ## Architecture de la classification OMS 2017
 
@@ -133,7 +133,7 @@ Entités présentant à la fois **dysplasie** ET **prolifération** :
 | MDS/MPN-U | Inclassable |
 
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-550_Classification OMS 2017  myeloide DES/p09_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-550_Classification%20OMS%202017%20%20myeloide%20DES/p09_01.png)
 
 ## 4. Syndromes myélodysplasiques (MDS) — OMS 2017
 
@@ -169,7 +169,7 @@ Entités présentant à la fois **dysplasie** ET **prolifération** :
 | Antécédent de **PTI / thrombopénie** au long cours |
 | Infections inhabituelles, déficit immunitaire |
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-550_Classification OMS 2017  myeloide DES/p12_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-550_Classification%20OMS%202017%20%20myeloide%20DES/p12_00.png)
 
 
 
@@ -184,7 +184,7 @@ Entités présentant à la fois **dysplasie** ET **prolifération** :
 | **LAM secondaires post-thérapeutiques** | Mutation **TP53** fréquente |
 | **LAM, NOS** (sans autre spécification) | LAM mégacaryoblastique, érythroïde pure, etc. |
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-550_Classification OMS 2017  myeloide DES/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-550_Classification%20OMS%202017%20%20myeloide%20DES/p14_00.jpeg)
 
 
 
@@ -201,7 +201,7 @@ Entités présentant à la fois **dysplasie** ET **prolifération** :
 | Caryotype complexe (≥ 3 anomalies) | Défavorable |
 
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-550_Classification OMS 2017  myeloide DES/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-550_Classification%20OMS%202017%20%20myeloide%20DES/p16_01.jpeg)
 
 ## 7. Leucémies aiguës de lignée ambiguë
 

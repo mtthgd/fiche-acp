@@ -48,9 +48,9 @@ Locus **15q11-q13** :
 
 Autres exemples : syndrome de **Beckwith-Wiedemann** (11p15).
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-720 Notion dhérédité/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-720%20Notion%20dh%C3%A9r%C3%A9dit%C3%A9/p04_00.jpeg)
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-720 Notion dhérédité/p05_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-720%20Notion%20dh%C3%A9r%C3%A9dit%C3%A9/p05_00.png)
 
 
 ### Disomie uniparentale (DUP)
@@ -62,11 +62,11 @@ Réception des **2 chromosomes d’une paire issus du même parent**.
 | **Isodisomie** | 2 copies du **même chromosome** (homologue) |
 | **Hétérodisomie** | 2 chromosomes **différents** du même parent |
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-720 Notion dhérédité/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-720%20Notion%20dh%C3%A9r%C3%A9dit%C3%A9/p07_00.jpeg)
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-720 Notion dhérédité/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-720%20Notion%20dh%C3%A9r%C3%A9dit%C3%A9/p08_00.jpeg)
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-720 Notion dhérédité/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-720%20Notion%20dh%C3%A9r%C3%A9dit%C3%A9/p08_01.jpeg)
 
 ## Anomalies chromosomiques
 
@@ -89,11 +89,11 @@ Concerne **0,62 %** des nouveau-nés vivants. Le plus souvent ***de novo*** (~85
 Lors de la formation des gamètes chez un sujet transloqué équilibré, **4 possibilités d’appariement** des chromosomes : caryotype normal, équilibré, ou déséquilibré (trisomie/monosomie partielle).
 
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-720 Notion dhérédité/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-720%20Notion%20dh%C3%A9r%C3%A9dit%C3%A9/p13_01.jpeg)
 
 → Importance de **dépister ces familles** et de proposer un **diagnostic prénatal**.
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-720 Notion dhérédité/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-720%20Notion%20dh%C3%A9r%C3%A9dit%C3%A9/p14_00.jpeg)
 
 ### Anomalies déséquilibrées
 - **Gain ou perte** de matériel génétique
@@ -102,7 +102,7 @@ Lors de la formation des gamètes chez un sujet transloqué équilibré, **4 pos
 - Répercussion clinique sévère le plus souvent : **malformations**, **retard mental**
 - Exemple emblématique : **trisomie 21**
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-720 Notion dhérédité/p15_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-720%20Notion%20dh%C3%A9r%C3%A9dit%C3%A9/p15_00.png)
 
 ## Hérédité mitochondriale (résumé)
 
@@ -119,9 +119,9 @@ Voir fiche détaillée [[16_760 ADN mitochondrial]].
 
 Spectre clinique : atteintes cérébrales, surdité, anémie, **diabète**, atteintes rénales / hépatiques / oculaires, **cardiomyopathies**, **myopathies**.
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-720 Notion dhérédité/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-720%20Notion%20dh%C3%A9r%C3%A9dit%C3%A9/p16_00.jpeg)
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-720 Notion dhérédité/p17_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-720%20Notion%20dh%C3%A9r%C3%A9dit%C3%A9/p17_00.png)
 
 ## Hérédité multifactorielle et multigénique
 

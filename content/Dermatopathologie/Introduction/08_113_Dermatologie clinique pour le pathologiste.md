@@ -47,7 +47,7 @@ L'**anamnèse de l'éruption** doit comporter :
 | **4. Altérations de la surface / consistance** | Squame, kératose, croûte, sclérose, atrophie |
 | **5. Pertes de substance** | Érosion, ulcération, fissure, gangrène, escarre, chancre |
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p03_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p03_00.png)
 
 
 ## 1. Macules — visibles non palpables
@@ -80,11 +80,11 @@ S'**effacent à la vitropression** (hyperémie inflammatoire).
 - **Cyanose** : érythème violacé / bleuté des extrémités
 - **Livedo** : dilatation passive en réseau, ramifié, plus ou moins régulier
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p07_00.jpeg)
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p07_01.jpeg)
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p07_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p07_02.jpeg)
 
 
 ### 1.3 Purpura
@@ -94,7 +94,7 @@ S'**effacent à la vitropression** (hyperémie inflammatoire).
 - Évolution selon les **teintes de la biligénèse** (rouge → violacé → vert → jaune)
 - Si infiltré : **purpura papuleux** (oriente vers une vascularite)
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p08_00.jpeg)
 
 
 > **Attention** : l'**érythrodermie** n'est PAS une lésion élémentaire mais un **syndrome** :
@@ -117,10 +117,10 @@ S'**effacent à la vitropression** (hyperémie inflammatoire).
 - Localisées ou généralisées
 - Mécanisme : disparition de la mélanine, génétique ou acquise
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p09_00.jpeg)
 
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p10_00.jpeg)
 
 
 ## 2. Lésions palpables à contenu solide
@@ -139,19 +139,19 @@ S'**effacent à la vitropression** (hyperémie inflammatoire).
 | **Papule dermique dysmétabolique** | Surcharge dermique (matériel amorphe) | Couleur chair, **jaunâtre** | Mucinose, xanthomes, amylose |
 | **Papule folliculaire / milliaire** | Sur les ostia folliculaires / sudoraux | Petits éléments centrés sur un orifice | Kératose pilaire |
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p11_00.jpeg)
 
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p12_00.jpeg)
 
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p13_00.jpeg)
 
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p14_00.jpeg)
 
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p15_00.jpeg)
 
 
 ### 2.2 Nodules
@@ -165,10 +165,10 @@ S'**effacent à la vitropression** (hyperémie inflammatoire).
 
 **Étiologies principales** : inflammatoires (sarcoïdose, érythème noueux), tumorales (lymphomes, sarcomes).
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p16_00.jpeg)
 
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p17_00.jpeg)
 
 
 ### 2.3 Végétation
@@ -179,7 +179,7 @@ S'**effacent à la vitropression** (hyperémie inflammatoire).
 - **Verrucosité** = végétation **sèche à surface cornée**
 - Exemple type : **condylomes acuminés** (HPV)
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p18_00.jpeg)
 
 
 ## 3. Lésions palpables à contenu liquidien
@@ -199,10 +199,10 @@ S'**effacent à la vitropression** (hyperémie inflammatoire).
 - **En bouquet** : herpès
 - **Métamérique** : zona
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p19_00.jpeg)
 
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p20_00.jpeg)
 
 
 ### 3.2 Pustule
@@ -216,7 +216,7 @@ S'**effacent à la vitropression** (hyperémie inflammatoire).
 | **Folliculaire** | Centrée sur un follicule (folliculites bactériennes) |
 | **Non folliculaire** | Hors follicule (psoriasis pustuleux, pustulose exanthématique aiguë généralisée) |
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p21_00.jpeg)
 
 
 ### 3.3 Bulle
@@ -248,7 +248,7 @@ S'**effacent à la vitropression** (hyperémie inflammatoire).
 
 
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p24_00.jpeg)
 
 
 
@@ -275,19 +275,19 @@ S'**effacent à la vitropression** (hyperémie inflammatoire).
 
 Se détache facilement (comme la squame), à la différence de la **kératose** (adhérente).
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p26_00.jpeg)
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p26_01.jpeg]]
-
-
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p27_00.jpeg]]
-
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p27_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p26_01.jpeg)
 
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p27_00.jpeg)
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p28_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p27_01.jpeg)
+
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p28_00.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p28_01.jpeg)
 
 
 ## 5. Modifications de consistance
@@ -305,10 +305,10 @@ Se détache facilement (comme la squame), à la différence de la **kératose** 
 - Aspect d'épiderme en **« papier de cigarette plissé »**
 - Causes multiples : sénile, post-cortisonée, post-inflammatoire
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p29_00.jpeg)
 
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p30_00.jpeg)
 
 
 
@@ -325,13 +325,13 @@ Se détache facilement (comme la squame), à la différence de la **kératose** 
 | **Chancre** | Érosion / ulcération au **point d'inoculation infectieuse** | Variable |
 | **Phagédénisme** | Mode d'extension **centrifuge** d'une ulcération | — |
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p32_00.jpeg)
 
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p33_00.jpeg)
 
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p34_00.jpeg)
 
 
 ## 7. Groupement des lésions élémentaires
@@ -346,12 +346,12 @@ Se détache facilement (comme la squame), à la différence de la **kératose** 
 | **Polycyclique** | Anneaux multiples plus ou moins complets |
 | **En cocarde** | Anneaux concentriques de couleurs différentes (ex. érythème polymorphe) |
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p35_00.jpeg)
 
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p36_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p36_00.jpeg)
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p36_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p36_01.jpeg)
 
 
 ## Corrélation anatomo-clinique
@@ -374,21 +374,21 @@ Se détache facilement (comme la squame), à la différence de la **kératose** 
 - **Histo** : **hypodermite à prédominance septale**, fibrose, inflammation des septas interlobulaires
 - **Corrélation** : pas d'atteinte lobulaire → pas de destruction des adipocytes → pas d'atrophie cupuliforme ; hématies extravasées → évolution selon la biligénèse
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p37_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p37_00.jpeg)
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p37_01.jpeg]]
-
-
-
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p39_00.jpeg]]
-
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p39_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p37_01.jpeg)
 
 
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p41_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p39_00.jpeg)
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p41_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p39_01.jpeg)
+
+
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p41_00.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p41_01.jpeg)
 
 
 ### Guide de bonne pratique de la corrélation anatomo-clinique
@@ -400,58 +400,58 @@ Se détache facilement (comme la squame), à la différence de la **kératose** 
 5. **Réunions anatomo-cliniques** (RCP) pour les dermatoses complexes
 
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p43_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p43_00.jpeg)
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p43_01.jpeg]]
-
-
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p44_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p43_01.jpeg)
 
 
-
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p46_00.jpeg]]
-
-
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p47_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p44_00.jpeg)
 
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p48_00.jpeg]]
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p46_00.jpeg)
 
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p49_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p47_00.jpeg)
 
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p50_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p48_00.jpeg)
 
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p51_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p49_00.jpeg)
 
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p52_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p50_00.jpeg)
 
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p53_00.jpeg]]
-
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p53_01.jpeg]]
-
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p53_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p51_00.jpeg)
 
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p54_00.jpeg]]
-
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p54_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p52_00.jpeg)
 
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p55_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p53_00.jpeg)
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p55_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p53_01.jpeg)
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p55_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p53_02.jpeg)
 
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p56_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p54_00.jpeg)
 
-![[assets/dermato/introduction/08-113 Dermatologie clinique pour le pathologiste/p56_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p54_01.jpeg)
+
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p55_00.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p55_01.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p55_02.jpeg)
+
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p56_00.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-113%20Dermatologie%20clinique%20pour%20le%20pathologiste/p56_01.jpeg)
 
 
 

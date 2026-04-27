@@ -29,7 +29,7 @@ L'**uvée** est la couche **pigmentée et vascularisée** située à l'intérieu
 
 L'**énucléation** correspond à l'exérèse complète du globe oculaire ; la **limite chirurgicale** est la **tranche de section du nerf optique** sur la face postérieure du globe.
 
-![[assets/ORL/oeil/pathologie_intra_oculaire/melanome uvée_rétinoblastome_v1_2024/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_intra_oculaire/melanome%20uv%C3%A9e_r%C3%A9tinoblastome_v1_2024/p04_00.jpeg)
 
 # I. MÉLANOME UVÉAL
 
@@ -49,11 +49,11 @@ L'**énucléation** correspond à l'exérèse complète du globe oculaire ; la *
 - Rechercher une **extension extra-sclérale** (sclère = limite externe du globe)
 - Repérage du **nerf optique** (limite d'exérèse)
 
-![[assets/ORL/oeil/pathologie_intra_oculaire/melanome uvée_rétinoblastome_v1_2024/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_intra_oculaire/melanome%20uv%C3%A9e_r%C3%A9tinoblastome_v1_2024/p05_00.jpeg)
 
-![[assets/ORL/oeil/pathologie_intra_oculaire/melanome uvée_rétinoblastome_v1_2024/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_intra_oculaire/melanome%20uv%C3%A9e_r%C3%A9tinoblastome_v1_2024/p05_01.jpeg)
 
-![[assets/ORL/oeil/pathologie_intra_oculaire/melanome uvée_rétinoblastome_v1_2024/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_intra_oculaire/melanome%20uv%C3%A9e_r%C3%A9tinoblastome_v1_2024/p06_00.jpeg)
 
 ## Histologie
 
@@ -70,13 +70,13 @@ Architecture tumorale en **nappes**, parfois associée à la **pigmentation** m�
 
 La **présence de cellules épithélioïdes**, **même très faible**, est un facteur pronostique **péjoratif**.
 
-![[assets/ORL/oeil/pathologie_intra_oculaire/melanome uvée_rétinoblastome_v1_2024/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_intra_oculaire/melanome%20uv%C3%A9e_r%C3%A9tinoblastome_v1_2024/p07_00.jpeg)
 
-![[assets/ORL/oeil/pathologie_intra_oculaire/melanome uvée_rétinoblastome_v1_2024/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_intra_oculaire/melanome%20uv%C3%A9e_r%C3%A9tinoblastome_v1_2024/p07_01.jpeg)
 
-![[assets/ORL/oeil/pathologie_intra_oculaire/melanome uvée_rétinoblastome_v1_2024/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_intra_oculaire/melanome%20uv%C3%A9e_r%C3%A9tinoblastome_v1_2024/p08_00.jpeg)
 
-![[assets/ORL/oeil/pathologie_intra_oculaire/melanome uvée_rétinoblastome_v1_2024/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_intra_oculaire/melanome%20uv%C3%A9e_r%C3%A9tinoblastome_v1_2024/p08_01.jpeg)
 
 ## Immunohistochimie
 
@@ -108,9 +108,9 @@ Le **mélanome uvéal n'a aucune mutation commune avec le mélanome cutané** :
 
 Techniques disponibles : **FISH**, **CGH-array**, **SNP-array**, séquençage ciblé.
 
-![[assets/ORL/oeil/pathologie_intra_oculaire/melanome uvée_rétinoblastome_v1_2024/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_intra_oculaire/melanome%20uv%C3%A9e_r%C3%A9tinoblastome_v1_2024/p09_00.jpeg)
 
-![[assets/ORL/oeil/pathologie_intra_oculaire/melanome uvée_rétinoblastome_v1_2024/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_intra_oculaire/melanome%20uv%C3%A9e_r%C3%A9tinoblastome_v1_2024/p10_01.jpeg)
 
 ## Classification / Pronostic
 
@@ -129,7 +129,7 @@ Techniques disponibles : **FISH**, **CGH-array**, **SNP-array**, séquençage ci
 - **Métastases hépatiques très largement dominantes** (90 %)
 - Autres : poumon, peau, os
 
-![[assets/ORL/oeil/pathologie_intra_oculaire/melanome uvée_rétinoblastome_v1_2024/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_intra_oculaire/melanome%20uv%C3%A9e_r%C3%A9tinoblastome_v1_2024/p11_00.jpeg)
 
 # II. RÉTINOBLASTOME
 
@@ -167,7 +167,7 @@ Inactivation **bi-allélique** du gène **RB1** (gène suppresseur de tumeur, lo
 - Énucléation : étudier la **tranche de section du nerf optique**
 - Rechercher l'**envahissement choroïdien**, la **rupture sclérale**, l'**envahissement de la chambre antérieure**
 
-![[assets/ORL/oeil/pathologie_intra_oculaire/melanome uvée_rétinoblastome_v1_2024/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_intra_oculaire/melanome%20uv%C3%A9e_r%C3%A9tinoblastome_v1_2024/p12_00.jpeg)
 
 ## Histologie
 
@@ -186,11 +186,11 @@ Inactivation **bi-allélique** du gène **RB1** (gène suppresseur de tumeur, lo
 | **Fleurettes** | Différenciation photoréceptrice avancée (signe de bon pronostic) |
 | Pseudo-rosettes | Cellules tumorales radiairement disposées autour d'un vaisseau |
 
-![[assets/ORL/oeil/pathologie_intra_oculaire/melanome uvée_rétinoblastome_v1_2024/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_intra_oculaire/melanome%20uv%C3%A9e_r%C3%A9tinoblastome_v1_2024/p14_00.jpeg)
 
-![[assets/ORL/oeil/pathologie_intra_oculaire/melanome uvée_rétinoblastome_v1_2024/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_intra_oculaire/melanome%20uv%C3%A9e_r%C3%A9tinoblastome_v1_2024/p15_00.jpeg)
 
-![[assets/ORL/oeil/pathologie_intra_oculaire/melanome uvée_rétinoblastome_v1_2024/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/oeil/pathologie_intra_oculaire/melanome%20uv%C3%A9e_r%C3%A9tinoblastome_v1_2024/p15_01.jpeg)
 
 ## Immunohistochimie
 

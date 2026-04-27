@@ -131,7 +131,7 @@ Cellules arachnoïdiennes (proches de cellules malpighiennes intermédiaires), c
 
 Cellules neuronales/gliales/astrocytaires dispersées dans une substance fibrillaire (**neuropile**) après ponction ventriculaire :
 
-![[assets/cytopathologie/lcr/Cytopathologie du LCR_Fev2020_QCM/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/lcr/Cytopathologie%20du%20LCR_Fev2020_QCM/p09_00.jpeg)
 
 ## Contaminants et artefacts
 
@@ -152,7 +152,7 @@ Cellules neuronales/gliales/astrocytaires dispersées dans une substance fibrill
 - **Récente** : nombreuses hématies (DD : piqûre vasculaire — comparer NFS/LCR)
 - **Ancienne** (> 6 h) : **érythrophagocytose**, **sidérophages** (granulations brun foncé, **Perls+**)
 
-![[assets/cytopathologie/lcr/Cytopathologie du LCR_Fev2020_QCM/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/lcr/Cytopathologie%20du%20LCR_Fev2020_QCM/p11_00.jpeg)
 
 ### Méningites — formules cytologiques
 
@@ -165,7 +165,7 @@ Cellules neuronales/gliales/astrocytaires dispersées dans une substance fibrill
 | **Lymphocytes + plasmocytes** | **Maladie de Lyme**, **sclérose en plaques** |
 
 
-![[assets/cytopathologie/lcr/Cytopathologie du LCR_Fev2020_QCM/p12_10.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/lcr/Cytopathologie%20du%20LCR_Fev2020_QCM/p12_10.jpeg)
 
 ### Méningite de Mollaret
 - Maladie à **début brutal**, **régression spontanée** en quelques jours
@@ -212,7 +212,7 @@ Colorations :
 
 ⚠️ **DD : grains d'amidon** (PAS+ mais polarisent en **croix de Malte**).
 
-![[assets/cytopathologie/lcr/Cytopathologie du LCR_Fev2020_QCM/p14_10.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/lcr/Cytopathologie%20du%20LCR_Fev2020_QCM/p14_10.jpeg)
 
 
 ## Pathologie tumorale
@@ -234,7 +234,7 @@ Si peu de cellules ou cellules très altérées → **redemander ponction lombai
 - Noyaux irréguliers, **halo périnucléaire**
 - IHC : **synaptophysine, chromogranine A, NeuN, neurofilaments, GFAP**
 
-![[assets/cytopathologie/lcr/Cytopathologie du LCR_Fev2020_QCM/p15_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cytopathologie/lcr/Cytopathologie%20du%20LCR_Fev2020_QCM/p15_02.jpeg)
 
 
 #### Germinome (grand enfant)

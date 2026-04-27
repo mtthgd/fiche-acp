@@ -30,9 +30,9 @@ Suite directe de la [[16_670 Analyse automatisée des lames FISH - partie 1|part
 - La **classification** (règles + machine learning)
 - L’interprétation prudente des résultats
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-670  Analyse automatisée des lames de FISH CF CL CCB/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-670%20%20Analyse%20automatis%C3%A9e%20des%20lames%20de%20FISH%20CF%20CL%20CCB/p16_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-670  Analyse automatisée des lames de FISH CF CL CCB/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-670%20%20Analyse%20automatis%C3%A9e%20des%20lames%20de%20FISH%20CF%20CL%20CCB/p18_00.jpeg)
 
 ## Workflow technique
 
@@ -54,11 +54,11 @@ Les signaux FISH sont **brillants sur fond sombre** = situation **idéale** pour
 
 > Pour les **signaux FISH lumineux sur fond sombre** : **simple et efficace**.
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-670  Analyse automatisée des lames de FISH CF CL CCB/p19_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-670%20%20Analyse%20automatis%C3%A9e%20des%20lames%20de%20FISH%20CF%20CL%20CCB/p19_00.png)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-670  Analyse automatisée des lames de FISH CF CL CCB/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-670%20%20Analyse%20automatis%C3%A9e%20des%20lames%20de%20FISH%20CF%20CL%20CCB/p20_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-670  Analyse automatisée des lames de FISH CF CL CCB/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-670%20%20Analyse%20automatis%C3%A9e%20des%20lames%20de%20FISH%20CF%20CL%20CCB/p21_00.jpeg)
 
 ### Labellisation des objets
 
@@ -91,7 +91,7 @@ Sous-classes basées sur le **nombre de spots** par noyau :
 - Méthodes encore **peu pertinentes en routine** pour les sondes d’**amplification** (HER2) — segmentation nucléaire approximative
 - Validation et contrôle qualité strict requis avant utilisation en routine
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-670  Analyse automatisée des lames de FISH CF CL CCB/p22_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-670%20%20Analyse%20automatis%C3%A9e%20des%20lames%20de%20FISH%20CF%20CL%20CCB/p22_00.png)
 
 ## Exemple FISH break-apart MYC — Lymphome de Burkitt
 
@@ -115,9 +115,9 @@ Sous-classes basées sur le **nombre de spots** par noyau :
 
 > **Couple vert/rouge** = signal vert et signal rouge à **distance < seuil défini** (paramètre du logiciel).
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-670  Analyse automatisée des lames de FISH CF CL CCB/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-670%20%20Analyse%20automatis%C3%A9e%20des%20lames%20de%20FISH%20CF%20CL%20CCB/p24_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-670  Analyse automatisée des lames de FISH CF CL CCB/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-670%20%20Analyse%20automatis%C3%A9e%20des%20lames%20de%20FISH%20CF%20CL%20CCB/p25_00.jpeg)
 
 
 ### **Piège majeur** d’interprétation
@@ -142,9 +142,9 @@ Camembert de résultat : **66 % de cellules splittées**, 34 % non splittées.
 
 > Pour les **sondes break-apart**, l’analyse automatisée est **largement envisageable** ; pour l’**amplification**, elle reste fragile.
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-670  Analyse automatisée des lames de FISH CF CL CCB/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-670%20%20Analyse%20automatis%C3%A9e%20des%20lames%20de%20FISH%20CF%20CL%20CCB/p27_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-670  Analyse automatisée des lames de FISH CF CL CCB/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-670%20%20Analyse%20automatis%C3%A9e%20des%20lames%20de%20FISH%20CF%20CL%20CCB/p28_00.jpeg)
 
 ## Méthodes avancées de classification : **machine learning**
 

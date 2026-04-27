@@ -28,7 +28,7 @@ source: DES ACP - Cours de Digestif (J.-F. Fléjou)
 - **Endobrachyœsophage** (Lortat-Jacob, France)
 - **Columnar Lined Lower Esophagus** (CLE, anglo-saxons)
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.4 Oesophage de Barret/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.4%20Oesophage%20de%20Barret/p03_01.jpeg)
 
 ## Épidémiologie et facteurs de risque
 
@@ -80,9 +80,9 @@ source: DES ACP - Cours de Digestif (J.-F. Fléjou)
 - **M** = longueur **maximale** (inclut languettes)
 - Exemple : **C3 M5** = 3 cm circulaire + languettes jusqu'à 5 cm
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.4 Oesophage de Barret/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.4%20Oesophage%20de%20Barret/p04_01.jpeg)
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.4 Oesophage de Barret/p04_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.4%20Oesophage%20de%20Barret/p04_02.jpeg)
 
 ### Protocole de Seattle (biopsies de surveillance)
 - **4 biopsies à 360°** sur les 4 faces de l'œsophage
@@ -90,9 +90,9 @@ source: DES ACP - Cours de Digestif (J.-F. Fléjou)
 - **Tous les 1 cm** si Barrett court
 - **Biopsies supplémentaires** sur toute anomalie de relief
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.4 Oesophage de Barret/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.4%20Oesophage%20de%20Barret/p05_00.jpeg)
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.4 Oesophage de Barret/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.4%20Oesophage%20de%20Barret/p05_01.jpeg)
 
 ## Histologie de la métaplasie
 
@@ -111,9 +111,9 @@ source: DES ACP - Cours de Digestif (J.-F. Fléjou)
 
 > Coloration HES suffisante : pas besoin de PAS / bleu Alcian / IHC en routine.
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.4 Oesophage de Barret/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.4%20Oesophage%20de%20Barret/p11_00.jpeg)
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.4 Oesophage de Barret/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.4%20Oesophage%20de%20Barret/p11_01.jpeg)
 
 
 ### Hétérotopie / métaplasie pancréatique
@@ -151,7 +151,7 @@ source: DES ACP - Cours de Digestif (J.-F. Fléjou)
 
 > ⚠️ Une muqueuse très inflammatoire avec signes de DBG → classer en **indéfini pour la dysplasie**.
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.4 Oesophage de Barret/p15_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.4%20Oesophage%20de%20Barret/p15_00.png)
 
 ### Dysplasie de bas grade (DBG)
 - Glandes un peu tassées
@@ -160,9 +160,9 @@ source: DES ACP - Cours de Digestif (J.-F. Fléjou)
 - Phénotype intestinal (ressemble à un adénome colique)
 - Contours nucléaires réguliers, peu/pas d'inflammation
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p16_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p16_01.png)
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.4 Oesophage de Barret/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.4%20Oesophage%20de%20Barret/p18_01.jpeg)
 
 ### Dysplasie de haut grade (DHG)
 - Anomalies sur **toute la hauteur** muqueuse
@@ -171,13 +171,13 @@ source: DES ACP - Cours de Digestif (J.-F. Fléjou)
 - Contours nucléaires irréguliers, **hyperchromatisme marqué**
 - Inflammation possible (ne doit pas faire récuser le diagnostic)
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.4 Oesophage de Barret/p19_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.4%20Oesophage%20de%20Barret/p19_00.png)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.6 Lésions et tumeurs kystiques du pancréas/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.6%20L%C3%A9sions%20et%20tumeurs%20kystiques%20du%20pancr%C3%A9as/p19_01.jpeg)
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.4 Oesophage de Barret/p20_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.4%20Oesophage%20de%20Barret/p20_00.png)
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.4 Oesophage de Barret/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.4%20Oesophage%20de%20Barret/p20_01.jpeg)
 
 ### Indéfini pour la dysplasie
 - **Ne pas pouvoir affirmer** s'il s'agit de néoplasie ou de régénération
@@ -185,9 +185,9 @@ source: DES ACP - Cours de Digestif (J.-F. Fléjou)
 - Noyaux ↑ taille + basophilie, mais maturation conservée et **pas de transition abrupte**
 - → Demander un **contrôle endoscopique**
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.4 Oesophage de Barret/p21_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.4%20Oesophage%20de%20Barret/p21_00.png)
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.4 Oesophage de Barret/p22_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.4%20Oesophage%20de%20Barret/p22_00.png)
 
 ## Immunohistochimie : protéine p53
 
@@ -205,7 +205,7 @@ source: DES ACP - Cours de Digestif (J.-F. Fléjou)
 
 > p53 anormal = marqueur **d'évolution rapide** vers haut grade. Aide précieuse en cas de doute (lésion DBG vs régénération).
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.4 Oesophage de Barret/p23_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.4%20Oesophage%20de%20Barret/p23_00.png)
 
 ## Diagnostics différentiels
 

@@ -39,9 +39,9 @@ Elle exclut :
 
 > **Pas de standardisation** à ce jour : faut-il inclure les mutations **driver / oncogènes** ? Question encore débattue.
 
-![[assets/pathologie-moleculaire/ngs/16-560 Evaluation de la charge mutationnelle/p01_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-560%20Evaluation%20de%20la%20charge%20mutationnelle/p01_00.jpeg)
 
-![[assets/pathologie-moleculaire/ngs/16-560 Evaluation de la charge mutationnelle/p01_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-560%20Evaluation%20de%20la%20charge%20mutationnelle/p01_01.jpeg)
 
 
 ## Rationnel — TMB et immunothérapie
@@ -53,9 +53,9 @@ Elle exclut :
 | **2014** | NEJM, Snyder et al. | **Mélanome** | **Ipilimumab** (anti-CTLA-4) | TMB **>100 mutations/exome** = survie **significativement augmentée** |
 | **2015** | Science, Rizvi et al. | **CBNPC** | **Pembrolizumab** (anti-PD-1) | TMB **>200 mutations/exome** = **PFS augmentée** |
 
-![[assets/pathologie-moleculaire/ngs/16-560 Evaluation de la charge mutationnelle/p03_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-560%20Evaluation%20de%20la%20charge%20mutationnelle/p03_00.png)
 
-![[assets/pathologie-moleculaire/ngs/16-560 Evaluation de la charge mutationnelle/p03_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-560%20Evaluation%20de%20la%20charge%20mutationnelle/p03_01.png)
 
 ### Mécanisme — TMB et néo-antigènes
 
@@ -64,7 +64,7 @@ L’ADN muté → ARN muté → **peptides mutés** → **présentés via le CMH
 > La TMB est un **reflet (au moins partiel)** de la **néo-antigénicité tumorale**, qui sous-tend la réponse à l’immunothérapie.
 
 
-![[assets/pathologie-moleculaire/ngs/16-560 Evaluation de la charge mutationnelle/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-560%20Evaluation%20de%20la%20charge%20mutationnelle/p04_01.jpeg)
 
 ## Méthodes d’évaluation
 
@@ -82,9 +82,9 @@ L’ADN muté → ARN muté → **peptides mutés** → **présentés via le CMH
 - Panels de **plusieurs centaines de gènes** couvrant 1-2 Mb
 - Rendu : **mut/Mb**
 
-![[assets/pathologie-moleculaire/ngs/16-560 Evaluation de la charge mutationnelle/p05_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-560%20Evaluation%20de%20la%20charge%20mutationnelle/p05_00.png)
 
-![[assets/pathologie-moleculaire/ngs/16-560 Evaluation de la charge mutationnelle/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-560%20Evaluation%20de%20la%20charge%20mutationnelle/p06_00.jpeg)
 
 ### Taille optimale du panel ciblé
 
@@ -106,12 +106,12 @@ L’ADN muté → ARN muté → **peptides mutés** → **présentés via le CMH
 
 > En pratique en France : envoi à un service externe (**Foundation One**), ou utilisation au laboratoire de **TSO500** ou **Oncomine TML** sur séquenceur dédié de grande capacité.
 
-![[assets/pathologie-moleculaire/ngs/16-560 Evaluation de la charge mutationnelle/p07_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-560%20Evaluation%20de%20la%20charge%20mutationnelle/p07_00.png)
 
 
-![[assets/pathologie-moleculaire/ngs/16-560 Evaluation de la charge mutationnelle/p07_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-560%20Evaluation%20de%20la%20charge%20mutationnelle/p07_02.png)
 
-![[assets/pathologie-moleculaire/ngs/16-560 Evaluation de la charge mutationnelle/p07_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-560%20Evaluation%20de%20la%20charge%20mutationnelle/p07_03.png)
 
 ### 4. Analyse des épitopes néo-antigéniques
 Algorithmes prédictifs à partir des mutations + typage HLA → **peu faisable en routine**, plutôt en recherche.
@@ -129,9 +129,9 @@ Publication de **Nature 2013** : variabilité énorme entre tumeurs (de quelques
 
 → **Cause** : tumeurs épithéliales associées à un **dommage de l’ADN par facteurs environnementaux** (UV, tabac, déficit MMR) sont les plus mutées.
 
-![[assets/pathologie-moleculaire/ngs/16-560 Evaluation de la charge mutationnelle/p08_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-560%20Evaluation%20de%20la%20charge%20mutationnelle/p08_00.png)
 
-![[assets/pathologie-moleculaire/ngs/16-560 Evaluation de la charge mutationnelle/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-560%20Evaluation%20de%20la%20charge%20mutationnelle/p09_00.jpeg)
 
 ## Seuils de TMB
 
@@ -152,7 +152,7 @@ Médiane mut/Mb codantes vs taux de réponse objective (ORR) :
 - **MMRD colorectaux**, **mélanomes** → fortement mutés et fortement répondeurs
 - Tumeurs intermédiaires → réponse hétérogène
 
-![[assets/pathologie-moleculaire/ngs/16-560 Evaluation de la charge mutationnelle/p10_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-560%20Evaluation%20de%20la%20charge%20mutationnelle/p10_00.png)
 
 ## TMB combinée à d’autres biomarqueurs
 
@@ -169,7 +169,7 @@ Publication Genome Medicine 2017 :
 - Coexistence **dépendante du type tumoral** : fréquente dans **adénocarcinomes gastriques, duodénaux, intestin grêle** ; rare dans mélanome, CE, poumon
 
 
-![[assets/pathologie-moleculaire/ngs/16-560 Evaluation de la charge mutationnelle/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-560%20Evaluation%20de%20la%20charge%20mutationnelle/p12_00.jpeg)
 
 ## Considérations techniques pratiques
 

@@ -37,9 +37,9 @@ source: DES ACP - Cours d'urologie
 | **Kystique** + zones solides fermes | **Tératome** |
 | Aspect **placentaire** hémorragique | **Choriocarcinome** |
 
-![[assets/urologie/testicule_cordon_spermatique/05-411-Prise en charge macroscopique tumeur testicule et masses résiduelles/p02_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-411-Prise%20en%20charge%20macroscopique%20tumeur%20testicule%20et%20masses%20r%C3%A9siduelles/p02_00.png)
 
-![[assets/urologie/testicule_cordon_spermatique/05-411-Prise en charge macroscopique tumeur testicule et masses résiduelles/p02_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-411-Prise%20en%20charge%20macroscopique%20tumeur%20testicule%20et%20masses%20r%C3%A9siduelles/p02_01.png)
 
 
 ## Prélèvements indispensables
@@ -50,7 +50,7 @@ source: DES ACP - Cours d'urologie
 - Prélèvement **base** du cordon (infiltration hile, vasculaire)
 - Si **épaississement** → prélèvements multiples
 
-![[assets/urologie/testicule_cordon_spermatique/05-411-Prise en charge macroscopique tumeur testicule et masses résiduelles/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-411-Prise%20en%20charge%20macroscopique%20tumeur%20testicule%20et%20masses%20r%C3%A9siduelles/p03_00.jpeg)
 
 
 ### Testicule
@@ -59,13 +59,13 @@ source: DES ACP - Cours d'urologie
 - **Parenchyme à distance** : recherche de **GCNIS** et autres pathologies
 - Préciser rapport avec rete testis : envahissement **massif stromal** vs **pagétoïde**
 
-![[assets/urologie/testicule_cordon_spermatique/05-411-Prise en charge macroscopique tumeur testicule et masses résiduelles/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-411-Prise%20en%20charge%20macroscopique%20tumeur%20testicule%20et%20masses%20r%C3%A9siduelles/p04_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-411-Prise en charge macroscopique tumeur testicule et masses résiduelles/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-411-Prise%20en%20charge%20macroscopique%20tumeur%20testicule%20et%20masses%20r%C3%A9siduelles/p04_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-411-Prise en charge macroscopique tumeur testicule et masses résiduelles/p04_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-411-Prise%20en%20charge%20macroscopique%20tumeur%20testicule%20et%20masses%20r%C3%A9siduelles/p04_02.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-411-Prise en charge macroscopique tumeur testicule et masses résiduelles/p04_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-411-Prise%20en%20charge%20macroscopique%20tumeur%20testicule%20et%20masses%20r%C3%A9siduelles/p04_03.jpeg)
 
 
 ## Discordance histologie / marqueurs sériques
@@ -75,9 +75,9 @@ source: DES ACP - Cours d'urologie
 - **β-HCG** élevée + séminome pur → rechercher choriocarcinome
 - Retourner sur la pièce pour prélèvements complémentaires
 
-![[assets/urologie/testicule_cordon_spermatique/05-411-Prise en charge macroscopique tumeur testicule et masses résiduelles/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-411-Prise%20en%20charge%20macroscopique%20tumeur%20testicule%20et%20masses%20r%C3%A9siduelles/p05_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-411-Prise en charge macroscopique tumeur testicule et masses résiduelles/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-411-Prise%20en%20charge%20macroscopique%20tumeur%20testicule%20et%20masses%20r%C3%A9siduelles/p05_01.jpeg)
 
 
 ## Masses résiduelles post-chimiothérapie
@@ -93,7 +93,7 @@ source: DES ACP - Cours d'urologie
 - Grosses masses jaunâtres = **nécrose** (disparition des autres contingents)
 - **Tératome non chimiosensible** → persiste après traitement
 
-![[assets/urologie/testicule_cordon_spermatique/05-411-Prise en charge macroscopique tumeur testicule et masses résiduelles/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-411-Prise%20en%20charge%20macroscopique%20tumeur%20testicule%20et%20masses%20r%C3%A9siduelles/p06_00.jpeg)
 
 
 ### Éléments à rapporter
@@ -102,11 +102,11 @@ source: DES ACP - Cours d'urologie
 - Nature du tissu (**ganglionnaire** ou non)
 - Présence d'une **transformation somatique maligne** (rhabdomyosarcome le plus fréquent, puis PNETs)
 
-![[assets/urologie/testicule_cordon_spermatique/05-411-Prise en charge macroscopique tumeur testicule et masses résiduelles/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-411-Prise%20en%20charge%20macroscopique%20tumeur%20testicule%20et%20masses%20r%C3%A9siduelles/p09_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-411-Prise en charge macroscopique tumeur testicule et masses résiduelles/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-411-Prise%20en%20charge%20macroscopique%20tumeur%20testicule%20et%20masses%20r%C3%A9siduelles/p09_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-411-Prise en charge macroscopique tumeur testicule et masses résiduelles/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-411-Prise%20en%20charge%20macroscopique%20tumeur%20testicule%20et%20masses%20r%C3%A9siduelles/p09_02.jpeg)
 
 
 ### Growing teratoma syndrome
@@ -115,11 +115,11 @@ source: DES ACP - Cours d'urologie
 - = **tératome en croissance** à réséquer
 - Prévoir **inclusion totale** si < 4 cm
 
-![[assets/urologie/testicule_cordon_spermatique/05-411-Prise en charge macroscopique tumeur testicule et masses résiduelles/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-411-Prise%20en%20charge%20macroscopique%20tumeur%20testicule%20et%20masses%20r%C3%A9siduelles/p10_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-411-Prise en charge macroscopique tumeur testicule et masses résiduelles/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-411-Prise%20en%20charge%20macroscopique%20tumeur%20testicule%20et%20masses%20r%C3%A9siduelles/p10_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-411-Prise en charge macroscopique tumeur testicule et masses résiduelles/p10_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-411-Prise%20en%20charge%20macroscopique%20tumeur%20testicule%20et%20masses%20r%C3%A9siduelles/p10_02.jpeg)
 
 
 ### Interprétation marqueurs + imagerie
@@ -130,14 +130,14 @@ source: DES ACP - Cours d'urologie
 | Marqueurs − / PET − / **volume ↑** | **Growing teratoma** |
 | Marqueurs + | Résiduel actif (autre contingent) |
 
-![[assets/urologie/testicule_cordon_spermatique/05-411-Prise en charge macroscopique tumeur testicule et masses résiduelles/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-411-Prise%20en%20charge%20macroscopique%20tumeur%20testicule%20et%20masses%20r%C3%A9siduelles/p11_00.jpeg)
 
 
-![[assets/urologie/testicule_cordon_spermatique/05-411-Prise en charge macroscopique tumeur testicule et masses résiduelles/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-411-Prise%20en%20charge%20macroscopique%20tumeur%20testicule%20et%20masses%20r%C3%A9siduelles/p12_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-411-Prise en charge macroscopique tumeur testicule et masses résiduelles/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-411-Prise%20en%20charge%20macroscopique%20tumeur%20testicule%20et%20masses%20r%C3%A9siduelles/p12_01.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-411-Prise en charge macroscopique tumeur testicule et masses résiduelles/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-411-Prise%20en%20charge%20macroscopique%20tumeur%20testicule%20et%20masses%20r%C3%A9siduelles/p12_02.jpeg)
 
 
 ## Éléments pour le pTNM
@@ -149,13 +149,13 @@ source: DES ACP - Cours d'urologie
 - **Cordon (vaisseaux seulement)** : pT2
 - **Épididyme** : pT2 (AJCC) vs pT1 (UICC)
 
-![[assets/urologie/testicule_cordon_spermatique/05-411-Prise en charge macroscopique tumeur testicule et masses résiduelles/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-411-Prise%20en%20charge%20macroscopique%20tumeur%20testicule%20et%20masses%20r%C3%A9siduelles/p13_00.jpeg)
 
 
-![[assets/urologie/testicule_cordon_spermatique/05-411-Prise en charge macroscopique tumeur testicule et masses résiduelles/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-411-Prise%20en%20charge%20macroscopique%20tumeur%20testicule%20et%20masses%20r%C3%A9siduelles/p15_00.jpeg)
 
 
-![[assets/urologie/testicule_cordon_spermatique/05-411-Prise en charge macroscopique tumeur testicule et masses résiduelles/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-411-Prise%20en%20charge%20macroscopique%20tumeur%20testicule%20et%20masses%20r%C3%A9siduelles/p16_00.jpeg)
 
 
 ---

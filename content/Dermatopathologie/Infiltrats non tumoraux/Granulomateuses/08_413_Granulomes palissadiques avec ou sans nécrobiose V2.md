@@ -25,9 +25,9 @@ source: DES ACP - Cours de Dermatopathologie
 
 Parfois, foyers palissadiques + foyers **interstitiels** (histiocytes au hasard dans le collagène) → formes **trompeuses** du granulome annulaire.
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413 Granulomes palissadiques avec ou sans nécrobiose/p03_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413%20Granulomes%20palissadiques%20avec%20ou%20sans%20n%C3%A9crobiose/p03_01.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413 Granulomes palissadiques avec ou sans nécrobiose/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413%20Granulomes%20palissadiques%20avec%20ou%20sans%20n%C3%A9crobiose/p04_01.jpeg)
 
 ## Classification : granulomes bleus vs rouges
 
@@ -39,7 +39,7 @@ Parfois, foyers palissadiques + foyers **interstitiels** (histiocytes au hasard 
 | **ROUGE (collagène hyalinisé)** | Collagène **nécrobiotique** hyalinisé | **Nécrobiose lipoïdique** |
 | **ROUGE (éosinophiles)** | Nombreux PN éosinophiles | **GEPA (Churg-Strauss)**, **cellulite à éosinophiles (Wells)** |
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413 Granulomes palissadiques avec ou sans nécrobiose/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413%20Granulomes%20palissadiques%20avec%20ou%20sans%20n%C3%A9crobiose/p07_00.jpeg)
 
 ## I. GRANULOMES BLEUS
 
@@ -64,7 +64,7 @@ Parfois, foyers palissadiques + foyers **interstitiels** (histiocytes au hasard 
 - Traumatismes, piqûres d'insectes, **vaccinations**, infections
 - Associations rapportées : **diabète**, dysthyroïdies, dyslipidémies
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413 Granulomes palissadiques avec ou sans nécrobiose/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413%20Granulomes%20palissadiques%20avec%20ou%20sans%20n%C3%A9crobiose/p10_01.jpeg)
 
 #### Histologie typique (forme complète)
 - **Centre bleuté** : dépôts de **mucine** (mieux vus au **bleu alcian**)
@@ -75,18 +75,18 @@ Parfois, foyers palissadiques + foyers **interstitiels** (histiocytes au hasard 
 - **Intervalles de derme sain** entre les granulomes (diagnostic différentiel ++)
 - **Pas de vasculite** granulomateuse associée
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413 Granulomes palissadiques avec ou sans nécrobiose/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413%20Granulomes%20palissadiques%20avec%20ou%20sans%20n%C3%A9crobiose/p12_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413 Granulomes palissadiques avec ou sans nécrobiose/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413%20Granulomes%20palissadiques%20avec%20ou%20sans%20n%C3%A9crobiose/p13_01.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413 Granulomes palissadiques avec ou sans nécrobiose/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413%20Granulomes%20palissadiques%20avec%20ou%20sans%20n%C3%A9crobiose/p14_00.jpeg)
 
 #### Formes incomplètes
 - Palissade moins bien constituée
 - Dépôts de mucine **discrets** voire absents en HES → **bleu alcian indispensable**
 - Plusieurs lésions distinctes séparées par des intervalles de derme sain
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413 Granulomes palissadiques avec ou sans nécrobiose/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413%20Granulomes%20palissadiques%20avec%20ou%20sans%20n%C3%A9crobiose/p15_01.jpeg)
 
 
 #### Variants morphologiques
@@ -105,9 +105,9 @@ Parfois, foyers palissadiques + foyers **interstitiels** (histiocytes au hasard 
 - Si mucine présente → **granulome annulaire interstitiel**
 - Si mucine absente → **dermatose interstitielle granulomateuse (DIG)** (cf. infra)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413 Granulomes palissadiques avec ou sans nécrobiose/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413%20Granulomes%20palissadiques%20avec%20ou%20sans%20n%C3%A9crobiose/p19_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413 Granulomes palissadiques avec ou sans nécrobiose/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413%20Granulomes%20palissadiques%20avec%20ou%20sans%20n%C3%A9crobiose/p19_01.jpeg)
 
 ### 2. Dermatose interstitielle granulomateuse (DIG / Ackerman)
 
@@ -146,7 +146,7 @@ Parfois, foyers palissadiques + foyers **interstitiels** (histiocytes au hasard 
 - Granulomes **palissadiques** à centre **nécrobiotique** + **débris de PNN**
 - Lésions **vasculaires centrales** (vasculite leucocytoclasique)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413 Granulomes palissadiques avec ou sans nécrobiose/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413%20Granulomes%20palissadiques%20avec%20ou%20sans%20n%C3%A9crobiose/p21_00.jpeg)
 
 ## II. GRANULOMES ROUGES
 
@@ -159,16 +159,16 @@ Parfois, foyers palissadiques + foyers **interstitiels** (histiocytes au hasard 
 - Parfois tronc, pénis, membres supérieurs
 - **Plaque ovalaire** : bordure active érythémato-violacée surélevée + **centre atrophique jaunâtre télangiectasique**
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413 Granulomes palissadiques avec ou sans nécrobiose/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413%20Granulomes%20palissadiques%20avec%20ou%20sans%20n%C3%A9crobiose/p23_00.jpeg)
 
 #### Histologie au faible grossissement
 - Atteinte dermique **et hypodermique** (« **wedding cake** » / **« sandwich »**)
 - **Couches horizontales superposées** alternant zones inflammatoires et zones fibreuses
 - **PAS d'intervalle de derme sain**
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413 Granulomes palissadiques avec ou sans nécrobiose/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413%20Granulomes%20palissadiques%20avec%20ou%20sans%20n%C3%A9crobiose/p24_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413 Granulomes palissadiques avec ou sans nécrobiose/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413%20Granulomes%20palissadiques%20avec%20ou%20sans%20n%C3%A9crobiose/p24_01.jpeg)
 
 #### Histologie à fort grossissement
 - Collagène d'aspect **nécrobiotique** puis **fibreux acellulaire**
@@ -178,7 +178,7 @@ Parfois, foyers palissadiques + foyers **interstitiels** (histiocytes au hasard 
 - Télangiectasies superficielles
 - **Atteinte granulomateuse péri-vasculaire** ++
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413 Granulomes palissadiques avec ou sans nécrobiose/p29_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413%20Granulomes%20palissadiques%20avec%20ou%20sans%20n%C3%A9crobiose/p29_01.jpeg)
 
 #### Granulome annulaire vs Nécrobiose lipoïdique
 
@@ -207,7 +207,7 @@ Parfois, foyers palissadiques + foyers **interstitiels** (histiocytes au hasard 
 - **PNN + débris nucléaires** centraux
 - Cellules géantes **bizarres**, voire cellules de **Touton**
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413 Granulomes palissadiques avec ou sans nécrobiose/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413%20Granulomes%20palissadiques%20avec%20ou%20sans%20n%C3%A9crobiose/p35_00.jpeg)
 
 ### 3. Nodule rhumatoïde
 
@@ -218,7 +218,7 @@ Parfois, foyers palissadiques + foyers **interstitiels** (histiocytes au hasard 
 - Localisation : **face d'extension des grosses articulations**, points de pression
 - En général **indolores**
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413 Granulomes palissadiques avec ou sans nécrobiose/p37_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413%20Granulomes%20palissadiques%20avec%20ou%20sans%20n%C3%A9crobiose/p37_00.jpeg)
 
 #### Histologie
 - **Centre irrégulier nécrotique** + débris cellulaires
@@ -227,9 +227,9 @@ Parfois, foyers palissadiques + foyers **interstitiels** (histiocytes au hasard 
 - ± cellules géantes, PNN
 - Couronne **lympho-plasmocytaire** la + périphérique
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413 Granulomes palissadiques avec ou sans nécrobiose/p38_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413%20Granulomes%20palissadiques%20avec%20ou%20sans%20n%C3%A9crobiose/p38_00.jpeg)
 
-![[assets/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413 Granulomes palissadiques avec ou sans nécrobiose/p39_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/infiltrats-cutanees-non-tumoraux/dermatoses-granulomateuses/08-413%20Granulomes%20palissadiques%20avec%20ou%20sans%20n%C3%A9crobiose/p39_00.jpeg)
 
 ## Tableau récapitulatif
 

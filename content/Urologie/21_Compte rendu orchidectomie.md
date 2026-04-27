@@ -27,7 +27,7 @@ source: DES ACP - Cours d'urologie
 7. **pTNM**
 8. **Qualité de l'exérèse** (statut des marges)
 
-![[assets/urologie/testicule_cordon_spermatique/05-413 Comptes rendus de pièce opératoire dorchidectomie/p01_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-413%20Comptes%20rendus%20de%20pi%C3%A8ce%20op%C3%A9ratoire%20dorchidectomie/p01_00.png)
 
 
 ## Dimensions
@@ -50,9 +50,9 @@ source: DES ACP - Cours d'urologie
 - **Tumeurs des cordons sexuels**
 - **Autres** : tumeurs épithéliales de type ovarien, tumeurs hématopoïétiques, tumeurs du rete testis
 
-![[assets/urologie/testicule_cordon_spermatique/05-413 Comptes rendus de pièce opératoire dorchidectomie/p04_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-413%20Comptes%20rendus%20de%20pi%C3%A8ce%20op%C3%A9ratoire%20dorchidectomie/p04_00.png)
 
-![[assets/urologie/testicule_cordon_spermatique/05-413 Comptes rendus de pièce opératoire dorchidectomie/p04_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-413%20Comptes%20rendus%20de%20pi%C3%A8ce%20op%C3%A9ratoire%20dorchidectomie/p04_01.png)
 
 ## Tumeurs mixtes (~15% des TG)
 
@@ -72,7 +72,7 @@ source: DES ACP - Cours d'urologie
 - Confirmation IHC : **OCT3/4**, **CD117**, **SALL4** (ou PLAP, D2-40)
 
 
-![[assets/urologie/testicule_cordon_spermatique/05-413 Comptes rendus de pièce opératoire dorchidectomie/p07_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-413%20Comptes%20rendus%20de%20pi%C3%A8ce%20op%C3%A9ratoire%20dorchidectomie/p07_01.png)
 
 ## Structures infiltrées (à préciser)
 
@@ -86,7 +86,7 @@ source: DES ACP - Cours d'urologie
 | **Rete testis** | Invasion **pagétoïde** ou **stromale** (pronostique) |
 
 
-![[assets/urologie/testicule_cordon_spermatique/05-413 Comptes rendus de pièce opératoire dorchidectomie/p08_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-413%20Comptes%20rendus%20de%20pi%C3%A8ce%20op%C3%A9ratoire%20dorchidectomie/p08_01.png)
 
 
 ## Invasion lymphovasculaire (LVI)
@@ -97,7 +97,7 @@ source: DES ACP - Cours d'urologie
 - Préciser si **lymphatique** ou **sanguin** si possible
 
 
-![[assets/urologie/testicule_cordon_spermatique/05-413 Comptes rendus de pièce opératoire dorchidectomie/p10_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-413%20Comptes%20rendus%20de%20pi%C3%A8ce%20op%C3%A9ratoire%20dorchidectomie/p10_01.png)
 
 ## pTNM : différences UICC 8e vs AJCC 8e
 
@@ -115,9 +115,9 @@ source: DES ACP - Cours d'urologie
 - **pT4** : invasion scrotum
 
 
-![[assets/urologie/testicule_cordon_spermatique/05-413 Comptes rendus de pièce opératoire dorchidectomie/p12_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-413%20Comptes%20rendus%20de%20pi%C3%A8ce%20op%C3%A9ratoire%20dorchidectomie/p12_02.png)
 
-![[assets/urologie/testicule_cordon_spermatique/05-413 Comptes rendus de pièce opératoire dorchidectomie/p12_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-413%20Comptes%20rendus%20de%20pi%C3%A8ce%20op%C3%A9ratoire%20dorchidectomie/p12_03.jpeg)
 
 ## Qualité de l'exérèse
 
@@ -147,20 +147,20 @@ source: DES ACP - Cours d'urologie
 - Staging UICC et AJCC **superposables** pour les ganglions rétropéritonéaux
 
 
-![[assets/urologie/testicule_cordon_spermatique/05-413 Comptes rendus de pièce opératoire dorchidectomie/p15_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-413%20Comptes%20rendus%20de%20pi%C3%A8ce%20op%C3%A9ratoire%20dorchidectomie/p15_02.jpeg)
 
 
-![[assets/urologie/testicule_cordon_spermatique/05-413 Comptes rendus de pièce opératoire dorchidectomie/p16_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-413%20Comptes%20rendus%20de%20pi%C3%A8ce%20op%C3%A9ratoire%20dorchidectomie/p16_01.png)
 
 
-![[assets/urologie/testicule_cordon_spermatique/05-413 Comptes rendus de pièce opératoire dorchidectomie/p17_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-413%20Comptes%20rendus%20de%20pi%C3%A8ce%20op%C3%A9ratoire%20dorchidectomie/p17_01.png)
 
 
-![[assets/urologie/testicule_cordon_spermatique/05-413 Comptes rendus de pièce opératoire dorchidectomie/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-413%20Comptes%20rendus%20de%20pi%C3%A8ce%20op%C3%A9ratoire%20dorchidectomie/p18_00.jpeg)
 
-![[assets/urologie/testicule_cordon_spermatique/05-413 Comptes rendus de pièce opératoire dorchidectomie/p18_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-413%20Comptes%20rendus%20de%20pi%C3%A8ce%20op%C3%A9ratoire%20dorchidectomie/p18_01.png)
 
-![[assets/urologie/testicule_cordon_spermatique/05-413 Comptes rendus de pièce opératoire dorchidectomie/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/testicule_cordon_spermatique/05-413%20Comptes%20rendus%20de%20pi%C3%A8ce%20op%C3%A9ratoire%20dorchidectomie/p19_00.jpeg)
 
 
 ---

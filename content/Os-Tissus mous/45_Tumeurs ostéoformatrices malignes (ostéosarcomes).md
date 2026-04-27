@@ -41,9 +41,9 @@ Sarcome dont les cellules tumorales produisent une **matrice ostéoïde** (orang
 | **Périosté** | **Intermédiaire** | < 2 % |
 | **De haut grade de surface** | Haut grade | Rare |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p04_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p04_01.jpeg)
 
 ## Principes diagnostiques
 
@@ -56,11 +56,11 @@ Sarcome dont les cellules tumorales produisent une **matrice ostéoïde** (orang
 - Haut grade : **réseau anastomotique grêle en dentelle** entre cellules très atypiques
 - Bas grade : **travées parallèles** bien différenciées (aspect DF-like)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p05_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p05_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p05_05.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p05_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p05_06.jpeg)
 
 ### Imagerie
 | Haut grade | Bas grade |
@@ -106,15 +106,15 @@ Sarcome dont les cellules tumorales produisent une **matrice ostéoïde** (orang
 - **Volumineuse masse douloureuse** à croissance progressive
 - **Fracture inaugurale dans ~10 %**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p06_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p06_00.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p06_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p06_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p06_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p06_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p06_03.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p06_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p06_04.jpeg)
 
 ### Histologie — généralités
 - Infiltration médullaire progressive avec **érosion / destruction des travées préexistantes**, **envahissement des canaux de Havers**
@@ -130,17 +130,17 @@ Sarcome dont les cellules tumorales produisent une **matrice ostéoïde** (orang
 | **Chondroblastique** | 10-13 % | Chondroïde bleutée + ostéoïde périphérique |
 | **Fibroblastique** (fourre-tout) | Variable | Peu de matrice, cellules anaplasiques, épithélioïdes ou collagéniques |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p06_05.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p06_05.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p06_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p06_06.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p06_07.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p06_07.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p06_08.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p06_08.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p06_09.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p06_09.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p09_00.jpeg)
 
 ### Diagnostics différentiels par sous-type
 
@@ -153,11 +153,11 @@ Sarcome dont les cellules tumorales produisent une **matrice ostéoïde** (orang
 | **Chondrosarcome mésenchymateux** | Contingent cartilagineux + contingent **cellules rondes** avec transition abrupte, **fusion HEY1-NCOA2** |
 | **Cal cartilagineux de jeune** | **Architecture zonale** (maturation centre → périphérie), contexte fracturaire |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p13_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p13_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p14_00.jpeg)
 
 #### Ostéosarcome riche en cellules géantes
 
@@ -167,26 +167,26 @@ DD principal : **tumeur à cellules géantes (TCG) dédifférenciée** → reche
 - **Ostéoblastome** : ostéoblastes en **liseré**, fond conjonctif lâche richement vascularisé, pas de mitose anormale
 - **Ostéosarcome** : **fond sarcomateux, mitoses anormales, signes de résorption**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p16_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p16_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p16_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p16_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p16_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p16_03.jpeg)
 
 ### IHC ostéosarcome
 Peu spécifique :
 - Peut exprimer **cytokératines** et **EMA** → **attention au DD carcinome sarcomatoïde**
 - **SATB2** : marqueur sensible de **différenciation ostéoblastique** mais peu spécifique (lésions bénignes, autres tumeurs)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p18_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p18_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p18_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p18_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p18_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p18_03.jpeg)
 
 ### Ostéosarcomes secondaires
 | Contexte | Particularité |
@@ -195,13 +195,13 @@ Peu spécifique :
 | **Post-radiothérapie** | > 40 ans, plutôt tissus mous |
 | Infarctus, DF, kyste essentiel, prothèse/matériel d'ostéosynthèse | Antécédents à rechercher |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p19_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p19_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p19_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p19_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p19_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p19_03.jpeg)
 
 ## Ostéosarcomes de bas grade / bien différenciés
 
@@ -214,9 +214,9 @@ Peu spécifique :
 
 **Évolution dédifférenciée dans 10-36 %** des cas → ostéosarcome de haut grade (l'amplification MDM2/CDK4 **persiste**).
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p20_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p20_00.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p20_01.jpeg)
 
 ### Ostéosarcome parostéal
 
@@ -233,23 +233,23 @@ Peu spécifique :
 - **Territoires de dédifférenciation** : matrice ostéoïde grêle, cellules hyperchromatiques irrégulières, mitoses anormales, nécrose
 - **Confirmation : amplification MDM2 en IHC + FISH** (sur fragment non décalcifié)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p21_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p21_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p21_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p21_02.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p21_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p21_03.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p21_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p21_04.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p21_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p21_05.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p21_07.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p21_07.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p21_09.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p21_09.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p21_10.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p21_10.png)
 
 ### DD des ostéosarcomes de bas grade
 
@@ -260,21 +260,21 @@ Peu spécifique :
 | **Fibrome desmoplastique** | Pas de mutation CTNNB1 |
 | **Ostéochondrome** (sur biopsie limitée avec coiffe cartilagineuse) | Contexte, amplification MDM2 absente |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p22_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p22_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p25_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p25_00.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p25_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p25_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p25_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p25_02.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p25_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p25_03.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p25_04.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p25_04.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p25_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p25_05.jpeg)
 
 ## Pronostic
 
@@ -299,77 +299,77 @@ Pourcentage de cellules tumorales résiduelles viables sur la **tranche centrale
 - Cibles moléculaires : décevantes (mutations récurrentes peu fréquentes)
 - **Micro-environnement immunitaire** = piste la plus prometteuse
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p27_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p27_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p27_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p27_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p27_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p28_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p28_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p28_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p28_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p28_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p29_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p29_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p29_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p29_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p29_02.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p29_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p29_03.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p30_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p30_00.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p30_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p30_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p30_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p30_02.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p30_04.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p30_04.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p30_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p30_05.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p30_06.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p30_06.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p30_07.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p30_07.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p31_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p31_00.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p31_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p31_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p31_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p31_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p31_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p31_03.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p31_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p31_04.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p32_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p32_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p32_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p32_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p32_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p32_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p32_03.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p33_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p33_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p33_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p33_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p33_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p33_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p33_03.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p34_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p34_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p34_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p34_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p34_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p35_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p35_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p35_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p35_04.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242 Tumeurs ostéoformatrices malignes/p36_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-242%20Tumeurs%20ost%C3%A9oformatrices%20malignes/p36_00.jpeg)
 
 ---
 

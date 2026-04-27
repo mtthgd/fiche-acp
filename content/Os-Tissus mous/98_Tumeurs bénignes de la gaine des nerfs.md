@@ -30,18 +30,18 @@ Les **tumeurs nerveuses hybrides** (OMS 2013) combinent schwannome/périneuriome
 - Croissance lente, symptomatologie variable selon le siège
 - IRM : liseré graisseux périphérique, **target sign** en T2, fasciculation, prise de contraste intense
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p06_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p06_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p06_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p06_02.jpeg)
 
 ### Macroscopie
 - Nodule de taille variable, **encapsulé**, ferme, **jaunâtre**, parfois remanié
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p07_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p07_01.jpeg)
 
 ### Histologie
 
@@ -50,13 +50,13 @@ Les **tumeurs nerveuses hybrides** (OMS 2013) combinent schwannome/périneuriome
 - **Zones Antoni B** : secteurs remaniés, myxoïdes, moins cellulaires, dépôts hémosidériniques, lymphoplasmocytes, **vaisseaux à parois hyalinisées**
 - Schwannomes **anciens/dégénératifs** : atypies dystrophiques, foyers de nécrose ischémique possibles (sans valeur péjorative)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p08_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p09_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p10_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p11_00.jpeg)
 
 ### Variants
 | Variant | Caractéristiques |
@@ -66,11 +66,11 @@ Les **tumeurs nerveuses hybrides** (OMS 2013) combinent schwannome/périneuriome
 | **Digestif (GI)** | Non encapsulé, **couronne lymphoïde** ± follicules, cellules polygonales (DD GIST → CD117−/DOG1−) |
 | **Mélanocytique** | Complexe de Carney (15%), **calcosphérites**, PS100+, HMB45+/Melan-A focal |
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p12_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p13_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p13_01.jpeg)
 
 ### IHC
 | Marqueur | Schwannome |
@@ -80,7 +80,7 @@ Les **tumeurs nerveuses hybrides** (OMS 2013) combinent schwannome/périneuriome
 | CD34 | Faible |
 | **EMA** | **+** dans capsule (cellules périneurales résiduelles) |
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p15_00.jpeg)
 
 ### Biologie moléculaire
 - **Perte du gène NF2** (suppresseur de tumeurs) → perte de la protéine Merlin
@@ -98,16 +98,16 @@ Les **tumeurs nerveuses hybrides** (OMS 2013) combinent schwannome/périneuriome
 - **Neurofibrome plexiforme** : **pathognomonique de NF1**, tête/cou, enfant, risque de transformation en MPNST
 - **Neurofibrome diffus** : enfant/adulte jeune, tête-cou, derme/hypoderme ; NF1 dans 10% seulement
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p16_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p17_00.jpeg)
 
 ### Macroscopie
 - Masse bien limitée, charnue, beige rosée, **myxoïde**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p18_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p18_01.jpeg)
 
 ### Histologie
 - **Trame de fond lâche** mucoïde, finement fibrillaire
@@ -117,29 +117,29 @@ Les **tumeurs nerveuses hybrides** (OMS 2013) combinent schwannome/périneuriome
 - **Plexiforme** : faisceaux nerveux hyperplasiés tortueux juxtaposés
 - **Diffus** : placard mal limité dissociant l'hypoderme sans le détruire, **corpuscules de Wagner-Meissner** ponctuels
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p23_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p23_01.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p23_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p23_02.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p24_00.jpeg)
 
 ### Variants
 - **Cellulaire** : faisceaux storiformes, rappelle Antoni A
 - **Avec atypie (dystrophie nucléaire)** : noyaux hyperchromatiques dégénératifs, rares mitoses
 - **Pigmenté** : rare, NF1
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p26_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p27_00.jpeg)
 
 ### IHC
 - **S100 +** (moins intense, moins diffus que schwannome)
 - **SOX10 +**
 - **CD34 +** focal
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p28_00.jpeg)
 
 ### Biologie moléculaire
 - **Perte du gène NF1** (suppresseur) → perte de la **neurofibromine**
@@ -160,9 +160,9 @@ Les **tumeurs nerveuses hybrides** (OMS 2013) combinent schwannome/périneuriome
 | **Muqueux** | Côlon++ | – |
 | **Sclérosant** | Doigts, mains | Homme jeune |
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p30_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p31_00.jpeg)
 
 ### Macroscopie
 - Petit nodule **jaunâtre** arrondi **non encapsulé**
@@ -172,11 +172,11 @@ Les **tumeurs nerveuses hybrides** (OMS 2013) combinent schwannome/périneuriome
 - Cellules périneurales : longs **prolongements cytoplasmiques bipolaires**, aspect **feuilleté**, images en **bulbes d'oignon**
 - Petits noyaux ovoïdes réguliers, chromatine fine, **sans mitose**
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p32_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p34_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p36_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p36_00.jpeg)
 
 ### IHC
 | Marqueur | Périneuriome |
@@ -186,7 +186,7 @@ Les **tumeurs nerveuses hybrides** (OMS 2013) combinent schwannome/périneuriome
 | **CD34** | **+** |
 | **GLUT1** | **+** (intérêt diagnostique) |
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p37_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p37_00.jpeg)
 
 ### Biologie moléculaire
 - **Délétions 22** ou monosomie récurrentes
@@ -205,9 +205,9 @@ Les **tumeurs nerveuses hybrides** (OMS 2013) combinent schwannome/périneuriome
 - Souvent superficielle, asymptomatique
 - IRM : contours spiculés, signal fibreux (hyposignal T1/T2)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p38_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p38_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p38_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p38_01.jpeg)
 
 ### Histologie
 - **Cellules polygonales** au cytoplasme **granuleux et éosinophile**
@@ -215,11 +215,11 @@ Les **tumeurs nerveuses hybrides** (OMS 2013) combinent schwannome/périneuriome
 - Disposition en cordons, nids et plages pleines, **non encapsulée**
 - Formes anciennes sclérosées
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p43_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p43_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p44_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p44_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p45_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p45_00.jpeg)
 
 ### IHC
 | Marqueur | Tumeur cellules granuleuses |
@@ -230,16 +230,16 @@ Les **tumeurs nerveuses hybrides** (OMS 2013) combinent schwannome/périneuriome
 | Inhibine | + |
 | HMB45, Melan-A | **−** |
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p46_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p46_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p47_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p47_00.jpeg)
 
 ### Critères de malignité (rares)
 - **Grande taille**, nodules satellites, mitoses ↑, **Ki67 > 10%**, atypies prominentes, nécrose
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p48_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p48_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p48_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p48_01.jpeg)
 
 ---
 
@@ -254,17 +254,17 @@ Les **tumeurs nerveuses hybrides** (OMS 2013) combinent schwannome/périneuriome
 | **GLUT1** | − | − | + | − |
 | Encapsulation | Oui | Non | Non | Non |
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p53_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p53_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p54_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p54_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p56_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p56_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p57_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p57_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p58_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p58_00.jpeg)
 
-![[assets/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570 Tumeurs bénignes de la gaine des nerfs/p59_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/tissus_mou/tumeur_des_tissus_mous/09-570%20Tumeurs%20b%C3%A9nignes%20de%20la%20gaine%20des%20nerfs/p59_00.jpeg)
 
 ---
 

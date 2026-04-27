@@ -33,9 +33,9 @@ Tous partagent :
 - Marqueurs : **CXCR5, ICOS, PD1, BCL6, CD10, CXCL13**
 - Interaction avec FDC et cellules B
 
-![[assets/hematologie/lymphome_t:nk/Diaporama 07-354_Les lymphomes T périphériques de type TFH final sonorisé/p03_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_t%3Ank/Diaporama%2007-354_Les%20lymphomes%20T%20p%C3%A9riph%C3%A9riques%20de%20type%20TFH%20final%20sonoris%C3%A9/p03_03.jpeg)
 
-![[assets/hematologie/lymphome_t:nk/Diaporama 07-354_Les lymphomes T périphériques de type TFH final sonorisé/p04_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_t%3Ank/Diaporama%2007-354_Les%20lymphomes%20T%20p%C3%A9riph%C3%A9riques%20de%20type%20TFH%20final%20sonoris%C3%A9/p04_04.jpeg)
 
 ---
 
@@ -67,11 +67,11 @@ La cellule tumorale reste **fonctionnelle** et sécrète :
 - **Cellules tumorales** : taille variable, **cytoplasme clair** ("aspect en œuf sur le plat") à proximité des HEV
 - Infiltrat polymorphe : PNN éosinophiles, histiocytes, plasmocytes, petits lymphocytes, **immunoblastes B EBV+**
 
-![[assets/hematologie/lymphome_t:nk/Diaporama 07-354_Les lymphomes T périphériques de type TFH final sonorisé/p05_08.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_t%3Ank/Diaporama%2007-354_Les%20lymphomes%20T%20p%C3%A9riph%C3%A9riques%20de%20type%20TFH%20final%20sonoris%C3%A9/p05_08.jpeg)
 
-![[assets/hematologie/lymphome_t:nk/Diaporama 07-354_Les lymphomes T périphériques de type TFH final sonorisé/p06_09.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_t%3Ank/Diaporama%2007-354_Les%20lymphomes%20T%20p%C3%A9riph%C3%A9riques%20de%20type%20TFH%20final%20sonoris%C3%A9/p06_09.jpeg)
 
-![[assets/hematologie/lymphome_t:nk/Diaporama 07-354_Les lymphomes T périphériques de type TFH final sonorisé/p08_11.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_t%3Ank/Diaporama%2007-354_Les%20lymphomes%20T%20p%C3%A9riph%C3%A9riques%20de%20type%20TFH%20final%20sonoris%C3%A9/p08_11.jpeg)
 
 ### Phénotype
 
@@ -86,11 +86,11 @@ La cellule tumorale reste **fonctionnelle** et sécrète :
 - CD20 : composante B refoulée ; **immunoblastes B CD20+ EBV+** dispersés
 - **EBER HIS** systématique (LMP1 souvent négatif)
 
-![[assets/hematologie/lymphome_t:nk/Diaporama 07-354_Les lymphomes T périphériques de type TFH final sonorisé/p09_12.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_t%3Ank/Diaporama%2007-354_Les%20lymphomes%20T%20p%C3%A9riph%C3%A9riques%20de%20type%20TFH%20final%20sonoris%C3%A9/p09_12.jpeg)
 
-![[assets/hematologie/lymphome_t:nk/Diaporama 07-354_Les lymphomes T périphériques de type TFH final sonorisé/p09_13.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_t%3Ank/Diaporama%2007-354_Les%20lymphomes%20T%20p%C3%A9riph%C3%A9riques%20de%20type%20TFH%20final%20sonoris%C3%A9/p09_13.jpeg)
 
-![[assets/hematologie/lymphome_t:nk/Diaporama 07-354_Les lymphomes T périphériques de type TFH final sonorisé/p11_17.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_t%3Ank/Diaporama%2007-354_Les%20lymphomes%20T%20p%C3%A9riph%C3%A9riques%20de%20type%20TFH%20final%20sonoris%C3%A9/p11_17.jpeg)
 
 ### Patterns architecturaux (spectre)
 
@@ -135,9 +135,9 @@ Mutations récurrentes (impact diagnostic et thérapeutique) :
 - Phénotype TFH
 - Cellules Sternberg-like CD20± CD30+ CD15± EBV+ dans zones interfolliculaires
 
-![[assets/hematologie/lymphome_t:nk/Diaporama 07-354_Les lymphomes T périphériques de type TFH final sonorisé/p15_27.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_t%3Ank/Diaporama%2007-354_Les%20lymphomes%20T%20p%C3%A9riph%C3%A9riques%20de%20type%20TFH%20final%20sonoris%C3%A9/p15_27.jpeg)
 
-![[assets/hematologie/lymphome_t:nk/Diaporama 07-354_Les lymphomes T périphériques de type TFH final sonorisé/p15_28.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_t%3Ank/Diaporama%2007-354_Les%20lymphomes%20T%20p%C3%A9riph%C3%A9riques%20de%20type%20TFH%20final%20sonoris%C3%A9/p15_28.jpeg)
 
 ---
 
@@ -149,7 +149,7 @@ Mutations récurrentes (impact diagnostic et thérapeutique) :
 - **Mais** : pas d'expansion FDC, pas d'hyperplasie HEV, pas de fond polymorphe
 - Mutations TET2, DNMT3A, RHOA récurrentes → rattaché au groupe TFH
 
-![[assets/hematologie/lymphome_t:nk/Diaporama 07-354_Les lymphomes T périphériques de type TFH final sonorisé/p17_30.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_t%3Ank/Diaporama%2007-354_Les%20lymphomes%20T%20p%C3%A9riph%C3%A9riques%20de%20type%20TFH%20final%20sonoris%C3%A9/p17_30.jpeg)
 
 ## Tableau comparatif (groupe TFH)
 

@@ -44,9 +44,9 @@ source: DES ACP - Cours de digestif
 - **Quasi-physiologiques**, fréquents
 - ⚠️ **Piège diagnostique majeur** : ne pas confondre avec un **adénocarcinome infiltrant**
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.2 Pathologie non tumorale de la vésicule biliaire/p05_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.2%20Pathologie%20non%20tumorale%20de%20la%20v%C3%A9sicule%20biliaire/p05_00.png)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.2 Pathologie non tumorale de la vésicule biliaire/p06_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.2%20Pathologie%20non%20tumorale%20de%20la%20v%C3%A9sicule%20biliaire/p06_00.png)
 
 ---
 
@@ -82,7 +82,7 @@ source: DES ACP - Cours de digestif
 - Muqueuse **ulcérée**
 - **Toujours vérifier la présence de calcul** (sinon possible **migration lithiasique**)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.2 Pathologie non tumorale de la vésicule biliaire/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.2%20Pathologie%20non%20tumorale%20de%20la%20v%C3%A9sicule%20biliaire/p10_00.jpeg)
 
 ### Histologie
 
@@ -99,11 +99,11 @@ Phase précoce → tardive :
 
 > Toujours rechercher des signes de **cholécystite chronique associée** sous-jacente.
 
-![[assets/digestif/pancreas/tumorale/03.3.3.6 Lésions et tumeurs kystiques du pancréas/p12_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.6%20L%C3%A9sions%20et%20tumeurs%20kystiques%20du%20pancr%C3%A9as/p12_03.png)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.2 Pathologie non tumorale de la vésicule biliaire/p15_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.2%20Pathologie%20non%20tumorale%20de%20la%20v%C3%A9sicule%20biliaire/p15_00.png)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p15_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p15_02.png)
 
 ### ⚠️ Piège : épithélium **dystrophique**
 Lors de cholécystite, l'épithélium peut présenter :
@@ -113,7 +113,7 @@ Lors de cholécystite, l'épithélium peut présenter :
 
 → **Ne pas confondre avec une dysplasie** !
 
-![[assets/digestif/pancreas/tumorale/03.3.3.8 Tumeurs intracanalaires pancréatiques/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.8%20Tumeurs%20intracanalaires%20pancr%C3%A9atiques/p13_01.jpeg)
 
 ---
 
@@ -141,11 +141,11 @@ Décrire :
 | | Lésions de **métaplasie** : **gastrique pylorique** (++), intestinale |
 | | **Endartérite fibreuse** + **hyperplasie nerveuse** |
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.2 Pathologie non tumorale de la vésicule biliaire/p18_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.2%20Pathologie%20non%20tumorale%20de%20la%20v%C3%A9sicule%20biliaire/p18_00.png)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.2 Pathologie non tumorale de la vésicule biliaire/p18_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.2%20Pathologie%20non%20tumorale%20de%20la%20v%C3%A9sicule%20biliaire/p18_02.png)
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.2 Pathologie non tumorale de la vésicule biliaire/p19_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.2%20Pathologie%20non%20tumorale%20de%20la%20v%C3%A9sicule%20biliaire/p19_00.png)
 
 
 ---
@@ -165,11 +165,11 @@ Décrire :
 | Vaisseaux | | **Phlébite oblitérante** |
 | IHC | | **> 50 plasmocytes IgG4+** par champ ×40 |
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p22_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p22_01.png)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p22_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p22_03.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.6 Lésions et tumeurs kystiques du pancréas/p22_04.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.6%20L%C3%A9sions%20et%20tumeurs%20kystiques%20du%20pancr%C3%A9as/p22_04.png)
 
 ### Autres formes rares
 
@@ -180,11 +180,11 @@ Décrire :
 | **Xanthogranulomateuse** | Macroscopie : paroi très épaissie, **jaunâtre** ; histologie : nappes d'**histiocytes spumeux** + lymphocytes + plasmocytes |
 | **Malacoplakie** | Très rare ; nappes de macrophages éosinophiles, ± **corps de Michaelis-Gutmann (PAS+)** |
 
-![[assets/digestif/pancreas/tumorale/03.3.3.2 Pathologie moléculaire de ladénocarcinome du pancréas/p24_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.2%20Pathologie%20mol%C3%A9culaire%20de%20lad%C3%A9nocarcinome%20du%20pancr%C3%A9as/p24_01.png)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.2 Pathologie moléculaire de ladénocarcinome du pancréas/p24_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.2%20Pathologie%20mol%C3%A9culaire%20de%20lad%C3%A9nocarcinome%20du%20pancr%C3%A9as/p24_02.png)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.10 Tumeurs neuro-endocrines et carcinome à cellules acineuses du pancréas/p24_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.10%20Tumeurs%20neuro-endocrines%20et%20carcinome%20%C3%A0%20cellules%20acineuses%20du%20pancr%C3%A9as/p24_03.jpeg)
 
 ---
 
@@ -211,9 +211,9 @@ Décrire :
 - **Microscopie** : amas d'**histiocytes spumeux** dans le chorion élargissant les franges
 - Parfois sous forme de **polypes cholestéroliques**
 
-![[assets/digestif/foie-voie_biliaire/non-tumorale/03.4.2.2 Pathologie non tumorale de la vésicule biliaire/p27_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/foie-voie_biliaire/non-tumorale/03.4.2.2%20Pathologie%20non%20tumorale%20de%20la%20v%C3%A9sicule%20biliaire/p27_00.png)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p27_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p27_02.png)
 
 ---
 
@@ -224,7 +224,7 @@ Décrire :
 - Microscopie : tissu normal **d'un autre organe** dans la paroi vésiculaire
 - Types : **gastrique**, **pancréatique**, **hépatique**, thyroïdienne, cortico-surrénalienne
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p28_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p28_01.png)
 
 ---
 

@@ -43,9 +43,9 @@ date: 2024
 
 Architecture : **diffuse**, grandes cellules CD20+, effacement ganglionnaire.
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-331_Lymphomes B diffus à grandes cellules NOS et lymphomes B riches en T-Pr Copie-VF2/p05_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-331_Lymphomes%20B%20diffus%20%C3%A0%20grandes%20cellules%20NOS%20et%20lymphomes%20B%20riches%20en%20T-Pr%20Copie-VF2/p05_06.jpeg)
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-331_Lymphomes B diffus à grandes cellules NOS et lymphomes B riches en T-Pr Copie-VF2/p06_07.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-331_Lymphomes%20B%20diffus%20%C3%A0%20grandes%20cellules%20NOS%20et%20lymphomes%20B%20riches%20en%20T-Pr%20Copie-VF2/p06_07.jpeg)
 
 ### Biomarqueurs pronostiques obligatoires (à faire figurer dans le CR)
 
@@ -63,7 +63,7 @@ Architecture : **diffuse**, grandes cellules CD20+, effacement ganglionnaire.
 | **ABC** (Activated B-cell-like) | ~35% | NFκB, MUM1, FOXP1 | **Moins bon** |
 | Non classable | 10-15% | | Intermédiaire |
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-331_Lymphomes B diffus à grandes cellules NOS et lymphomes B riches en T-Pr Copie-VF2/p08_12.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-331_Lymphomes%20B%20diffus%20%C3%A0%20grandes%20cellules%20NOS%20et%20lymphomes%20B%20riches%20en%20T-Pr%20Copie-VF2/p08_12.png)
 
 ### Mécanismes oncogéniques distincts
 
@@ -87,7 +87,7 @@ CD10 + ?
                         └─ NON → GCB
 ```
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-331_Lymphomes B diffus à grandes cellules NOS et lymphomes B riches en T-Pr Copie-VF2/p10_19.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-331_Lymphomes%20B%20diffus%20%C3%A0%20grandes%20cellules%20NOS%20et%20lymphomes%20B%20riches%20en%20T-Pr%20Copie-VF2/p10_19.png)
 
 > ⚠️ OMS 2016 recommande plutôt les techniques **transcriptomiques** (NanoString Lymph2Cx, RT-MLPA) — meilleure reproductibilité que les algorithmes IHC.
 
@@ -101,9 +101,9 @@ CD10 + ?
 - **Double expresseur (DEL)** : MYC+ ET BCL2+ → **pronostic péjoratif** (≈30% des DLBCL)
 - Distinct du **double-hit** (réarrangement par FISH)
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-331_Lymphomes B diffus à grandes cellules NOS et lymphomes B riches en T-Pr Copie-VF2/p11_25.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-331_Lymphomes%20B%20diffus%20%C3%A0%20grandes%20cellules%20NOS%20et%20lymphomes%20B%20riches%20en%20T-Pr%20Copie-VF2/p11_25.png)
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-331_Lymphomes B diffus à grandes cellules NOS et lymphomes B riches en T-Pr Copie-VF2/p12_34.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-331_Lymphomes%20B%20diffus%20%C3%A0%20grandes%20cellules%20NOS%20et%20lymphomes%20B%20riches%20en%20T-Pr%20Copie-VF2/p12_34.jpeg)
 
 ## Réarrangements géniques (FISH systématique)
 
@@ -146,11 +146,11 @@ CD10 + ?
 - Lymphocytes T PD1+ autour des cellules tumorales
 - Histiocytes CD68+
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-331_Lymphomes B diffus à grandes cellules NOS et lymphomes B riches en T-Pr Copie-VF2/p17_46.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-331_Lymphomes%20B%20diffus%20%C3%A0%20grandes%20cellules%20NOS%20et%20lymphomes%20B%20riches%20en%20T-Pr%20Copie-VF2/p17_46.jpeg)
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-331_Lymphomes B diffus à grandes cellules NOS et lymphomes B riches en T-Pr Copie-VF2/p17_48.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-331_Lymphomes%20B%20diffus%20%C3%A0%20grandes%20cellules%20NOS%20et%20lymphomes%20B%20riches%20en%20T-Pr%20Copie-VF2/p17_48.jpeg)
 
-![[assets/hematologie/lymphome_b_lymphome_aggressif/Diaporama 07-331_Lymphomes B diffus à grandes cellules NOS et lymphomes B riches en T-Pr Copie-VF2/p17_52.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/lymphome_b_lymphome_aggressif/Diaporama%2007-331_Lymphomes%20B%20diffus%20%C3%A0%20grandes%20cellules%20NOS%20et%20lymphomes%20B%20riches%20en%20T-Pr%20Copie-VF2/p17_52.jpeg)
 
 ### Diagnostics différentiels
 

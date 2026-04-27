@@ -27,7 +27,7 @@ source: DES ACP - Cours de gynéco-pathologie
 - La **réponse pathologique complète (pCR)** = critère de jugement principal
 - **Manque d’uniformité** entre centres → recommandations internationales **2015** (Provenzano et al., groupe international + groupe anglais)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_10 Prélèvements mammaires etCTN AMG/p01_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_10%20Pr%C3%A9l%C3%A8vements%20mammaires%20etCTN%20AMG/p01_00.png)
 
 ## I. Avant traitement néo-adjuvant
 
@@ -66,9 +66,9 @@ source: DES ACP - Cours de gynéco-pathologie
 - **Embols** (pronostique + prédictif)
 - **Cellularité tumorale** (% de surface) — nécessaire pour Miller-Payne, Pinder, Sinn, Sataloff
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_10 Prélèvements mammaires etCTN AMG/p10_01.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_10 Prélèvements mammaires etCTN AMG/p10_02.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_10 Prélèvements mammaires etCTN AMG/p10_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_10%20Pr%C3%A9l%C3%A8vements%20mammaires%20etCTN%20AMG/p10_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_10%20Pr%C3%A9l%C3%A8vements%20mammaires%20etCTN%20AMG/p10_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_10%20Pr%C3%A9l%C3%A8vements%20mammaires%20etCTN%20AMG/p10_03.jpeg)
 
 ### Ganglions avant CTN
 
@@ -110,9 +110,9 @@ source: DES ACP - Cours de gynéco-pathologie
 - Inclusion en **totalité**
 - Exemple : tumorectomie 3 × 4 cm avec petite zone de fibrose → grille en 12 blocs
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_10 Prélèvements mammaires etCTN AMG/p22_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_10 Prélèvements mammaires etCTN AMG/p23_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_10 Prélèvements mammaires etCTN AMG/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_10%20Pr%C3%A9l%C3%A8vements%20mammaires%20etCTN%20AMG/p22_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_10%20Pr%C3%A9l%C3%A8vements%20mammaires%20etCTN%20AMG/p23_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_10%20Pr%C3%A9l%C3%A8vements%20mammaires%20etCTN%20AMG/p24_00.jpeg)
 
 #### Volumineuses pièces
 - Zones macroscopiquement visibles (lit tumoral, tumeur résiduelle) **en totalité** si possible
@@ -123,9 +123,9 @@ source: DES ACP - Cours de gynéco-pathologie
 - **Mégablocs** encouragés (mesure + marges plus simples)
 - Possibilité de **ré-échantillonner** dans un second temps si pas de tumeur résiduelle
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_10 Prélèvements mammaires etCTN AMG/p26_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_10 Prélèvements mammaires etCTN AMG/p26_01.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_10 Prélèvements mammaires etCTN AMG/p26_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_10%20Pr%C3%A9l%C3%A8vements%20mammaires%20etCTN%20AMG/p26_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_10%20Pr%C3%A9l%C3%A8vements%20mammaires%20etCTN%20AMG/p26_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_10%20Pr%C3%A9l%C3%A8vements%20mammaires%20etCTN%20AMG/p26_02.jpeg)
 
 #### Lésions multiples
 - Chaque lésion prise en charge comme si elle était unique
@@ -164,7 +164,7 @@ Deux types de réponses :
 
 > Donner les **2 dimensions** pour le RCB
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_10 Prélèvements mammaires etCTN AMG/p37_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_10%20Pr%C3%A9l%C3%A8vements%20mammaires%20etCTN%20AMG/p37_00.png)
 
 ### Lésions multiples résiduelles
 - Mesurer chacune
@@ -188,7 +188,7 @@ Deux types de réponses :
 - AVANT de conclure : reprendre la macroscopie du curage, ré-examiner la pièce de mastectomie (prolongement axillaire), ré-examiner la patiente
 - → Importance du **clip pré-CTN** sur le ganglion biopsié
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_10 Prélèvements mammaires etCTN AMG/p38_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_10%20Pr%C3%A9l%C3%A8vements%20mammaires%20etCTN%20AMG/p38_00.jpeg)
 
 ## VI. Réponse pathologique complète (pCR)
 
@@ -232,10 +232,10 @@ Calculateur en ligne **gratuit** (rcb.mdanderson.org).
 - En cas de réponse fragmentée : **toute la zone** (microfoyers + fibrose entre foyers)
 - Mesure parfois sur **plusieurs lames** (puzzle reconstitué)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_10 Prélèvements mammaires etCTN AMG/p42_00.png]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_10 Prélèvements mammaires etCTN AMG/p47_00.png]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_10 Prélèvements mammaires etCTN AMG/p48_00.png]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_10 Prélèvements mammaires etCTN AMG/p49_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_10%20Pr%C3%A9l%C3%A8vements%20mammaires%20etCTN%20AMG/p42_00.png)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_10%20Pr%C3%A9l%C3%A8vements%20mammaires%20etCTN%20AMG/p47_00.png)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_10%20Pr%C3%A9l%C3%A8vements%20mammaires%20etCTN%20AMG/p48_00.png)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_10%20Pr%C3%A9l%C3%A8vements%20mammaires%20etCTN%20AMG/p49_00.png)
 
 ### Classes RCB
 
@@ -249,10 +249,10 @@ Calculateur en ligne **gratuit** (rcb.mdanderson.org).
 > Exemples : 40 % vs 50 % de carcinome → bascule **RCB-II → RCB-III**
 > ITC ganglionnaires uniquement → classe **RCB-I**
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_10 Prélèvements mammaires etCTN AMG/p50_00.jpeg]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_10 Prélèvements mammaires etCTN AMG/p50_01.png]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_10 Prélèvements mammaires etCTN AMG/p50_02.png]]
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_10 Prélèvements mammaires etCTN AMG/p53_04.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_10%20Pr%C3%A9l%C3%A8vements%20mammaires%20etCTN%20AMG/p50_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_10%20Pr%C3%A9l%C3%A8vements%20mammaires%20etCTN%20AMG/p50_01.png)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_10%20Pr%C3%A9l%C3%A8vements%20mammaires%20etCTN%20AMG/p50_02.png)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_10%20Pr%C3%A9l%C3%A8vements%20mammaires%20etCTN%20AMG/p53_04.png)
 
 ## VIII. Re-tester RH/HER2 post-CTN ?
 
@@ -287,7 +287,7 @@ Calculateur en ligne **gratuit** (rcb.mdanderson.org).
   - Ganglions : métastase sans/avec réponse, pas de méta avec réponse, ni méta ni réponse
 - **Stade ypTN**
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_10 Prélèvements mammaires etCTN AMG/p58_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_10%20Pr%C3%A9l%C3%A8vements%20mammaires%20etCTN%20AMG/p58_00.png)
 
 ## Diagnostics différentiels / Pièges
 

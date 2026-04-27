@@ -40,9 +40,9 @@ Catégories principales :
 - **UPS** (sarcome indifférencié pléomorphe)
 - Syndromes tumoraux
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-232 Introduction à la pathologie osseuse tumorale démarche diagnostique/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-232%20Introduction%20%C3%A0%20la%20pathologie%20osseuse%20tumorale%20d%C3%A9marche%20diagnostique/p04_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-232 Introduction à la pathologie osseuse tumorale démarche diagnostique/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-232%20Introduction%20%C3%A0%20la%20pathologie%20osseuse%20tumorale%20d%C3%A9marche%20diagnostique/p09_00.jpeg)
 
 ## Cadres morphologiques pratiques
 
@@ -60,9 +60,9 @@ Plus utile que la classification OMS stricte : raisonner en cadres morphologique
 
 > Attention : **os et cartilage réactionnels** ne sont pas dans la classification mais sont des **DD majeurs** (réaction périostée, cal fracturaire). Ne pas confondre **os réactionnel** avec un ostéosarcome, **cartilage réactionnel** avec un chondrosarcome.
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-232 Introduction à la pathologie osseuse tumorale démarche diagnostique/p15_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-232%20Introduction%20%C3%A0%20la%20pathologie%20osseuse%20tumorale%20d%C3%A9marche%20diagnostique/p15_00.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-232 Introduction à la pathologie osseuse tumorale démarche diagnostique/p16_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-232%20Introduction%20%C3%A0%20la%20pathologie%20osseuse%20tumorale%20d%C3%A9marche%20diagnostique/p16_01.png)
 
 ## Critère majeur de malignité osseuse
 
@@ -86,7 +86,7 @@ Le **bon diagnostic** = intersection des deux gammes.
 
 > L'âge oriente mais **n'élimine pas** un diagnostic (Ewing possible > 80 ans).
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-232 Introduction à la pathologie osseuse tumorale démarche diagnostique/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-232%20Introduction%20%C3%A0%20la%20pathologie%20osseuse%20tumorale%20d%C3%A9marche%20diagnostique/p18_00.jpeg)
 
 ### Localisation sur l'os
 
@@ -102,13 +102,13 @@ Le **bon diagnostic** = intersection des deux gammes.
 | **Métaphyse** | **Ostéosarcomes** (+++), fibrome chondromyxoïde, kyste anévrysmal |
 | **Diaphyse** | Ostéoblastome, sarcome d'Ewing, ostéofibrodysplasie, adamantinome |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-232 Introduction à la pathologie osseuse tumorale démarche diagnostique/p19_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-232%20Introduction%20%C3%A0%20la%20pathologie%20osseuse%20tumorale%20d%C3%A9marche%20diagnostique/p19_01.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-232 Introduction à la pathologie osseuse tumorale démarche diagnostique/p21_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-232%20Introduction%20%C3%A0%20la%20pathologie%20osseuse%20tumorale%20d%C3%A9marche%20diagnostique/p21_00.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-232 Introduction à la pathologie osseuse tumorale démarche diagnostique/p21_10.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-232%20Introduction%20%C3%A0%20la%20pathologie%20osseuse%20tumorale%20d%C3%A9marche%20diagnostique/p21_10.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-232 Introduction à la pathologie osseuse tumorale démarche diagnostique/p21_11.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-232%20Introduction%20%C3%A0%20la%20pathologie%20osseuse%20tumorale%20d%C3%A9marche%20diagnostique/p21_11.png)
 
 ## Choix du type de prélèvement (selon RCP)
 
@@ -131,9 +131,9 @@ Diagnostic radiologique seul :
 - Tumeurs cartilagineuses intramédullaires des **os longs** (DD enchondrome vs CS atypique/G2)
 - **Ostéochondrome avec suspicion de CS périphérique** : pas de biopsie → **résection large monobloc d'emblée**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-232 Introduction à la pathologie osseuse tumorale démarche diagnostique/p21_12.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-232%20Introduction%20%C3%A0%20la%20pathologie%20osseuse%20tumorale%20d%C3%A9marche%20diagnostique/p21_12.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-232 Introduction à la pathologie osseuse tumorale démarche diagnostique/p21_13.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-232%20Introduction%20%C3%A0%20la%20pathologie%20osseuse%20tumorale%20d%C3%A9marche%20diagnostique/p21_13.png)
 
 ## Apport de la biologie moléculaire
 
@@ -160,7 +160,7 @@ Diagnostic radiologique seul :
 - **H3 K36M** : chondroblastome
 - **H3 G34W** : tumeur à cellules géantes (n'élimine pas une forme maligne)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-232 Introduction à la pathologie osseuse tumorale démarche diagnostique/p30_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-232%20Introduction%20%C3%A0%20la%20pathologie%20osseuse%20tumorale%20d%C3%A9marche%20diagnostique/p30_00.png)
 
 > Les examens moléculaires **ne remplacent pas** les informations clinico-radiologiques.
 

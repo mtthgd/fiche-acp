@@ -88,9 +88,9 @@ source: DES ACP - Cours d'hématologie
 
 > ASM = **≥ 1 critère C** ; SSM = **≥ 2 critères B sans critère C**.
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-580_Mastocytoses médullaires cours DES/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-580_Mastocytoses%20m%C3%A9dullaires%20cours%20DES/p11_00.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-580_Mastocytoses médullaires cours DES/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-580_Mastocytoses%20m%C3%A9dullaires%20cours%20DES/p11_01.jpeg)
 
 ## Histologie — BOM
 
@@ -104,13 +104,13 @@ source: DES ACP - Cours d'hématologie
   - **Fibrose réticulinique** focale
   - **Ostéosclérose** focale (épaississement trabéculaire)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-580_Mastocytoses médullaires cours DES/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-580_Mastocytoses%20m%C3%A9dullaires%20cours%20DES/p14_00.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-580_Mastocytoses médullaires cours DES/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-580_Mastocytoses%20m%C3%A9dullaires%20cours%20DES/p14_01.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-580_Mastocytoses médullaires cours DES/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-580_Mastocytoses%20m%C3%A9dullaires%20cours%20DES/p15_00.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-580_Mastocytoses médullaires cours DES/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-580_Mastocytoses%20m%C3%A9dullaires%20cours%20DES/p15_01.jpeg)
 
 ### Cytologie / morphologie des mastocytes
 
@@ -121,11 +121,11 @@ source: DES ACP - Cours d'hématologie
 | Noyau rond central | Noyau allongé, parfois bilobé |
 | Isolé / disséminé | **Agrégats denses** |
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-580_Mastocytoses médullaires cours DES/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-580_Mastocytoses%20m%C3%A9dullaires%20cours%20DES/p17_00.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-580_Mastocytoses médullaires cours DES/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-580_Mastocytoses%20m%C3%A9dullaires%20cours%20DES/p17_01.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-580_Mastocytoses médullaires cours DES/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-580_Mastocytoses%20m%C3%A9dullaires%20cours%20DES/p18_00.jpeg)
 
 ### Colorations spéciales
 
@@ -136,11 +136,11 @@ source: DES ACP - Cours d'hématologie
 | **Chloroacétate-estérase (Leder)** | Mastocytes + (mais aussi granuleux) |
 | **Tryptase** (IHC) | **Marqueur le plus sensible** des mastocytes (matures et immatures) |
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-580_Mastocytoses médullaires cours DES/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-580_Mastocytoses%20m%C3%A9dullaires%20cours%20DES/p20_00.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-580_Mastocytoses médullaires cours DES/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-580_Mastocytoses%20m%C3%A9dullaires%20cours%20DES/p21_00.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-580_Mastocytoses médullaires cours DES/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-580_Mastocytoses%20m%C3%A9dullaires%20cours%20DES/p21_01.jpeg)
 
 ## Immunohistochimie
 
@@ -155,13 +155,13 @@ source: DES ACP - Cours d'hématologie
 
 > **CD25 = marqueur clé** : sa positivité sur les mastocytes médullaires est le critère mineur le plus utilisé (sensible, spécifique).
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-580_Mastocytoses médullaires cours DES/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-580_Mastocytoses%20m%C3%A9dullaires%20cours%20DES/p22_00.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-580_Mastocytoses médullaires cours DES/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-580_Mastocytoses%20m%C3%A9dullaires%20cours%20DES/p23_00.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-580_Mastocytoses médullaires cours DES/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-580_Mastocytoses%20m%C3%A9dullaires%20cours%20DES/p23_01.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-580_Mastocytoses médullaires cours DES/p23_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-580_Mastocytoses%20m%C3%A9dullaires%20cours%20DES/p23_02.jpeg)
 
 ## Biologie moléculaire / cytométrie
 
@@ -183,11 +183,11 @@ source: DES ACP - Cours d'hématologie
 - Tryptase **β** (constitutive, mature) vs **α** (germline)
 - **HαT** (hereditary alpha-tryptasemia) : duplication *TPSAB1* — peut élever la tryptase basale, à interpréter avec précaution
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-580_Mastocytoses médullaires cours DES/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-580_Mastocytoses%20m%C3%A9dullaires%20cours%20DES/p25_00.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-580_Mastocytoses médullaires cours DES/p25_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-580_Mastocytoses%20m%C3%A9dullaires%20cours%20DES/p25_01.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-580_Mastocytoses médullaires cours DES/p25_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-580_Mastocytoses%20m%C3%A9dullaires%20cours%20DES/p25_02.jpeg)
 
 ## Diagnostics différentiels
 
@@ -228,13 +228,13 @@ source: DES ACP - Cours d'hématologie
 | MCL réfractaire | Cladribine, allogreffe |
 | Ostéoporose | Bisphosphonates |
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-580_Mastocytoses médullaires cours DES/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-580_Mastocytoses%20m%C3%A9dullaires%20cours%20DES/p30_00.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-580_Mastocytoses médullaires cours DES/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-580_Mastocytoses%20m%C3%A9dullaires%20cours%20DES/p31_00.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-580_Mastocytoses médullaires cours DES/p31_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-580_Mastocytoses%20m%C3%A9dullaires%20cours%20DES/p31_01.jpeg)
 
-![[assets/hematologie/hemopathies-myeloides/Diaporama 07-580_Mastocytoses médullaires cours DES/p31_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/hemopathies-myeloides/Diaporama%2007-580_Mastocytoses%20m%C3%A9dullaires%20cours%20DES/p31_02.jpeg)
 
 ---
 

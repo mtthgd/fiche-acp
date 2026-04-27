@@ -26,7 +26,7 @@ Trois types de prélèvements prostatiques :
 3. **Prostatectomie radicale** — pièce opératoire exérèse totale
 
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p03_00.jpeg)
 
 ---
 
@@ -36,9 +36,9 @@ Trois types de prélèvements prostatiques :
 - Traitement endoscopique de l'**hyperplasie prostatique bénigne (HBP)** symptomatique
 - Rabotage transurétral du tissu prostatique obstruant l'urètre → **copeaux non orientés** fixés au formol tamponné
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p04_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p04_00.png)
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p05_00.jpeg)
 
 ## Prise en charge macroscopique
 1. **Peser** la résection
@@ -48,7 +48,7 @@ Trois types de prélèvements prostatiques :
 5. Si cancer sur premiers copeaux : **inclure la totalité** pour staging (sauf si majorité déjà envahie)
 
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p07_00.jpeg)
 
 ## Staging CaP sur RTUP
 - **pT1a** : cancer sur **< 5 %** des copeaux
@@ -71,11 +71,11 @@ CaP de découverte fortuite sur RTUP = **< 20 %** des cas.
 - Exploration bilatérale : **base + corps + apex**, lobe droit et gauche
 - **Biopsies ciblées** supplémentaires orientées par l'IRM/toucher rectal
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p11_00.jpeg)
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p11_01.jpeg)
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p11_02.jpeg)
 
 ## Modes d'adressage (du meilleur au moins idéal)
 | Configuration | Nb flacons | Biopsies/flacon | Qualité |
@@ -84,9 +84,9 @@ CaP de découverte fortuite sur RTUP = **< 20 %** des cas.
 | Par sextant (base/corps/apex D/G) | 6 | 2 | ++ |
 | Par lobe (D vs G) | 2 | 6 | – |
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p12_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p12_00.png)
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p12_01.jpeg)
 
 
 ## Inclusion technique
@@ -94,15 +94,15 @@ CaP de découverte fortuite sur RTUP = **< 20 %** des cas.
 - Technique : **3 niveaux** espacés de 3-5 sections de 10-20 µm
 - **Lames blanches intermédiaires** gardées pour IHC ultérieure (AMACR, p63, 34βE12)
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p14_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p14_00.png)
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p14_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p14_01.png)
 
 ## Critère de qualité
 - Longueur minimale requise : **≥ 10 mm**
 - Causes de biopsie < 10 mm : prélèvement urologue insuffisant, inclusion incorrecte, bloc mal entamé
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p15_00.jpeg)
 
 
 ---
@@ -111,16 +111,16 @@ CaP de découverte fortuite sur RTUP = **< 20 %** des cas.
 
 Références : **conférence de consensus ISUP** (Société internationale d'uropathologie).
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p17_00.jpeg)
 
 ## Étape 1 — Orientation de la pièce
 - **Vésicules séminales** = en **haut et en arrière**
 - **Face postérieure plate** (face rectale)
 - **Face antérieure** repérée par l'urètre au niveau du col vésical
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p18_00.jpeg)
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p18_01.jpeg)
 
 ## Étape 2 — Encrage
 - **2 couleurs minimum** (1 par lobe)
@@ -128,7 +128,7 @@ Références : **conférence de consensus ISUP** (Société internationale d'uro
 - Enlever clips/fils avant encrage
 
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p19_01.jpeg)
 
 ## Étape 3 — Fixation
 - **Formol tamponné 10 %**, immersion dans **20× le volume**
@@ -139,7 +139,7 @@ Références : **conférence de consensus ISUP** (Société internationale d'uro
 - **Poids sans les vésicules séminales**
 - Mesures dans **3 axes** (frontal, transversal, sagittal)
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p20_00.jpeg)
 
 
 ## Étape 5 — Prélèvements (méthode de Stanford = inclusion totale)
@@ -151,35 +151,35 @@ Malgré l'inclusion totale, **≈ 10 % seulement de la surface** est réellement
 - **Coupe transversale épaisse 3-5 mm** puis **recoupe en conisation** (perpendiculaire)
 - Permet examen maximal de la surface de marge
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p22_00.jpeg)
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p23_00.jpeg)
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p23_01.jpeg)
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p24_00.jpeg)
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p24_01.jpeg)
 
 ### Col vésical (conisation aussi)
 - Section transversale portant le col → recoupe en conisation
 - Maximise l'exposition de la marge chirurgicale proximale
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p25_00.jpeg)
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p26_00.jpeg)
 
 ### Vésicules séminales & base
 - L'**envahissement des vésicules séminales** = critère **pT3b** (important pour le stade)
 - Coupes transversales classiques **ou** inclusion dans la longueur
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p27_00.jpeg)
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p27_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p27_01.jpeg)
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p28_00.jpeg)
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p28_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p28_01.jpeg)
 
 ### Reste de la prostate (grandes coupes)
 - Coupes **perpendiculaires à l'urètre**
@@ -187,25 +187,25 @@ Malgré l'inclusion totale, **≈ 10 % seulement de la surface** est réellement
 - De l'apex à la base
 - Inclusion en **méga-cassette** (idéal) ou en cassettes standards (multiplie le nombre de blocs)
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p29_00.jpeg)
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p29_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p29_01.jpeg)
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p30_00.jpeg)
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p31_00.jpeg)
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p32_00.jpeg)
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p32_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p32_01.jpeg)
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p33_00.jpeg)
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p34_00.jpeg)
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p34_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p34_02.jpeg)
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p34_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p34_03.jpeg)
 
 ## Option : inclusion partielle (acceptée mais non idéale)
 Contraintes :
@@ -214,16 +214,16 @@ Contraintes :
 - **Apex + col vésical en conisation = obligatoires**
 - Prélèvements sélectifs privilégiant : **zones encrées** (marges) + **zone périphérique** (cancer)
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p35_00.jpeg)
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p35_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p35_01.jpeg)
 
 ## Curage ganglionnaire
 - **Ne jamais oublier** si pièce associée
 - Identifier **tous les ganglions** : **nombre + taille**
 - Si pas de ganglions palpables → **inclure tout le tissu adipeux**
 
-![[assets/urologie/prostate/05-313-Prise en charge macroscopique des prélèvements prostatiques/p36_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-313-Prise%20en%20charge%20macroscopique%20des%20pr%C3%A9l%C3%A8vements%20prostatiques/p36_00.jpeg)
 
 
 ---

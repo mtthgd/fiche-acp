@@ -35,7 +35,7 @@ source: DES ACP - Cours de digestif
 - **Mésorectum** = graisse péri-rectale
 - **Haut rectum = péritonisé** ; **moyen et bas rectum = sous-péritonéaux** (non péritonisés)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.4 Adénocarcinome pancréatique et ses variants/p04_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.4%20Ad%C3%A9nocarcinome%20pancr%C3%A9atique%20et%20ses%20variants/p04_02.jpeg)
 
 ## Pièces opératoires
 
@@ -73,9 +73,9 @@ source: DES ACP - Cours de digestif
 
 > Sur AAP / RIS : **le mésorectum s'arrête à la ligne pectinée** → ne pas répondre à tort « mésorectum incomplet ».
 
-![[assets/digestif/pancreas/tumorale/03.3.3.6 Lésions et tumeurs kystiques du pancréas/p13_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.6%20L%C3%A9sions%20et%20tumeurs%20kystiques%20du%20pancr%C3%A9as/p13_03.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.6 Lésions et tumeurs kystiques du pancréas/p15_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.6%20L%C3%A9sions%20et%20tumeurs%20kystiques%20du%20pancr%C3%A9as/p15_04.jpeg)
 
 ### Marges
 - **Marge pariétale distale** : recommandation ≥ 1 cm (rectum)
@@ -99,7 +99,7 @@ source: DES ACP - Cours de digestif
 | **Carcinome médullaire** | Massifs syncytiaux + stroma inflammatoire abondant | Souvent **MSI/MMR-déficient** |
 | Adénocarcinome festonné, micropapillaire, peu cohésif | OMS 2019 | — |
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p21_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p21_01.png)
 
 
 ### Différenciation
@@ -120,7 +120,7 @@ source: DES ACP - Cours de digestif
 
 → Pas de distinction intra- vs extra-mural pour l'angio-invasion.
 
-![[assets/digestif/pancreas/generalites/03.3.1.2 Généralités sur la pathologie pancréatique/p23_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/generalites/03.3.1.2%20G%C3%A9n%C3%A9ralit%C3%A9s%20sur%20la%20pathologie%20pancr%C3%A9atique/p23_03.jpeg)
 
 ### Bourgeonnement tumoral (*tumor budding*)
 
@@ -135,7 +135,7 @@ source: DES ACP - Cours de digestif
 | **Bd2 (modéré)** | 5-9 |
 | **Bd3 (élevé)** | **10-15+** = **mauvais pronostic**, **fortement corrélé** aux métastases ganglionnaires (pT1) et facteur péjoratif des stades II |
 
-![[assets/digestif/pancreas/tumorale/03.3.3.6 Lésions et tumeurs kystiques du pancréas/p25_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.6%20L%C3%A9sions%20et%20tumeurs%20kystiques%20du%20pancr%C3%A9as/p25_05.jpeg)
 
 ### Marge circonférentielle (rectum)
 
@@ -145,7 +145,7 @@ source: DES ACP - Cours de digestif
 - Peut se calculer depuis : tumeur principale, **dépôt tumoral** dans le mésorectum, ou **métastase ganglionnaire**
 - → On retient la **valeur la plus petite**
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.8 Démarche diagnostique devant une colite/p27_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.8%20D%C3%A9marche%20diagnostique%20devant%20une%20colite/p27_05.jpeg)
 
 ### Réponse tumorale après radiochimiothérapie (TRG AJCC, bas et moyen rectum)
 
@@ -158,7 +158,7 @@ source: DES ACP - Cours de digestif
 
 > **Réponse colloïde complète** = plages de mucine sans cellules tumorales (parfois îlots résiduels). Le TRG AJCC ne tient pas compte de cette modalité.
 
-![[assets/digestif/pancreas/tumorale/03.3.3.8 Tumeurs intracanalaires pancréatiques/p28_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.8%20Tumeurs%20intracanalaires%20pancr%C3%A9atiques/p28_03.jpeg)
 
 ## Classification (y)pTNM
 

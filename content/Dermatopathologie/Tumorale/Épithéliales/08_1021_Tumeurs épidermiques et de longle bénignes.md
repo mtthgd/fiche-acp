@@ -38,9 +38,9 @@ Les tumeurs d'origine virale font l'objet d'un autre cours.
 - Peut s'inscrire dans le **syndrome de l'hamartome épidermique** (anomalies squelettiques, oculaires, neurologiques).
 - Histologie : **hyperkératose orthokératosique**, papillomatose, acanthose, hypergranulose, **hyperpigmentation basale**.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1021 Tumeur épidermiques et de longle bénignes/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1021%20Tumeur%20%C3%A9pidermiques%20et%20de%20longle%20b%C3%A9nignes/p06_00.jpeg)
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1021 Tumeur épidermiques et de longle bénignes/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1021%20Tumeur%20%C3%A9pidermiques%20et%20de%20longle%20b%C3%A9nignes/p07_00.jpeg)
 
 ### Hamartome épidermique verruqueux linéaire inflammatoire (NEVIL)
 
@@ -48,7 +48,7 @@ Les tumeurs d'origine virale font l'objet d'un autre cours.
 - Aspect rosé brun, papuleux, **psoriasiforme**.
 - Histologie : hyperplasie psoriasiforme avec **alternance de parakératose-agranulose et orthokératose-hypergranulose**.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1021 Tumeur épidermiques et de longle bénignes/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1021%20Tumeur%20%C3%A9pidermiques%20et%20de%20longle%20b%C3%A9nignes/p08_00.jpeg)
 
 ### Hamartome comédonien
 
@@ -56,7 +56,7 @@ Les tumeurs d'origine virale font l'objet d'un autre cours.
 - Papules groupées ou linéaires unilatérales (visage, cou, tronc) — lésion élémentaire = **comédon**.
 - Histologie : invaginations épidermiques remplies de **kératine** + bouchons cornés compacts, paroi épithéliale **hyperplasique**.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1021 Tumeur épidermiques et de longle bénignes/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1021%20Tumeur%20%C3%A9pidermiques%20et%20de%20longle%20b%C3%A9nignes/p10_00.jpeg)
 
 ### Comédons dyskératosiques familiaux
 
@@ -84,13 +84,13 @@ Les tumeurs d'origine virale font l'objet d'un autre cours.
 - Bowénoïde
 - **Mélano-acanthome**
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1021 Tumeur épidermiques et de longle bénignes/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1021%20Tumeur%20%C3%A9pidermiques%20et%20de%20longle%20b%C3%A9nignes/p12_00.jpeg)
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1021 Tumeur épidermiques et de longle bénignes/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1021%20Tumeur%20%C3%A9pidermiques%20et%20de%20longle%20b%C3%A9nignes/p13_00.jpeg)
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1021 Tumeur épidermiques et de longle bénignes/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1021%20Tumeur%20%C3%A9pidermiques%20et%20de%20longle%20b%C3%A9nignes/p14_00.jpeg)
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1021 Tumeur épidermiques et de longle bénignes/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1021%20Tumeur%20%C3%A9pidermiques%20et%20de%20longle%20b%C3%A9nignes/p15_00.jpeg)
 
 ### Acanthome à cellules claires (Degos)
 
@@ -98,7 +98,7 @@ Les tumeurs d'origine virale font l'objet d'un autre cours.
 - Papule/nodule ferme, brun ou rougeâtre, croissance lente.
 - Histologie : hyperplasie épidermique **à bords abrupts**, acanthose psoriasiforme, **kératinocytes de grande taille au cytoplasme pâle (riches en glycogène, PAS+)**.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1021 Tumeur épidermiques et de longle bénignes/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1021%20Tumeur%20%C3%A9pidermiques%20et%20de%20longle%20b%C3%A9nignes/p17_00.jpeg)
 
 ### Acanthome fissuré
 
@@ -111,7 +111,7 @@ Les tumeurs d'origine virale font l'objet d'un autre cours.
 - Histologie : hyperplasie épidermique localisée, papillomatose, **hyperkératose orthokératosique**, **vacuolisations périnucléaires** avec **grains anguleux de kératohyaline** dans les couches granuleuse et épineuse.
 - DD : lésions virales à HPV.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1021 Tumeur épidermiques et de longle bénignes/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1021%20Tumeur%20%C3%A9pidermiques%20et%20de%20longle%20b%C3%A9nignes/p19_00.jpeg)
 
 ### Acanthome acantholytique
 
@@ -125,14 +125,14 @@ Les tumeurs d'origine virale font l'objet d'un autre cours.
 - Aspect proche d'une KS ou d'une kératose actinique.
 - Histologie : lésion bien limitée, hypergranulose, basale festonnée, **kératinocytes de grande taille sans atypie**, orthokératose.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1021 Tumeur épidermiques et de longle bénignes/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1021%20Tumeur%20%C3%A9pidermiques%20et%20de%20longle%20b%C3%A9nignes/p23_00.jpeg)
 
 ### Lentigo actinique
 
 - **Lésion épithéliale** (et non mélanocytaire malgré le nom) : macule pigmentée des zones photo-exposées.
 - Histologie : allongement des **crêtes épidermiques** en bourgeons courts renflés à l'extrémité, kératinocytes basaux étirés et pigmentés, discrète hyperplasie mélanocytaire **non atypique**.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1021 Tumeur épidermiques et de longle bénignes/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1021%20Tumeur%20%C3%A9pidermiques%20et%20de%20longle%20b%C3%A9nignes/p25_00.jpeg)
 
 ### Kératose lichénoïde solitaire bénigne
 
@@ -206,7 +206,7 @@ Les tumeurs d'origine virale font l'objet d'un autre cours.
 
 # II. Tumeurs bénignes de l'ongle
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1021 Tumeur épidermiques et de longle bénignes/p67_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1021%20Tumeur%20%C3%A9pidermiques%20et%20de%20longle%20b%C3%A9nignes/p67_00.jpeg)
 
 ## Microkystes du lit unguéal et kystes épidermiques
 
@@ -225,7 +225,7 @@ Les tumeurs d'origine virale font l'objet d'un autre cours.
 
 Histologie proche : prolifération matricielle avec prédominance de cellules basales et formations concentriques **en bulles d'oignon**, absence d'hyperplasie mélanocytaire dans le matricome.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1021 Tumeur épidermiques et de longle bénignes/p77_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1021%20Tumeur%20%C3%A9pidermiques%20et%20de%20longle%20b%C3%A9nignes/p77_00.jpeg)
 
 ### Onychomatricome
 
@@ -233,14 +233,14 @@ Histologie proche : prolifération matricielle avec prédominance de cellules ba
 - Bande longitudinale jaunâtre, tablette épaissie sur toute sa longueur, **courbure transverse accentuée**, hémorragies filiformes.
 - Histologie : tumeur **fibroépithéliale** avec multiples **digitations filiformes** logées dans des cavités longitudinales de la tablette → **aspect en anémone de mer**. Stroma dense, fibreux ou myxoïde, parfois cellules bizarres pléomorphes.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1021 Tumeur épidermiques et de longle bénignes/p82_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1021%20Tumeur%20%C3%A9pidermiques%20et%20de%20longle%20b%C3%A9nignes/p82_00.jpeg)
 
 ## Onychopapillome (papillome du lit)
 
 - **Érythronychie monodactylique** de 2-3 mm affectant surtout le pouce, débutant en matrice distale et s'étendant sur tout l'ongle, finissant en lésion kératosique sous-unguéale ou fissure.
 - Histologie : acanthose de l'épithélium du lit avec papillomatose distale, cellules à cytoplasme éosinophile, **cellules dyskératosiques et plurinucléées**, kératine compacte de surface.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1021 Tumeur épidermiques et de longle bénignes/p86_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1021%20Tumeur%20%C3%A9pidermiques%20et%20de%20longle%20b%C3%A9nignes/p86_00.jpeg)
 
 ## Kératoacanthome sous-unguéal
 
@@ -253,21 +253,21 @@ Histologie proche : prolifération matricielle avec prédominance de cellules ba
 - Petite lésion **pédonculée** couleur chair sous le repli proximal, responsable d'une dépression de la tablette.
 - Histologie : épithélium hyperkératosique acanthosique, **axe conjonctif fait de faisceaux de collagène orientés verticalement** = aspect en **doigt de gant**.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1021 Tumeur épidermiques et de longle bénignes/p91_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1021%20Tumeur%20%C3%A9pidermiques%20et%20de%20longle%20b%C3%A9nignes/p91_00.jpeg)
 
 ## Pseudokyste mucoïde / mucineux digital
 
 - Nodule translucide, doigts > orteils, repli proximal → **gouttière longitudinale** de la tablette en regard.
 - Histologie : plages de **mucine** (bleu Alcian+) avec fibroblastes fusiformes/étoilés non atypiques.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1021 Tumeur épidermiques et de longle bénignes/p93_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1021%20Tumeur%20%C3%A9pidermiques%20et%20de%20longle%20b%C3%A9nignes/p93_01.jpeg)
 
 ## Granulome pyogénique unguéal
 
 - Lésion douloureuse, exophytique, saignante, ulcérée, complication d'une incarnation ou traumatisme périunguéal.
 - Histologie : épiderme acanthosique ulcéré, derme avec **nombreux capillaires**, infiltrat inflammatoire riche en PNN et plasmocytes.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1021 Tumeur épidermiques et de longle bénignes/p95_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1021%20Tumeur%20%C3%A9pidermiques%20et%20de%20longle%20b%C3%A9nignes/p95_00.jpeg)
 
 ## Tumeur glomique unguéale
 
@@ -275,7 +275,7 @@ Histologie proche : prolifération matricielle avec prédominance de cellules ba
 - Tache érythémateuse ou bleutée de la lunule/lit, parfois érythronychie longitudinale avec fissuration distale.
 - Histologie : petites cellules à noyaux ronds, cytoplasme éosinophile, autour de capillaires. **IHC : actine + (+ pour α-SMA)**.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1021 Tumeur épidermiques et de longle bénignes/p107_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1021%20Tumeur%20%C3%A9pidermiques%20et%20de%20longle%20b%C3%A9nignes/p107_00.jpeg)
 
 ## Exostose ostéogénique sous-unguéale
 
@@ -283,7 +283,7 @@ Histologie proche : prolifération matricielle avec prédominance de cellules ba
 - Reconnue comme une **véritable tumeur**.
 - Architecture organoïde : **coque fibrocartilagineuse + tissu osseux + cartilage prolifératif**.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1021 Tumeur épidermiques et de longle bénignes/p114_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1021%20Tumeur%20%C3%A9pidermiques%20et%20de%20longle%20b%C3%A9nignes/p114_00.jpeg)
 
 ## Fibromyxome acral superficiel
 
@@ -292,7 +292,7 @@ Histologie proche : prolifération matricielle avec prédominance de cellules ba
 - Histologie : lésion dermo-hypodermique, modérément cellulaire, non encapsulée, cellules fusiformes/étoilées dans un stroma **myxoïde ou collagénique** richement vascularisé. **Pas de mitose anormale, pas de nécrose, pas d'atypie**.
 - DD : neurofibrome myxoïde, angiomyxome superficiel, **myxofibrosarcome bas grade**, sarcome fibromyxoïde bas grade, fibrome digital cellulaire.
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1021 Tumeur épidermiques et de longle bénignes/p128_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1021%20Tumeur%20%C3%A9pidermiques%20et%20de%20longle%20b%C3%A9nignes/p128_00.jpeg)
 
 ---
 

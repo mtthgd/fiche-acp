@@ -26,9 +26,9 @@ source: DES ACP - Cours d’hématologie
 - Pathologies considérées comme **rares à orphelines** (≈ 50 entités)
 - Tournant majeur : découverte de **mutations oncogéniques** récurrentes (**BRAF V600E**, voie MAPK) → reclassification en **néoplasies clonales** et avènement des **thérapies ciblées**
 
-![[assets/hematologie/neoplasies-hystiocytaires/Diaporama 07-601_Histiocytoses/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/neoplasies-hystiocytaires/Diaporama%2007-601_Histiocytoses/p04_01.jpeg)
 
-![[assets/hematologie/neoplasies-hystiocytaires/Diaporama 07-601_Histiocytoses/p04_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/neoplasies-hystiocytaires/Diaporama%2007-601_Histiocytoses/p04_02.jpeg)
 
 ## Difficultés diagnostiques
 
@@ -49,9 +49,9 @@ L’accumulation d’histiocytes peut être :
 | **M** (Malignes) | Histiocytoses malignes / sarcomes histiocytaires | Très rares, formes primitives ou **secondaires** (ex : post-LF) |
 | **H** (HLH/MAS) | **Lymphohistiocytose hémophagocytaire** (génétique) et activation macrophagique sporadique | Pas une vraie « histiocytose » mais accumulation d’histiocytes hémophagocytaires sur déficit lymphocytaire cytotoxique |
 
-![[assets/hematologie/neoplasies-hystiocytaires/Diaporama 07-601_Histiocytoses/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/neoplasies-hystiocytaires/Diaporama%2007-601_Histiocytoses/p05_01.jpeg)
 
-![[assets/hematologie/neoplasies-hystiocytaires/Diaporama 07-601_Histiocytoses/p06_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/neoplasies-hystiocytaires/Diaporama%2007-601_Histiocytoses/p06_01.png)
 
 ## Histiocytose à cellules de Langerhans (LCH)
 
@@ -66,9 +66,9 @@ L’accumulation d’histiocytes peut être :
 - Atteintes multi-organes possibles : **os**, **peau**, **poumon**, **hypophyse** (diabète insipide), **ganglions**, foie, rate
 - Exophtalmie, atteintes ostéolytiques (crâne ++)
 
-![[assets/hematologie/neoplasies-hystiocytaires/Diaporama 07-601_Histiocytoses/p10_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/neoplasies-hystiocytaires/Diaporama%2007-601_Histiocytoses/p10_02.jpeg)
 
-![[assets/hematologie/neoplasies-hystiocytaires/Diaporama 07-601_Histiocytoses/p10_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/neoplasies-hystiocytaires/Diaporama%2007-601_Histiocytoses/p10_03.jpeg)
 
 ### Histologie
 - Accumulation d’histiocytes au **noyau réniforme / encoché / chiffonné** (« coffee-bean »)
@@ -76,13 +76,13 @@ L’accumulation d’histiocytes peut être :
 - **Cellules géantes plurinucléées** dans les localisations osseuses ou ganglionnaires
 - Aspect granulomateux variable
 
-![[assets/hematologie/neoplasies-hystiocytaires/Diaporama 07-601_Histiocytoses/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/neoplasies-hystiocytaires/Diaporama%2007-601_Histiocytoses/p11_01.jpeg)
 
-![[assets/hematologie/neoplasies-hystiocytaires/Diaporama 07-601_Histiocytoses/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/neoplasies-hystiocytaires/Diaporama%2007-601_Histiocytoses/p12_01.jpeg)
 
-![[assets/hematologie/neoplasies-hystiocytaires/Diaporama 07-601_Histiocytoses/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/neoplasies-hystiocytaires/Diaporama%2007-601_Histiocytoses/p12_02.jpeg)
 
-![[assets/hematologie/neoplasies-hystiocytaires/Diaporama 07-601_Histiocytoses/p12_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/neoplasies-hystiocytaires/Diaporama%2007-601_Histiocytoses/p12_03.jpeg)
 
 ### Immunohistochimie
 
@@ -96,7 +96,7 @@ L’accumulation d’histiocytes peut être :
 
 ⚠️ Si **CD1a+ mais CD207−** → **histiocytose à cellules indéterminées** (importance relative car très rare).
 
-![[assets/hematologie/neoplasies-hystiocytaires/Diaporama 07-601_Histiocytoses/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/neoplasies-hystiocytaires/Diaporama%2007-601_Histiocytoses/p13_01.jpeg)
 
 
 
@@ -123,9 +123,9 @@ L’accumulation d’histiocytes peut être :
 
 > ⚠️ Pas d’hyperéosinophilie sanguine dans la LCH typique → si présente, évoquer un autre diagnostic.
 
-![[assets/hematologie/neoplasies-hystiocytaires/Diaporama 07-601_Histiocytoses/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/neoplasies-hystiocytaires/Diaporama%2007-601_Histiocytoses/p16_01.jpeg)
 
-![[assets/hematologie/neoplasies-hystiocytaires/Diaporama 07-601_Histiocytoses/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/neoplasies-hystiocytaires/Diaporama%2007-601_Histiocytoses/p17_01.jpeg)
 
 ## Maladie d’Erdheim-Chester (ECD)
 
@@ -144,11 +144,11 @@ L’accumulation d’histiocytes peut être :
 - Fibres de collagène / fibrose ± marquée (ne pas éliminer le diagnostic !)
 - Cellules géantes type Touton possibles
 
-![[assets/hematologie/neoplasies-hystiocytaires/Diaporama 07-601_Histiocytoses/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/neoplasies-hystiocytaires/Diaporama%2007-601_Histiocytoses/p21_01.jpeg)
 
-![[assets/hematologie/neoplasies-hystiocytaires/Diaporama 07-601_Histiocytoses/p21_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/neoplasies-hystiocytaires/Diaporama%2007-601_Histiocytoses/p21_02.jpeg)
 
-![[assets/hematologie/neoplasies-hystiocytaires/Diaporama 07-601_Histiocytoses/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/neoplasies-hystiocytaires/Diaporama%2007-601_Histiocytoses/p22_01.jpeg)
 
 ### Immunohistochimie
 
@@ -162,7 +162,7 @@ L’accumulation d’histiocytes peut être :
 
 → Histologie **non spécifique** : la confrontation **clinico-radiologique** est indispensable.
 
-![[assets/hematologie/neoplasies-hystiocytaires/Diaporama 07-601_Histiocytoses/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/neoplasies-hystiocytaires/Diaporama%2007-601_Histiocytoses/p23_01.jpeg)
 
 ### Génétique et biologie moléculaire
 - **BRAF V600E** : ≈ 50-60 %
@@ -173,11 +173,11 @@ L’accumulation d’histiocytes peut être :
 > ⚠️ Fréquence allélique souvent **< 5 %** (nombreux histiocytes réactionnels parmi les histiocytes tumoraux) → utiliser des techniques **très sensibles** : **PCR digitale en gouttelettes (ddPCR)**.
 > Une **faible VAF** ne préjuge pas de la réponse aux thérapies ciblées.
 
-![[assets/hematologie/neoplasies-hystiocytaires/Diaporama 07-601_Histiocytoses/p26_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/neoplasies-hystiocytaires/Diaporama%2007-601_Histiocytoses/p26_01.jpeg)
 
-![[assets/hematologie/neoplasies-hystiocytaires/Diaporama 07-601_Histiocytoses/p26_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/neoplasies-hystiocytaires/Diaporama%2007-601_Histiocytoses/p26_02.jpeg)
 
-![[assets/hematologie/neoplasies-hystiocytaires/Diaporama 07-601_Histiocytoses/p26_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/neoplasies-hystiocytaires/Diaporama%2007-601_Histiocytoses/p26_03.jpeg)
 
 ## Maladie de Rosai-Dorfman (groupe R)
 
@@ -191,11 +191,11 @@ L’accumulation d’histiocytes peut être :
     - **Emperipolèse** = leucocytes intacts dans le cytoplasme (lymphocytes, plasmocytes, érythrocytes)
 - IHC : **S100 +** (noyau **et** cytoplasme), **CD68 +**, **CD163 +**, **CD1a −**
 
-![[assets/hematologie/neoplasies-hystiocytaires/Diaporama 07-601_Histiocytoses/p28_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/neoplasies-hystiocytaires/Diaporama%2007-601_Histiocytoses/p28_01.png)
 
-![[assets/hematologie/neoplasies-hystiocytaires/Diaporama 07-601_Histiocytoses/p28_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/neoplasies-hystiocytaires/Diaporama%2007-601_Histiocytoses/p28_02.png)
 
-![[assets/hematologie/neoplasies-hystiocytaires/Diaporama 07-601_Histiocytoses/p29_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/hematologie/neoplasies-hystiocytaires/Diaporama%2007-601_Histiocytoses/p29_01.png)
 
 ### Spectre étiologique de l’image « Rosai-Dorfman »
 - **Sporadique** : forme classique cervicale, formes extra-nodales (SNC, peau, os…)

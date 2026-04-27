@@ -88,10 +88,10 @@ Les carcinomes épidermoïdes (CE) sont le type histologique largement majoritai
   - Reflux gastro-œsophagien (discuté)
   - **HPV et EBV rarement impliqués** dans cette localisation
 
-![[assets/ORL/VADS/carcinome_epidermoide/10.231, 10.203 Generalites/p09_00.jpeg]]
-![[assets/ORL/VADS/carcinome_epidermoide/10.231, 10.203 Generalites/p10_01.jpeg]]
-![[assets/ORL/VADS/carcinome_epidermoide/10.231, 10.203 Generalites/p11_01.jpeg]]
-![[assets/ORL/VADS/carcinome_epidermoide/10.231, 10.203 Generalites/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/10.231%2C%2010.203%20Generalites/p09_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/10.231%2C%2010.203%20Generalites/p10_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/10.231%2C%2010.203%20Generalites/p11_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/10.231%2C%2010.203%20Generalites/p12_01.jpeg)
 
 ### 4. Cavité buccale
 
@@ -115,7 +115,7 @@ Les carcinomes épidermoïdes (CE) sont le type histologique largement majoritai
 - Survie 5 ans ≈ 50 %
 - **80 % de métastases ganglionnaires d'emblée**
 
-![[assets/ORL/VADS/carcinome_epidermoide/10.231, 10.203 Generalites/p15_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/10.231%2C%2010.203%20Generalites/p15_02.jpeg)
 
 ---
 

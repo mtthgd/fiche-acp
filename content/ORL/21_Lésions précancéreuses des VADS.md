@@ -23,7 +23,7 @@ source: DES ACP - Cours d'ORL
 
 Les **dysplasies** des VADS appartiennent au spectre des atypies **architecturales et cytologiques** de l'épithélium de surface, résultant d'une accumulation **lente et progressive d'anomalies génétiques** avec risque accru de progression vers un carcinome épidermoïde invasif.
 
-![[assets/ORL/VADS/carcinome_epidermoide/cours Lésions pré-néoplasiques cbok/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/cours%20L%C3%A9sions%20pr%C3%A9-n%C3%A9oplasiques%20cbok/p07_00.jpeg)
 
 ## Clinique / Épidémio / FR
 
@@ -49,7 +49,7 @@ Les **dysplasies** des VADS appartiennent au spectre des atypies **architectural
 - Laryngite chronique
 - Lésions planes, exophytiques ou papillaires
 
-![[assets/ORL/VADS/carcinome_epidermoide/cours Lésions pré-néoplasiques cbok/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/cours%20L%C3%A9sions%20pr%C3%A9-n%C3%A9oplasiques%20cbok/p11_00.jpeg)
 
 ## Topographie laryngée
 
@@ -72,8 +72,8 @@ Les **dysplasies** des VADS appartiennent au spectre des atypies **architectural
 
 > **L'IHC n'est pas recommandée pour établir le grading.**
 
-![[assets/ORL/VADS/carcinome_epidermoide/cours Lésions pré-néoplasiques cbok/p12_00.jpeg]]
-![[assets/ORL/VADS/carcinome_epidermoide/cours Lésions pré-néoplasiques cbok/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/cours%20L%C3%A9sions%20pr%C3%A9-n%C3%A9oplasiques%20cbok/p12_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/cours%20L%C3%A9sions%20pr%C3%A9-n%C3%A9oplasiques%20cbok/p13_00.jpeg)
 
 ### Critères diagnostiques
 
@@ -92,8 +92,8 @@ Les **dysplasies** des VADS appartiennent au spectre des atypies **architectural
 - **Kératisation unicellulaire**
 - Globes cornés anormaux
 
-![[assets/ORL/VADS/carcinome_epidermoide/cours Lésions pré-néoplasiques cbok/p15_00.jpeg]]
-![[assets/ORL/VADS/carcinome_epidermoide/cours Lésions pré-néoplasiques cbok/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/cours%20L%C3%A9sions%20pr%C3%A9-n%C3%A9oplasiques%20cbok/p15_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/cours%20L%C3%A9sions%20pr%C3%A9-n%C3%A9oplasiques%20cbok/p16_00.jpeg)
 
 ### Évolution historique des classifications
 
@@ -109,18 +109,18 @@ Les **dysplasies** des VADS appartiennent au spectre des atypies **architectural
 
 ### Dysplasies de bas grade
 
-![[assets/ORL/VADS/carcinome_epidermoide/cours Lésions pré-néoplasiques cbok/p17_00.jpeg]]
-![[assets/ORL/VADS/carcinome_epidermoide/cours Lésions pré-néoplasiques cbok/p18_00.jpeg]]
-![[assets/ORL/VADS/carcinome_epidermoide/cours Lésions pré-néoplasiques cbok/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/cours%20L%C3%A9sions%20pr%C3%A9-n%C3%A9oplasiques%20cbok/p17_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/cours%20L%C3%A9sions%20pr%C3%A9-n%C3%A9oplasiques%20cbok/p18_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/cours%20L%C3%A9sions%20pr%C3%A9-n%C3%A9oplasiques%20cbok/p19_00.jpeg)
 
 Atypies cytonucléaires confinées au **tiers à la moitié inférieure** de l'épithélium ; stratification préservée.
 
 ### Dysplasies de haut grade / CIS
 
-![[assets/ORL/VADS/carcinome_epidermoide/cours Lésions pré-néoplasiques cbok/p20_00.jpeg]]
-![[assets/ORL/VADS/carcinome_epidermoide/cours Lésions pré-néoplasiques cbok/p24_00.jpeg]]
-![[assets/ORL/VADS/carcinome_epidermoide/cours Lésions pré-néoplasiques cbok/p25_00.jpeg]]
-![[assets/ORL/VADS/carcinome_epidermoide/cours Lésions pré-néoplasiques cbok/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/cours%20L%C3%A9sions%20pr%C3%A9-n%C3%A9oplasiques%20cbok/p20_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/cours%20L%C3%A9sions%20pr%C3%A9-n%C3%A9oplasiques%20cbok/p24_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/cours%20L%C3%A9sions%20pr%C3%A9-n%C3%A9oplasiques%20cbok/p25_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/cours%20L%C3%A9sions%20pr%C3%A9-n%C3%A9oplasiques%20cbok/p26_00.jpeg)
 
 Atypies citonucléaires sur **toute la hauteur** ou plus de la moitié, **mitoses ascensionnées**, **dyskératoses**, globes cornés.
 
@@ -143,10 +143,10 @@ Atypies citonucléaires sur **toute la hauteur** ou plus de la moitié, **mitose
 - Certains proposent le système binaire bas grade / haut grade avec cutoff de **4 modifications architecturales** et **5 modifications cytologiques**
 - Validations en cours
 
-![[assets/ORL/VADS/carcinome_epidermoide/cours Lésions pré-néoplasiques cbok/p27_00.jpeg]]
-![[assets/ORL/VADS/carcinome_epidermoide/cours Lésions pré-néoplasiques cbok/p28_00.jpeg]]
-![[assets/ORL/VADS/carcinome_epidermoide/cours Lésions pré-néoplasiques cbok/p29_00.png]]
-![[assets/ORL/VADS/carcinome_epidermoide/cours Lésions pré-néoplasiques cbok/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/cours%20L%C3%A9sions%20pr%C3%A9-n%C3%A9oplasiques%20cbok/p27_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/cours%20L%C3%A9sions%20pr%C3%A9-n%C3%A9oplasiques%20cbok/p28_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/cours%20L%C3%A9sions%20pr%C3%A9-n%C3%A9oplasiques%20cbok/p29_00.png)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/cours%20L%C3%A9sions%20pr%C3%A9-n%C3%A9oplasiques%20cbok/p30_00.jpeg)
 
 ---
 
@@ -164,7 +164,7 @@ Atypies citonucléaires sur **toute la hauteur** ou plus de la moitié, **mitose
 - Réactivation de la **télomérase**
 - Mutations **TP53**, **NOTCH1**, **FAT1** dès la dysplasie
 
-![[assets/ORL/VADS/carcinome_epidermoide/cours Lésions pré-néoplasiques cbok/p23_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/cours%20L%C3%A9sions%20pr%C3%A9-n%C3%A9oplasiques%20cbok/p23_00.png)
 
 ## Concept de champ de cancérisation (field cancerization)
 
@@ -175,7 +175,7 @@ Atypies citonucléaires sur **toute la hauteur** ou plus de la moitié, **mitose
 - Conséquence : **carcinomes multiples** et **récidives fréquentes**
 - **Particulièrement marqué au niveau de la cavité orale**
 
-![[assets/ORL/VADS/carcinome_epidermoide/cours Lésions pré-néoplasiques cbok/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/cours%20L%C3%A9sions%20pr%C3%A9-n%C3%A9oplasiques%20cbok/p31_00.jpeg)
 
 ---
 
@@ -218,7 +218,7 @@ Atypies citonucléaires sur **toute la hauteur** ou plus de la moitié, **mitose
 - Arrêt tabac + alcool impératif
 - Surveillance prolongée en raison du concept de **champ de cancérisation**
 
-![[assets/ORL/VADS/carcinome_epidermoide/cours Lésions pré-néoplasiques cbok/p21_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/carcinome_epidermoide/cours%20L%C3%A9sions%20pr%C3%A9-n%C3%A9oplasiques%20cbok/p21_00.png)
 
 ---
 

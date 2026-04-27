@@ -45,11 +45,11 @@ Deux entités cliniques :
 - **Amas de cocci Gram +** dans la bulle, mieux mis en évidence par la **coloration de Gram** (bleu, en grappes)
 - IFD **négative**
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244 Dermatoses bulleuses non AI/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244%20Dermatoses%20bulleuses%20non%20AI/p04_00.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244 Dermatoses bulleuses non AI/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244%20Dermatoses%20bulleuses%20non%20AI/p05_00.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244 Dermatoses bulleuses non AI/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244%20Dermatoses%20bulleuses%20non%20AI/p06_00.jpeg)
 
 ## 2. Clivage intra-épidermique profond — dermatoses dyskérato-acantholytiques
 
@@ -76,11 +76,11 @@ Caractères communs :
 - Hyperplasie épidermique modérée + hyperkératose parakératosique
 - **Tzanck possiblement positif** (kératinocytes acantholytiques)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244 Dermatoses bulleuses non AI/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244%20Dermatoses%20bulleuses%20non%20AI/p10_00.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244 Dermatoses bulleuses non AI/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244%20Dermatoses%20bulleuses%20non%20AI/p11_00.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244 Dermatoses bulleuses non AI/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244%20Dermatoses%20bulleuses%20non%20AI/p12_00.jpeg)
 
 ### Maladie de Darier
 
@@ -90,9 +90,9 @@ Caractères communs :
 - Histologie : **acantholyse suprabasale** (moins marquée que Hailey-Hailey) + **corps ronds** (kératinocytes apoptotiques arrondis, halo périnucléaire, granuleuse) + **grains** (kératinocytes allongés, cornée)
 - Hyperplasie épidermique modérée, papillomatose, hyperkératose para-/orthokératosique
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244 Dermatoses bulleuses non AI/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244%20Dermatoses%20bulleuses%20non%20AI/p13_00.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244 Dermatoses bulleuses non AI/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244%20Dermatoses%20bulleuses%20non%20AI/p14_00.jpeg)
 
 > Voir la fiche dédiée [[08_511_Dermatoses dyskérato-acantholytiques]] pour le détail.
 
@@ -109,13 +109,13 @@ Caractères communs :
 
 > ⚠ **EBA peu inflammatoire** peut mimer ces bulles : la confrontation à l'**IFD** est indispensable.
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244 Dermatoses bulleuses non AI/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244%20Dermatoses%20bulleuses%20non%20AI/p17_00.jpeg)
 
 ### Bulose du diabétique
 
 Clivage jonctionnel, infiltrat inflammatoire **absent ou minime**, membrane basale pouvant apparaître **anormale / mal limitée**.
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244 Dermatoses bulleuses non AI/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244%20Dermatoses%20bulleuses%20non%20AI/p18_00.jpeg)
 
 ### Porphyrie cutanée tardive
 
@@ -124,11 +124,11 @@ Clivage jonctionnel, infiltrat inflammatoire **absent ou minime**, membrane basa
 - **Festons** caractéristiques à la base de la bulle
 - **Épaississement hyalin PAS+** des **membranes basales capillaires** dermiques superficielles → signe le plus utile
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244 Dermatoses bulleuses non AI/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244%20Dermatoses%20bulleuses%20non%20AI/p19_00.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244 Dermatoses bulleuses non AI/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244%20Dermatoses%20bulleuses%20non%20AI/p20_00.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244 Dermatoses bulleuses non AI/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244%20Dermatoses%20bulleuses%20non%20AI/p21_00.jpeg)
 
 ### Épidermolyses bulleuses héréditaires (EB)
 
@@ -158,11 +158,11 @@ Clivage jonctionnel, infiltrat inflammatoire **absent ou minime**, membrane basa
 - L'apoptose entraîne une **perte des jonctions** intercellulaires et avec le derme → décollement complet
 - Nécrose ischémique secondaire de l'épiderme décollé
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244 Dermatoses bulleuses non AI/p23_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244%20Dermatoses%20bulleuses%20non%20AI/p23_02.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244 Dermatoses bulleuses non AI/p24_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244%20Dermatoses%20bulleuses%20non%20AI/p24_02.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244 Dermatoses bulleuses non AI/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244%20Dermatoses%20bulleuses%20non%20AI/p25_00.jpeg)
 
 ## 5. Clivage jonctionnel par nécrose ischémique
 
@@ -170,7 +170,7 @@ Clivage jonctionnel, infiltrat inflammatoire **absent ou minime**, membrane basa
 - Aspect typique de **nécrose de coagulation** : structure épidermique préservée mais **noyaux disparus**
 - Bulle jonctionnelle au niveau de la jonction entre peau saine et peau lésée
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244 Dermatoses bulleuses non AI/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244%20Dermatoses%20bulleuses%20non%20AI/p27_00.jpeg)
 
 ## 6. Clivage jonctionnel par œdème ou hémorragie du derme papillaire
 
@@ -189,15 +189,15 @@ Clivage jonctionnel, infiltrat inflammatoire **absent ou minime**, membrane basa
 
 Décollement par **œdème massif** du derme papillaire dilacéré ; infiltrat inflammatoire à PNN refoulé en profondeur.
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242 Dermatoses bulleuses AI de jonction/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242%20Dermatoses%20bulleuses%20AI%20de%20jonction/p29_00.jpeg)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244 Dermatoses bulleuses non AI/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244%20Dermatoses%20bulleuses%20non%20AI/p30_00.jpeg)
 
 ### Bulle hémorragique sur anticoagulants
 
 Dissociation bulleuse du derme superficiel par hémorragie.
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244 Dermatoses bulleuses non AI/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244%20Dermatoses%20bulleuses%20non%20AI/p31_00.jpeg)
 
 ## Diagnostics différentiels — récapitulatif
 

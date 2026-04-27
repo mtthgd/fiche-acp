@@ -53,16 +53,16 @@ Kystes 1-2 cm³, **contenu jaunâtre mucoïde visqueux**, capsule fibreuse.
 - Paroi fibro-hyaline sans revêtement propre
 - Remaniements myxoïdes de paroi
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p06_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p06_01.jpeg)
 
 ### DD — Géode ostéo-articulaire
 Reflux de liquide synovial à travers un défect cartilagineux. **Lésions d'arthrose associées**, localisation **centrale**, souvent multiples. Histologie : fibroblastes + stroma myxoïde, fragments osseux/cartilagineux nécrosés, cartilage métaplasique en périphérie.
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p08_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p08_01.jpeg)
 
 ## 2. Kyste osseux essentiel (KOE)
 
@@ -79,13 +79,13 @@ Tumeur **bénigne intramédullaire, uniloculaire kystique**, cavité bordée d'u
 - Os long : **forme oblongue** selon le grand axe, uniloculaire, fines limites osseuses, corticale amincie
 - **Signe de la coquille d'œuf** (*fallen fragment sign*) : migration de fragment de corticale dans le liquide = **pathognomonique** de fracture d'un KOE
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p09_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p12_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p12_00.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p12_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p12_01.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p12_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p12_05.jpeg)
 
 ### Histologie
 - Cavité bordée par une **mince membrane** conjonctive lâche
@@ -94,22 +94,22 @@ Tumeur **bénigne intramédullaire, uniloculaire kystique**, cavité bordée d'u
 - Quelques éléments inflammatoires
 - **En cas de fracture** : membrane épaissie, cellules géantes ostéoclastiques, hémosidérine → DD **kyste anévrysmal**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p13_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p13_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p14_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p14_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p15_01.jpeg)
 
 ### Évolution / traitement
 - Guérison spontanée entre adolescence et âge adulte
 - Risque principal : **fracture**
 - Traitement : **injections intracystiques de corticoïdes** ; si risque fracturaire (col fémoral) → **curetage-comblement** par greffe / substitut osseux + ostéosynthèse
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p16_00.jpeg)
 
 ## 3. Kyste osseux anévrysmal (KOA) primitif
 
@@ -141,18 +141,18 @@ Tumeur à **malignité intermédiaire, localement agressive**, composée de **ca
 - Envahissement possible des tissus mous avec **coque d'ostéogenèse périostée**
 - **Septas osseux**, **niveaux liquide-liquide** (sédimentation du sang) en IRM T2 hypersignal
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p21_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p21_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p21_02.jpeg)
 
 ### Macroscopie
 Os découpé par des **cavités sanguines**, **septas** osseux épais, matrice fibro-osseuse bleutée calcifiée dans les travées.
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p23_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p23_00.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p23_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p23_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p23_02.jpeg)
 
 ### Histologie
 - **Cavités sanguines sans revêtement propre**, bordées de **cellules géantes plurinucléées**
@@ -161,21 +161,21 @@ Os découpé par des **cavités sanguines**, **septas** osseux épais, matrice f
 - Richement vascularisé
 - **Pas d'atypies cytonucléaires**, pas de mitoses anormales
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p23_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p23_03.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p23_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p23_04.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p23_05.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p23_05.png)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p23_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p23_06.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p24_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p24_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p24_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p24_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p25_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p25_00.png)
 
 ### Pronostic et traitement
 - **Récidives 20-70 %** après curetage simple
@@ -183,9 +183,9 @@ Os découpé par des **cavités sanguines**, **septas** osseux épais, matrice f
 - Rachis / risque fracturaire : **chirurgie ± embolisation préalable**
 - **Dénosumab** : nouvelle option (problèmes : hypercalcémie, effet rebond à l'arrêt)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p25_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p25_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p25_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p25_02.jpeg)
 
 ## 4. DD des autres lésions riches en cellules géantes
 
@@ -197,9 +197,9 @@ Os découpé par des **cavités sanguines**, **septas** osseux épais, matrice f
 | **Tumeur brune de l'hyperparathyroïdie** | Dosage **PTH** |
 | **Fibrome chondromyxoïde** | Réarrangement ***GRM1*** |
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p26_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p26_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p26_01.jpeg)
 
 ## 5. Ostéosarcome télangiectasique — DD MAJEUR du KOA
 
@@ -216,35 +216,35 @@ Ostéosarcome de **haut grade** lytique, **peu ostéogène** (4 % des ostéosarc
 ### Traitement
 Identique à l'ostéosarcome de haut grade conventionnel : **chimiothérapie néo-adjuvante** puis **chirurgie conservatrice** si possible.
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p27_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p28_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p28_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p28_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p28_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p28_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p28_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p28_03.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p31_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p31_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p31_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p32_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p33_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p33_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p33_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p33_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p33_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p33_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p34_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p34_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p34_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p34_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p34_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238 Lésions kystiques de los/p34_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-238%20L%C3%A9sions%20kystiques%20de%20los/p34_03.jpeg)
 
 ---
 

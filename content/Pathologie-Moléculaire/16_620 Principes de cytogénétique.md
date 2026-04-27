@@ -35,7 +35,7 @@ Les anomalies cytogénétiques détectables au laboratoire de cytogénétique / 
 | | Pertes | Monosomie |
 
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-620-principales anomalies chromosomiques-Dr Alexander VALENT/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-620-principales%20anomalies%20chromosomiques-Dr%20Alexander%20VALENT/p03_00.jpeg)
 
 ## Méthodes complémentaires de détection
 
@@ -71,7 +71,7 @@ Deux formes morphologiques visibles sur métaphase :
 > Référence : Albertson DG (2006) sur les mécanismes d’amplification.
 
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-620-principales anomalies chromosomiques-Dr Alexander VALENT/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-620-principales%20anomalies%20chromosomiques-Dr%20Alexander%20VALENT/p09_00.jpeg)
 
 
 ### Exemples d’amplifications géniques
@@ -84,18 +84,18 @@ Deux formes morphologiques visibles sur métaphase :
 | **EGFR** | 7p11 | **Glioblastome** | Théragnostique |
 | **MET** | 7q31 | Adénocarcinome pulmonaire | Théragnostique |
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-620-principales anomalies chromosomiques-Dr Alexander VALENT/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-620-principales%20anomalies%20chromosomiques-Dr%20Alexander%20VALENT/p11_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-620-principales anomalies chromosomiques-Dr Alexander VALENT/p12_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-620-principales%20anomalies%20chromosomiques-Dr%20Alexander%20VALENT/p12_00.png)
 
 ### Amplification homogène vs hétérogène (exemple HER2)
 
 - **Homogène** : toutes les cellules tumorales amplifiées (± co-amplification du centromère 17 = **co-amplification**)
 - **Hétérogène** : cellules amplifiées **isolées** sur fond de cellules non amplifiées — fréquent dans le **cancer du sein** et **gastrique**
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-620-principales anomalies chromosomiques-Dr Alexander VALENT/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-620-principales%20anomalies%20chromosomiques-Dr%20Alexander%20VALENT/p13_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-620-principales anomalies chromosomiques-Dr Alexander VALENT/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-620-principales%20anomalies%20chromosomiques-Dr%20Alexander%20VALENT/p14_00.jpeg)
 
 ---
 
@@ -107,7 +107,7 @@ Augmentation **légère** du nombre de copies (≠ amplification). Mécanismes :
 
 Exemple : 2 centromères + **3 copies** de HER2 sur le même bras long du chromosome 17.
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-620-principales anomalies chromosomiques-Dr Alexander VALENT/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-620-principales%20anomalies%20chromosomiques-Dr%20Alexander%20VALENT/p15_00.jpeg)
 
 ---
 
@@ -124,7 +124,7 @@ Exemple : 2 centromères + **3 copies** de HER2 sur le même bras long du chromo
 | **Création d’un gène chimère** | Adénocarcinome pulmonaire (EML4-**ALK**), carcinome prostatique (TMPRSS2-**ERG**) |
 | **Dérégulation d’un gène existant** par juxtaposition à un promoteur | t(8;14) = MYC sous contrôle promoteur **IGH** dans le lymphome de Burkitt |
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-620-principales anomalies chromosomiques-Dr Alexander VALENT/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-620-principales%20anomalies%20chromosomiques-Dr%20Alexander%20VALENT/p16_00.jpeg)
 
 
 ### Détection FISH des translocations
@@ -138,17 +138,17 @@ Exemple : 2 centromères + **3 copies** de HER2 sur le même bras long du chromo
 - **Sonde de fusion** : t(8;14) MYC-IGH dans le lymphome de Burkitt
 - **Sonde break-apart** : **PAX8** dans carcinome folliculaire de la thyroïde ; **JAZF1** dans sarcome stromal endométrial de bas grade
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-620-principales anomalies chromosomiques-Dr Alexander VALENT/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-620-principales%20anomalies%20chromosomiques-Dr%20Alexander%20VALENT/p19_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-620-principales anomalies chromosomiques-Dr Alexander VALENT/p20_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-620-principales%20anomalies%20chromosomiques-Dr%20Alexander%20VALENT/p20_00.png)
 
 
 ### Cas particulier : translocation suivie d’amplification
 Exemple : t(17;22) **COL1A1-PDGFB** du **dermatofibrosarcome de Darier-Ferrand** suivie d’amplification de l’un des chromosomes marqueurs.
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-620-principales anomalies chromosomiques-Dr Alexander VALENT/p22_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-620-principales%20anomalies%20chromosomiques-Dr%20Alexander%20VALENT/p22_00.png)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-620-principales anomalies chromosomiques-Dr Alexander VALENT/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-620-principales%20anomalies%20chromosomiques-Dr%20Alexander%20VALENT/p23_00.jpeg)
 
 ---
 
@@ -165,10 +165,10 @@ L’inversion peut s’accompagner de :
 - Perte de la partie 5’ (signal vert)
 - Duplication / triplication de la partie 3’ (signal rouge)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-620-principales anomalies chromosomiques-Dr Alexander VALENT/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-620-principales%20anomalies%20chromosomiques-Dr%20Alexander%20VALENT/p25_00.jpeg)
 
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-620-principales anomalies chromosomiques-Dr Alexander VALENT/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-620-principales%20anomalies%20chromosomiques-Dr%20Alexander%20VALENT/p27_00.jpeg)
 
 ---
 
@@ -179,9 +179,9 @@ L’inversion peut s’accompagner de :
 | **Interstitielle** | Au milieu d’un bras | Délétion **CCND1** (rare, gène habituellement amplifié) — 2 spots verts CEP, 1 spot rouge CCND1 |
 | **Terminale** | Extrémité d’un bras | **Délétion 1p36** dans **neuroblastome** avancé |
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-620-principales anomalies chromosomiques-Dr Alexander VALENT/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-620-principales%20anomalies%20chromosomiques-Dr%20Alexander%20VALENT/p29_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-620-principales anomalies chromosomiques-Dr Alexander VALENT/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-620-principales%20anomalies%20chromosomiques-Dr%20Alexander%20VALENT/p30_00.jpeg)
 
 ---
 
@@ -201,10 +201,10 @@ L’inversion peut s’accompagner de :
 
 > La monosomie peut être isolée ou associée à un gain ou à une amplification de **HER2**.
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-620-principales anomalies chromosomiques-Dr Alexander VALENT/p32_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-620-principales%20anomalies%20chromosomiques-Dr%20Alexander%20VALENT/p32_00.jpeg)
 
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-620-principales anomalies chromosomiques-Dr Alexander VALENT/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-620-principales%20anomalies%20chromosomiques-Dr%20Alexander%20VALENT/p35_00.jpeg)
 
 
 ---
@@ -219,15 +219,15 @@ L’inversion peut s’accompagner de :
    - **FGFR** : amplification (sein) ou translocation (hémopathies)
    - **ALK** : amplification (neuroblastome) ou translocation (adénoK pulmonaire, lymphome anaplasique)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-620-principales anomalies chromosomiques-Dr Alexander VALENT/p38_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-620-principales%20anomalies%20chromosomiques-Dr%20Alexander%20VALENT/p38_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-620-principales anomalies chromosomiques-Dr Alexander VALENT/p40_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-620-principales%20anomalies%20chromosomiques-Dr%20Alexander%20VALENT/p40_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-620-principales anomalies chromosomiques-Dr Alexander VALENT/p41_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-620-principales%20anomalies%20chromosomiques-Dr%20Alexander%20VALENT/p41_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-620-principales anomalies chromosomiques-Dr Alexander VALENT/p43_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-620-principales%20anomalies%20chromosomiques-Dr%20Alexander%20VALENT/p43_00.png)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-620-principales anomalies chromosomiques-Dr Alexander VALENT/p44_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-620-principales%20anomalies%20chromosomiques-Dr%20Alexander%20VALENT/p44_00.png)
 
 ---
 
@@ -236,9 +236,9 @@ L’inversion peut s’accompagner de :
 - **CGH-array** : profil quantitatif pangénomique (ex. amplification HER2 ; profil pronostique du neuroblastome — gains/pertes segmentaires = mauvais pronostic, gains de chromosomes entiers = bon pronostic)
 - **NGS** : profil génomique + mutations + LOH simultanément
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-620-principales anomalies chromosomiques-Dr Alexander VALENT/p45_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-620-principales%20anomalies%20chromosomiques-Dr%20Alexander%20VALENT/p45_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-620-principales anomalies chromosomiques-Dr Alexander VALENT/p47_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-620-principales%20anomalies%20chromosomiques-Dr%20Alexander%20VALENT/p47_00.png)
 
 ---
 

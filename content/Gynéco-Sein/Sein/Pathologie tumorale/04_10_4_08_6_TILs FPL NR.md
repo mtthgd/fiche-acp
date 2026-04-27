@@ -52,7 +52,7 @@ Les **TILs (Tumour-Infiltrating Lymphocytes)** = **biomarqueur pronostique et th
 
 > Signification : tumeurs très **immunogènes** = beaucoup d'antigènes tumoraux → activation du système immunitaire.
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_6  TILs FPL NR/p01_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_6%20%20TILs%20FPL%20NR/p01_00.jpeg)
 
 ## Théorie des 3 phases (immuno-éditing)
 
@@ -72,7 +72,7 @@ L'organisation spatiale informe sur l'**immunité antitumorale** (de bonne à ma
 | **Exclusion immunitaire** | Lymphocytes **en périphérie** mais pas dans la tumeur | Faire « rentrer » les lymphocytes au contact |
 | **Désert immunitaire** | Quasi pas de lymphocytes (ex : carcinomes mucineux) | Tumeur **non immunogène** ; il faut d'abord la rendre immunogène |
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_6  TILs FPL NR/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_6%20%20TILs%20FPL%20NR/p03_00.jpeg)
 
 ## Évaluation quantitative (recommandations International TILs Working Group)
 
@@ -94,7 +94,7 @@ L'organisation spatiale informe sur l'**immunité antitumorale** (de bonne à ma
 | Exclure | **zones nécrotiques** (riches en polynucléaires) |
 | Apprécier | **moyenne** sur le stroma (PAS sur hot spots) |
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_6  TILs FPL NR/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_6%20%20TILs%20FPL%20NR/p04_00.jpeg)
 
 ### Démarche en 2 étapes
 
@@ -110,11 +110,11 @@ L'organisation spatiale informe sur l'**immunité antitumorale** (de bonne à ma
 
 > Même à 90-100 % de TILs, les lymphocytes ne forment **JAMAIS un agrégat compact** : il reste de l'espace entre les lymphocytes pris individuellement.
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_6  TILs FPL NR/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_6%20%20TILs%20FPL%20NR/p06_00.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_6  TILs FPL NR/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_6%20%20TILs%20FPL%20NR/p10_00.jpeg)
 
-![[assets/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_6  TILs FPL NR/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/sein/pathologie_tumorale/04_10_4_08_6%20%20TILs%20FPL%20NR/p11_00.jpeg)
 
 ## Valeur pronostique
 

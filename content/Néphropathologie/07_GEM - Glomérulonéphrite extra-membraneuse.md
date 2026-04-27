@@ -49,7 +49,7 @@ source: DES ACP - Cours de néphropathologie
 | **THSD7A** | Minoritaire | IHC sur biopsie + Ac sériques |
 
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/218-14 GEM/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/218-14%20GEM/p23_01.jpeg)
 
 ### GEM secondaires — étiologies
 
@@ -85,9 +85,9 @@ Trois stades en fonction de l'abondance des dépôts et des remaniements de la M
 
 
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/218-14 GEM/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/218-14%20GEM/p13_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/218-14 GEM/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/218-14%20GEM/p13_01.jpeg)
 
 ### Stade III
 
@@ -95,10 +95,10 @@ Trois stades en fonction de l'abondance des dépôts et des remaniements de la M
 - Argentique : **chaînettes / rails** caractéristiques
 
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/218-14 GEM/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/218-14%20GEM/p15_01.jpeg)
 
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/218-14 GEM/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/218-14%20GEM/p17_01.jpeg)
 
 ## Immunofluorescence (IF)
 
@@ -111,12 +111,12 @@ Trois stades en fonction de l'abondance des dépôts et des remaniements de la M
 | **C3** | Co-dépôts dans **50-80 %** des cas |
 | Mésangium | **Négatif** dans la GEM primitive |
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/218-14 GEM/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/218-14%20GEM/p18_00.jpeg)
 
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/218-14 GEM/p18_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/218-14%20GEM/p18_02.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/218-14 GEM/p18_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/218-14%20GEM/p18_03.jpeg)
 
 ## Microscopie électronique (ME)
 
@@ -134,13 +134,13 @@ Trois stades en fonction de l'abondance des dépôts et des remaniements de la M
 | Présence de dépôts d'autres immunoglobulines (IgA, IgM) intenses | Évoque lupus (full house) |
 
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/218-14 GEM/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/218-14%20GEM/p21_01.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/218-14 GEM/p21_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/218-14%20GEM/p21_02.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/218-14 GEM/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/218-14%20GEM/p24_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/218-14 GEM/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/218-14%20GEM/p24_01.jpeg)
 
 
 ## Diagnostics différentiels

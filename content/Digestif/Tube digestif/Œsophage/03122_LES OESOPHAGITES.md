@@ -63,9 +63,9 @@ Lésions du **tiers inférieur** : muqueuse œdémateuse, congestive, ragades, �
 | Congestion vasculaire | Capillaires distendus dans les papilles |
 | Infiltrat | Lymphocytes, **PNN, éosinophiles** (mais < 15 PNE/HPF) |
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.2 Les oesophagites/p06_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.2%20Les%20oesophagites/p06_02.jpeg)
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.2 Les oesophagites/p07_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.2%20Les%20oesophagites/p07_04.jpeg)
 
 ### Recommandations biopsiques
 - **2 biopsies à 2 cm de la jonction œso-gastrique** + 2 à la ligne Z
@@ -92,7 +92,7 @@ Lésions du **tiers inférieur** : muqueuse œdémateuse, congestive, ragades, �
 - Sténoses possibles
 - **Endoscopie normale dans 20 %** des cas → biopsies systématiques
 
-![[assets/digestif/pancreas/tumorale/03.3.3.2 Pathologie moléculaire de ladénocarcinome du pancréas/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.2%20Pathologie%20mol%C3%A9culaire%20de%20lad%C3%A9nocarcinome%20du%20pancr%C3%A9as/p11_00.jpeg)
 
 ### Histologie
 - **Atteinte hétérogène** sur toute la hauteur (souvent prédominante en cervical)
@@ -104,7 +104,7 @@ Lésions du **tiers inférieur** : muqueuse œdémateuse, congestive, ragades, �
 ### Critère diagnostique clé
 **≥ 15 PNE/HPF (au champ au fort grossissement)**
 
-![[assets/digestif/pancreas/tumorale/03.3.3.2 Pathologie moléculaire de ladénocarcinome du pancréas/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.2%20Pathologie%20mol%C3%A9culaire%20de%20lad%C3%A9nocarcinome%20du%20pancr%C3%A9as/p12_01.jpeg)
 
 
 ### Pathogénie / traitement
@@ -152,9 +152,9 @@ Lésions du **tiers inférieur** : muqueuse œdémateuse, congestive, ragades, �
 - **Filaments mycéliens** ± sporulés, pseudo-hyphes, septa incomplets
 - Disposition **perpendiculaire** aux cellules malpighiennes
 
-![[assets/digestif/pancreas/tumorale/03.3.3.4 Adénocarcinome pancréatique et ses variants/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.4%20Ad%C3%A9nocarcinome%20pancr%C3%A9atique%20et%20ses%20variants/p15_00.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p15_01.jpeg)
 
 #### Traitement
 **Fluconazole** ; **amphotéricine B** chez l'immunodéprimé.
@@ -191,9 +191,9 @@ Odynophagie, dysphagie, brûlures rétrosternales.
 #### Traitement
 **Aciclovir / valaciclovir**.
 
-![[assets/digestif/tube_digestif/oesophage/03.1.2.2 Les oesophagites/p17_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/oesophage/03.1.2.2%20Les%20oesophagites/p17_02.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p18_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p18_01.png)
 
 ### Œsophagite à CMV
 
@@ -216,9 +216,9 @@ Odynophagie, dysphagie, brûlures rétrosternales.
 #### Traitement
 **Ganciclovir**.
 
-![[assets/digestif/pancreas/tumorale/03.3.3.12 Pathologie tumorale et pseudo-tumorale de lampoule de Vater/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.12%20Pathologie%20tumorale%20et%20pseudo-tumorale%20de%20lampoule%20de%20Vater/p19_00.jpeg)
 
-![[assets/digestif/pancreas/tumorale/03.3.3.6 Lésions et tumeurs kystiques du pancréas/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/tumorale/03.3.3.6%20L%C3%A9sions%20et%20tumeurs%20kystiques%20du%20pancr%C3%A9as/p19_01.jpeg)
 
 ### Œsophagite tuberculeuse
 

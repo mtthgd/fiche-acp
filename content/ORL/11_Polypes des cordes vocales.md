@@ -67,7 +67,7 @@ Les lésions présentent un **continuum de modifications histologiques** — pou
 - Stroma : **myxoïde**, **hyalin** ou **fibreux**
 - Épithélium en regard : normal, atrophique, ou **hyperplasique**
 
-![[assets/ORL/VADS/pathologie_non_tumorale/10.215 Polypes de cordes vocales/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/ORL/VADS/pathologie_non_tumorale/10.215%20Polypes%20de%20cordes%20vocales/p07_01.jpeg)
 
 ### Exemples de lésions
 

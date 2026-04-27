@@ -29,13 +29,13 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Ostéocytes** : ostéoblastes englobés, contrôle du remodelage
 - Explorations : biopsie osseuse transiliaque **non décalcifiée** + double marquage **tétracyclines** (vitesse de minéralisation)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p04_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p04_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p04_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p04_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p04_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p04_03.jpeg)
 
 ---
 
@@ -64,13 +64,13 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Minéralisation et ostéoïde **normaux** (≠ ostéomalacie)
 - Pas d'anomalie cellulaire spécifique
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p05_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p06_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p06_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p06_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p06_02.jpeg)
 
 ---
 
@@ -98,19 +98,19 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - Travées d'architecture conservée
 - **Volume ostéoïde > 10 %** / surface ostéoïde étendue
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p09_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p09_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p09_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p10_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p10_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p10_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p10_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p10_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p10_03.jpeg)
 
 ---
 
@@ -133,17 +133,17 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Fibrose médullaire** péri-trabéculaire (ostéite fibreuse de von Recklinghausen)
 - **Tumeurs brunes** : lésions pseudo-tumorales avec cellules géantes multinucléées, fibrose, hémorragie, hémosidérine → DD avec TCG
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p11_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p11_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p12_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p13_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p13_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p13_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p13_02.jpeg)
 
 ---
 
@@ -173,35 +173,35 @@ source: DES ACP - Cours d'appareil locomoteur et tissus mous
 - **Trame osseuse désorganisée** (lignes basophiles entrecroisées)
 - Espaces médullaires fibreux et hypervascularisés
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p16_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p16_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p16_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p16_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p16_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p16_03.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p17_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p17_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p17_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p17_02.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p18_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p19_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p19_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p19_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p19_02.jpeg)
 
 ### Traitement
 
 - **Bisphosphonates** (zolédronate +++) — inhibiteurs ostéoclastiques
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p21_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216 Maladies métaboliques de los (ostéoporose, ostéomalacie, hyperparathyroïdisme) - Maladie de Paget/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_non_tumorale/09-216%20Maladies%20m%C3%A9taboliques%20de%20los%20%28ost%C3%A9oporose%2C%20ost%C3%A9omalacie%2C%20hyperparathyro%C3%AFdisme%29%20-%20Maladie%20de%20Paget/p22_00.jpeg)
 
 ---
 

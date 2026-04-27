@@ -39,7 +39,7 @@ source: DES ACP - Cours de digestif
 - Côlon gauche + rectum
 - Muqueuse granitée, fragile, érosions / ulcérations alternant avec muqueuse résiduelle
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.4 Les maladies inflammatoires chroniques intestinales (MICI)/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.4%20Les%20maladies%20inflammatoires%20chroniques%20intestinales%20%28MICI%29/p06_00.jpeg)
 
 ### Crohn
 - Atteinte **transmurale, segmentaire**
@@ -48,7 +48,7 @@ source: DES ACP - Cours de digestif
 - Épaississement pariétal (fibrose)
 - Sténoses, fistules
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.4 Les maladies inflammatoires chroniques intestinales (MICI)/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.4%20Les%20maladies%20inflammatoires%20chroniques%20intestinales%20%28MICI%29/p07_01.jpeg)
 
 ## Histologie
 
@@ -62,9 +62,9 @@ source: DES ACP - Cours de digestif
 - Cryptite, abcès cryptiques
 - **PAS de granulome** (sauf micro-granulome au contact d'une crypte rompue)
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.4 Les maladies inflammatoires chroniques intestinales (MICI)/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.4%20Les%20maladies%20inflammatoires%20chroniques%20intestinales%20%28MICI%29/p10_01.jpeg)
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.4 Les maladies inflammatoires chroniques intestinales (MICI)/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.4%20Les%20maladies%20inflammatoires%20chroniques%20intestinales%20%28MICI%29/p11_00.jpeg)
 
 ### Maladie de Crohn
 
@@ -77,7 +77,7 @@ source: DES ACP - Cours de digestif
 - **Ulcérations fissuraires aphtoïdes** profondes
 - **Granulomes épithélioïdes** (≥ 5 cellules épithélioïdes ± cellule géante) → **caractéristique** mais présente seulement dans **30-60 %** des biopsies
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.4 Les maladies inflammatoires chroniques intestinales (MICI)/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.4%20Les%20maladies%20inflammatoires%20chroniques%20intestinales%20%28MICI%29/p12_02.jpeg)
 
 
 ## Rôle du pathologiste — Diagnostic
@@ -128,7 +128,7 @@ source: DES ACP - Cours de digestif
 | **3** | Inflammation aiguë modérée/sévère sans ulcération |
 | **4** | **Muqueuse ulcérée** = sévère |
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.4 Les maladies inflammatoires chroniques intestinales (MICI)/p18_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.4%20Les%20maladies%20inflammatoires%20chroniques%20intestinales%20%28MICI%29/p18_00.png)
 
 > **Cicatrisation histologique** = muqueuse normale, résolution architecturale et de l'infiltrat → bon facteur pronostique.
 
@@ -138,7 +138,7 @@ source: DES ACP - Cours de digestif
 - IHC anti-CMV sur tissu de granulation
 - Analyse semi-quantitative (nombre de cellules ou de biopsies positives)
 
-![[assets/digestif/tube_digestif/colon-rectum/03.1.6.4 Les maladies inflammatoires chroniques intestinales (MICI)/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/colon-rectum/03.1.6.4%20Les%20maladies%20inflammatoires%20chroniques%20intestinales%20%28MICI%29/p22_01.jpeg)
 
 ### Pochite
 

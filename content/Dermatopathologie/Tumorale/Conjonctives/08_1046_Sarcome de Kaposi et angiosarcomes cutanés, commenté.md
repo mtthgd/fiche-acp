@@ -42,8 +42,8 @@ Deux entités principales :
 - Vaisseaux **ramifiés** bordés de cellules épithélioïdes en **clous de tapissier**
 - Aspect rappelant le **rete testis** (organes génitaux externes masculins)
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243 DBAI intra-épidermiques/p03_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1046 Sarcome de Kaposi et angiosarcomes cutanés/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243%20DBAI%20intra-%C3%A9pidermiques/p03_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1046%20Sarcome%20de%20Kaposi%20et%20angiosarcomes%20cutan%C3%A9s/p04_00.jpeg)
 
 ## ANGIOSARCOMES cutanés — 4 formes anatomocliniques
 
@@ -70,10 +70,10 @@ Deux entités principales :
 - **FLI1 +** nucléaire (variante US)
 - CD34 + variable
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1046 Sarcome de Kaposi et angiosarcomes cutanés/p07_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1046 Sarcome de Kaposi et angiosarcomes cutanés/p08_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1046 Sarcome de Kaposi et angiosarcomes cutanés/p09_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1046 Sarcome de Kaposi et angiosarcomes cutanés/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1046%20Sarcome%20de%20Kaposi%20et%20angiosarcomes%20cutan%C3%A9s/p07_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1046%20Sarcome%20de%20Kaposi%20et%20angiosarcomes%20cutan%C3%A9s/p08_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1046%20Sarcome%20de%20Kaposi%20et%20angiosarcomes%20cutan%C3%A9s/p09_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1046%20Sarcome%20de%20Kaposi%20et%20angiosarcomes%20cutan%C3%A9s/p10_00.jpeg)
 
 ### Forme épithélioïde (Wilson-Jones)
 
@@ -84,9 +84,9 @@ Deux entités principales :
 - **Cocktail piège : expression de cytokératines** (au niveau de l'épiderme parfois) → DD avec **carcinome**
 - **CD31, ERG, FLI1** redressent le diagnostic
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p11_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1046 Sarcome de Kaposi et angiosarcomes cutanés/p12_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1046 Sarcome de Kaposi et angiosarcomes cutanés/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p11_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1046%20Sarcome%20de%20Kaposi%20et%20angiosarcomes%20cutan%C3%A9s/p12_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1046%20Sarcome%20de%20Kaposi%20et%20angiosarcomes%20cutan%C3%A9s/p14_00.jpeg)
 
 ### Formes secondaires (post-radique / lymphœdème — Stewart-Treves)
 
@@ -99,8 +99,8 @@ Deux entités principales :
 - **MYC −** → lésion vasculaire atypique
 - ATTENTION : sensibilité non totale → MYC − n'élimine pas l'angiosarcome
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1046 Sarcome de Kaposi et angiosarcomes cutanés/p18_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1046 Sarcome de Kaposi et angiosarcomes cutanés/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1046%20Sarcome%20de%20Kaposi%20et%20angiosarcomes%20cutan%C3%A9s/p18_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1046%20Sarcome%20de%20Kaposi%20et%20angiosarcomes%20cutan%C3%A9s/p19_00.jpeg)
 
 ### Diagnostic différentiel des angiosarcomes cutanés
 
@@ -117,7 +117,7 @@ Deux entités principales :
 
 > Au moindre doute en contexte d'**immunodépression** ou d'origine **africaine** : faire **HHV8** systématiquement.
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1046 Sarcome de Kaposi et angiosarcomes cutanés/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1046%20Sarcome%20de%20Kaposi%20et%20angiosarcomes%20cutan%C3%A9s/p15_00.jpeg)
 
 ### Piège : interprétation du CD31
 
@@ -156,11 +156,11 @@ Deux entités principales :
 - Hémosidérine présente
 - **Pas de thrombose**
 
-![[assets/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1046 Sarcome de Kaposi et angiosarcomes cutanés/p23_00.jpeg]]
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p25_00.jpeg]]
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242 Dermatoses bulleuses AI de jonction/p26_00.jpeg]]
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p27_00.jpeg]]
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242 Dermatoses bulleuses AI de jonction/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-conjonctives-cutanees/08-1046%20Sarcome%20de%20Kaposi%20et%20angiosarcomes%20cutan%C3%A9s/p23_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p25_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242%20Dermatoses%20bulleuses%20AI%20de%20jonction/p26_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-psoriasiformes/08-232-Psoriasis/p27_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242%20Dermatoses%20bulleuses%20AI%20de%20jonction/p28_00.jpeg)
 
 #### Stade tumoral
 - Prolifération cellulaire dense de **cellules fusiformes** peu atypiques
@@ -169,8 +169,8 @@ Deux entités principales :
 - Aspects débutants en périphérie (utile au diagnostic)
 - Différenciation vasculaire parfois difficile à identifier dans les zones les plus denses
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242 Dermatoses bulleuses AI de jonction/p29_00.jpeg]]
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244 Dermatoses bulleuses non AI/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-242%20Dermatoses%20bulleuses%20AI%20de%20jonction/p29_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-244%20Dermatoses%20bulleuses%20non%20AI/p30_00.jpeg)
 
 ### Immunohistochimie
 
@@ -184,9 +184,9 @@ Deux entités principales :
 
 > **HHV8/LANA-1 = standard absolu** pour le diagnostic, dans les 4 formes cliniques.
 
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243 DBAI intra-épidermiques/p32_00.jpeg]]
-![[assets/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243 DBAI intra-épidermiques/p33_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1021 Tumeur épidermiques et de longle bénignes/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243%20DBAI%20intra-%C3%A9pidermiques/p32_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/dermatoses-inflammatoire-epiderme/dermatoses-bulleuses/08-243%20DBAI%20intra-%C3%A9pidermiques/p33_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1021%20Tumeur%20%C3%A9pidermiques%20et%20de%20longle%20b%C3%A9nignes/p35_00.jpeg)
 
 ### Diagnostics différentiels selon le stade
 
@@ -206,9 +206,9 @@ Deux entités principales :
 | **Angiosarcome cutané primitif** | HHV8 −, atypies marquées |
 | Métastase d'angiosarcome profond | HHV8 − |
 
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1021 Tumeur épidermiques et de longle bénignes/p36_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1021 Tumeur épidermiques et de longle bénignes/p37_00.jpeg]]
-![[assets/dermato/tumorale/tumeurs-epitheliales/08-1021 Tumeur épidermiques et de longle bénignes/p38_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1021%20Tumeur%20%C3%A9pidermiques%20et%20de%20longle%20b%C3%A9nignes/p36_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1021%20Tumeur%20%C3%A9pidermiques%20et%20de%20longle%20b%C3%A9nignes/p37_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/tumorale/tumeurs-epitheliales/08-1021%20Tumeur%20%C3%A9pidermiques%20et%20de%20longle%20b%C3%A9nignes/p38_00.jpeg)
 
 ## Tableau de synthèse — Kaposi vs Angiosarcome
 

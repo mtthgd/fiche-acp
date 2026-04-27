@@ -66,9 +66,9 @@ source: DES ACP - Cours d'urologie
 > Rendu tabulaire → **données requêtables** (compatible avec systèmes d'information).
 
 
-![[assets/urologie/prostate/05-315-Compte rendus en pathologie prostatique/p11_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-315-Compte%20rendus%20en%20pathologie%20prostatique/p11_00.png)
 
-![[assets/urologie/prostate/05-315-Compte rendus en pathologie prostatique/p12_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-315-Compte%20rendus%20en%20pathologie%20prostatique/p12_00.png)
 
 ---
 
@@ -103,11 +103,11 @@ source: DES ACP - Cours d'urologie
 - **Grade de Gleason au contact** de la marge (significatif si grade élevé)
 
 
-![[assets/urologie/prostate/05-315-Compte rendus en pathologie prostatique/p20_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-315-Compte%20rendus%20en%20pathologie%20prostatique/p20_00.png)
 
-![[assets/urologie/prostate/05-315-Compte rendus en pathologie prostatique/p21_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-315-Compte%20rendus%20en%20pathologie%20prostatique/p21_00.png)
 
-![[assets/urologie/prostate/05-315-Compte rendus en pathologie prostatique/p22_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-315-Compte%20rendus%20en%20pathologie%20prostatique/p22_00.png)
 
 ## Exemple de conclusion — prostatectomie radicale
 

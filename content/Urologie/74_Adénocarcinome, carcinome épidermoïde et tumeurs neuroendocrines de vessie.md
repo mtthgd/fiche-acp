@@ -28,7 +28,7 @@ source: DES ACP - Cours d'urologie
 
 Tumeurs non-urothéliales de la vessie (formes **pures**) — **rares** (< 3 % chacune), à différencier des **différenciations divergentes** sur carcinomes urothéliaux composites (20 %).
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-241-Adenocarcinome Carcinome épidermoïde et Tumeurs neuro endocrines de vessie/p01_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-241-Adenocarcinome%20Carcinome%20%C3%A9pidermo%C3%AFde%20et%20Tumeurs%20neuro%20endocrines%20de%20vessie/p01_00.png)
 
 ---
 
@@ -54,11 +54,11 @@ Tumeurs non-urothéliales de la vessie (formes **pures**) — **rares** (< 3 % c
 
 Symptomatologie commune : **hématurie, dysurie, mucosurie**.
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-241-Adenocarcinome Carcinome épidermoïde et Tumeurs neuro endocrines de vessie/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-241-Adenocarcinome%20Carcinome%20%C3%A9pidermo%C3%AFde%20et%20Tumeurs%20neuro%20endocrines%20de%20vessie/p02_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-241-Adenocarcinome Carcinome épidermoïde et Tumeurs neuro endocrines de vessie/p03_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-241-Adenocarcinome%20Carcinome%20%C3%A9pidermo%C3%AFde%20et%20Tumeurs%20neuro%20endocrines%20de%20vessie/p03_00.png)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-241-Adenocarcinome Carcinome épidermoïde et Tumeurs neuro endocrines de vessie/p04_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-241-Adenocarcinome%20Carcinome%20%C3%A9pidermo%C3%AFde%20et%20Tumeurs%20neuro%20endocrines%20de%20vessie/p04_00.png)
 
 ## Types histologiques (OMS 2016)
 
@@ -72,9 +72,9 @@ Symptomatologie commune : **hématurie, dysurie, mucosurie**.
 Consistance : **gélatineuse / mucoïde** quelle que soit l'origine.
 
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-241-Adenocarcinome Carcinome épidermoïde et Tumeurs neuro endocrines de vessie/p06_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-241-Adenocarcinome%20Carcinome%20%C3%A9pidermo%C3%AFde%20et%20Tumeurs%20neuro%20endocrines%20de%20vessie/p06_00.png)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-241-Adenocarcinome Carcinome épidermoïde et Tumeurs neuro endocrines de vessie/p07_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-241-Adenocarcinome%20Carcinome%20%C3%A9pidermo%C3%AFde%20et%20Tumeurs%20neuro%20endocrines%20de%20vessie/p07_00.png)
 
 ## Phénotype IHC
 
@@ -87,9 +87,9 @@ Consistance : **gélatineuse / mucoïde** quelle que soit l'origine.
 | **Villine** | − | **+** (mais non spécifique, + gastrique) |
 | **β-caténine** | Membranaire/cytoplasmique | **Membranaire/cytoplasmique** (≠ ADK digestif) |
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-241-Adenocarcinome Carcinome épidermoïde et Tumeurs neuro endocrines de vessie/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-241-Adenocarcinome%20Carcinome%20%C3%A9pidermo%C3%AFde%20et%20Tumeurs%20neuro%20endocrines%20de%20vessie/p08_00.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-241-Adenocarcinome Carcinome épidermoïde et Tumeurs neuro endocrines de vessie/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-241-Adenocarcinome%20Carcinome%20%C3%A9pidermo%C3%AFde%20et%20Tumeurs%20neuro%20endocrines%20de%20vessie/p08_01.jpeg)
 
 
 ## Diagnostics différentiels
@@ -105,9 +105,9 @@ Consistance : **gélatineuse / mucoïde** quelle que soit l'origine.
 - **Adénocarcinome in situ**
 - **Métaplasie intestinale** (non consensuel comme précurseur)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-241-Adenocarcinome Carcinome épidermoïde et Tumeurs neuro endocrines de vessie/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-241-Adenocarcinome%20Carcinome%20%C3%A9pidermo%C3%AFde%20et%20Tumeurs%20neuro%20endocrines%20de%20vessie/p09_02.jpeg)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-241-Adenocarcinome Carcinome épidermoïde et Tumeurs neuro endocrines de vessie/p09_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-241-Adenocarcinome%20Carcinome%20%C3%A9pidermo%C3%AFde%20et%20Tumeurs%20neuro%20endocrines%20de%20vessie/p09_03.jpeg)
 
 ### DD avec métastases / extensions (très important)
 | Origine | Fréquence extension vessie |
@@ -180,9 +180,9 @@ Consistance : **gélatineuse / mucoïde** quelle que soit l'origine.
 Associations : **œufs calcifiés de schistosomes**, **métaplasie malpighienne** (15-60 %), **inflexion sarcomatoïde**.
 
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-241-Adenocarcinome Carcinome épidermoïde et Tumeurs neuro endocrines de vessie/p16_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-241-Adenocarcinome%20Carcinome%20%C3%A9pidermo%C3%AFde%20et%20Tumeurs%20neuro%20endocrines%20de%20vessie/p16_00.png)
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-241-Adenocarcinome Carcinome épidermoïde et Tumeurs neuro endocrines de vessie/p17_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-241-Adenocarcinome%20Carcinome%20%C3%A9pidermo%C3%AFde%20et%20Tumeurs%20neuro%20endocrines%20de%20vessie/p17_00.png)
 
 ## Profil génétique
 
@@ -254,7 +254,7 @@ Très **agressif**, **métastatique d'emblée** fréquent (voies lymphatique et 
 - Extension d'une TNE digestive
 - Extension d'un ADK prostatique neuroendocrine
 
-![[assets/urologie/vessie_voies_urinaires_excretrices/05-241-Adenocarcinome Carcinome épidermoïde et Tumeurs neuro endocrines de vessie/p21_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/vessie_voies_urinaires_excretrices/05-241-Adenocarcinome%20Carcinome%20%C3%A9pidermo%C3%AFde%20et%20Tumeurs%20neuro%20endocrines%20de%20vessie/p21_00.png)
 
 ---
 

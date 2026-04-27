@@ -48,7 +48,7 @@ Distinction selon le **calibre vasculaire** atteint :
 - **Contre-indication absolue à la PBR** (risque hémorragique majeur)
 - 10 critères de l'ACR (American College of Rheumatology)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14 Vascularites/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14%20Vascularites/p05_01.jpeg)
 
 ---
 
@@ -74,9 +74,9 @@ La classification dépend en premier lieu de l'**immunofluorescence (IF)** :
 | **Ig polytypiques** (full house) | **Lupus**, polyarthrite rhumatoïde |
 | **Ig monotypiques** | Hémopathies (gammapathies monoclonales) |
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14 Vascularites/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14%20Vascularites/p06_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14 Vascularites/p06_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14%20Vascularites/p06_04.jpeg)
 
 ---
 
@@ -96,13 +96,13 @@ La classification dépend en premier lieu de l'**immunofluorescence (IF)** :
 - Évolution : **rupture des capillaires + rupture de la capsule de Bowman** → **obsolescence complète** du glomérule à la phase cicatricielle
 - **Inflammation périglomérulaire** majeure fréquente
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14 Vascularites/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14%20Vascularites/p10_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14 Vascularites/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14%20Vascularites/p10_01.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14 Vascularites/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14%20Vascularites/p11_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14 Vascularites/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14%20Vascularites/p12_00.jpeg)
 
 ### Fréquence des croissants selon l'étiologie
 
@@ -127,10 +127,10 @@ La classification dépend en premier lieu de l'**immunofluorescence (IF)** :
 - Aspect de prolifération **endocapillaire ± membranoproliférative globale**
 - **Croissants cellulaires actifs** fréquents dans les classes III/IV
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14 Vascularites/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14%20Vascularites/p14_00.jpeg)
 
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14 Vascularites/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14%20Vascularites/p14_02.jpeg)
 
 ---
 
@@ -142,13 +142,13 @@ La classification dépend en premier lieu de l'**immunofluorescence (IF)** :
 - **NON pathognomoniques** de la GPA (Wegener)
 - Présence rare et **non spécifique** quelle que soit l'entité (GPA, MPA, vascularite limitée au rein)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14 Vascularites/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14%20Vascularites/p15_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14 Vascularites/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14%20Vascularites/p15_01.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14 Vascularites/p15_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14%20Vascularites/p15_02.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14 Vascularites/p15_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14%20Vascularites/p15_04.jpeg)
 
 ---
 
@@ -188,15 +188,15 @@ Classification **simple et pragmatique**, basée sur la prédominance lésionnel
 - **IF caractéristique** : **dépôts linéaires d'IgG** le long de la MBG (contrairement aux dépôts granuleux des autres GN)
 - ± dépôts de C3 linéaires associés
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14 Vascularites/p17_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14%20Vascularites/p17_02.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14 Vascularites/p17_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14%20Vascularites/p17_03.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14 Vascularites/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14%20Vascularites/p18_00.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14 Vascularites/p18_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14%20Vascularites/p18_01.jpeg)
 
-![[assets/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14 Vascularites/p18_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/nephropathologie/rein-natif/nephropathies-glomerulaires/224-14%20Vascularites/p18_02.jpeg)
 
 ### Spécificité
 

@@ -41,9 +41,9 @@ source: DES ACP - Cours de digestif
 | **Pancréas annulaire** | Anomalie de rotation enserrant le duodénum |
 | **Pancréas divisum** (le plus fréquent) | Absence de fusion des canaux des deux ébauches |
 
-![[assets/digestif/pancreas/generalites/03.3.1.2 Généralités sur la pathologie pancréatique/p03_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/generalites/03.3.1.2%20G%C3%A9n%C3%A9ralit%C3%A9s%20sur%20la%20pathologie%20pancr%C3%A9atique/p03_00.png)
 
-![[assets/digestif/pancreas/generalites/03.3.1.2 Généralités sur la pathologie pancréatique/p04_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/generalites/03.3.1.2%20G%C3%A9n%C3%A9ralit%C3%A9s%20sur%20la%20pathologie%20pancr%C3%A9atique/p04_00.png)
 
 ## Anatomie
 
@@ -60,9 +60,9 @@ source: DES ACP - Cours de digestif
 3. **Corps** : empreinte de la veine splénique en arrière
 4. **Queue**
 
-![[assets/digestif/pancreas/generalites/03.3.1.2 Généralités sur la pathologie pancréatique/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/generalites/03.3.1.2%20G%C3%A9n%C3%A9ralit%C3%A9s%20sur%20la%20pathologie%20pancr%C3%A9atique/p06_00.jpeg)
 
-![[assets/digestif/pancreas/generalites/03.3.1.2 Généralités sur la pathologie pancréatique/p06_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/generalites/03.3.1.2%20G%C3%A9n%C3%A9ralit%C3%A9s%20sur%20la%20pathologie%20pancr%C3%A9atique/p06_03.jpeg)
 
 ### Système canalaire
 - **Canal de Wirsung** (principal) : 2-4 mm de diamètre, naît dans la queue, parcourt le corps puis s'infléchit dans la tête, s'abouche avec le **cholédoque** dans l'**ampoule hépato-pancréatique** (papille majeure)
@@ -92,7 +92,7 @@ Trois contingents cellulaires :
 - ME : **grains de zymogène denses aux électrons**, libérés par exocytose
 
 
-![[assets/digestif/pancreas/generalites/03.3.1.2 Généralités sur la pathologie pancréatique/p11_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/generalites/03.3.1.2%20G%C3%A9n%C3%A9ralit%C3%A9s%20sur%20la%20pathologie%20pancr%C3%A9atique/p11_00.png)
 
 ### Cellules canalaires
 - Bordent les canaux **intralobulaires → interlobulaires → collecteurs**
@@ -100,7 +100,7 @@ Trois contingents cellulaires :
 - Sécrètent **eau, chlore, bicarbonate** (CFTR au pôle luminal)
 - Fréquente **hyperplasie mucineuse** (signification néoplasique débattue, classée en **PanIN bas grade**)
 
-![[assets/digestif/pancreas/generalites/03.3.1.2 Généralités sur la pathologie pancréatique/p09_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/generalites/03.3.1.2%20G%C3%A9n%C3%A9ralit%C3%A9s%20sur%20la%20pathologie%20pancr%C3%A9atique/p09_00.png)
 
 ### Îlots de Langerhans (pancréas endocrine)
 - **1-2 % de la masse pancréatique**
@@ -110,7 +110,7 @@ Trois contingents cellulaires :
 - ME : **granules neurosécrétoires**
 - 4 hormones principales : **insuline, glucagon, somatostatine, polypeptide pancréatique (PP)**
 
-![[assets/digestif/pancreas/generalites/03.3.1.2 Généralités sur la pathologie pancréatique/p13_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/generalites/03.3.1.2%20G%C3%A9n%C3%A9ralit%C3%A9s%20sur%20la%20pathologie%20pancr%C3%A9atique/p13_00.png)
 
 ## Physiologie
 
@@ -156,7 +156,7 @@ Trois contingents cellulaires :
 - **Adénocarcinome canalaire** = > **85-90 %** des tumeurs pancréatiques
 - → cf. [[03334_Adénocarcinome pancréatique et ses variants]] / [[03336_Lésions et tumeurs kystiques du pancréas]] / [[03338_Tumeurs intracanalaires pancréatiques]]
 
-![[assets/digestif/pancreas/generalites/03.3.1.2 Généralités sur la pathologie pancréatique/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/pancreas/generalites/03.3.1.2%20G%C3%A9n%C3%A9ralit%C3%A9s%20sur%20la%20pathologie%20pancr%C3%A9atique/p15_00.jpeg)
 
 ## Démarche diagnostique des tumeurs pancréatiques
 

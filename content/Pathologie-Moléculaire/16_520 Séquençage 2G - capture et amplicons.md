@@ -39,11 +39,11 @@ Cette étape s’insère **après la quantification de la librairie** dans le wo
 
 > Erreur de langage fréquente : « cette zone est mal couverte » → on devrait dire « cette zone a une **profondeur limitée** ».
 
-![[assets/pathologie-moleculaire/ngs/16-520 Le séquençage de deuxième génération, capture et amplicons audio pdf/p03_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-520%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20capture%20et%20amplicons%20audio%20pdf/p03_00.png)
 
-![[assets/pathologie-moleculaire/ngs/16-520 Le séquençage de deuxième génération, capture et amplicons audio pdf/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-520%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20capture%20et%20amplicons%20audio%20pdf/p04_00.jpeg)
 
-![[assets/pathologie-moleculaire/ngs/16-520 Le séquençage de deuxième génération, capture et amplicons audio pdf/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-520%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20capture%20et%20amplicons%20audio%20pdf/p05_00.jpeg)
 
 ### Profondeurs habituelles selon l’indication
 
@@ -61,16 +61,16 @@ Cette étape s’insère **après la quantification de la librairie** dans le wo
 
 Si une zone a 2× moins de reads qu’une autre → **2× moins de matrices initiales** → **délétion** suspectée. Inversement → **amplification**. Avec un retraitement bioinformatique, le NGS peut **remplacer la CGH-array** pour la détection des **CNV** (cf [[16_680 Techniques CGH et SNP array]]).
 
-![[assets/pathologie-moleculaire/ngs/16-520 Le séquençage de deuxième génération, capture et amplicons audio pdf/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-520%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20capture%20et%20amplicons%20audio%20pdf/p11_00.jpeg)
 
-![[assets/pathologie-moleculaire/ngs/16-520 Le séquençage de deuxième génération, capture et amplicons audio pdf/p11_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-520%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20capture%20et%20amplicons%20audio%20pdf/p11_01.png)
 
-![[assets/pathologie-moleculaire/ngs/16-520 Le séquençage de deuxième génération, capture et amplicons audio pdf/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-520%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20capture%20et%20amplicons%20audio%20pdf/p11_02.jpeg)
 
-![[assets/pathologie-moleculaire/ngs/16-520 Le séquençage de deuxième génération, capture et amplicons audio pdf/p11_03.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-520%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20capture%20et%20amplicons%20audio%20pdf/p11_03.png)
 
 
-![[assets/pathologie-moleculaire/ngs/16-520 Le séquençage de deuxième génération, capture et amplicons audio pdf/p11_05.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-520%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20capture%20et%20amplicons%20audio%20pdf/p11_05.png)
 
 ## Calcul de répartition (exemple)
 
@@ -95,10 +95,10 @@ Sur une puce de **1 Gb** (1 milliard de bases), pour des reads de 200 pb :
 
 Seuil : si le **panel** dépasse **200 kb** de cibles, autant faire un **exome** entier.
 
-![[assets/pathologie-moleculaire/ngs/16-520 Le séquençage de deuxième génération, capture et amplicons audio pdf/p12_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-520%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20capture%20et%20amplicons%20audio%20pdf/p12_00.png)
 
 
-![[assets/pathologie-moleculaire/ngs/16-520 Le séquençage de deuxième génération, capture et amplicons audio pdf/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-520%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20capture%20et%20amplicons%20audio%20pdf/p12_02.jpeg)
 
 
 ## Méthode 1 — Amplicons (PCR multiplex)
@@ -117,9 +117,9 @@ Seuil : si le **panel** dépasse **200 kb** de cibles, autant faire un **exome**
 - **Ion AmpliSeq** (Thermo Fisher), **TruSeq Amplicon** (Illumina), **Oncomine** focus
 
 
-![[assets/pathologie-moleculaire/ngs/16-520 Le séquençage de deuxième génération, capture et amplicons audio pdf/p12_05.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-520%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20capture%20et%20amplicons%20audio%20pdf/p12_05.png)
 
-![[assets/pathologie-moleculaire/ngs/16-520 Le séquençage de deuxième génération, capture et amplicons audio pdf/p12_06.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-520%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20capture%20et%20amplicons%20audio%20pdf/p12_06.png)
 
 ## Méthode 2 — Capture (hybridation par sondes)
 
@@ -136,11 +136,11 @@ Des **sondes biotinylées** complémentaires des cibles s’hybrident à l’ADN
 ### Exemples
 - **SureSelect** (Agilent), **Nextera Capture / Twist Bioscience**, **TruSight Oncology 500** (Illumina, cf [[16_560 Évaluation de la charge mutationnelle (TMB)]])
 
-![[assets/pathologie-moleculaire/ngs/16-520 Le séquençage de deuxième génération, capture et amplicons audio pdf/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-520%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20capture%20et%20amplicons%20audio%20pdf/p13_00.jpeg)
 
-![[assets/pathologie-moleculaire/ngs/16-520 Le séquençage de deuxième génération, capture et amplicons audio pdf/p13_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-520%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20capture%20et%20amplicons%20audio%20pdf/p13_01.png)
 
-![[assets/pathologie-moleculaire/ngs/16-520 Le séquençage de deuxième génération, capture et amplicons audio pdf/p13_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-520%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20capture%20et%20amplicons%20audio%20pdf/p13_02.png)
 
 
 ## Comparaison Capture vs Amplicons
@@ -156,10 +156,10 @@ Des **sondes biotinylées** complémentaires des cibles s’hybrident à l’ADN
 | **Coût/échantillon** | Plus élevé | Modeste |
 | **Faux positifs hot-spots** | Faibles | Plus fréquents (PCR errors → **UMI** recommandés) |
 
-![[assets/pathologie-moleculaire/ngs/16-520 Le séquençage de deuxième génération, capture et amplicons audio pdf/p14_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-520%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20capture%20et%20amplicons%20audio%20pdf/p14_00.png)
 
 
-![[assets/pathologie-moleculaire/ngs/16-520 Le séquençage de deuxième génération, capture et amplicons audio pdf/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/ngs/16-520%20Le%20s%C3%A9quen%C3%A7age%20de%20deuxi%C3%A8me%20g%C3%A9n%C3%A9ration%2C%20capture%20et%20amplicons%20audio%20pdf/p14_02.jpeg)
 
 
 ## Indications cliniques

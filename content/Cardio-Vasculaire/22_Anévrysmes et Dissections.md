@@ -43,7 +43,7 @@ L'**aorte** est une artère de type **fibro-élastique**. Trois tuniques :
 | **Cupuliforme** | Dilatation asymétrique, en cupule |
 | **Sacciforme** | **Vraie poche anévrysmale** avec collet |
 
-![[assets/cardio-vasculaire/vaisseaux/Anévrysmes, Dissections/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/An%C3%A9vrysmes%2C%20Dissections/p04_00.jpeg)
 
 ### Faux anévrysme — à ne pas confondre
 
@@ -62,7 +62,7 @@ L'atteinte de la **média** est le **support lésionnel commun** quelle que soit
 - **Perte des fibres élastiques**
 - Remplacement par de la **fibrose** → fragilisation pariétale → dilatation
 
-![[assets/cardio-vasculaire/vaisseaux/Anévrysmes, Dissections/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/An%C3%A9vrysmes%2C%20Dissections/p05_00.jpeg)
 
 ## Étiologies — vue d'ensemble
 
@@ -80,9 +80,9 @@ L'atteinte de la **média** est le **support lésionnel commun** quelle que soit
 - Macroscopie : **plaques** étendues, ulcérées, calcifiées, anévrysme **cupuliforme**, plaques **bourgeonnantes** dans la lumière, **thromboses pariétales** fréquentes
 - Histologie : intima siège d'une **plaque d'athérosclérose** (chape fibreuse + centre lipidique avec cristaux de cholestérol et calcifications), amincissement de la média sous-jacente
 
-![[assets/cardio-vasculaire/vaisseaux/Anévrysmes, Dissections/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/An%C3%A9vrysmes%2C%20Dissections/p07_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/Anévrysmes, Dissections/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/An%C3%A9vrysmes%2C%20Dissections/p09_00.jpeg)
 
 ## II — Pathologies dégénératives (HTA + vieillissement)
 
@@ -96,7 +96,7 @@ L'atteinte de la **média** est le **support lésionnel commun** quelle que soit
 | **Perte des fibres élastiques** | Fragmentation, raréfaction (révélée par **orcéine** en noir) |
 | **Microcalcifications** | Punctiformes médiales |
 
-![[assets/cardio-vasculaire/vaisseaux/Anévrysmes, Dissections/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/An%C3%A9vrysmes%2C%20Dissections/p12_00.jpeg)
 
 
 
@@ -108,7 +108,7 @@ L'atteinte de la **média** est le **support lésionnel commun** quelle que soit
 - Mécanisme : **perturbations hémodynamiques**
 - Histologie aortique : lésions **non spécifiques** identiques à celles de l'HTA / vieillissement → corrélation avec contexte clinique impérative
 
-![[assets/cardio-vasculaire/vaisseaux/Anévrysmes, Dissections/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/An%C3%A9vrysmes%2C%20Dissections/p17_00.jpeg)
 
 ## IV — Maladies dysplasiques (causes non inflammatoires non athéromateuses)
 
@@ -132,7 +132,7 @@ Touchent classiquement des **sujets jeunes**. Sous-groupes :
 - **Diminution importante des CML** (reliquat en îlots)
 - Fragilité pariétale → anévrysme et/ou dissection
 
-![[assets/cardio-vasculaire/vaisseaux/Anévrysmes, Dissections/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/An%C3%A9vrysmes%2C%20Dissections/p23_00.jpeg)
 
 **Étiologies de DFM** :
 - Origine **dysplasique malformative** (souvent isolée, parfois plurifocale)
@@ -150,9 +150,9 @@ Touchent classiquement des **sujets jeunes**. Sous-groupes :
 
 > Pour le **Marfan** : les lésions histologiques sont **non spécifiques** (dépôts mixoïdes, perte CML, perte élastique) → **corrélation génétique + clinique impérative**.
 
-![[assets/cardio-vasculaire/vaisseaux/Anévrysmes, Dissections/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/An%C3%A9vrysmes%2C%20Dissections/p25_00.jpeg)
 
-![[assets/cardio-vasculaire/vaisseaux/Anévrysmes, Dissections/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/An%C3%A9vrysmes%2C%20Dissections/p27_00.jpeg)
 
 ## V — Vascularites (cf [[21_Aortites]])
 
@@ -171,7 +171,7 @@ Touchent classiquement des **sujets jeunes**. Sous-groupes :
 | **Thrombose** | Risque d'**embolie artérielle** distale |
 | **Infection** | **Artérite septique** |
 
-![[assets/cardio-vasculaire/vaisseaux/Anévrysmes, Dissections/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/An%C3%A9vrysmes%2C%20Dissections/p30_00.jpeg)
 
 # Deuxième partie — DISSECTIONS
 
@@ -193,7 +193,7 @@ Touchent classiquement des **sujets jeunes**. Sous-groupes :
 - Tranche de section : **plan de clivage dans la média** comblé par du sang
 - Atteinte fréquente des **troncs supra-aortiques**
 
-![[assets/cardio-vasculaire/vaisseaux/Anévrysmes, Dissections/p34_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/cardio-vasculaire/vaisseaux/An%C3%A9vrysmes%2C%20Dissections/p34_00.jpeg)
 
 ## Histologie
 

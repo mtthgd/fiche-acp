@@ -25,7 +25,7 @@ source: DES ACP - Pathologie moléculaire
 
 Les sondes utilisées en **FISH** (Fluorescence In Situ Hybridization) sont des fragments d’ADN spécifiques d’une cible chromosomique, marqués par un fluorochrome (direct) ou un haptène (indirect). Elles s’hybrident à leur séquence cible dénaturée et sont visualisées en microscopie à fluorescence.
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-640 Les sondes utilisées en FISH-Merlio/p01_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-640%20Les%20sondes%20utilis%C3%A9es%20en%20FISH-Merlio/p01_00.jpeg)
 
 ## Acteurs / Sondes / Réactifs — Typologie
 
@@ -37,11 +37,11 @@ Les sondes utilisées en **FISH** (Fluorescence In Situ Hybridization) sont des 
 | **Sondes de peinture chromosomique** | Couvre l’ensemble d’un chromosome | Caryotype multicouleur (**M-FISH, SKY**) |
 | **Sondes de bras chromosomique** | Bras court ou long entier | Inversions, perte de bras (déséquilibre) |
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-640 Les sondes utilisées en FISH-Merlio/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-640%20Les%20sondes%20utilis%C3%A9es%20en%20FISH-Merlio/p02_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-640 Les sondes utilisées en FISH-Merlio/p02_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-640%20Les%20sondes%20utilis%C3%A9es%20en%20FISH-Merlio/p02_01.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-640 Les sondes utilisées en FISH-Merlio/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-640%20Les%20sondes%20utilis%C3%A9es%20en%20FISH-Merlio/p03_00.jpeg)
 
 ## Origine et fabrication des sondes
 
@@ -72,11 +72,11 @@ Chaque fluorochrome est caractérisé par :
 
 > Vérifier que les **filtres du microscope** correspondent aux fluorochromes commandés en testant sur **tissus contrôles témoins** avant analyse pathologique.
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-640 Les sondes utilisées en FISH-Merlio/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-640%20Les%20sondes%20utilis%C3%A9es%20en%20FISH-Merlio/p05_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-640 Les sondes utilisées en FISH-Merlio/p05_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-640%20Les%20sondes%20utilis%C3%A9es%20en%20FISH-Merlio/p05_01.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-640 Les sondes utilisées en FISH-Merlio/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-640%20Les%20sondes%20utilis%C3%A9es%20en%20FISH-Merlio/p06_00.jpeg)
 
 ## Workflow technique
 
@@ -94,7 +94,7 @@ Chaque fluorochrome est caractérisé par :
 > **Observation en filtre double** confirmée par **filtre simple alterné**, acquisition successive en **plusieurs plans Z**.
 
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-640 Les sondes utilisées en FISH-Merlio/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-640%20Les%20sondes%20utilis%C3%A9es%20en%20FISH-Merlio/p09_00.jpeg)
 
 ### Détermination du seuil de positivité
 - Sur **plusieurs échantillons contrôles non tumoraux** (ex. ganglion réactionnel)
@@ -115,11 +115,11 @@ Chaque fluorochrome est caractérisé par :
 
 Exemple **MET** (7q31, sonde verte) + CEP7 (rouge) — profils équilibré / gain / amplifié.
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-640 Les sondes utilisées en FISH-Merlio/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-640%20Les%20sondes%20utilis%C3%A9es%20en%20FISH-Merlio/p09_01.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-640 Les sondes utilisées en FISH-Merlio/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-640%20Les%20sondes%20utilis%C3%A9es%20en%20FISH-Merlio/p10_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-640 Les sondes utilisées en FISH-Merlio/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-640%20Les%20sondes%20utilis%C3%A9es%20en%20FISH-Merlio/p10_01.jpeg)
 
 ### 2. Sondes pour délétion
 
@@ -130,7 +130,7 @@ Exemple **9p21** (CDKN2A — code **p16/p14**) dans le **mésothéliome** :
 
 > **Limite** : les **micro-délétions** peuvent échapper à la FISH → biologie moléculaire complémentaire nécessaire.
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-640 Les sondes utilisées en FISH-Merlio/p11_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-640%20Les%20sondes%20utilis%C3%A9es%20en%20FISH-Merlio/p11_00.png)
 
 
 ### 3. Sondes pour translocation réciproque
@@ -153,11 +153,11 @@ Exemple **9p21** (CDKN2A — code **p16/p14**) dans le **mésothéliome** :
 | **Avantage** | Adapté aux gènes **polygames** (**ALK, MYC, EWSR1**) |
 | **Limite** | N’identifie pas le partenaire |
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-640 Les sondes utilisées en FISH-Merlio/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-640%20Les%20sondes%20utilis%C3%A9es%20en%20FISH-Merlio/p12_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-640 Les sondes utilisées en FISH-Merlio/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-640%20Les%20sondes%20utilis%C3%A9es%20en%20FISH-Merlio/p12_01.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-640 Les sondes utilisées en FISH-Merlio/p12_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-640%20Les%20sondes%20utilis%C3%A9es%20en%20FISH-Merlio/p12_04.jpeg)
 
 ## Lecture / Interprétation — pièges des sondes break-apart
 

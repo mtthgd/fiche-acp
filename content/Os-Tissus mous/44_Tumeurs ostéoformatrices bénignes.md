@@ -46,7 +46,7 @@ Masse bien limitée **en continuité avec l'os sous-jacent**. Deux composantes p
 **Chirurgical seulement si symptomatique**.
 
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-240 Tumeurs ostéoformatrices bénignes/p05_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-240%20Tumeurs%20ost%C3%A9oformatrices%20b%C3%A9nignes/p05_00.jpeg)
 
 ## 2. Ostéome ostéoïde
 
@@ -76,22 +76,22 @@ Tumeur ostéoformatrice bénigne **< 2 cm**, **non évolutive**. Au-delà de 2 c
 - **Épaississement cortical périphérique dans l'axe de l'os** (peut masquer le nidus)
 - IRM : **œdème péri-lésionnel**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-240 Tumeurs ostéoformatrices bénignes/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-240%20Tumeurs%20ost%C3%A9oformatrices%20b%C3%A9nignes/p10_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-240 Tumeurs ostéoformatrices bénignes/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-240%20Tumeurs%20ost%C3%A9oformatrices%20b%C3%A9nignes/p11_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-240 Tumeurs ostéoformatrices bénignes/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-240%20Tumeurs%20ost%C3%A9oformatrices%20b%C3%A9nignes/p11_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-240 Tumeurs ostéoformatrices bénignes/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-240%20Tumeurs%20ost%C3%A9oformatrices%20b%C3%A9nignes/p13_00.jpeg)
 
 ### Macroscopie
 Lésion **< 2 cm** (souvent < 1 cm), **ronde, rouge, granuleuse, bien limitée**, entourée d'un **os condensé**. Le plus souvent intracorticale ou intramédullaire / périostée.
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-240 Tumeurs ostéoformatrices bénignes/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-240%20Tumeurs%20ost%C3%A9oformatrices%20b%C3%A9nignes/p15_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-240 Tumeurs ostéoformatrices bénignes/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-240%20Tumeurs%20ost%C3%A9oformatrices%20b%C3%A9nignes/p15_01.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-240 Tumeurs ostéoformatrices bénignes/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-240%20Tumeurs%20ost%C3%A9oformatrices%20b%C3%A9nignes/p16_00.jpeg)
 
 ### Histologie
 
@@ -101,11 +101,11 @@ Lésion **< 2 cm** (souvent < 1 cm), **ronde, rouge, granuleuse, bien limitée**
 - **Vascularisation très abondante**
 - **Infiltrat inflammatoire** périphérique souvent
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-240 Tumeurs ostéoformatrices bénignes/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-240%20Tumeurs%20ost%C3%A9oformatrices%20b%C3%A9nignes/p18_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-240 Tumeurs ostéoformatrices bénignes/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-240%20Tumeurs%20ost%C3%A9oformatrices%20b%C3%A9nignes/p19_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-240 Tumeurs ostéoformatrices bénignes/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-240%20Tumeurs%20ost%C3%A9oformatrices%20b%C3%A9nignes/p20_00.jpeg)
 
 ### Génétique
 Mutations récurrentes du gène **FOS** (ou *FOSB*) décrites dans l'ostéome ostéoïde et l'ostéoblastome.
@@ -139,9 +139,9 @@ Tumeur ostéoformatrice **> 2 cm** (OMS), **évolutive, pouvant récidiver local
 - Ostéocondensation péri-lésionnelle variable
 - **Ostéogenèse périostée périphérique fréquente**
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-240 Tumeurs ostéoformatrices bénignes/p26_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-240%20Tumeurs%20ost%C3%A9oformatrices%20b%C3%A9nignes/p26_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-240 Tumeurs ostéoformatrices bénignes/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-240%20Tumeurs%20ost%C3%A9oformatrices%20b%C3%A9nignes/p27_00.jpeg)
 
 ### Macroscopie
 Lésion limitée par une **ostéogenèse corticale ou périostée**, ronde/ovale, **rouge sombre ou grisâtre, granuleuse**, **remaniements kystiques et hémorragiques** possibles.
@@ -156,9 +156,9 @@ Lésion limitée par une **ostéogenèse corticale ou périostée**, ronde/ovale
   - **Épithélioïde** : grands ostéoblastes nucléolés
   - **Pseudo-malin** : **atypies dégénératives** (piège !)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-240 Tumeurs ostéoformatrices bénignes/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-240%20Tumeurs%20ost%C3%A9oformatrices%20b%C3%A9nignes/p30_00.jpeg)
 
-![[assets/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-240 Tumeurs ostéoformatrices bénignes/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/os_tissu_mou/appareil_locomoteur/pathologie_osseuse_tumorale/09-240%20Tumeurs%20ost%C3%A9oformatrices%20b%C3%A9nignes/p31_00.jpeg)
 
 ### Traitement
 **Chirurgie** : curetage ou résection pour les tumeurs volumineuses.

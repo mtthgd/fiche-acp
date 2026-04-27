@@ -71,13 +71,13 @@ source: DES ACP - Cours de digestif (D. Châtelain)
 - **Cryptite** et **abcès cryptiques** très évocateurs
 - Bactéries en **virgule/banane**, 1-3 µm, en surface des cellules épithéliales
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.4 Les gastrites chroniques/p06_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.4%20Les%20gastrites%20chroniques/p06_06.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.4 Les gastrites chroniques/p07_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.4%20Les%20gastrites%20chroniques/p07_05.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.4 Les gastrites chroniques/p08_08.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.4%20Les%20gastrites%20chroniques/p08_08.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.4 Les gastrites chroniques/p08_09.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.4%20Les%20gastrites%20chroniques/p08_09.jpeg)
 
 ### Colorations spéciales pour visualiser HP
 
@@ -90,9 +90,9 @@ source: DES ACP - Cours de digestif (D. Châtelain)
   - Doute sur la nature des germes
   - Contrôle après éradication
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.4 Les gastrites chroniques/p11_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.4%20Les%20gastrites%20chroniques/p11_04.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.4 Les gastrites chroniques/p11_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.4%20Les%20gastrites%20chroniques/p11_05.jpeg)
 
 ### Évolution sous traitement éradicateur (IPP + antibiotiques)
 
@@ -123,9 +123,9 @@ source: DES ACP - Cours de digestif (D. Châtelain)
 - Lymphome MALT rare rapporté
 
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.4 Les gastrites chroniques/p15_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.4%20Les%20gastrites%20chroniques/p15_05.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.4 Les gastrites chroniques/p15_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.4%20Les%20gastrites%20chroniques/p15_06.jpeg)
 
 ## Gastrite atrophique auto-immune (maladie de Biermer)
 
@@ -157,11 +157,11 @@ source: DES ACP - Cours de digestif (D. Châtelain)
 - Hyperplasie cryptique, infiltrat dense (lymphocytes, plasmocytes, PNN, éosinophiles)
 - Lésions lympho-épithéliales
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.4 Les gastrites chroniques/p22_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.4%20Les%20gastrites%20chroniques/p22_04.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.4 Les gastrites chroniques/p22_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.4%20Les%20gastrites%20chroniques/p22_05.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.4 Les gastrites chroniques/p22_06.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.4%20Les%20gastrites%20chroniques/p22_06.jpeg)
 
 #### Phase terminale
 - Muqueuse fundique **complètement atrophique**, disparition des cellules pariétales/principales
@@ -174,9 +174,9 @@ source: DES ACP - Cours de digestif (D. Châtelain)
   - **Hyperplasie micronodulaire** : ≥ 5 cellules ECL en amas
   - À terme : **tumeurs neuroendocrines de type 1** (bien différenciées, bas grade)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.4 Les gastrites chroniques/p25_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.4%20Les%20gastrites%20chroniques/p25_04.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.4 Les gastrites chroniques/p26_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.4%20Les%20gastrites%20chroniques/p26_04.jpeg)
 
 ### Pronostic et traitement
 - Supplémentation en **vitamine B12**
@@ -193,11 +193,11 @@ source: DES ACP - Cours de digestif (D. Châtelain)
 - **Lumière polarisée** pour exclure corps étranger
 - **Gastrite granulomateuse idiopathique** = diagnostic d'élimination ; certains préfèrent le terme « gastrite granulomateuse d'étiologie inconnue »
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.4 Les gastrites chroniques/p32_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.4%20Les%20gastrites%20chroniques/p32_02.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.4 Les gastrites chroniques/p33_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.4%20Les%20gastrites%20chroniques/p33_02.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.4 Les gastrites chroniques/p33_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.4%20Les%20gastrites%20chroniques/p33_03.jpeg)
 
 ## Gastrite lymphocytaire
 
@@ -211,9 +211,9 @@ source: DES ACP - Cours de digestif (D. Châtelain)
 - Architecture muqueuse normale, chorion très inflammatoire
 - **Lymphocytose intra-épithéliale > 25%** : **CD3+, CD8+, TIA-1+, granzyme+** (cytotoxiques)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.4 Les gastrites chroniques/p35_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.4%20Les%20gastrites%20chroniques/p35_04.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.4 Les gastrites chroniques/p37_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.4%20Les%20gastrites%20chroniques/p37_02.jpeg)
 
 ### Étiologies / contextes
 - **Idiopathique**
@@ -240,9 +240,9 @@ source: DES ACP - Cours de digestif (D. Châtelain)
 - Ces classifications restent **peu utilisées en routine**
 - **Recommandations 2012** : surveillance endoscopique tous les 3 ans si lésions étendues d'atrophie/métaplasie touchant antre + corps
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.4 Les gastrites chroniques/p40_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.4%20Les%20gastrites%20chroniques/p40_02.jpeg)
 
-![[assets/digestif/tube_digestif/estomac/03.1.3.4 Les gastrites chroniques/p40_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/digestif/tube_digestif/estomac/03.1.3.4%20Les%20gastrites%20chroniques/p40_03.jpeg)
 
 
 ## Diagnostics différentiels

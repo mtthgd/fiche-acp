@@ -44,7 +44,7 @@ Exemple du **chromosome 7** : **158 Mb**, **1378 gènes**.
 - 1 **codon** (3 nucléotides) = 1 acide aminé
 - Configuration tridimensionnelle de la protéine = fondamentale
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-740 Introduction à la noton de polymorphisme et de mutation/p10_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-740%20Introduction%20%C3%A0%20la%20noton%20de%20polymorphisme%20et%20de%20mutation/p10_00.png)
 
 ## Mutations : définitions et classification
 
@@ -70,7 +70,7 @@ Exemple du **chromosome 7** : **158 Mb**, **1378 gènes**.
 | **CNV** *(Copy Number Variation)* | Variation du **nombre de copies** d’une séquence (qq bases à qq Mb) | Variable |
 | **Polymorphismes de répétition** (microsatellites) | **Répétés** en nombre variable | Polymorphisme inter-individuel important |
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-740 Introduction à la noton de polymorphisme et de mutation/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-740%20Introduction%20%C3%A0%20la%20noton%20de%20polymorphisme%20et%20de%20mutation/p13_00.jpeg)
 
 ## Conséquences des mutations
 
@@ -91,7 +91,7 @@ Exemple du **chromosome 7** : **158 Mb**, **1378 gènes**.
 
 Ex : rayons X / γ → cassures double-brin → si **gènes suppresseurs de tumeurs** touchés → tumorigenèse (cf [[16_210 Oncogènes et gènes suppresseurs de tumeurs]]).
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-740 Introduction à la noton de polymorphisme et de mutation/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-740%20Introduction%20%C3%A0%20la%20noton%20de%20polymorphisme%20et%20de%20mutation/p15_00.jpeg)
 
 ### Échelle individuelle
 
@@ -106,15 +106,15 @@ Les mutations sont **indissociables de l’évolution des espèces** : pas de mu
 
 
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-740 Introduction à la noton de polymorphisme et de mutation/p16_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-740%20Introduction%20%C3%A0%20la%20noton%20de%20polymorphisme%20et%20de%20mutation/p16_04.jpeg)
 
 ## Mutations dans les régions codantes
 
 **95 % de mutations délétères**. Cinq grands types.
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-740 Introduction à la noton de polymorphisme et de mutation/p18_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-740%20Introduction%20%C3%A0%20la%20noton%20de%20polymorphisme%20et%20de%20mutation/p18_00.png)
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-740 Introduction à la noton de polymorphisme et de mutation/p18_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-740%20Introduction%20%C3%A0%20la%20noton%20de%20polymorphisme%20et%20de%20mutation/p18_01.png)
 
 ### 1. Mutation synonyme
 - Modification d’1 nucléotide → **codon différent** mais codant pour le **même acide aminé**
@@ -141,15 +141,15 @@ Les mutations sont **indissociables de l’évolution des espèces** : pas de mu
 
 
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-740 Introduction à la noton de polymorphisme et de mutation/p20_07.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-740%20Introduction%20%C3%A0%20la%20noton%20de%20polymorphisme%20et%20de%20mutation/p20_07.png)
 
 ### Représentation Sanger
 - État **hétérozygote** : 2 pics superposés
 - État **homozygote** : 1 seul pic au lieu du nucléotide de référence
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-740 Introduction à la noton de polymorphisme et de mutation/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-740%20Introduction%20%C3%A0%20la%20noton%20de%20polymorphisme%20et%20de%20mutation/p23_00.jpeg)
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-740 Introduction à la noton de polymorphisme et de mutation/p24_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-740%20Introduction%20%C3%A0%20la%20noton%20de%20polymorphisme%20et%20de%20mutation/p24_00.jpeg)
 
 ## Effets fonctionnels des mutations faux-sens et tronquantes
 
@@ -184,7 +184,7 @@ Les mutations sont **indissociables de l’évolution des espèces** : pas de mu
 - **Régions régulatrices** : promoteur, sites de fixation des miRNA → modulation de l’expression
 
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-740 Introduction à la noton de polymorphisme et de mutation/p28_05.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-740%20Introduction%20%C3%A0%20la%20noton%20de%20polymorphisme%20et%20de%20mutation/p28_05.jpeg)
 
 ## Allégorie de la « tronçonneuse »
 
@@ -196,9 +196,9 @@ Pour distinguer les types fonctionnels (image pédagogique) :
 | **Amorphe / nulle** | Tronçonneuse coupée en deux / raquette de tennis / guitare | Fonction **abolie** |
 | **Hypomorphe** | Petite tronçonneuse / hache | Fonction **diminuée** |
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-740 Introduction à la noton de polymorphisme et de mutation/p32_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-740%20Introduction%20%C3%A0%20la%20noton%20de%20polymorphisme%20et%20de%20mutation/p32_00.png)
 
-![[assets/pathologie-moleculaire/genetique-constitutionnelle/16-740 Introduction à la noton de polymorphisme et de mutation/p33_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/genetique-constitutionnelle/16-740%20Introduction%20%C3%A0%20la%20noton%20de%20polymorphisme%20et%20de%20mutation/p33_00.png)
 
 ## Démarche d’interprétation d’une variation
 

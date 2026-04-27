@@ -32,7 +32,7 @@ source: DES ACP - Cours d'urologie
 - **4 items de l'analyse diagnostique** : architecture, matériel intraluminal, **assise basale**, **nucléoles** des cellules luminales.
 
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p01_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p01_01.jpeg)
 
 
 ---
@@ -58,12 +58,12 @@ source: DES ACP - Cours d'urologie
 - **DD** : adénocarcinome variante **à cellules spumeuses** (grade 3, parfois 4).
 - Pour trancher : chercher un contingent classique acinaire éosinophile adjacent (absent dans Cowper).
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p08_00.jpeg)
 
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p09_00.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p09_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p09_01.jpeg)
 
 
 ### 3. Glandes du verumontanum
@@ -72,11 +72,11 @@ source: DES ACP - Cours d'urologie
 - Cytoplasmes clairs, **lipofuscines rosées**, **cellules basales présentes**.
 - **DD** : adénocarcinome grade 3.
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p10_00.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p10_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p10_01.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p10_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p10_02.jpeg)
 
 
 ## B. Lésions bénignes à petites glandes
@@ -93,21 +93,21 @@ source: DES ACP - Cours d'urologie
   - **Atrophie partielle** : la plus piégeante — glandes anguleuses/festonnées, épithélium peu atrophique, cellules basales discontinues (voire absentes sur certaines glandes) → **interpréter globalement le foyer**.
 - **DD** : adénocarcinome grade 3 **variante atrophique**.
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p11_00.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p11_01.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p11_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p11_02.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p11_03.jpeg]]
-
-
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p11_03.jpeg)
 
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p12_00.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p13_01.jpeg]]
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p13_00.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p13_01.jpeg)
 
 
 #### Tableau comparatif Atrophie vs Adénocarcinome G3
@@ -129,27 +129,27 @@ source: DES ACP - Cours d'urologie
 - **Assise basale discontinue** → IHC piégeante : **AMACR peut être discrètement positive**, P63 peut manquer sur quelques glandes → **analyser tout le foyer**, pas une glande isolée.
 - **DD** : adénocarcinome **Gleason 3+3=6**.
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p14_00.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p14_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p14_01.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p14_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p14_02.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p14_03.jpeg]]
-
-
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p15_00.jpeg]]
-
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p15_01.jpeg]]
-
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p15_02.jpeg]]
-
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p15_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p14_03.jpeg)
 
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p15_00.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p15_01.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p15_02.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p15_03.jpeg)
+
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p16_00.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p16_01.jpeg)
 
 
 ### 3. Adénose sclérosante (rare)
@@ -158,7 +158,7 @@ source: DES ACP - Cours d'urologie
 - Assise basale **P63+, 34βE12+, ACTINE lisse+, PS100+** (propriétés myoépithéliales acquises).
 
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p18_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p18_00.jpeg)
 
 
 ### 4. Métaplasie néphrogénique
@@ -173,16 +173,16 @@ source: DES ACP - Cours d'urologie
   - **CK7 positive** (≠ CaP)
   - **PAX8 positif** (propriétés néphroniques)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p19_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p19_00.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p19_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p19_01.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p19_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p19_02.jpeg)
 
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p20_00.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p20_01.jpeg)
 
 
 ### 5. Prostatite (inflammation / post-thérapeutique)
@@ -190,9 +190,9 @@ source: DES ACP - Cours d'urologie
 - Contexte inflammatoire / post-radique / post-curiethérapie.
 - Nombreux polynucléaires intra/périglandulaires.
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p21_00.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p21_01.jpeg)
 
 
 ## Algorithme — lésion microglandulaire
@@ -204,14 +204,14 @@ source: DES ACP - Cours d'urologie
 | Oui | **Non** | **Cancer** |
 | Oui | Discordance morpho/IHC | **Foyer ASAP** (suspect) |
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p22_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p22_00.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p22_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p22_01.jpeg)
 
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p23_00.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p23_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p23_01.jpeg)
 
 
 ---
@@ -223,9 +223,9 @@ source: DES ACP - Cours d'urologie
 - Aspect papillaire ou cribriforme **sans atypie cytonucléaire**.
 - **DD** : HGPIN, proliférations intraductales (plus que adénocarcinome infiltrant).
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p27_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p27_00.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p27_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p27_01.jpeg)
 
 
 ## B. Hyperplasie des cellules basales
@@ -236,16 +236,16 @@ source: DES ACP - Cours d'urologie
 - **IHC** : marqueurs basaux (P63, 34βE12) **intensément +**, nombreux.
 - **DD** : HGPIN, IDC-P.
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p28_00.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p28_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p28_01.jpeg)
 
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p29_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p29_00.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p29_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p29_01.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p29_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p29_02.jpeg)
 
 
 ## C. Hyperplasie cribriforme à cellules claires
@@ -254,22 +254,22 @@ source: DES ACP - Cours d'urologie
 - **Pas d'atypie cytonucléaire**.
 - **Cellules basales présentes et nombreuses** (34βE12 intensément +).
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p30_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p30_00.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p30_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p30_01.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p30_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p30_02.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p30_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p30_03.jpeg)
 
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p31_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p31_00.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p31_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p31_01.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p31_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p31_02.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p31_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p31_03.jpeg)
 
 
 ## Algorithme — lésion cribriforme
@@ -291,77 +291,77 @@ Plus rares, DD élargi au-delà du CaP :
 - **Paragangliome** (exceptionnel)
 - **DD** : grade 5, carcinome urothélial, carcinome neuroendocrine, lymphome, sarcomes.
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p35_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p35_00.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p35_01.jpeg]]
-
-
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p36_00.jpeg]]
-
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p36_01.jpeg]]
-
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p36_02.jpeg]]
-
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p36_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p35_01.jpeg)
 
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p37_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p36_00.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p36_01.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p36_02.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p36_03.jpeg)
 
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p38_00.jpeg]]
-
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p38_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p37_00.jpeg)
 
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p39_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p38_00.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p39_01.jpeg]]
-
-
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p40_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p38_01.jpeg)
 
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p41_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p39_00.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p41_01.jpeg]]
-
-
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p42_00.jpeg]]
-
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p42_01.jpeg]]
-
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p42_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p39_01.jpeg)
 
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p43_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p40_00.jpeg)
 
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p46_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p41_00.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p46_01.jpeg]]
-
-
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p48_00.jpeg]]
-
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p48_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p41_01.jpeg)
 
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p49_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p42_00.jpeg)
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p49_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p42_01.jpeg)
 
-
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p50_00.jpeg]]
-
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p50_01.jpeg]]
-
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p50_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p42_02.jpeg)
 
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p51_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p43_00.png)
 
 
-![[assets/urologie/prostate/05-332 Lésions non tumorales et diagnostics différentiels du cancer de prostate/p53_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p46_00.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p46_01.jpeg)
+
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p48_00.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p48_01.jpeg)
+
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p49_00.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p49_01.jpeg)
+
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p50_00.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p50_01.jpeg)
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p50_02.jpeg)
+
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p51_00.png)
+
+
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-332%20L%C3%A9sions%20non%20tumorales%20et%20diagnostics%20diff%C3%A9rentiels%20du%20cancer%20de%20prostate/p53_00.png)
 
 
 ---

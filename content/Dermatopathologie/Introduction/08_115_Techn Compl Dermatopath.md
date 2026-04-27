@@ -52,14 +52,14 @@ Une **partie des diagnostics** se fait sur lame **HES standard** sans technique 
 | **Ziehl-Neelsen** | BAAR (bacilles acido-alcoolo-résistants) | **Tuberculose cutanée**, mycobactéries atypiques (rechercher au **× 40**) |
 | **Gram** | Bactéries Gram + et − | Infections bactériennes |
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p03_00.jpeg)
 
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p04_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p04_00.jpeg)
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p04_01.jpeg)
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p04_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p04_02.jpeg)
 
 
 ### 1.2 Mise en évidence des structures normales
@@ -89,16 +89,16 @@ Une **partie des diagnostics** se fait sur lame **HES standard** sans technique 
 
 **PAS pour la membrane basale** : épaississement caractéristique dans le **lupus** (dermatose d'interface) :
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p06_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p06_00.jpeg)
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p06_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p06_01.jpeg)
 
 
 **PAS pour le glycogène** dans un **hidroacanthome simplex** :
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p07_00.jpeg)
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p07_01.jpeg)
 
 
 
@@ -106,59 +106,59 @@ Une **partie des diagnostics** se fait sur lame **HES standard** sans technique 
 
 **Ziehl** pour **BAAR** d'une tuberculose cutanée :
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p08_00.jpeg)
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p08_01.jpeg)
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p08_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p08_02.jpeg)
 
 
 **IHC anti-tréponème** très utile pour la **syphilis** ; **hybridation in situ EBER** pour les infections à **EBV** :
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p09_00.jpeg)
 
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p09_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p09_02.jpeg)
 
 **Orcéine** pour anomalies quantitatives ou qualitatives du tissu **élastique** :
 - **Augmentation** des fibres : fibroxanthome élastique
 - **Élastolyse** : maladies avec atteinte du derme moyen (ex. élastolyse en **dermolyse réticulée**, anetodermies)
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p10_00.jpeg)
 
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p10_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p10_02.jpeg)
 
 **Bleu alcian** pour la **mucine** :
 - **Mucinose folliculaire** (dans les murs folliculaires)
 - **Mucinose dermique** : ex. **lupus**
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p11_00.jpeg)
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p11_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p11_01.jpeg)
 
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p11_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p11_03.jpeg)
 
 **Perls** pour les dépôts d'**hémosidérine** : extravasation érythrocytaire dans la **dermite ocre** (insuffisance veineuse) :
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p12_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p12_00.jpeg)
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p12_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p12_01.jpeg)
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p12_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p12_02.jpeg)
 
 
 **Rouge Congo** + **lumière polarisée** : biréfringence **jaune-vert** caractéristique de l'**amylose** :
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p13_00.jpeg)
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p13_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p13_01.jpeg)
 
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p13_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p13_03.jpeg)
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p13_04.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p13_04.jpeg)
 
 
 ## 2. Immunofluorescence directe (IFD)
@@ -195,18 +195,18 @@ Une **partie des diagnostics** se fait sur lame **HES standard** sans technique 
 
 **Dépôts granuleux de C3 et IgG** le long de la JDE :
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p14_00.jpeg)
 
 
 #### Pemphigus
 
 Dépôts d'**IgG en maille** entre les kératinocytes ; corrélat morphologique : **acantholyse** (rupture des desmosomes par anticorps anti-desmogléine) :
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p15_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p15_00.jpeg)
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p15_01.jpeg)
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p15_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p15_02.jpeg)
 
 
 ## 3. Immunohistochimie (IHC)
@@ -251,15 +251,15 @@ Marqueurs additionnels : **SOX10**, **S100**, **PRAME**, **BRAF V600E** (IHC, th
 - Caractérisation d'un infiltrat lymphocytaire : **CD3, CD20, CD8, CD30**
 - Lupus : **CD123** (cellules dendritiques plasmacytoïdes)
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p16_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p16_00.jpeg)
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p16_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p16_01.jpeg)
 
 
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p17_00.jpeg)
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p17_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p17_01.jpeg)
 
 
 ## 4. Biologie moléculaire / cytogénétique
@@ -292,7 +292,7 @@ L'IHC analyse la cellule à l'**échelon protéique**. La biologie moléculaire 
 - Fixation en **glutaraldéhyde**
 - Indications résiduelles : épidermolyses bulleuses héréditaires, certaines histiocytoses (granules de **Birbeck** dans l'histiocytose à cellules de Langerhans — désormais largement remplacée par CD1a / Langerine), maladies de surcharge
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p20_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p20_00.jpeg)
 
 
 ## 6. Démarche complémentaire — exemple synthétique
@@ -313,7 +313,7 @@ L'IHC analyse la cellule à l'**échelon protéique**. La biologie moléculaire 
 
 
 
-![[assets/dermato/introduction/08-115-Techniques Complémentaires en Dermatopathologie/p21_03.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/dermato/introduction/08-115-Techniques%20Compl%C3%A9mentaires%20en%20Dermatopathologie/p21_03.jpeg)
 
 ## Tableau de synthèse des indications
 

@@ -50,7 +50,7 @@ L’OMS reconnaît de nombreuses **variantes** de léiomyomes utérins. Leur ide
 | Marqueurs | expression possible **diminuée** des marqueurs musculaires lisses |
 | **Vascularisation** | mixte = vaisseaux à **paroi épaisse** + **fentes vasculaires** |
 
-![[assets/gyneco-sein/corps_uterin/04_45_02Léiomyome variantes et remaniements (2)/p07_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_45_02L%C3%A9iomyome%20variantes%20et%20remaniements%20%282%29/p07_00.jpeg)
 
 #### DD majeur : **tumeur stromale endométriale (nodule / LG-ESS)**
 
@@ -61,7 +61,7 @@ L’OMS reconnaît de nombreuses **variantes** de léiomyomes utérins. Leur ide
 | **Desmine / h-caldesmone** | + (parfois moins diffus) | -/focal |
 | **CD10** | -/+ (peut être +) | **+ diffus** |
 
-![[assets/gyneco-sein/corps_uterin/04_45_02Léiomyome variantes et remaniements (2)/p08_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_45_02L%C3%A9iomyome%20variantes%20et%20remaniements%20%282%29/p08_00.jpeg)
 
 ### 3. Léiomyome épithélioïde
 
@@ -73,7 +73,7 @@ OMS 2014 a regroupé 3 sous-types historiques :
 > ⚠️ Une fois la variante épithélioïde identifiée, **les critères de malignité changent** :
 > **STUMP / LMS épithélioïde myxoïde** envisagé dès **≥ 3 mitoses / 10 HPF × 400** (vs ≥ 10 dans le LMS conventionnel).
 
-![[assets/gyneco-sein/corps_uterin/04_45_02Léiomyome variantes et remaniements (2)/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_45_02L%C3%A9iomyome%20variantes%20et%20remaniements%20%282%29/p09_00.jpeg)
 
 - **Conventionnel** : cellules arrondies, cytoplasme **éosinophile abondant**, parfois **rhabdoïdes**.
 - **Cellules claires** : cytoplasme chargé en **glycogène**, aspect en **bague à chaton**, fasciculation focalement conservée.
@@ -88,7 +88,7 @@ OMS 2014 a regroupé 3 sous-types historiques :
 | Critères de malignité | **différents** : pour rester bénin → **bord parfaitement bien limité, sans atypie, sans mitose** |
 | Apparition de **1-2 mitoses** | → évoquer **LMS myxoïde** |
 
-![[assets/gyneco-sein/corps_uterin/04_45_02Léiomyome variantes et remaniements (2)/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_45_02L%C3%A9iomyome%20variantes%20et%20remaniements%20%282%29/p13_00.jpeg)
 
 #### DD :
 - Tumeur stromale fibromyxoïde
@@ -110,8 +110,8 @@ Spectre avec deux extrêmes :
 | Mitoses | < 10 / 10 HPF | variable |
 | Évolution | **bénigne** | bénigne (mais valeur **oncogénétique**) |
 
-![[assets/gyneco-sein/corps_uterin/04_45_02Léiomyome variantes et remaniements (2)/p16_00.jpeg]]
-![[assets/gyneco-sein/corps_uterin/04_45_02Léiomyome variantes et remaniements (2)/p17_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_45_02L%C3%A9iomyome%20variantes%20et%20remaniements%20%282%29/p16_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_45_02L%C3%A9iomyome%20variantes%20et%20remaniements%20%282%29/p17_00.jpeg)
 
 #### Léiomyome à noyaux bizarres
 - Atypies évidentes dès **× 5**.
@@ -134,8 +134,8 @@ Spectre avec deux extrêmes :
 
 ### 2. Léiomyomatose intraveineuse / intravasculaire disséminée
 
-![[assets/gyneco-sein/corps_uterin/04_45_02Léiomyome variantes et remaniements (2)/p20_00.jpeg]]
-![[assets/gyneco-sein/corps_uterin/04_45_02Léiomyome variantes et remaniements (2)/p21_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_45_02L%C3%A9iomyome%20variantes%20et%20remaniements%20%282%29/p20_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_45_02L%C3%A9iomyome%20variantes%20et%20remaniements%20%282%29/p21_00.jpeg)
 
 - Prolifération musculaire lisse bénigne dans la **lumière des veines utérines en dehors du léiomyome** (sinon = simple invasion vasculaire d’un léiomyome).
 - Macro : « **vermiottes** » dans les vaisseaux, **énucléables**, notamment racine des paramètres.
@@ -158,7 +158,7 @@ Spectre avec deux extrêmes :
 - **Macro caractéristique** : couleur **lilas / hortensia / violacée**, homogène (sinon, pas une nécrobiose).
 - **Micro** : nécrose ischémique + hémorragique étendue, fine bande viable périphérique.
 
-![[assets/gyneco-sein/corps_uterin/04_45_02Léiomyome variantes et remaniements (2)/p23_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_45_02L%C3%A9iomyome%20variantes%20et%20remaniements%20%282%29/p23_00.jpeg)
 
 #### Remaniements œdémateux / hydropiques
 - Aspect **multinodulaire en sac de billes** possible.
@@ -166,7 +166,7 @@ Spectre avec deux extrêmes :
 - Travées musculaires lisses + vaisseaux flottent dans l’œdème.
 - ⚠️ **DD : léiomyome myxoïde** = bleu alcian **+**.
 
-![[assets/gyneco-sein/corps_uterin/04_45_02Léiomyome variantes et remaniements (2)/p25_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_45_02L%C3%A9iomyome%20variantes%20et%20remaniements%20%282%29/p25_00.jpeg)
 
 #### Remaniements hémorragiques
 
@@ -177,7 +177,7 @@ Spectre avec deux extrêmes :
 - Réaction de type **corps étranger** possible.
 - **Nécrose hyaline** du léiomyome.
 
-![[assets/gyneco-sein/corps_uterin/04_45_02Léiomyome variantes et remaniements (2)/p28_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/gyneco-sein/corps_uterin/04_45_02L%C3%A9iomyome%20variantes%20et%20remaniements%20%282%29/p28_00.jpeg)
 
 ### Traitements hormonaux
 

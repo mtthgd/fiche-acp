@@ -30,7 +30,7 @@ source: DES ACP - Cours d'urologie
 - **Glandes de Cowper** : face postérieure de l'apex prostatique
 - Rôle : production de liquide séminal (stockage du sperme avec vésicules séminales)
 
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p01_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p01_02.jpeg)
 
 ## Zonation de McNeal
 
@@ -41,10 +41,10 @@ source: DES ACP - Cours d'urologie
 | **Zone centrale (ZC)** | 10-20% | Entoure les canaux éjaculateurs | Glandes plus grandes cribriformes |
 | **Stroma fibromusculaire antérieur** | – | En avant de l'urètre | – |
 
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p03_00.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p04_00.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p04_01.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p04_02.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p03_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p04_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p04_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p04_02.png)
 
 ## Architecture histologique
 
@@ -53,11 +53,11 @@ source: DES ACP - Cours d'urologie
 - Périphérie : tissu adipeux extra-prostatique, **bandelettes neurovasculaires** postéro-latérales
 - Coupes-repère : au-dessus du verumontanum (stroma fibromusculaire antérieur + canaux éjaculateurs) ; à la base (urètre au centre, ZP en arrière, vésicules séminales)
 
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p05_00.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p06_00.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p06_01.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p07_00.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p07_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p05_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p06_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p06_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p07_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p07_01.jpeg)
 
 ## Glandes prostatiques : **double assise**
 
@@ -75,9 +75,9 @@ Critère histologique **fondamental** : deux couches cellulaires.
 ### Cellules neuroendocrines
 - Disséminées ; cytoplasme abondant éosinophile (type Paneth), surtout **ZC + verumontanum**
 
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p08_00.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p09_00.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p10_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p08_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p09_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p10_00.jpeg)
 
 ## Profil immunohistochimique
 
@@ -90,12 +90,12 @@ Critère histologique **fondamental** : deux couches cellulaires.
 | **CK5 / CK14 / CK903 / 34βE12** | − | **+** | − |
 | **Chromogranine A / Synaptophysine** | − | − | **+** |
 
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p11_00.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p11_01.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p11_02.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p12_00.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p13_00.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p14_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p11_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p11_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p11_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p12_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p13_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p14_00.jpeg)
 
 ## Stroma
 
@@ -103,8 +103,8 @@ Critère histologique **fondamental** : deux couches cellulaires.
 - Contient vaisseaux et éléments inflammatoires
 - **Hyperplasie musculaire lisse** possible (nodulaire ou non, HBP/atrophie)
 
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p15_00.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p15_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p15_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p15_01.jpeg)
 
 ## Contenu des lumières glandulaires
 
@@ -112,28 +112,28 @@ Critère histologique **fondamental** : deux couches cellulaires.
 - **Cristalloïdes** : concrétions rectangulaires/carrées éosinophiles
 - Concrétions éosinophiles + matériel amorphe → **ne pas confondre avec nécrose tumorale**
 
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p16_00.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p16_01.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p17_00.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p17_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p16_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p16_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p17_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p17_02.jpeg)
 
 ## Urètre prostatique et verumontanum
 
 - Canaux prostatiques proches de l'urètre : **épithélium urothélial** (parfois métaplasie malpighienne)
 - **Verumontanum (coliculus seminalis)** : abouchement des canaux éjaculateurs → glandes avec une seule assise de cellules à cytoplasme lipofuchsinique + sympexions (piège : ne pas confondre avec **adénocarcinome**)
 
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p18_00.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p19_00.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p20_00.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p20_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p18_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p19_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p20_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p20_01.jpeg)
 
 ## Apex et col vésical
 
 - Apex : **fibres musculaires striées** (sphincter strié)
 - Col + partie antérieure : **fibres du détrusor**
 
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p21_00.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p21_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p21_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p21_01.jpeg)
 
 ## Glandes de Cowper
 
@@ -143,9 +143,9 @@ Critère histologique **fondamental** : deux couches cellulaires.
 - Cellules myoépithéliales périphériques (actine muscle lisse+)
 - **PSA −**
 
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p22_00.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p22_01.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p22_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p22_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p22_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p22_02.jpeg)
 
 ## Zone capsulaire et bandelettes neurovasculaires
 
@@ -153,10 +153,10 @@ Critère histologique **fondamental** : deux couches cellulaires.
 - Peut contenir des filets nerveux + **cellules ganglionnaires**
 - **Bandelettes neurovasculaires** : postéro-latérales → préservation chirurgicale possible (passage intrafascial)
 
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p23_00.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p23_01.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p24_00.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p24_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p23_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p23_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p24_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p24_01.jpeg)
 
 ## Vésicules séminales et canaux éjaculateurs
 
@@ -166,21 +166,21 @@ Critère histologique **fondamental** : deux couches cellulaires.
 - Peuvent être **atteintes sur biopsies de base**
 - **Amyloïdose sénile** possible (rouge Congo+, biréfringence jaune-verte)
 
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p25_00.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p25_01.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p25_02.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p26_00.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p27_00.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p28_00.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p28_01.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p29_00.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p29_01.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p29_02.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p29_03.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p30_00.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p31_00.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p31_01.jpeg]]
-![[assets/urologie/prostate/05-311-Histologie normale de la prostate/p31_02.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p25_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p25_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p25_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p26_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p27_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p28_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p28_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p29_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p29_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p29_02.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p29_03.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p30_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p31_00.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p31_01.jpeg)
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/urologie/prostate/05-311-Histologie%20normale%20de%20la%20prostate/p31_02.jpeg)
 
 ---
 

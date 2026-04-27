@@ -47,13 +47,13 @@ Cours qui fait suite à la **numérisation des lames de FISH**. Aborde le **trai
 
 > Les images de FISH en couleur = **3 images en niveaux de gris superposées** affichées en **fausses couleurs** (bleu DAPI, rouge, vert).
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-670  Analyse automatisée des lames de FISH CF CL CCB/p01_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-670%20%20Analyse%20automatis%C3%A9e%20des%20lames%20de%20FISH%20CF%20CL%20CCB/p01_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-670  Analyse automatisée des lames de FISH CF CL CCB/p01_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-670%20%20Analyse%20automatis%C3%A9e%20des%20lames%20de%20FISH%20CF%20CL%20CCB/p01_01.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-670  Analyse automatisée des lames de FISH CF CL CCB/p02_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-670%20%20Analyse%20automatis%C3%A9e%20des%20lames%20de%20FISH%20CF%20CL%20CCB/p02_00.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-670  Analyse automatisée des lames de FISH CF CL CCB/p03_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-670%20%20Analyse%20automatis%C3%A9e%20des%20lames%20de%20FISH%20CF%20CL%20CCB/p03_00.jpeg)
 
 ## Workflow technique — étapes générales
 
@@ -69,11 +69,11 @@ Cours qui fait suite à la **numérisation des lames de FISH**. Aborde le **trai
 
 Séparation en 3 couches monochromatiques : **canal bleu** (DAPI noyau), **canal rouge** (CEP17), **canal vert** (HER2). Travail initial sur le **DAPI** pour la **segmentation nucléaire**.
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-670  Analyse automatisée des lames de FISH CF CL CCB/p04_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-670%20%20Analyse%20automatis%C3%A9e%20des%20lames%20de%20FISH%20CF%20CL%20CCB/p04_00.png)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-670  Analyse automatisée des lames de FISH CF CL CCB/p04_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-670%20%20Analyse%20automatis%C3%A9e%20des%20lames%20de%20FISH%20CF%20CL%20CCB/p04_01.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-670  Analyse automatisée des lames de FISH CF CL CCB/p06_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-670%20%20Analyse%20automatis%C3%A9e%20des%20lames%20de%20FISH%20CF%20CL%20CCB/p06_00.png)
 
 ### Étape 2 — Modification du contraste (contrast stretching)
 
@@ -84,12 +84,12 @@ Séparation en 3 couches monochromatiques : **canal bleu** (DAPI noyau), **canal
 | **Contrast stretching** | Étalement mathématique de l’histogramme sur toute la gamme tout en conservant les proportions |
 | Résultat | Noyaux désormais **bien visibles** |
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-670  Analyse automatisée des lames de FISH CF CL CCB/p07_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-670%20%20Analyse%20automatis%C3%A9e%20des%20lames%20de%20FISH%20CF%20CL%20CCB/p07_00.png)
 
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-670  Analyse automatisée des lames de FISH CF CL CCB/p08_01.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-670%20%20Analyse%20automatis%C3%A9e%20des%20lames%20de%20FISH%20CF%20CL%20CCB/p08_01.jpeg)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-670  Analyse automatisée des lames de FISH CF CL CCB/p09_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-670%20%20Analyse%20automatis%C3%A9e%20des%20lames%20de%20FISH%20CF%20CL%20CCB/p09_00.jpeg)
 
 ### Étape 3 — Application d’un flou (convolution gaussienne)
 
@@ -114,11 +114,11 @@ Répartition gaussienne des poids :
 
 > Une convolution permet aussi : **augmenter la netteté**, **détecter des contours**, etc.
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-670  Analyse automatisée des lames de FISH CF CL CCB/p10_00.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-670%20%20Analyse%20automatis%C3%A9e%20des%20lames%20de%20FISH%20CF%20CL%20CCB/p10_00.png)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-670  Analyse automatisée des lames de FISH CF CL CCB/p10_01.png]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-670%20%20Analyse%20automatis%C3%A9e%20des%20lames%20de%20FISH%20CF%20CL%20CCB/p10_01.png)
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-670  Analyse automatisée des lames de FISH CF CL CCB/p11_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-670%20%20Analyse%20automatis%C3%A9e%20des%20lames%20de%20FISH%20CF%20CL%20CCB/p11_00.jpeg)
 
 
 ### Étape 4 — Détection de contours (filtre de Sobel)
@@ -133,7 +133,7 @@ Répartition gaussienne des poids :
 
 > Outil **rudimentaire** mais résultat **satisfaisant** sur les noyaux suffisamment contrastés.
 
-![[assets/pathologie-moleculaire/methodes-etudes-adn/16-670  Analyse automatisée des lames de FISH CF CL CCB/p13_00.jpeg]]
+![](https://pub-09a67500e45345d4babec28739403570.r2.dev/pathologie-moleculaire/methodes-etudes-adn/16-670%20%20Analyse%20automatis%C3%A9e%20des%20lames%20de%20FISH%20CF%20CL%20CCB/p13_00.jpeg)
 
 
 
